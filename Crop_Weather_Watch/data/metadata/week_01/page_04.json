@@ -1,0 +1,228 @@
+{
+  "page": 4,
+  "width": 612.0,
+  "height": 792.0,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 4,
+      "bbox": [
+        83.63999938964844,
+        758.9324340820312,
+        543.1088256835938,
+        771.828857421875
+      ],
+      "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 4,
+      "bbox": [
+        310.08001708984375,
+        771.732421875,
+        315.0254211425781,
+        779.7131958007812
+      ],
+      "text": "4 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 4,
+      "bbox": [
+        218.40000915527344,
+        25.784780502319336,
+        409.2008361816406,
+        45.883243560791016
+      ],
+      "text": "Details of each Segment \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 4,
+      "bbox": [
+        65.76000213623047,
+        56.474517822265625,
+        175.82261657714844,
+        74.29513549804688
+      ],
+      "text": "1. RAINFALL \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 4,
+      "bbox": [
+        75.60000610351562,
+        77.4307861328125,
+        552.1890258789062,
+        105.79000091552734
+      ],
+      "text": " \n\uf0b7 During the week (30 Oct \u2013 05 Nov 2025), lower rainfall was observed, as compared to Long Period \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 4,
+      "bbox": [
+        92.63999938964844,
+        107.02703857421875,
+        552.3945922851562,
+        150.5797882080078
+      ],
+      "text": "Average (LPA) by 93%. Cumulative seasonal rainfall (01st Oct to 05 Nov 2025) is higher than LPA \nby 45%.  \n \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 4,
+      "bbox": [
+        72.47999572753906,
+        377.2525939941406,
+        525.4196166992188,
+        391.2605895996094
+      ],
+      "text": "  \n  \n \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 4,
+      "bbox": [
+        72.47999572753906,
+        474.8125915527344,
+        164.99429321289062,
+        503.62884521484375
+      ],
+      "text": "                   \nRainfall Forecast: \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 4,
+      "bbox": [
+        72.47999572753906,
+        504.667724609375,
+        73.66424560546875,
+        510.2952880859375
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 10,
+      "page": 4,
+      "bbox": [
+        85.19999694824219,
+        516.905029296875,
+        542.9373168945312,
+        531.4205322265625
+      ],
+      "text": "\uf0b7 Overall, below normal rainfall is likely over most parts of India during the week, except \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
+      "page": 4,
+      "bbox": [
+        65.76000213623047,
+        533.4925537109375,
+        488.04730224609375,
+        601.5751342773438
+      ],
+      "text": "extreme south Peninsular India, where the rainfall is likely to be near normal \n   \n    \n2. TEMPERATURE: MIN & MAX \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 12,
+      "page": 4,
+      "bbox": [
+        123.36000061035156,
+        604.1725463867188,
+        126.17964172363281,
+        618.1805419921875
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 13,
+      "page": 4,
+      "bbox": [
+        72.47999572753906,
+        619.346923828125,
+        134.8315887451172,
+        637.9088134765625
+      ],
+      "text": " \nTemerature \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 14,
+      "page": 4,
+      "bbox": [
+        72.47999572753906,
+        640.1620483398438,
+        74.11539459228516,
+        647.9334716796875
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 15,
+      "page": 4,
+      "bbox": [
+        72.47999572753906,
+        649.2071533203125,
+        235.06260681152344,
+        669.2288208007812
+      ],
+      "text": " \n \nWeek 1 (14 Nov\u2013 20 Nov 2025):  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 16,
+      "page": 4,
+      "bbox": [
+        72.47999572753906,
+        671.2924194335938,
+        553.60595703125,
+        692.7005615234375
+      ],
+      "text": " \n\uf0b7 No significant change in maximum temperatures likely over Northwest India during next \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 17,
+      "page": 4,
+      "bbox": [
+        89.39999389648438,
+        694.7725219726562,
+        553.6309814453125,
+        724.8605346679688
+      ],
+      "text": "24 hours; gradual fall by 2-4\u00b0C thereafter for subsequent 3 days and no large change \nthereafter.  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    }
+  ]
+}

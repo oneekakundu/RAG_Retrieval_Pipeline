@@ -1,0 +1,371 @@
+{
+  "page": 15,
+  "width": 612.0,
+  "height": 792.0,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 15,
+      "bbox": [
+        83.63999938964844,
+        758.9324340820312,
+        543.1088256835938,
+        771.828857421875
+      ],
+      "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 15,
+      "bbox": [
+        308.5199890136719,
+        771.732421875,
+        316.7362060546875,
+        779.7131958007812
+      ],
+      "text": "15 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 15,
+      "bbox": [
+        323.1600036621094,
+        25.794694900512695,
+        544.4918823242188,
+        49.16128921508789
+      ],
+      "text": "Tamil Nadu (25%), Uttarakhand (45%), etc has been \nharvested. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 15,
+      "bbox": [
+        77.76000213623047,
+        59.75469207763672,
+        547.8738403320312,
+        95.12128448486328
+      ],
+      "text": "d \nSmall \nmillets \n4.48 \n5.39 \n53.34 \nMadhya Pradesh (75%), Maharashtra (75%), \nChhattisgarh (55%), Uttarakhand (27%), etc has been \nharvested.\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 15,
+      "bbox": [
+        78.0,
+        131.75469970703125,
+        303.3361511230469,
+        143.2412872314453
+      ],
+      "text": "e \nMaize \n78.95 \n94.95 \n78.04 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 15,
+      "bbox": [
+        323.1600036621094,
+        96.11469268798828,
+        553.7869873046875,
+        179.00128173828125
+      ],
+      "text": "100% harvested in Madhya Pradesh & Rajasthan. \nAndhra Pradesh (60%), Bihar (75%), Chhattisgarh \n(83%), Gujarat (75%), Himachal Pradesh (25%), J&K \n(27%), \nJharkhand \n(38%), \nKarnataka \n(75%), \nMaharashtra (75%), Odisha (35%), Tamil Nadu \n(35%), Telangana (80%), Uttar Pradesh (75%), etc has \nbeen harvested.\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 15,
+      "bbox": [
+        77.76000213623047,
+        198.23471069335938,
+        303.3761901855469,
+        209.72129821777344
+      ],
+      "text": "4 \nOilseeds \n194.63 \n190.13 \n89.23 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 15,
+      "bbox": [
+        323.1600036621094,
+        180.35470581054688,
+        553.736083984375,
+        227.60130310058594
+      ],
+      "text": "Overall around 89.23% area of Oilseeds has been \nharvested majorly in  Groundnut (81.95%), Soybean \n(99.98%), Sunflower (55.29%), Sesame (81.44%), \nNiger (42.81%) & Castor (1.61%).\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 15,
+      "bbox": [
+        78.0,
+        246.834716796875,
+        303.3361511230469,
+        258.3212890625
+      ],
+      "text": "a \nGroundnut \n45.10 \n48.36 \n81.95 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 10,
+      "page": 15,
+      "bbox": [
+        323.1600036621094,
+        228.9547119140625,
+        553.7727661132812,
+        276.2012634277344
+      ],
+      "text": "100% harvested in Rajasthan Madhya Pradesh & \nTelangana. Gujarat (80%), Andhra Pradesh (70%), \nKarnataka (21%), Maharashtra (40%),  Tamil Nadu \n(75%), Uttar Pradeh (90%), etc has been harvested.\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
+      "page": 15,
+      "bbox": [
+        77.76000213623047,
+        294.9547119140625,
+        303.4102478027344,
+        306.4412841796875
+      ],
+      "text": "b \nSoybean \n127.19 \n120.45 \n99.98 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 12,
+      "page": 15,
+      "bbox": [
+        323.1600036621094,
+        277.07470703125,
+        553.7344360351562,
+        324.3212890625
+      ],
+      "text": "100% harvested in Madhya Pradesh, Maharashtra, \nRajasthan, \nKarnataka, \nTelangana, \nGujarat, \nChhattisgarh, Uttarakhand & Others. Uttar Pradesh \n(95%) has been harvested.\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 13,
+      "page": 15,
+      "bbox": [
+        78.0,
+        325.07470703125,
+        553.7666015625,
+        348.561279296875
+      ],
+      "text": "c \nSunflower \n1.29 \n0.71 \n55.29 \nKarnataka \n(60%), \nMaharashtra \n(15%), \nAndhra \nPradesh (90%), etc has already been harvested.\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 14,
+      "page": 15,
+      "bbox": [
+        77.76000213623047,
+        349.4346923828125,
+        553.7659301757812,
+        384.80126953125
+      ],
+      "text": "d \nSesamum \n10.32 \n10.51 \n81.44 \n100% harvested in Rajasthan, Karnataka & Gujarat. \nUttar Pradesh (95%), Madhya Pradesh (50%), etc has \nbeen harvested.\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 15,
+      "page": 15,
+      "bbox": [
+        78.0,
+        385.6746826171875,
+        552.8754272460938,
+        421.0412902832031
+      ],
+      "text": "e \nNiger \n1.08 \n1.04 \n42.81 \n100% harvested in Madhya Pradesh & Karnataka. \nChhattisgarh (5%), Odisha (30%), Maharashtra (15%), \netc has been harvested\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 16,
+      "page": 15,
+      "bbox": [
+        78.60000610351562,
+        421.794677734375,
+        540.6314086914062,
+        457.1612548828125
+      ],
+      "text": "f \nCastor \n9.65 \n8.98 \n1.61 \n100% harvested in Telangana & Karnataka. Andhra \nPradesh (26%), Tamil Nadu (29%), etc has been \nharvested\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 17,
+      "page": 15,
+      "bbox": [
+        77.76000213623047,
+        458.63470458984375,
+        328.3481750488281,
+        473.24127197265625
+      ],
+      "text": "5 \nSugarcane \n52.51 \n59.07 \n  \n  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 18,
+      "page": 15,
+      "bbox": [
+        77.76000213623047,
+        477.9546813964844,
+        455.4488830566406,
+        501.2012939453125
+      ],
+      "text": "6 \nJute & \nMesta \n6.60 \n5.56 \n100.00 \nHarvesting has been completed \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 19,
+      "page": 15,
+      "bbox": [
+        77.76000213623047,
+        502.6746826171875,
+        434.1476135253906,
+        517.28125
+      ],
+      "text": "7 \nCotton \n129.50 \n110.03 \n  \nHarvesting given as under \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 20,
+      "page": 15,
+      "bbox": [
+        99.60000610351562,
+        524.5147094726562,
+        328.3481750488281,
+        536.0012817382812
+      ],
+      "text": "Total \n1096.65 \n1121.45 \n50.73 \n  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 21,
+      "page": 15,
+      "bbox": [
+        150.60000610351562,
+        540.1146850585938,
+        475.1191101074219,
+        553.521240234375
+      ],
+      "text": "States \nHarvesting Status of Cotton  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 22,
+      "page": 15,
+      "bbox": [
+        95.27999877929688,
+        556.4346923828125,
+        553.80322265625,
+        591.6812744140625
+      ],
+      "text": "North Zone \n1st, 2nd & 3rd picking has been completed in Punjab & \nHaryana. In Rajasthan, 1st & 2nd picking has been completed \nand 90% of 3rd picking has been completed. \n(Punjab, Haryana and Rajasthan) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 23,
+      "page": 15,
+      "bbox": [
+        100.44000244140625,
+        592.5547485351562,
+        553.8285522460938,
+        627.9212646484375
+      ],
+      "text": "Central Zone \n1st & 2nd picking has been completed in Madhya Pradesh & \nGujarat. 30% of 1st picking in Maharashtra & 75% of 2nd \npicking has been completed. \n(Gujarat, Madhya Pradesh and \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 24,
+      "page": 15,
+      "bbox": [
+        136.0800018310547,
+        620.1547241210938,
+        191.3604278564453,
+        631.6412963867188
+      ],
+      "text": "Maharashtra)\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 25,
+      "page": 15,
+      "bbox": [
+        80.76000213623047,
+        632.6347045898438,
+        553.7808227539062,
+        659.7212524414062
+      ],
+      "text": "South Zone \n50% of 1st picking in Andhra Pradesh, 60% in Telangana, 40% \nin Karnataka and 10% in Tamil Nadu has been completed.  \n(Telangana, Andhra Pradesh, Karnataka \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 26,
+      "page": 15,
+      "bbox": [
+        128.39999389648438,
+        660.1146850585938,
+        199.13890075683594,
+        671.6012573242188
+      ],
+      "text": "and Tamil Nadu)\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 27,
+      "page": 15,
+      "bbox": [
+        125.75999450683594,
+        672.4747314453125,
+        543.4448852539062,
+        695.9613037109375
+      ],
+      "text": "Odisha & Others \n1st picking is completed in others. 10% of 1st picking has been \ncompleted in Odisha.  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 28,
+      "page": 15,
+      "bbox": [
+        551.2799682617188,
+        697.4708251953125,
+        554.099609375,
+        709.9561767578125
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+Weather Watch RAG Preprocessing Workflow
+======================================
+
+1. PDF Download
+- Fetch report metadata from the government site.
+- Download the associated PDFs into data/pdfs.
+
+2. Text Extraction
+- Parse each PDF page with PyMuPDF.
+- Save page-wise text to data/text/<week>/page_*.txt.
+
+3. Table Extraction
+- Extract tables with pdfplumber.
+- Save CSV and JSON representations to data/tables/<week>/.
+
+4. Image Extraction
+- Extract embedded images as JPEG files.
+- Save them to data/images/<week>/.
+
+5. Metadata Extraction
+- Record page dimensions, block layout, and coordinates.
+- Save metadata to data/metadata/<week>/.
+
+6. Linking Strategy
+- Link text blocks, tables, and images on each page into a sequential structure.
+- Preserve previous/next relationships and section headings.
+
+7. Merge
+- Merge page-level structures into a unified JSON document under data/merged/.
+
+8. Chunking
+- Build semantic chunks from grouped page elements.
+- Save chunk JSON files under data/chunks/.
+
+9. Embedding
+- Encode each chunk with a free sentence-transformer model.
+- Save embeddings under data/embeddings/.
+
+10. FAISS Storage
+- Build and save a FAISS index under data/faiss/.
+
+11. Retrieval
+- Query the FAISS index with a user prompt to retrieve the top-k matching chunks.
+
+Flow Diagram
+------------
+PDF -> Text -> Tables -> Images -> Metadata -> Link -> Merge -> Chunk -> Embedding -> FAISS -> Search

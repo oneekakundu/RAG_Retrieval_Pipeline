@@ -1,0 +1,436 @@
+{
+  "page": 14,
+  "width": 612.0,
+  "height": 792.0,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 14,
+      "bbox": [
+        83.63999938964844,
+        758.9324340820312,
+        543.1088256835938,
+        771.828857421875
+      ],
+      "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 14,
+      "bbox": [
+        308.5199890136719,
+        771.732421875,
+        316.7362060546875,
+        779.7131958007812
+      ],
+      "text": "14 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 14,
+      "bbox": [
+        483.1199951171875,
+        25.589874267578125,
+        553.9248046875,
+        38.98882293701172
+      ],
+      "text": "Annexure \u2013II \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 14,
+      "bbox": [
+        265.20001220703125,
+        46.67469024658203,
+        360.9495849609375,
+        58.161285400390625
+      ],
+      "text": "Government of India \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 14,
+      "bbox": [
+        214.67999267578125,
+        62.394691467285156,
+        411.3034362792969,
+        73.88128662109375
+      ],
+      "text": "Ministry of Agriculture & Farmers Welfare \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 14,
+      "bbox": [
+        207.24000549316406,
+        78.11469268798828,
+        418.7638854980469,
+        89.60128784179688
+      ],
+      "text": "Department of Agriculture & Farmers Welfare \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 14,
+      "bbox": [
+        127.55999755859375,
+        93.8346939086914,
+        498.32659912109375,
+        119.72128295898438
+      ],
+      "text": "Crops Division \nSOWING AND HARVESTING STATUS OF  KHARIF CROPS AS ON 14.11.2025 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 14,
+      "bbox": [
+        472.91998291015625,
+        122.63469696044922,
+        551.275146484375,
+        134.1212921142578
+      ],
+      "text": "(Area in lakh ha.)\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 14,
+      "bbox": [
+        72.72000122070312,
+        155.3946990966797,
+        138.50819396972656,
+        178.76129150390625
+      ],
+      "text": "S. \nNo.\nCrop \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 10,
+      "page": 14,
+      "bbox": [
+        161.27999877929688,
+        149.3946990966797,
+        197.97088623046875,
+        160.88128662109375
+      ],
+      "text": "Normal \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
+      "page": 14,
+      "bbox": [
+        164.75999450683594,
+        161.3946990966797,
+        194.38623046875,
+        184.76129150390625
+      ],
+      "text": "Area \n(DES) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 12,
+      "page": 14,
+      "bbox": [
+        209.63998413085938,
+        143.5146942138672,
+        254.296630859375,
+        166.88128662109375
+      ],
+      "text": " Area \nCoverage \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 13,
+      "page": 14,
+      "bbox": [
+        207.36001586914062,
+        167.2747039794922,
+        256.6474914550781,
+        190.76129150390625
+      ],
+      "text": "as on \n03.10.2025 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 14,
+      "page": 14,
+      "bbox": [
+        266.4000244140625,
+        155.3946990966797,
+        492.8213195800781,
+        178.76129150390625
+      ],
+      "text": "% Area \nHarvested  \nCrop condition/Remark \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 15,
+      "page": 14,
+      "bbox": [
+        77.76000213623047,
+        239.75469970703125,
+        303.3638000488281,
+        251.2412872314453
+      ],
+      "text": "1 \nRice \n403.09 \n441.58 \n38.00 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 16,
+      "page": 14,
+      "bbox": [
+        323.1600036621094,
+        198.11471557617188,
+        553.787109375,
+        293.00128173828125
+      ],
+      "text": "100% harvested in Rajasthan. Andhra Pradesh (15%), \nAssam (17%), Bihar (5%), Chhattisgarh (25%), \nGujarat \n(90%), \nHaryana \n(95%), \nJ&K \n(45%), \nJharkhand (30%), Karnataka (10%), Madhya Pradesh \n(25%), Maharashtra (40%), Nagaland (50%),  Odisha \n(25%), Punjab (95%), Tamil Nadu (55%), Telangana \n(36%), Uttar Pradesh (55%), Uttarakhand (93%), West \nBengal (5%), etc has already been harvested.\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 17,
+      "page": 14,
+      "bbox": [
+        77.76000213623047,
+        294.35467529296875,
+        553.7695922851562,
+        329.7212829589844
+      ],
+      "text": "2 \nPulses \n129.61 \n120.41 \n57.00 \nAround 53.00% area of Pulses has been harvested \nmainly in Urdbean (84%), Urdbean (98%)  & Kulthi \n(52%). \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 18,
+      "page": 14,
+      "bbox": [
+        78.0,
+        331.07470703125,
+        328.3481750488281,
+        345.80126953125
+      ],
+      "text": "a \nArhar \n44.71 \n46.60 \n  \n  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 19,
+      "page": 14,
+      "bbox": [
+        77.76000213623047,
+        367.6746826171875,
+        303.3311462402344,
+        379.1612548828125
+      ],
+      "text": "b \nUrdbean \n32.64 \n24.37 \n84.00 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 20,
+      "page": 14,
+      "bbox": [
+        323.1600036621094,
+        349.9147033691406,
+        553.7642822265625,
+        397.0412902832031
+      ],
+      "text": "100% harvested in Chhattisgarh, Karnataka, Gujarat, \nMaharashtra, Rajasthan & Uttarakhand. Assam (10%), \nMadhya Pradesh (75%), Tamil Nadu (55%), Uttar \nPradesh (80%),  etc. has already been harvested\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 21,
+      "page": 14,
+      "bbox": [
+        78.0,
+        421.794677734375,
+        303.3650817871094,
+        433.28125
+      ],
+      "text": "c \nMoongbean \n35.69 \n34.87 \n98.00 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 22,
+      "page": 14,
+      "bbox": [
+        323.1600036621094,
+        398.03466796875,
+        553.7794189453125,
+        457.1612548828125
+      ],
+      "text": "100% harvested in Chhattisgarh, Gujarat, Haryana, \nKarnataka, Maharashtra, Rajasthan & Telangana. \nJharkhand (95%), Madhya Pradesh (90%), Odisha \n(60%), Uttar Pradesh (90%), etc. has already been \nharvested\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 23,
+      "page": 14,
+      "bbox": [
+        77.76000213623047,
+        458.03466796875,
+        535.4933471679688,
+        495.9212646484375
+      ],
+      "text": "d \nKulthi \n1.72 \n0.72 \n52.00 \n100% harvested in Jharkhand & Uttarakhand, \nChhatisgarh (50%), etc has already been harvested.\ne \nMothbean \n9.70 \n9.24 \n100.00 \n100% harvested in Rajasthan and Gujarat. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 24,
+      "page": 14,
+      "bbox": [
+        78.60000610351562,
+        499.07470703125,
+        543.9169311523438,
+        534.3212890625
+      ],
+      "text": "f \nOther \npulses* \n5.15 \n4.62 \n89.00 \n100% harvested in Gujarat, Jharkhand, Maharashtra, \nRajasthan, Uttarakhand & Others. Odisha (75%) & \nTamil Nadu (50%) has been harvested.\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 25,
+      "page": 14,
+      "bbox": [
+        77.76000213623047,
+        553.5547485351562,
+        85.64600372314453,
+        565.0413208007812
+      ],
+      "text": "3 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 26,
+      "page": 14,
+      "bbox": [
+        98.52000427246094,
+        535.794677734375,
+        146.92010498046875,
+        582.9212646484375
+      ],
+      "text": "Shri Anna \ncum \nCoarse \ncereals \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 27,
+      "page": 14,
+      "bbox": [
+        164.16000366210938,
+        553.5547485351562,
+        303.4102478027344,
+        565.0413208007812
+      ],
+      "text": "180.71 \n194.67 \n80.55 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 28,
+      "page": 14,
+      "bbox": [
+        323.1600036621094,
+        535.794677734375,
+        553.7731323242188,
+        570.9212646484375
+      ],
+      "text": "Overall around 80.55% area has been harvested \nmainly in Jowar (84.58%), Bajra (93.85%), Ragi \n(31.42%) & Maize (78.04%).  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 29,
+      "page": 14,
+      "bbox": [
+        78.0,
+        608.03466796875,
+        303.3361511230469,
+        619.521240234375
+      ],
+      "text": "a \nJowar \n15.07 \n14.07 \n84.58 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 30,
+      "page": 14,
+      "bbox": [
+        323.1600036621094,
+        584.3947143554688,
+        553.7556762695312,
+        643.4013061523438
+      ],
+      "text": "100% harvested in Haryana, Madhya Pradesh and \nRajasthan. Bihar (55%), Gujarat (65%), Karnataka \n(55%), Maharashtra (65%), Tamil Nadu (51%), \nTelangana (50%), Uttar Pradesh (75%), etc has been \nharvested.\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 31,
+      "page": 14,
+      "bbox": [
+        77.76000213623047,
+        668.1547241210938,
+        303.3361511230469,
+        679.6412963867188
+      ],
+      "text": "b \nBajra** \n70.69 \n68.44 \n93.85 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 32,
+      "page": 14,
+      "bbox": [
+        323.1600036621094,
+        644.3947143554688,
+        553.7605590820312,
+        703.4013061523438
+      ],
+      "text": "100% hravested in Haryana, Madhya Pradesh and \nRajasthan. Andhra Pradesh (49%), Bihar (45%), \nGujarat (60%), Karnataka (90%), Maharashtra (95%), \nTamil Nadu (35%), Telangana (41%), Uttar Pradesh \n(75%), etc has been harvested.\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 33,
+      "page": 14,
+      "bbox": [
+        78.0,
+        704.3947143554688,
+        547.78466796875,
+        727.7612915039062
+      ],
+      "text": "c \nRagi \n11.52 \n11.81 \n31.42 \n100% harvested in Gujarat. Andhra Pradesh (21%), \nKarnataka (31%), Maharashtra (38%), Odisha (27%), \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "page": 13,
+  "width": 612.0,
+  "height": 792.0,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 13,
+      "bbox": [
+        83.63999938964844,
+        758.9324340820312,
+        543.1088256835938,
+        771.828857421875
+      ],
+      "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 13,
+      "bbox": [
+        308.5199890136719,
+        771.732421875,
+        316.7362060546875,
+        779.7131958007812
+      ],
+      "text": "13 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 13,
+      "bbox": [
+        72.47999572753906,
+        25.830791473388672,
+        75.29963684082031,
+        38.3161735534668
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 13,
+      "bbox": [
+        72.47999572753906,
+        43.95079040527344,
+        75.29963684082031,
+        56.43617248535156
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 13,
+      "bbox": [
+        72.47999572753906,
+        62.19078826904297,
+        75.29963684082031,
+        74.6761703491211
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 13,
+      "bbox": [
+        72.47999572753906,
+        80.19078826904297,
+        245.1045684814453,
+        92.6761703491211
+      ],
+      "text": "All India Retail Prices (Rs/Quintal) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 13,
+      "bbox": [
+        556.9199829101562,
+        577.9508056640625,
+        559.7396240234375,
+        590.4361572265625
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    }
+  ]
+}

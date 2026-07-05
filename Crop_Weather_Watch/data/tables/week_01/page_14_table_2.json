@@ -1,0 +1,90 @@
+[
+  {
+    "0":"",
+    "1":"All India Weekly Average Retail Prices",
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":null,
+    "8":""
+  },
+  {
+    "0":"",
+    "1":"Increasing Trend",
+    "2":null,
+    "3":"",
+    "4":"",
+    "5":"Decreasing Trend",
+    "6":null,
+    "7":null,
+    "8":""
+  },
+  {
+    "0":"Commodities",
+    "1":null,
+    "2":"% Variation over last\nWeek",
+    "3":"",
+    "4":"Commodities",
+    "5":"Commodities",
+    "6":"",
+    "7":"% Variation over last",
+    "8":""
+  },
+  {
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":"Week",
+    "8":null
+  },
+  {
+    "0":"",
+    "1":"Rice\nArhar\/Tur Dal\nGram\nMasur\nMoong\nUrad\nRagi\nSoyabean Oil\nOnion\nPotato\nTomato",
+    "2":"1.40\n1.41\n1.64\n1.97\n0.99\n0.84\n2.10\n0.31\n1.67\n0.44\n4.90",
+    "3":"",
+    "4":"Wheat\nJowar\nBajra\nMustard Oil",
+    "5":null,
+    "6":"-0.38\n-0.13\n-0.34\n-0.13",
+    "7":"-0.38",
+    "8":null
+  },
+  {
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":"-0.13",
+    "8":null
+  },
+  {
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":"-0.34",
+    "8":null
+  },
+  {
+    "0":null,
+    "1":null,
+    "2":null,
+    "3":null,
+    "4":null,
+    "5":null,
+    "6":null,
+    "7":"-0.13",
+    "8":null
+  }
+]

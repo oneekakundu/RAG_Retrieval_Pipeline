@@ -1,0 +1,150 @@
+{
+  "page": 5,
+  "width": 612.0,
+  "height": 792.0,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 5,
+      "bbox": [
+        83.63999938964844,
+        758.9324340820312,
+        543.1088256835938,
+        771.828857421875
+      ],
+      "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 5,
+      "bbox": [
+        310.08001708984375,
+        771.732421875,
+        315.0254211425781,
+        779.7131958007812
+      ],
+      "text": "5 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 5,
+      "bbox": [
+        72.47999572753906,
+        25.50503158569336,
+        553.6951904296875,
+        40.02055740356445
+      ],
+      "text": "\uf0b7 Rise by about 2-3\u00b0C in maximum temperatures likely over Central India during next 3 days \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 5,
+      "bbox": [
+        72.47999572753906,
+        42.092567443847656,
+        518.2555541992188,
+        72.78056335449219
+      ],
+      "text": "and no large change thereafter.  \n\uf0b7 No significant change in maximum temperatures likely over rest parts of the country. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 5,
+      "bbox": [
+        89.39999389648438,
+        74.85256958007812,
+        92.21963500976562,
+        88.86055755615234
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 5,
+      "bbox": [
+        72.47999572753906,
+        91.11746978759766,
+        237.95162963867188,
+        108.58882904052734
+      ],
+      "text": " \nWeek 2 (21 Nov \u2013 27 Nov 2025):  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 5,
+      "bbox": [
+        72.47999572753906,
+        110.50627136230469,
+        553.6675415039062,
+        133.26055908203125
+      ],
+      "text": " \n\uf0b7 Minimum temperatures are likely to be below normal 2-4\u00b0C over most parts of the country \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 5,
+      "bbox": [
+        72.47999572753906,
+        135.3325653076172,
+        553.7487182617188,
+        213.9005584716797
+      ],
+      "text": "except northeast India and Western Himalayan Region, where these are likely to be above \nnormal by 1-3\u00b0C during the week. \nCold wave conditions likely to occur at isolated pockets of north Rajasthan, Punjab & \nHaryana during some days of the week. \n \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 5,
+      "bbox": [
+        123.36000061035156,
+        407.4524230957031,
+        456.9488525390625,
+        431.5971984863281
+      ],
+      "text": " \n         \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 10,
+      "page": 5,
+      "bbox": [
+        72.47999572753906,
+        629.612548828125,
+        464.21966552734375,
+        685.9805908203125
+      ],
+      "text": " \n \n \n                 \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
+      "page": 5,
+      "bbox": [
+        72.47999572753906,
+        687.3754272460938,
+        140.16506958007812,
+        721.3561401367188
+      ],
+      "text": " \n      \n          \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    }
+  ]
+}

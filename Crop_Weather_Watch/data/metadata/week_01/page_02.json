@@ -1,0 +1,254 @@
+{
+  "page": 2,
+  "width": 612.0,
+  "height": 792.0,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 2,
+      "bbox": [
+        70.44000244140625,
+        758.9324340820312,
+        529.7888793945312,
+        771.828857421875
+      ],
+      "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 2,
+      "bbox": [
+        296.8800048828125,
+        771.732421875,
+        301.67388916015625,
+        779.7131958007812
+      ],
+      "text": "2 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 2,
+      "bbox": [
+        45.959999084472656,
+        33.412437438964844,
+        168.64593505859375,
+        56.37096405029297
+      ],
+      "text": "3.  Inputs Situation \n \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 2,
+      "bbox": [
+        79.80000305175781,
+        56.37256622314453,
+        549.6207885742188,
+        70.38055419921875
+      ],
+      "text": "a) Water Reservoir Status: As on 13 November 2025, the total live water storage in 161 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 2,
+      "bbox": [
+        96.72000122070312,
+        70.41256713867188,
+        549.5940551757812,
+        154.6205596923828
+      ],
+      "text": "important reservoirs across the country (monitored by CWC) is 163.824 billion cubic \nmeter, which is 89.8% of total live storage capacity (182.479 BCM). The current year's \nstorage is nearly 106.26 percent of last year's storage and 120.10 percent of the average \nstorage of the last ten years during the corresponding period. The overall storage position \nis better than the corresponding period of last year in the country as a whole and is also \nbetter than the Normal storage during the corresponding period.   \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 2,
+      "bbox": [
+        96.72000122070312,
+        162.13247680664062,
+        97.90425109863281,
+        168.01583862304688
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 2,
+      "bbox": [
+        79.80000305175781,
+        175.65255737304688,
+        549.5870361328125,
+        189.66055297851562
+      ],
+      "text": "b) Groundwater Levels: In August 2025, around 89% of the country's monitoring stations \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 2,
+      "bbox": [
+        96.72000122070312,
+        189.6925506591797,
+        549.5067749023438,
+        231.78054809570312
+      ],
+      "text": "exhibited a depth to water level within 10 meters below ground level. Deeper water levels \nof more than 20 m are observed in around 5% of stations of the country covering mainly \nthe western states, especially Western Rajasthan, Punjab, Haryana and Chandigarh.  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 2,
+      "bbox": [
+        79.80000305175781,
+        239.34503173828125,
+        553.737548828125,
+        253.8605499267578
+      ],
+      "text": "\uf0b7 The deeper groundwater level in the states like Western Rajasthan, Punjab, Haryana and \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 10,
+      "page": 2,
+      "bbox": [
+        96.72000122070312,
+        253.7725372314453,
+        553.8907470703125,
+        281.9405822753906
+      ],
+      "text": "Chandigarh during August 2025 has been significantly influenced by the over extraction of \ngroundwater compared to the recharge during the monsoon period.  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
+      "page": 2,
+      "bbox": [
+        79.80000305175781,
+        287.7050476074219,
+        549.5609130859375,
+        302.2205810546875
+      ],
+      "text": "\uf0b7 Annual water level comparison with the previous year August 2024 to August 2025 has \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 12,
+      "page": 2,
+      "bbox": [
+        96.72000122070312,
+        302.132568359375,
+        549.5447998046875,
+        344.2205810546875
+      ],
+      "text": "shown that about 56.5% of total analyzed stations of the country experienced rise in \nannual water level fluctuation because of the higher rainfall in 2025 compared to 2024 in \nMonsoon period.  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 13,
+      "page": 2,
+      "bbox": [
+        79.80000305175781,
+        351.905029296875,
+        549.4441528320312,
+        366.4205627441406
+      ],
+      "text": "\uf0b7 About 70% of the analyzed stations of the unconfined aquifer experienced a rise of water \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 14,
+      "page": 2,
+      "bbox": [
+        96.72000122070312,
+        366.33258056640625,
+        549.4808959960938,
+        394.38055419921875
+      ],
+      "text": "level in the decadal mean water level fluctuation of 2015-2024 with respect to August \n2025. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 15,
+      "page": 2,
+      "bbox": [
+        435.72003173828125,
+        569.4627685546875,
+        438.26898193359375,
+        583.2225952148438
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 16,
+      "page": 2,
+      "bbox": [
+        321.8399963378906,
+        587.8525390625,
+        324.6596374511719,
+        601.8605346679688
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 17,
+      "page": 2,
+      "bbox": [
+        79.80000305175781,
+        609.4525146484375,
+        553.8837890625,
+        623.4605102539062
+      ],
+      "text": "c) Seeds and Fertilizers: For Kharif 2025, certified seed availability is 178.64 lakh quintals \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 18,
+      "page": 2,
+      "bbox": [
+        96.72000122070312,
+        623.4925537109375,
+        553.7553100585938,
+        667.8447265625
+      ],
+      "text": "against a requirement of 164.05 lakh quintals, ensuring a surplus of 14.60 lakh quintals. \nThe fertilizer supply remains stable across all products. \n \n \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 19,
+      "page": 2,
+      "bbox": [
+        62.87999725341797,
+        675.4525146484375,
+        553.8504638671875,
+        754.0205078125
+      ],
+      "text": "4. Pests & Diseases: Intensity of pests and diseases at some fields has been reported to be above \nEconomic Threshold Level for Chilli (Bacterial leaf Black thrips) in Uttar Pradesh. The \nAdvisory has been issued by the survey team to the farms and regular monitoring is being \ncarried out. The overall intensity of pests and diseases remained below the Economic \nThreshold Level. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    }
+  ]
+}

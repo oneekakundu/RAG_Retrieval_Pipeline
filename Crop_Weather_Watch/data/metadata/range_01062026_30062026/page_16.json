@@ -1,0 +1,618 @@
+{
+  "page": 16,
+  "width": 612.0,
+  "height": 792.0,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 16,
+      "bbox": [
+        70.68000030517578,
+        25.830791473388672,
+        180.15159606933594,
+        38.3161735534668
+      ],
+      "text": "8.   PROCUREMENT \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 16,
+      "bbox": [
+        146.8800048828125,
+        45.51079177856445,
+        149.69964599609375,
+        57.99617385864258
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 16,
+      "bbox": [
+        79.08000183105469,
+        67.59078979492188,
+        527.2789916992188,
+        125.076171875
+      ],
+      "text": "Central Pool Stock (As on 01.06.2026): Actual stock of Rice was 396.32 LMT against Buffer \nnorm of 135.80 LMT.  Actual stock of wheat was 534.14 LMT against Buffer Norm of 74.60 \nLMT. Therefore, Actual stock of Rice & Wheat together was 930.46 LMT against buffer norm of \n210.40 LMT. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 16,
+      "bbox": [
+        96.12000274658203,
+        136.6670379638672,
+        554.0679931640625,
+        150.50357055664062
+      ],
+      "text": "o Buffer norm changes quarterly, above-mentioned norm is as on 1st April, it changes next \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 16,
+      "bbox": [
+        113.04000091552734,
+        151.5470428466797,
+        216.66143798828125,
+        164.43617248535156
+      ],
+      "text": "on 1st July and so on. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 16,
+      "bbox": [
+        185.39999389648438,
+        177.87078857421875,
+        472.2596435546875,
+        190.35617065429688
+      ],
+      "text": "All India Procurement of Paddy/Rice during KMS 2024-25 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 16,
+      "bbox": [
+        183.83999633789062,
+        205.35079956054688,
+        566.7003173828125,
+        217.836181640625
+      ],
+      "text": "                                                                           As on 18.06.2026 (Figures in LMT) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 16,
+      "bbox": [
+        86.76000213623047,
+        278.07080078125,
+        114.61807250976562,
+        290.55615234375
+      ],
+      "text": "Crop \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 16,
+      "bbox": [
+        146.04000854492188,
+        234.3907928466797,
+        212.1064453125,
+        259.836181640625
+      ],
+      "text": "Rice \nProcurement \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 10,
+      "page": 16,
+      "bbox": [
+        147.0,
+        260.310791015625,
+        210.95108032226562,
+        285.87615966796875
+      ],
+      "text": "Estimates \nduring KMS \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
+      "page": 16,
+      "bbox": [
+        158.75999450683594,
+        286.350830078125,
+        199.1711883544922,
+        298.836181640625
+      ],
+      "text": "2025-26 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 12,
+      "page": 16,
+      "bbox": [
+        139.0800018310547,
+        308.6707763671875,
+        218.94021606445312,
+        334.23614501953125
+      ],
+      "text": "(Estimates in \nterms of Paddy) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 13,
+      "page": 16,
+      "bbox": [
+        275.2799987792969,
+        234.3907928466797,
+        517.3781127929688,
+        246.8761749267578
+      ],
+      "text": "KMS 2025-26 \nKMS 2024-25 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 14,
+      "page": 16,
+      "bbox": [
+        228.24000549316406,
+        262.59075927734375,
+        291.0065002441406,
+        300.99615478515625
+      ],
+      "text": "Progressive \nPaddy \nprocurement  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 15,
+      "page": 16,
+      "bbox": [
+        306.4800109863281,
+        262.59075927734375,
+        386.74786376953125,
+        327.2761535644531
+      ],
+      "text": "Progressive \nprocurement in \nterms of Rice \n(Percentage of \ntarget achieved) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 16,
+      "page": 16,
+      "bbox": [
+        398.760009765625,
+        262.59075927734375,
+        474.2137451171875,
+        313.9561462402344
+      ],
+      "text": "Progressive \nCorresponding \npaddy \nProcurement \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 17,
+      "page": 16,
+      "bbox": [
+        486.5999755859375,
+        262.59075927734375,
+        562.3729248046875,
+        314.316162109375
+      ],
+      "text": "Progressive \nCorresponding \nProcurement  in \nterms of Rice \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 18,
+      "page": 16,
+      "bbox": [
+        84.47999572753906,
+        348.90277099609375,
+        195.8662567138672,
+        362.6626281738281
+      ],
+      "text": "Kharif \n485.95 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 19,
+      "page": 16,
+      "bbox": [
+        158.52000427246094,
+        367.5027770996094,
+        196.78579711914062,
+        381.26263427734375
+      ],
+      "text": "(722.99)\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 20,
+      "page": 16,
+      "bbox": [
+        246.48001098632812,
+        350.102783203125,
+        365.4756774902344,
+        372.02264404296875
+      ],
+      "text": "714.36 \n480.17 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 21,
+      "page": 16,
+      "bbox": [
+        330.5999755859375,
+        358.2627868652344,
+        543.6875610351562,
+        379.9088439941406
+      ],
+      "text": "(98.81%) \n686.16 \n460.88 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 22,
+      "page": 16,
+      "bbox": [
+        88.55999755859375,
+        386.4307861328125,
+        193.0298614501953,
+        400.2226257324219
+      ],
+      "text": "Rabi \n81.57 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 23,
+      "page": 16,
+      "bbox": [
+        158.52000427246094,
+        404.8227844238281,
+        199.33729553222656,
+        418.5826416015625
+      ],
+      "text": "(121.11) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 24,
+      "page": 16,
+      "bbox": [
+        246.48001098632812,
+        386.4627685546875,
+        362.8645935058594,
+        409.462646484375
+      ],
+      "text": "104.43 \n70.25 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 25,
+      "page": 16,
+      "bbox": [
+        327.1199951171875,
+        404.8227844238281,
+        370.34149169921875,
+        418.5826416015625
+      ],
+      "text": "(86.12%) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 26,
+      "page": 16,
+      "bbox": [
+        424.67999267578125,
+        395.7027893066406,
+        540.7659912109375,
+        409.462646484375
+      ],
+      "text": "91.87 \n61.77 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 27,
+      "page": 16,
+      "bbox": [
+        79.91999816894531,
+        423.87078857421875,
+        121.32185363769531,
+        436.35614013671875
+      ],
+      "text": "Kharif + \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 28,
+      "page": 16,
+      "bbox": [
+        88.55999755859375,
+        436.830810546875,
+        112.26031494140625,
+        449.316162109375
+      ],
+      "text": "Rabi \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 29,
+      "page": 16,
+      "bbox": [
+        161.8800048828125,
+        423.9028015136719,
+        195.8662567138672,
+        437.66265869140625
+      ],
+      "text": "567.52 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 30,
+      "page": 16,
+      "bbox": [
+        158.52000427246094,
+        442.3827819824219,
+        199.33729553222656,
+        456.14263916015625
+      ],
+      "text": "(844.10) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 31,
+      "page": 16,
+      "bbox": [
+        246.48001098632812,
+        423.9028015136719,
+        365.4756774902344,
+        446.90264892578125
+      ],
+      "text": "818.79 \n550.42 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 32,
+      "page": 16,
+      "bbox": [
+        328.44000244140625,
+        442.3827819824219,
+        368.76605224609375,
+        456.14263916015625
+      ],
+      "text": "(96.99%) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 33,
+      "page": 16,
+      "bbox": [
+        421.8000183105469,
+        433.1427917480469,
+        543.6875610351562,
+        446.90264892578125
+      ],
+      "text": "778.03 \n522.64 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 34,
+      "page": 16,
+      "bbox": [
+        79.08000183105469,
+        461.55078125,
+        177.41964721679688,
+        474.0361328125
+      ],
+      "text": " (Source: FCI Portal)   \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 35,
+      "page": 16,
+      "bbox": [
+        551.2799682617188,
+        484.5908203125,
+        554.099609375,
+        497.076171875
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 36,
+      "page": 16,
+      "bbox": [
+        143.04000854492188,
+        514.830810546875,
+        486.37298583984375,
+        527.316162109375
+      ],
+      "text": "All India Procurement of Wheat during RMS 2025-26 & RMS 2024-25 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 37,
+      "page": 16,
+      "bbox": [
+        376.55999755859375,
+        538.7108154296875,
+        550.2603149414062,
+        551.1961669921875
+      ],
+      "text": "As on 18.06.2026  (Figures in LMT) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 38,
+      "page": 16,
+      "bbox": [
+        79.08000183105469,
+        567.6307983398438,
+        229.89044189453125,
+        595.1161499023438
+      ],
+      "text": "Wheat Procurement Estimates \nduring RMS 2026-27 ( LMTs)\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 39,
+      "page": 16,
+      "bbox": [
+        238.9199981689453,
+        567.6307983398438,
+        368.4223937988281,
+        594.9961547851562
+      ],
+      "text": "Progressive Wheat \nProcurement during RMS \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 40,
+      "page": 16,
+      "bbox": [
+        283.55999755859375,
+        597.5108032226562,
+        323.97119140625,
+        609.9961547851562
+      ],
+      "text": "2026-27 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 41,
+      "page": 16,
+      "bbox": [
+        381.4800109863281,
+        567.6307983398438,
+        550.6491088867188,
+        580.1161499023438
+      ],
+      "text": "Progressive Corresponding Wheat \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 42,
+      "page": 16,
+      "bbox": [
+        386.760009765625,
+        582.5108032226562,
+        542.5700073242188,
+        594.9961547851562
+      ],
+      "text": "Procurement during RMS 2025-\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 43,
+      "page": 16,
+      "bbox": [
+        459.0,
+        597.5108032226562,
+        473.21099853515625,
+        609.9961547851562
+      ],
+      "text": "26 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 44,
+      "page": 16,
+      "bbox": [
+        135.72000122070312,
+        626.6708374023438,
+        482.7616882324219,
+        639.1561889648438
+      ],
+      "text": "355.39 \n357.25 \n299.48 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 45,
+      "page": 16,
+      "bbox": [
+        79.08000183105469,
+        655.7108154296875,
+        177.41964721679688,
+        668.1961669921875
+      ],
+      "text": " (Source: FCI Portal)   \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 46,
+      "page": 16,
+      "bbox": [
+        253.0800018310547,
+        678.7508544921875,
+        380.0766296386719,
+        691.2362060546875
+      ],
+      "text": "********************** \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 47,
+      "page": 16,
+      "bbox": [
+        58.727027893066406,
+        93.19601440429688,
+        560.0621948242188,
+        636.7222900390625
+      ],
+      "text": "10.21.40.32\n30-JUN-2026 10:55 AM\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    }
+  ]
+}

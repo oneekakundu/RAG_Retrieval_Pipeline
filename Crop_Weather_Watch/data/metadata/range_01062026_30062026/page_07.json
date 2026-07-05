@@ -1,0 +1,98 @@
+{
+  "page": 7,
+  "width": 612.0,
+  "height": 792.0,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 7,
+      "bbox": [
+        72.47999572753906,
+        25.830791473388672,
+        75.29963684082031,
+        53.31616973876953
+      ],
+      "text": " \n \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 7,
+      "bbox": [
+        85.19999694824219,
+        55.385032653808594,
+        553.6644897460938,
+        69.19001007080078
+      ],
+      "text": "\uf0b7 Conditions are favourable for further advance of southwest monsoon into more parts of \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 7,
+      "bbox": [
+        102.24000549316406,
+        71.4307861328125,
+        553.6029663085938,
+        98.91616821289062
+      ],
+      "text": "Maharashtra, remaining parts of Karnataka, Telangana, Andhra Pradesh, West Bengal, some more \nparts of Odisha, Jharkhand, Bihar and some parts of South Chhattisgarh during next 4-5 days. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 7,
+      "bbox": [
+        102.24000549316406,
+        106.11079406738281,
+        105.05964660644531,
+        118.59617614746094
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 7,
+      "bbox": [
+        471.239990234375,
+        432.03082275390625,
+        474.05963134765625,
+        444.51617431640625
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 7,
+      "bbox": [
+        119.16000366210938,
+        449.1907958984375,
+        121.97964477539062,
+        461.6761474609375
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 7,
+      "bbox": [
+        140.27999877929688,
+        470.790771484375,
+        143.09963989257812,
+        483.2761535644531
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    }
+  ]
+}

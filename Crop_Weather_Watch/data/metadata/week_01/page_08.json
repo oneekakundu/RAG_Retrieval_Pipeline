@@ -1,0 +1,267 @@
+{
+  "page": 8,
+  "width": 612.0,
+  "height": 792.0,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 8,
+      "bbox": [
+        83.63999938964844,
+        758.9324340820312,
+        543.1088256835938,
+        771.828857421875
+      ],
+      "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 8,
+      "bbox": [
+        310.08001708984375,
+        771.732421875,
+        315.0254211425781,
+        779.7131958007812
+      ],
+      "text": "8 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 8,
+      "bbox": [
+        65.76000213623047,
+        25.830791473388672,
+        527.39599609375,
+        57.60011291503906
+      ],
+      "text": " \n5. REMOTE SENSING BASED SOIL MOISTURE OBSERVATION \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 8,
+      "bbox": [
+        72.47999572753906,
+        66.17144012451172,
+        74.11539459228516,
+        73.4129867553711
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 8,
+      "bbox": [
+        72.47999572753906,
+        76.73143768310547,
+        74.11539459228516,
+        83.97298431396484
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 8,
+      "bbox": [
+        72.47999572753906,
+        87.29144287109375,
+        212.50393676757812,
+        111.22882843017578
+      ],
+      "text": " \nSoil Moisture Observation \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 8,
+      "bbox": [
+        74.39999389648438,
+        109.5325698852539,
+        553.6019897460938,
+        137.22056579589844
+      ],
+      "text": "  \n\uf0b7 \nSoil moisture during 03 Nov \u2013 09 Nov is similar/better than the average of the past 9 years \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 8,
+      "bbox": [
+        91.31999969482422,
+        142.89256286621094,
+        553.6340942382812,
+        156.9005584716797
+      ],
+      "text": "in major parts of M.P, Rajasthan, Uttar Pradesh, Chhattisgarh, Gujarat, Jharkhand, Odisha, \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 8,
+      "bbox": [
+        91.31999969482422,
+        162.4525604248047,
+        548.3883666992188,
+        176.46055603027344
+      ],
+      "text": "Haryana, Punjab, Karnataka, Kerala, Tamil Nadu, Maharashtra, Telangana, A.P. and Bihar. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 10,
+      "page": 8,
+      "bbox": [
+        91.31999969482422,
+        182.01255798339844,
+        94.13964080810547,
+        196.0205535888672
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
+      "page": 8,
+      "bbox": [
+        74.39999389648438,
+        201.57257080078125,
+        553.6126708984375,
+        215.58056640625
+      ],
+      "text": "\uf0b7 \nIt was lower than average of past 9 years in pockets of eastern part of U.P and in pockets of \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 12,
+      "page": 8,
+      "bbox": [
+        91.31999969482422,
+        221.13255310058594,
+        130.93951416015625,
+        235.1405487060547
+      ],
+      "text": "Assam. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 13,
+      "page": 8,
+      "bbox": [
+        106.31999206542969,
+        240.8125457763672,
+        109.13963317871094,
+        254.82054138183594
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 14,
+      "page": 8,
+      "bbox": [
+        91.31999969482422,
+        261.81256103515625,
+        94.13964080810547,
+        275.820556640625
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 15,
+      "page": 8,
+      "bbox": [
+        89.39999389648438,
+        535.892578125,
+        537.899658203125,
+        566.1005249023438
+      ],
+      "text": " \n \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 16,
+      "page": 8,
+      "bbox": [
+        72.47999572753906,
+        571.7725219726562,
+        75.29963684082031,
+        585.780517578125
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 17,
+      "page": 8,
+      "bbox": [
+        53.279998779296875,
+        591.6154174804688,
+        54.689823150634766,
+        597.8580932617188
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 18,
+      "page": 8,
+      "bbox": [
+        72.47999572753906,
+        601.6746826171875,
+        274.27374267578125,
+        636.2401123046875
+      ],
+      "text": " \n6.   FERTILIZER POSITION: \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 19,
+      "page": 8,
+      "bbox": [
+        91.31999969482422,
+        644.9725952148438,
+        553.7559204101562,
+        723.54052734375
+      ],
+      "text": " \nAvailability of fertilizer has been found comfortable. Details of Requirement, Receipt, \nAvailability, Sales and Stock position of Major Fertilizers (Urea, DAP, MOP, Complex and \nSSP) during Rabi 2025-26 as on 14.11.2025 is given below: \n \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 20,
+      "page": 8,
+      "bbox": [
+        91.31999969482422,
+        725.679443359375,
+        93.43473815917969,
+        736.1854858398438
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    }
+  ]
+}

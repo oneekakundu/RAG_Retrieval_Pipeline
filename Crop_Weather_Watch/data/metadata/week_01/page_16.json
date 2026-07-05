@@ -1,0 +1,462 @@
+{
+  "page": 16,
+  "width": 612.0,
+  "height": 792.0,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 16,
+      "bbox": [
+        83.63999938964844,
+        758.9324340820312,
+        543.1088256835938,
+        771.828857421875
+      ],
+      "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 16,
+      "bbox": [
+        308.5199890136719,
+        771.732421875,
+        316.7362060546875,
+        779.7131958007812
+      ],
+      "text": "16 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 16,
+      "bbox": [
+        99.36000061035156,
+        25.830791473388672,
+        132.82740783691406,
+        38.3161735534668
+      ],
+      "text": "millets \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 16,
+      "bbox": [
+        78.23999786376953,
+        54.51078796386719,
+        361.74798583984375,
+        66.99617004394531
+      ],
+      "text": "e \nMaize \n78.95 \n97.05 \n94.95 \n100.00 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 16,
+      "bbox": [
+        77.87999725341797,
+        77.9107894897461,
+        553.9916381835938,
+        100.11618041992188
+      ],
+      "text": "4 \nOilseeds \n194.63 \n191.10 \n190.13 \n99.50 \nHarvesting completed in all oilseeds \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 16,
+      "bbox": [
+        378.4800109863281,
+        97.35078430175781,
+        476.94976806640625,
+        109.83616638183594
+      ],
+      "text": "except Castor (99%). \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 16,
+      "bbox": [
+        78.23999786376953,
+        117.75078582763672,
+        361.74798583984375,
+        130.2361602783203
+      ],
+      "text": "a \nGroundnut \n45.10 \n47.21 \n48.36 \n100.00 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 16,
+      "bbox": [
+        378.4800109863281,
+        160.3507843017578,
+        528.2261962890625,
+        172.83616638183594
+      ],
+      "text": "Harvesting has been completed.  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 16,
+      "bbox": [
+        77.87999725341797,
+        139.95079040527344,
+        361.6875915527344,
+        152.43617248535156
+      ],
+      "text": "b \nSoybean \n127.19 \n123.53 \n120.45 \n100.00 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 10,
+      "page": 16,
+      "bbox": [
+        78.23999786376953,
+        162.03079223632812,
+        361.8011474609375,
+        174.51617431640625
+      ],
+      "text": "c \nSunflower \n1.29 \n0.69 \n0.71 \n100.00 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
+      "page": 16,
+      "bbox": [
+        77.87999725341797,
+        182.43080139160156,
+        361.8011169433594,
+        194.9161834716797
+      ],
+      "text": "d \nSesamum \n10.32 \n9.69 \n10.51 \n100.00 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 12,
+      "page": 16,
+      "bbox": [
+        78.23999786376953,
+        202.71078491210938,
+        361.8011474609375,
+        215.1961669921875
+      ],
+      "text": "e \nNiger \n1.08 \n1.07 \n1.04 \n100.00 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 13,
+      "page": 16,
+      "bbox": [
+        78.95999908447266,
+        222.9907989501953,
+        523.8290405273438,
+        245.1961669921875
+      ],
+      "text": "f \nCastor \n9.65 \n8.90 \n8.98 \n99.00 \n100% harvested in all the states \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 14,
+      "page": 16,
+      "bbox": [
+        378.4800109863281,
+        242.43080139160156,
+        450.2889404296875,
+        254.9161834716797
+      ],
+      "text": "except Gujarat. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 15,
+      "page": 16,
+      "bbox": [
+        77.87999725341797,
+        272.07080078125,
+        86.33892822265625,
+        284.55615234375
+      ],
+      "text": "g \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 16,
+      "page": 16,
+      "bbox": [
+        99.36000061035156,
+        262.350830078125,
+        127.85932922363281,
+        274.836181640625
+      ],
+      "text": "Other \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 17,
+      "page": 16,
+      "bbox": [
+        99.36000061035156,
+        281.790771484375,
+        140.96847534179688,
+        294.2761535644531
+      ],
+      "text": "Oilseeds \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 18,
+      "page": 16,
+      "bbox": [
+        172.0800018310547,
+        262.350830078125,
+        384.2320861816406,
+        284.55615234375
+      ],
+      "text": "0.00 \n  \n0.08 \n100.00 \n  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 19,
+      "page": 16,
+      "bbox": [
+        77.87999725341797,
+        302.310791015625,
+        525.9978637695312,
+        324.51617431640625
+      ],
+      "text": "5 \nSugarcane \n52.51 \n56.93 \n59.07 \n72.94 \nHarvesting is going on in all the \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 20,
+      "page": 16,
+      "bbox": [
+        378.4800109863281,
+        321.87078857421875,
+        409.17657470703125,
+        334.35614013671875
+      ],
+      "text": "states. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 21,
+      "page": 16,
+      "bbox": [
+        77.87999725341797,
+        342.15081787109375,
+        135.10360717773438,
+        364.4761657714844
+      ],
+      "text": "6 \nJute & \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 22,
+      "page": 16,
+      "bbox": [
+        99.36000061035156,
+        361.7108154296875,
+        131.61517333984375,
+        374.1961669921875
+      ],
+      "text": "Mesta \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 23,
+      "page": 16,
+      "bbox": [
+        172.0800018310547,
+        342.15081787109375,
+        522.5869140625,
+        364.4761657714844
+      ],
+      "text": "6.60 \n5.46 \n5.56 \n100.00 \nHarvesting has been completed \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 24,
+      "page": 16,
+      "bbox": [
+        77.87999725341797,
+        382.23077392578125,
+        499.48236083984375,
+        397.5961608886719
+      ],
+      "text": "7 \nCotton \n129.50 \n110.86 \n110.03 \n  \nHarvesting given as under \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 25,
+      "page": 16,
+      "bbox": [
+        99.95999908447266,
+        410.4307861328125,
+        384.2320861816406,
+        422.9161682128906
+      ],
+      "text": "Total \n1096.65\n1106.50\n1121.45 \n99.00 \n  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 26,
+      "page": 16,
+      "bbox": [
+        176.04000854492188,
+        432.75079345703125,
+        507.8332214355469,
+        447.51617431640625
+      ],
+      "text": "States \nHarvesting Status of Cotton  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 27,
+      "page": 16,
+      "bbox": [
+        162.36000061035156,
+        457.23077392578125,
+        474.5204772949219,
+        474.15618896484375
+      ],
+      "text": "North Zone \nHarvesting has been completed. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 28,
+      "page": 16,
+      "bbox": [
+        115.79999542236328,
+        484.350830078125,
+        267.7152404785156,
+        496.836181640625
+      ],
+      "text": "(Punjab, Haryana and Rajasthan) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 29,
+      "page": 16,
+      "bbox": [
+        158.27999877929688,
+        506.91082763671875,
+        474.5204772949219,
+        519.8761596679688
+      ],
+      "text": "Central Zone \nHarvesting has been completed. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 30,
+      "page": 16,
+      "bbox": [
+        89.76000213623047,
+        530.4307861328125,
+        293.6379699707031,
+        542.9161376953125
+      ],
+      "text": "(Gujarat, Madhya Pradesh and Maharashtra) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 31,
+      "page": 16,
+      "bbox": [
+        162.60000610351562,
+        552.9907836914062,
+        434.13818359375,
+        565.4761352539062
+      ],
+      "text": "South Zone \n3rd picking is going on. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 32,
+      "page": 16,
+      "bbox": [
+        75.36000061035156,
+        574.11083984375,
+        308.03076171875,
+        586.59619140625
+      ],
+      "text": "(Telangana, Andhra Pradesh, Karnataka and Tamil \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 33,
+      "page": 16,
+      "bbox": [
+        176.27999877929688,
+        593.4307861328125,
+        207.43331909179688,
+        605.9161376953125
+      ],
+      "text": "Nadu) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 34,
+      "page": 16,
+      "bbox": [
+        148.9199981689453,
+        620.310791015625,
+        434.1400451660156,
+        632.796142578125
+      ],
+      "text": "Odisha & Others \n3rd picking is going on. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 35,
+      "page": 16,
+      "bbox": [
+        311.760009765625,
+        647.279541015625,
+        314.100341796875,
+        658.4006958007812
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    }
+  ]
+}

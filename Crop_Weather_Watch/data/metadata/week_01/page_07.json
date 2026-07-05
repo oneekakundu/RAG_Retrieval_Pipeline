@@ -1,0 +1,163 @@
+{
+  "page": 7,
+  "width": 612.0,
+  "height": 792.0,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 7,
+      "bbox": [
+        83.63999938964844,
+        758.9324340820312,
+        543.1088256835938,
+        771.828857421875
+      ],
+      "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 7,
+      "bbox": [
+        310.08001708984375,
+        771.732421875,
+        315.0254211425781,
+        779.7131958007812
+      ],
+      "text": "7 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 7,
+      "bbox": [
+        65.76000213623047,
+        28.07469367980957,
+        548.2755126953125,
+        127.69513702392578
+      ],
+      "text": "  \nTotal Crops \n637.81 \n208.19 \n188.73 \n19.46 \nNote: *Average of 2022-23 to 2024-25, $ average (2016-17 to 2020-21) as per DES, #Average of (2018-19 to \n2022-23) as per CWWG report. \n \n \n4. RESERVOIR STORAGE (as on 13th November, 2025) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 7,
+      "bbox": [
+        81.0,
+        143.6698760986328,
+        554.099609375,
+        247.8605499267578
+      ],
+      "text": " \nCurrent live storage in 161 reservoirs was 163.824 BCM (89.8%) of total live capacity of \n182.479 BCM. \n \n\uf0b7 156 reservoirs having storage more than 80% of normal storage. \n\uf0b7 04 reservoirs having storage 51% to 80%. \n\uf0b7 01 reservoirs having storage upto 50%. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 7,
+      "bbox": [
+        63.959999084472656,
+        250.2298583984375,
+        553.8004760742188,
+        295.7405700683594
+      ],
+      "text": "Table 1: For 161 major reservoirs of the country \n \n \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 7,
+      "bbox": [
+        63.959999084472656,
+        462.4525451660156,
+        299.93963623046875,
+        489.4205627441406
+      ],
+      "text": " \n \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 7,
+      "bbox": [
+        63.959999084472656,
+        656.8525390625,
+        300.6596374511719,
+        683.820556640625
+      ],
+      "text": " \n \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 7,
+      "bbox": [
+        63.959999084472656,
+        685.6525268554688,
+        138.2996368408203,
+        730.9805908203125
+      ],
+      "text": "Source: CWC \n \n \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 7,
+      "bbox": [
+        327.3600158691406,
+        271.7098693847656,
+        421.2726745605469,
+        312.3488464355469
+      ],
+      "text": "Period \nStorage \nas % of \nFRL \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 10,
+      "page": 7,
+      "bbox": [
+        431.5199890136719,
+        271.7098693847656,
+        473.13787841796875,
+        326.0288391113281
+      ],
+      "text": "Storage \nas % of \nLast \nYear \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
+      "page": 7,
+      "bbox": [
+        326.0400085449219,
+        271.7098693847656,
+        551.3191528320312,
+        353.74884033203125
+      ],
+      "text": "Storage as % \nof 10 Year\u2019s \nAverage \nLevel \nCurrent \nWeek \n89.8 \n106 \n120 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 12,
+      "page": 7,
+      "bbox": [
+        326.0400085449219,
+        354.5098571777344,
+        528.4628295898438,
+        381.4688415527344
+      ],
+      "text": "Last \nWeek \n90.6 \n106 \n119 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    }
+  ]
+}

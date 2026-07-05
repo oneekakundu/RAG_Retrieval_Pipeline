@@ -1,0 +1,291 @@
+[
+  {
+    "chunk_id": "week_01_page_01",
+    "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n1 \n \n(as on 17.11.2025) \n  Key Insights                \n1. Rabi Sowing Status: As on November 14, 2025, the area sown under Rabi crops is 208.19 lakh \nha (including 64.23 lakh ha in Rapeseed & Mustard & 37.43 lakh ha in Gram) as compared to \n188.73 lakh ha during the corresponding period of last year.  \n\uf0b7 As on 14.11.2025, 50.73% of area has been harvested for Kharif crops all over India. \nApproximately, 57% area of Pulses mainly in Uradbean (84%), Moongbean (98%) & Mothbean \n(100%); 89.23% area of Oilseeds majorly in Groundnut (81.95%),  Soyabean (99.98%)& \nSesamum (81.44%); 80.55% area of Shri Anna cum Coarse Cereals, majorly in Jowar (84.58%)  \n& Bajra (93.85%) and 38% area of Rice has been harvested for crops of Kharif 2025-26.     \n \n2. Weather Update:  \na) Temperature: Minimum temperature is likely to be below normal in most of India except in \nsome parts of NE India and J&K. No large change in minimum temperature likely over \nnorthwest, central &amp; east India during the week. \nb) Rainfall Distribution: From October 01\u2013 November 16 2025, the All-India cumulative \nrainfall is 30% higher than its Long Period Average (LPA), with regional variations: (i) \nEast & Northeast India: 13%; (ii) Northwest India: 111%; (iii) Central India: 56%; and \nSouth Peninsula: 8%. \n\uf0b7 A low pressure area has formed over Southwest Bay of Bengal off Sri Lanka coast. Under \nits influence, heavy to very heavy rainfall Tamil Nadu during 18th -22nd, Kerala & Mahe \nduring 16th- 20th; over Coastal Andhra Pradesh & Yanam, Rayalseema on 17th & 18th and \nAndaman & Nicobar Islands during 18th -21st November \n\uf0b7 Light to moderate rainfall/thunderstorm at most/many places with isolated heavy rainfall \nvery likely over Tamil Nadu during 18th -22nd, Kerala & Mahe during 17th  - 20th; over \nCoastal Andhra Pradesh & Yanam, Rayalseema on 17th & 18th and Andaman & Nicobar \nIslands during 18th -21st November; with isolated very Heavy rainfall over Tamil Nadu on \n17th November.  \n\uf0b7 Overall rainfall activity is likely to below normal over all the homogenous regions of India. \n\uf0b7 No significant change in minimum temperature likely over plains of northwest India, \ncentral, east and north Peninsular India during next three days and slight rise likely \nthereafter.\n[IMAGE page_01_img_1]",
+    "linked_tables": [
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\week_01\\page_01_table_1.csv"
+    ],
+    "linked_images": [
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\week_01\\page_01_img_1.jpg"
+    ],
+    "metadata": {
+      "page_numbers": [
+        1
+      ],
+      "headings": [],
+      "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf"
+    },
+    "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf",
+    "previous_chunk": null,
+    "next_chunk": null
+  },
+  {
+    "chunk_id": "week_01_page_02",
+    "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n2 \n3.  Inputs Situation \n \na) Water Reservoir Status: As on 13 November 2025, the total live water storage in 161 \nimportant reservoirs across the country (monitored by CWC) is 163.824 billion cubic \nmeter, which is 89.8% of total live storage capacity (182.479 BCM). The current year's \nstorage is nearly 106.26 percent of last year's storage and 120.10 percent of the average \nstorage of the last ten years during the corresponding period. The overall storage position \nis better than the corresponding period of last year in the country as a whole and is also \nbetter than the Normal storage during the corresponding period.   \n \nb) Groundwater Levels: In August 2025, around 89% of the country's monitoring stations \nexhibited a depth to water level within 10 meters below ground level. Deeper water levels \nof more than 20 m are observed in around 5% of stations of the country covering mainly \nthe western states, especially Western Rajasthan, Punjab, Haryana and Chandigarh.  \n\uf0b7 The deeper groundwater level in the states like Western Rajasthan, Punjab, Haryana and \nChandigarh during August 2025 has been significantly influenced by the over extraction of \ngroundwater compared to the recharge during the monsoon period.  \n\uf0b7 Annual water level comparison with the previous year August 2024 to August 2025 has \nshown that about 56.5% of total analyzed stations of the country experienced rise in \nannual water level fluctuation because of the higher rainfall in 2025 compared to 2024 in \nMonsoon period.  \n\uf0b7 About 70% of the analyzed stations of the unconfined aquifer experienced a rise of water \nlevel in the decadal mean water level fluctuation of 2015-2024 with respect to August \n2025. \n \n \nc) Seeds and Fertilizers: For Kharif 2025, certified seed availability is 178.64 lakh quintals \nagainst a requirement of 164.05 lakh quintals, ensuring a surplus of 14.60 lakh quintals. \nThe fertilizer supply remains stable across all products. \n \n \n4. Pests & Diseases: Intensity of pests and diseases at some fields has been reported to be above \nEconomic Threshold Level for Chilli (Bacterial leaf Black thrips) in Uttar Pradesh. The \nAdvisory has been issued by the survey team to the farms and regular monitoring is being \ncarried out. The overall intensity of pests and diseases remained below the Economic \nThreshold Level.\n[IMAGE page_02_img_1]",
+    "linked_tables": [
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\week_01\\page_02_table_1.csv",
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\week_01\\page_02_table_2.csv",
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\week_01\\page_02_table_3.csv",
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\week_01\\page_02_table_4.csv"
+    ],
+    "linked_images": [
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\week_01\\page_02_img_1.jpg"
+    ],
+    "metadata": {
+      "page_numbers": [
+        2
+      ],
+      "headings": [],
+      "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf"
+    },
+    "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf",
+    "previous_chunk": null,
+    "next_chunk": null
+  },
+  {
+    "chunk_id": "week_01_page_03",
+    "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n3 \n \n5. Crops whose Mandi Wholesale prices are below MSP:  \n \nAll India Mandi Wholesale Prices \nCommodities \nMSP (RS/Qtl) \nPrice as on 14-11-2025\n% Variation over MSP \nMaize \nArhar whole \nGram whole \nMasur Whole \nMoong whole \nUrad \nJowar \nBajra \nRagi \nGroundnut \nSoyabean \nSunflower \n2400 \n8000 \n5650 \n6700 \n8768 \n7800 \n3699 \n2775 \n4886 \n7263 \n5328 \n7721 \n1600 \n7101 \n5401 \n6595 \n6833 \n5924 \n3629 \n2369 \n3463 \n5554 \n4372 \n6686 \n-33.33 \n-11.24 \n-4.41 \n-1.57 \n-22.07 \n-24.05 \n-1.89 \n-14.63 \n-29.12 \n-23.53 \n-17.94 \n-13.40",
+    "linked_tables": [
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\week_01\\page_03_table_1.csv"
+    ],
+    "linked_images": [],
+    "metadata": {
+      "page_numbers": [
+        3
+      ],
+      "headings": [],
+      "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf"
+    },
+    "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf",
+    "previous_chunk": null,
+    "next_chunk": null
+  },
+  {
+    "chunk_id": "week_01_page_04",
+    "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n4 \nDetails of each Segment \n1. RAINFALL \n \n\uf0b7 During the week (30 Oct \u2013 05 Nov 2025), lower rainfall was observed, as compared to Long Period \nAverage (LPA) by 93%. Cumulative seasonal rainfall (01st Oct to 05 Nov 2025) is higher than LPA \nby 45%.  \n \n  \n  \n \n                   \nRainfall Forecast: \n \n\uf0b7 Overall, below normal rainfall is likely over most parts of India during the week, except \nextreme south Peninsular India, where the rainfall is likely to be near normal \n   \n    \n2. TEMPERATURE: MIN & MAX \n \n \nTemerature \n \n \n \nWeek 1 (14 Nov\u2013 20 Nov 2025):  \n \n\uf0b7 No significant change in maximum temperatures likely over Northwest India during next \n24 hours; gradual fall by 2-4\u00b0C thereafter for subsequent 3 days and no large change \nthereafter.\n[IMAGE page_04_img_1]\n[IMAGE page_04_img_2]\n[IMAGE page_04_img_3]",
+    "linked_tables": [],
+    "linked_images": [
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\week_01\\page_04_img_1.jpg",
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\week_01\\page_04_img_2.jpg",
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\week_01\\page_04_img_3.jpg"
+    ],
+    "metadata": {
+      "page_numbers": [
+        4
+      ],
+      "headings": [],
+      "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf"
+    },
+    "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf",
+    "previous_chunk": null,
+    "next_chunk": null
+  },
+  {
+    "chunk_id": "week_01_page_05",
+    "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n5 \n\uf0b7 Rise by about 2-3\u00b0C in maximum temperatures likely over Central India during next 3 days \nand no large change thereafter.  \n\uf0b7 No significant change in maximum temperatures likely over rest parts of the country. \n \n \nWeek 2 (21 Nov \u2013 27 Nov 2025):  \n \n\uf0b7 Minimum temperatures are likely to be below normal 2-4\u00b0C over most parts of the country \nexcept northeast India and Western Himalayan Region, where these are likely to be above \nnormal by 1-3\u00b0C during the week. \nCold wave conditions likely to occur at isolated pockets of north Rajasthan, Punjab & \nHaryana during some days of the week.\n[IMAGE page_05_img_1]\n[IMAGE page_05_img_2]",
+    "linked_tables": [],
+    "linked_images": [
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\week_01\\page_05_img_1.jpg",
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\week_01\\page_05_img_2.jpg"
+    ],
+    "metadata": {
+      "page_numbers": [
+        5
+      ],
+      "headings": [],
+      "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf"
+    },
+    "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf",
+    "previous_chunk": null,
+    "next_chunk": null
+  },
+  {
+    "chunk_id": "week_01_page_06",
+    "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n6 \n3.   Crops \n \nRabi Crops - Area coverage \n\uf0b7 \nWheat: About 66.23 lakh ha area coverage under Wheat has been reported as compared to \n56.55 lakh ha during the corresponding period of last year.  \n\uf0b7 \nRapeseed & Mustard: About 64.23 lakh ha area coverage under Rapeseed & Mustard has \nbeen reported as compared to 60.52 lakh ha during the corresponding period of last year.  \n\uf0b7 \nGram: About 37.43 lakh ha area coverage under Gram has been reported as compared to \n34.04 lakh ha during the corresponding period of last year. \nGovernment of India  \nMinistry of Agriculture & Farmers Welfare  \nDepartment of Agriculture & Farmers Welfare \n \nProgress of area coverage under Rabi crops as on 14.11.2025 \n    (Area in lakh hactare)\nS. \nNo. \nCrops \nNormal Rabi Area \n (DES) \nArea Sown  \nIncrease (+) / \nDecrease (-) \nover 2024-25 \n2025-26 \n2024-25 \n1 \nWheat  \n312.35 \n66.23 \n56.55 \n9.68 \n2 \nRice * \n42.93 \n7.44 \n6.82 \n0.62 \n3 \nPulses \n140.42 \n52.82 \n48.93 \n3.88 \na \nGram \n100.99 \n37.43 \n34.04 \n3.39 \nb \nLentil \n15.13 \n6.83 \n6.08 \n0.74 \nc \nFieldpea $ \n6.50 \n4.75 \n4.24 \n0.51 \nd \nKulthi $ \n1.98 \n0.97 \n0.97 \n0.00 \ne\nUrdbean *\n6.16\n0.79\n0.98\n-0.19\nf \nMoongbean * \n1.41 \n0.05 \n0.09 \n-0.04 \ng \nLathyrus $ \n2.79 \n1.04 \n1.18 \n-0.13 \nh \nOther Pulses $ \n5.46 \n0.95 \n1.36 \n-0.41 \n4 \nShri Anna & \nCoarse cereals  \n55.33 \n15.53 \n13.50 \n2.04 \na \nJowar * \n24.62 \n8.82 \n8.21 \n0.61 \nb \nBajra # \n0.59 \n0.04 \n0.03 \n0.01 \nc \nRagi # \n0.72 \n0.49 \n0.38 \n0.11 \nd \nSmall Millets # \n0.16 \n0.11 \n0.03 \n0.07 \ne \nMaize * \n23.61 \n4.26 \n3.63 \n0.63 \nf \nBarley \n5.63 \n1.83 \n1.22 \n0.61 \n5 \nOilseeds \n86.78 \n66.17 \n62.93 \n3.24 \na \nRapeseed & Mustard \n79.17 \n64.23 \n60.52 \n3.71 \nb\nGroundnut *\n3.69\n0.79\n1.13\n-0.34\nc \nSafflower \n0.72 \n0.30 \n0.16 \n0.14 \nd \nSunflower * \n0.79 \n0.12 \n0.08 \n0.04 \ne \nSesamum * \n0.48 \n0.01 \n0.02 \n-0.01 \nf\nLinseed\n1.93\n0.67\n0.95\n-0.28\ng \nOther Oilseeds \n0.00 \n0.05 \n0.06 \n-0.01",
+    "linked_tables": [
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\week_01\\page_06_table_1.csv"
+    ],
+    "linked_images": [],
+    "metadata": {
+      "page_numbers": [
+        6
+      ],
+      "headings": [],
+      "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf"
+    },
+    "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf",
+    "previous_chunk": null,
+    "next_chunk": null
+  },
+  {
+    "chunk_id": "week_01_page_07",
+    "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n7 \n  \nTotal Crops \n637.81 \n208.19 \n188.73 \n19.46 \nNote: *Average of 2022-23 to 2024-25, $ average (2016-17 to 2020-21) as per DES, #Average of (2018-19 to \n2022-23) as per CWWG report. \n \n \n4. RESERVOIR STORAGE (as on 13th November, 2025) \n \nCurrent live storage in 161 reservoirs was 163.824 BCM (89.8%) of total live capacity of \n182.479 BCM. \n \n\uf0b7 156 reservoirs having storage more than 80% of normal storage. \n\uf0b7 04 reservoirs having storage 51% to 80%. \n\uf0b7 01 reservoirs having storage upto 50%. \nTable 1: For 161 major reservoirs of the country \n \n \n \n \n \n \nSource: CWC \n \n \nPeriod \nStorage \nas % of \nFRL \nStorage \nas % of \nLast \nYear \nStorage as % \nof 10 Year\u2019s \nAverage \nLevel \nCurrent \nWeek \n89.8 \n106 \n120 \nLast \nWeek \n90.6 \n106 \n119\n[IMAGE page_07_img_1]\n[IMAGE page_07_img_2]",
+    "linked_tables": [
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\week_01\\page_07_table_1.csv",
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\week_01\\page_07_table_2.csv"
+    ],
+    "linked_images": [
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\week_01\\page_07_img_1.jpg",
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\week_01\\page_07_img_2.jpg"
+    ],
+    "metadata": {
+      "page_numbers": [
+        7
+      ],
+      "headings": [],
+      "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf"
+    },
+    "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf",
+    "previous_chunk": null,
+    "next_chunk": null
+  },
+  {
+    "chunk_id": "week_01_page_08",
+    "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n8 \n \n5. REMOTE SENSING BASED SOIL MOISTURE OBSERVATION \n \n \n \nSoil Moisture Observation \n  \n\uf0b7 \nSoil moisture during 03 Nov \u2013 09 Nov is similar/better than the average of the past 9 years \nin major parts of M.P, Rajasthan, Uttar Pradesh, Chhattisgarh, Gujarat, Jharkhand, Odisha, \nHaryana, Punjab, Karnataka, Kerala, Tamil Nadu, Maharashtra, Telangana, A.P. and Bihar. \n \n\uf0b7 \nIt was lower than average of past 9 years in pockets of eastern part of U.P and in pockets of \nAssam. \n \n \n \n \n \n \n \n6.   FERTILIZER POSITION: \n \nAvailability of fertilizer has been found comfortable. Details of Requirement, Receipt, \nAvailability, Sales and Stock position of Major Fertilizers (Urea, DAP, MOP, Complex and \nSSP) during Rabi 2025-26 as on 14.11.2025 is given below:\n[IMAGE page_08_img_1]",
+    "linked_tables": [],
+    "linked_images": [
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\week_01\\page_08_img_1.jpg"
+    ],
+    "metadata": {
+      "page_numbers": [
+        8
+      ],
+      "headings": [],
+      "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf"
+    },
+    "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf",
+    "previous_chunk": null,
+    "next_chunk": null
+  },
+  {
+    "chunk_id": "week_01_page_09",
+    "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n9 \n(Unit : in Lakh MT) \nProdu\nct \nTotal \nRequirem\nent Rabi \n2025-26 \nTotal \nRequirem\nent Rabi \n2024-25 \nOpeni\nng \nstock \nas on \n1.10.2\n5 \nOpeni\nng \nstock \nas on \n1.10.2\n4 \nRequirem\nent during \nNovember\n, 2025  \nRequirem\nent during \nNovember\n, 2024  \n(as on 14/11/25) \n(upto 14/11/24) \nAvailabil\nity \nSal\nes \nClosi\nng \nstock \nAvailabil\nity \nSal\nes \nClosi\nng \nstock \nUREA \n196.06 \n186.89 \n37.33 \n63.02 \n43.54 \n40.78 \n65.22 \n14.20\n51.02 \n81.44 \n12.52\n68.92 \nDAP \n53.43 \n52.05 \n20.07 \n12.23 \n17.19 \n16.14 \n25.49 \n7.73\n17.75 \n16.68 \n6.75\n9.93 \nMOP \n15.69 \n11.95 \n7.14 \n7.33 \n3.35 \n2.66 \n8.02 \n1.10\n6.92 \n8.46 \n1.03\n7.42 \nNPK \n82.38 \n77.10 \n35.59 \n35.94 \n18.85 \n17.28 \n42.37 \n7.13\n35.24 \n35.73 \n7.11\n28.62 \nSSP \n31.19 \n36.48 \n22.45 \n21.76 \n7.92 \n9.33 \n23.84 \n3.33\n20.51 \n23.15 \n2.62\n20.53 \nTOTAL \n378.75 \n364.47 \n122.57 140.29\n90.85 \n86.18 \n164.94 \n33.49 131.45\n165.46 \n30.03 135.43\n \n\uf0b7 The above data indicates that the availability of Urea, MOP, Complexes and SSP is \ncomfortable.  \n\uf0b7 In case of DAP, The opening stock of Rabi 2025-26 as compared to the opening stock of Rabi \n2024-25 is more by 7.84 LMT \n\uf0b7 As on 14th November, 2025 the availability of DAP is 25.49 LMT against the requirement of \n17.19 LMT during the ongoing Rabi 2025-26 season. \n \n \n7.      PEST & DISEASE \n \n\uf0b7 Over all intensity of pests and disease remained below Economic Threshold Level (ETL) \nexcept: \n\u092b\u0938\n\u0932 \nCrop \n\u0930\u093e\u01db \nState \n\u093f\u091c\u0932\u093e/\u0909\u092a\u093f\u091c\u0932\u093e/\u0917\u093e\u0902\n\u0935 \nDistrict/ Sub \nDistrict/ Village \n\u0177\u094b\u0924/ \nSource \n\u0915\u0940\u091f/\u0930\u094b\n\u0917 \nPest \nDisease\n\u0930\u093e\u01db \u092e\u0150\n\u092b\u0938\u0932 \u0915\u0947 \n\u0905\u0902\u0924\u0917\u014a\u0924 \u0915\u0941\u0932 \n\u0197\u0947\u0169\u092b\u0932 \n(\u0939\u0947\u0183\u0947\u092f\u0930) \nTotal area \nunder the  \ncrop   in \nthe state \n(ha) \n\u0924\u0940\u0174\u0924\u093e\nIntensity\n\u0915\u0940 \u0917\u0908 \n\u0915\u093e\u0930\u014a\u0935\u093e\u0908/\u093f\u091f\u0254\n\u0923\u0940 \nAction Taken/ \nRemark \n\u0938\u0902\u0110\u0367 \u092e\u0924/\u0124\u092d\u093e\u036a \u0935\n\u0924\u00a2\u0947\u011f *ETL \n(\u0939\u0947\u00c8\u091f\u0947\u092f\u0930) \u0938\u0947\u090a\u092a\u0930 \n/Area \ninfested/Infecte\nd above *ETL \n(ha) \n \n \nChill\ni \n \nUttar \nPrades\nh \n \nGhazipur \n \nJoint survey \nwith State \nAgricultural \nDepartment \n& CIPMC, \nGorakhpur \n \n \n \nBlack \nthrips \n \n \n \n-- \n \n \n \n0.5 ha \n \n \nModerate \npest \nincidence \nwas reported \non 10.11.2025.",
+    "linked_tables": [
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\week_01\\page_09_table_1.csv",
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\week_01\\page_09_table_2.csv"
+    ],
+    "linked_images": [],
+    "metadata": {
+      "page_numbers": [
+        9
+      ],
+      "headings": [],
+      "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf"
+    },
+    "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf",
+    "previous_chunk": null,
+    "next_chunk": null
+  },
+  {
+    "chunk_id": "week_01_page_10",
+    "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n10 \n8.    PRICES: \nSource: Agmarknet (through UPAg) \nAll India Weekly Average Retail Prices \nIncreasing  Trend \nDecreasing Trend \nCommodities \n% Variation over last \nWeek \nCommodities \n% Variation over last \nWeek \nRice  \nWheat  \nArhar/Tur Dal \nGram \nMasur \nMoong  \nUrad \nRagi \nSoyabean Oil  \nOnion  \nPotato \n Tomato \n0.00 \n0.41 \n0.47 \n0.11 \n0.15 \n0.14 \n0.18 \n0.21 \n0.18 \n0.04 \n1.02 \n6.23 \nJowar \nBajra \nMustard Oil \n \n-0.79 \n-0.53 \n-0.33 \nSource: DoCA (through UPAg) \n  Details are enclosed at Annexure -I \nAll India Weekly Average Mandi Prices \nIncreasing Trend \nDecreasing Trend \nCommodities \n% Variation over last \nWeek \nCommodities \n% Variation over \nlast Week \nWheat  \nTur (Arhar) \nMasur \nMoong \nUrad  \nJowar \nBajra \nGroundnut \nMustard \nSoyabean \nSesamum  \nSunflower \nOnion \nTomato \n0.48 \n12.27 \n1.21 \n2.08 \n2.65 \n32.69 \n8.77 \n6.20 \n2.88 \n3.70 \n1.04 \n5.43 \n3.17 \n45.61 \nPaddy (Rice un-milled) \nMaize \nGram \nRagi \nPotato \n \n-0.80 \n-3.19 \n-0.46 \n-2.14 \n-9.21",
+    "linked_tables": [
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\week_01\\page_10_table_1.csv",
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\week_01\\page_10_table_2.csv",
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\week_01\\page_10_table_3.csv",
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\week_01\\page_10_table_4.csv"
+    ],
+    "linked_images": [],
+    "metadata": {
+      "page_numbers": [
+        10
+      ],
+      "headings": [],
+      "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf"
+    },
+    "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf",
+    "previous_chunk": null,
+    "next_chunk": null
+  },
+  {
+    "chunk_id": "week_01_page_11",
+    "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n11 \n \n \n9.   PROCUREMENT \n \n\uf0b7 \nAs on 01.11.2025, Actual stock of Rice & Wheat together was 643.18 LMT against the buffer \nnorm of 307.70 LMT.   \n   \n \nAll India Procurement of Paddy/Rice during KMS 2024-25 \n                                                                           As on 16.11.2025 (Figures in LMT) \nCrop \nRice \nProcurement \nEstimates \nduring KMS \n2025-26 \n(Estimates in \nterms of Paddy)\nKMS 2025-26 \nKMS 2024-25 \nProgressive \nPaddy \nprocurement \nProgressive \nprocurement in \nterms of Rice \n(Percentage of \ntarget achieved)\nProgressive \nCorresponding \npaddy \nProcurement \nProgressive \nCorresponding \nProcurement  \nin terms of \nRice \nKharif \n463.49 \n(691.78) \n239.61 \n160.68 \n(34.67%) \n201.30 \n134.92 \nRabi \n- \n- \n- \n- \n- \nKharif + \nRabi \n463.49 \n(691.78) \n239.61 \n160.68 \n(34.67%) \n201.30 \n134.92 \n (Source: FCI Portal)   \n \n \n \n \n \nAll India Procurement of Wheat during RMS 2025-26 & RMS 2024-25 \n \n                                                                           As on 16.11.2025  (Figures in LMT) \nWheat Procurement Estimates \nduring RMS 2025-26 ( LMTs) \nProgressive Wheat Procurement \nduring RMS 2025-26 \nCorresponding Wheat \nProcurement during RMS \n2024-25 \n334.10 \n300.35 \n265.95 \n (Source: FCI Portal)   \n \n \n**********************",
+    "linked_tables": [
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\week_01\\page_11_table_1.csv",
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\week_01\\page_11_table_2.csv"
+    ],
+    "linked_images": [],
+    "metadata": {
+      "page_numbers": [
+        11
+      ],
+      "headings": [],
+      "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf"
+    },
+    "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf",
+    "previous_chunk": null,
+    "next_chunk": null
+  },
+  {
+    "chunk_id": "week_01_page_12",
+    "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n12 \n \n \n \nAnnexure -I \nAll India Mandi Wholesale prices (Rs/Quintal)\n[IMAGE page_12_img_1]",
+    "linked_tables": [],
+    "linked_images": [
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\week_01\\page_12_img_1.jpg"
+    ],
+    "metadata": {
+      "page_numbers": [
+        12
+      ],
+      "headings": [],
+      "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf"
+    },
+    "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf",
+    "previous_chunk": null,
+    "next_chunk": null
+  },
+  {
+    "chunk_id": "week_01_page_13",
+    "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n13 \n \n \n \nAll India Retail Prices (Rs/Quintal)\n[IMAGE page_13_img_1]",
+    "linked_tables": [],
+    "linked_images": [
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\week_01\\page_13_img_1.jpg"
+    ],
+    "metadata": {
+      "page_numbers": [
+        13
+      ],
+      "headings": [],
+      "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf"
+    },
+    "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf",
+    "previous_chunk": null,
+    "next_chunk": null
+  },
+  {
+    "chunk_id": "week_01_page_14",
+    "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n14 \nAnnexure \u2013II \nGovernment of India \nMinistry of Agriculture & Farmers Welfare \nDepartment of Agriculture & Farmers Welfare \nCrops Division \nSOWING AND HARVESTING STATUS OF  KHARIF CROPS AS ON 14.11.2025 \n(Area in lakh ha.)\nS. \nNo.\nCrop \nNormal \nArea \n(DES) \n Area \nCoverage \nas on \n03.10.2025 \n% Area \nHarvested  \nCrop condition/Remark \n1 \nRice \n403.09 \n441.58 \n38.00 \n100% harvested in Rajasthan. Andhra Pradesh (15%), \nAssam (17%), Bihar (5%), Chhattisgarh (25%), \nGujarat \n(90%), \nHaryana \n(95%), \nJ&K \n(45%), \nJharkhand (30%), Karnataka (10%), Madhya Pradesh \n(25%), Maharashtra (40%), Nagaland (50%),  Odisha \n(25%), Punjab (95%), Tamil Nadu (55%), Telangana \n(36%), Uttar Pradesh (55%), Uttarakhand (93%), West \nBengal (5%), etc has already been harvested.\n2 \nPulses \n129.61 \n120.41 \n57.00 \nAround 53.00% area of Pulses has been harvested \nmainly in Urdbean (84%), Urdbean (98%)  & Kulthi \n(52%). \na \nArhar \n44.71 \n46.60 \n  \n  \nb \nUrdbean \n32.64 \n24.37 \n84.00 \n100% harvested in Chhattisgarh, Karnataka, Gujarat, \nMaharashtra, Rajasthan & Uttarakhand. Assam (10%), \nMadhya Pradesh (75%), Tamil Nadu (55%), Uttar \nPradesh (80%),  etc. has already been harvested\nc \nMoongbean \n35.69 \n34.87 \n98.00 \n100% harvested in Chhattisgarh, Gujarat, Haryana, \nKarnataka, Maharashtra, Rajasthan & Telangana. \nJharkhand (95%), Madhya Pradesh (90%), Odisha \n(60%), Uttar Pradesh (90%), etc. has already been \nharvested\nd \nKulthi \n1.72 \n0.72 \n52.00 \n100% harvested in Jharkhand & Uttarakhand, \nChhatisgarh (50%), etc has already been harvested.\ne \nMothbean \n9.70 \n9.24 \n100.00 \n100% harvested in Rajasthan and Gujarat. \nf \nOther \npulses* \n5.15 \n4.62 \n89.00 \n100% harvested in Gujarat, Jharkhand, Maharashtra, \nRajasthan, Uttarakhand & Others. Odisha (75%) & \nTamil Nadu (50%) has been harvested.\n3 \nShri Anna \ncum \nCoarse \ncereals \n180.71 \n194.67 \n80.55 \nOverall around 80.55% area has been harvested \nmainly in Jowar (84.58%), Bajra (93.85%), Ragi \n(31.42%) & Maize (78.04%).  \na \nJowar \n15.07 \n14.07 \n84.58 \n100% harvested in Haryana, Madhya Pradesh and \nRajasthan. Bihar (55%), Gujarat (65%), Karnataka \n(55%), Maharashtra (65%), Tamil Nadu (51%), \nTelangana (50%), Uttar Pradesh (75%), etc has been \nharvested.\nb \nBajra** \n70.69 \n68.44 \n93.85 \n100% hravested in Haryana, Madhya Pradesh and \nRajasthan. Andhra Pradesh (49%), Bihar (45%), \nGujarat (60%), Karnataka (90%), Maharashtra (95%), \nTamil Nadu (35%), Telangana (41%), Uttar Pradesh \n(75%), etc has been harvested.\nc \nRagi \n11.52 \n11.81 \n31.42 \n100% harvested in Gujarat. Andhra Pradesh (21%), \nKarnataka (31%), Maharashtra (38%), Odisha (27%),",
+    "linked_tables": [
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\week_01\\page_14_table_1.csv"
+    ],
+    "linked_images": [],
+    "metadata": {
+      "page_numbers": [
+        14
+      ],
+      "headings": [],
+      "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf"
+    },
+    "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf",
+    "previous_chunk": null,
+    "next_chunk": null
+  },
+  {
+    "chunk_id": "week_01_page_15",
+    "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n15 \nTamil Nadu (25%), Uttarakhand (45%), etc has been \nharvested. \nd \nSmall \nmillets \n4.48 \n5.39 \n53.34 \nMadhya Pradesh (75%), Maharashtra (75%), \nChhattisgarh (55%), Uttarakhand (27%), etc has been \nharvested.\ne \nMaize \n78.95 \n94.95 \n78.04 \n100% harvested in Madhya Pradesh & Rajasthan. \nAndhra Pradesh (60%), Bihar (75%), Chhattisgarh \n(83%), Gujarat (75%), Himachal Pradesh (25%), J&K \n(27%), \nJharkhand \n(38%), \nKarnataka \n(75%), \nMaharashtra (75%), Odisha (35%), Tamil Nadu \n(35%), Telangana (80%), Uttar Pradesh (75%), etc has \nbeen harvested.\n4 \nOilseeds \n194.63 \n190.13 \n89.23 \nOverall around 89.23% area of Oilseeds has been \nharvested majorly in  Groundnut (81.95%), Soybean \n(99.98%), Sunflower (55.29%), Sesame (81.44%), \nNiger (42.81%) & Castor (1.61%).\na \nGroundnut \n45.10 \n48.36 \n81.95 \n100% harvested in Rajasthan Madhya Pradesh & \nTelangana. Gujarat (80%), Andhra Pradesh (70%), \nKarnataka (21%), Maharashtra (40%),  Tamil Nadu \n(75%), Uttar Pradeh (90%), etc has been harvested.\nb \nSoybean \n127.19 \n120.45 \n99.98 \n100% harvested in Madhya Pradesh, Maharashtra, \nRajasthan, \nKarnataka, \nTelangana, \nGujarat, \nChhattisgarh, Uttarakhand & Others. Uttar Pradesh \n(95%) has been harvested.\nc \nSunflower \n1.29 \n0.71 \n55.29 \nKarnataka \n(60%), \nMaharashtra \n(15%), \nAndhra \nPradesh (90%), etc has already been harvested.\nd \nSesamum \n10.32 \n10.51 \n81.44 \n100% harvested in Rajasthan, Karnataka & Gujarat. \nUttar Pradesh (95%), Madhya Pradesh (50%), etc has \nbeen harvested.\ne \nNiger \n1.08 \n1.04 \n42.81 \n100% harvested in Madhya Pradesh & Karnataka. \nChhattisgarh (5%), Odisha (30%), Maharashtra (15%), \netc has been harvested\nf \nCastor \n9.65 \n8.98 \n1.61 \n100% harvested in Telangana & Karnataka. Andhra \nPradesh (26%), Tamil Nadu (29%), etc has been \nharvested\n5 \nSugarcane \n52.51 \n59.07 \n  \n  \n6 \nJute & \nMesta \n6.60 \n5.56 \n100.00 \nHarvesting has been completed \n7 \nCotton \n129.50 \n110.03 \n  \nHarvesting given as under \nTotal \n1096.65 \n1121.45 \n50.73 \n  \nStates \nHarvesting Status of Cotton  \nNorth Zone \n1st, 2nd & 3rd picking has been completed in Punjab & \nHaryana. In Rajasthan, 1st & 2nd picking has been completed \nand 90% of 3rd picking has been completed. \n(Punjab, Haryana and Rajasthan) \nCentral Zone \n1st & 2nd picking has been completed in Madhya Pradesh & \nGujarat. 30% of 1st picking in Maharashtra & 75% of 2nd \npicking has been completed. \n(Gujarat, Madhya Pradesh and \nMaharashtra)\nSouth Zone \n50% of 1st picking in Andhra Pradesh, 60% in Telangana, 40% \nin Karnataka and 10% in Tamil Nadu has been completed.  \n(Telangana, Andhra Pradesh, Karnataka \nand Tamil Nadu)\nOdisha & Others \n1st picking is completed in others. 10% of 1st picking has been \ncompleted in Odisha.",
+    "linked_tables": [
+      "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\week_01\\page_15_table_1.csv"
+    ],
+    "linked_images": [],
+    "metadata": {
+      "page_numbers": [
+        15
+      ],
+      "headings": [],
+      "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf"
+    },
+    "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf",
+    "previous_chunk": null,
+    "next_chunk": null
+  }
+]

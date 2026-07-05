@@ -1,0 +1,189 @@
+{
+  "page": 9,
+  "width": 612.0,
+  "height": 792.0,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 9,
+      "bbox": [
+        72.47999572753906,
+        25.672889709472656,
+        229.94134521484375,
+        38.3161735534668
+      ],
+      "text": "3. \nRESERVOIR STORAGE  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 9,
+      "bbox": [
+        79.08000183105469,
+        45.39078903198242,
+        553.5835571289062,
+        83.91616821289062
+      ],
+      "text": " \nAs on 11 June, 2026, the current live storage in 166 reservoirs was 51.917 BCM (28.28%) of total live \ncapacity of 183.565 BCM. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 9,
+      "bbox": [
+        96.12000274658203,
+        93.54502868652344,
+        406.01318359375,
+        138.91000366210938
+      ],
+      "text": "\uf0b7 126 reservoirs having storage more than 80% of normal storage. \n\uf0b7 15 reservoirs having storage 51% to 80%. \n\uf0b7 25 reservoirs having storage upto 50%. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 9,
+      "bbox": [
+        113.04000091552734,
+        242.31080627441406,
+        115.8596420288086,
+        254.7961883544922
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 9,
+      "bbox": [
+        308.1600036621094,
+        483.39080810546875,
+        325.1906433105469,
+        495.87615966796875
+      ],
+      "text": "      \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 9,
+      "bbox": [
+        248.63998413085938,
+        505.350830078125,
+        310.2998046875,
+        517.836181640625
+      ],
+      "text": "Source: CWC \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 9,
+      "bbox": [
+        551.2799682617188,
+        697.1390991210938,
+        553.6203002929688,
+        707.5020141601562
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 9,
+      "bbox": [
+        79.08000183105469,
+        717.0308227539062,
+        81.89964294433594,
+        729.5161743164062
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 9,
+      "bbox": [
+        230.04000854492188,
+        157.2591094970703,
+        433.13458251953125,
+        167.62203979492188
+      ],
+      "text": "The status for 166 major reservoirs of the country \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 10,
+      "page": 9,
+      "bbox": [
+        102.36000061035156,
+        174.7507781982422,
+        295.1202392578125,
+        200.1961669921875
+      ],
+      "text": "Period \nStorage as % of \nFRL \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
+      "page": 9,
+      "bbox": [
+        322.67999267578125,
+        174.7507781982422,
+        425.73760986328125,
+        200.1961669921875
+      ],
+      "text": "Storage as % of Last \nYear \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 12,
+      "page": 9,
+      "bbox": [
+        429.0,
+        174.7507781982422,
+        556.8540649414062,
+        200.1961669921875
+      ],
+      "text": "Storage as % of 10 Year\u2019s \nAverage Level \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 13,
+      "page": 9,
+      "bbox": [
+        101.04000091552734,
+        205.95079040527344,
+        507.35931396484375,
+        218.43617248535156
+      ],
+      "text": "Current Week \n28\n92\n116\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 14,
+      "page": 9,
+      "bbox": [
+        101.04000091552734,
+        224.07078552246094,
+        507.35858154296875,
+        236.55616760253906
+      ],
+      "text": "Last Week \n30\n94\n119\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "page": 6,
+  "width": 612.0,
+  "height": 792.0,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 6,
+      "bbox": [
+        83.63999938964844,
+        758.9324340820312,
+        543.1088256835938,
+        771.828857421875
+      ],
+      "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 6,
+      "bbox": [
+        310.08001708984375,
+        771.732421875,
+        315.0254211425781,
+        779.7131958007812
+      ],
+      "text": "6 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 6,
+      "bbox": [
+        65.76000213623047,
+        25.8745174407959,
+        144.81663513183594,
+        64.45513916015625
+      ],
+      "text": "3.   Crops \n \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 6,
+      "bbox": [
+        53.279998779296875,
+        67.3498764038086,
+        196.12515258789062,
+        80.74882507324219
+      ],
+      "text": "Rabi Crops - Area coverage \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 6,
+      "bbox": [
+        74.39999389648438,
+        87.57256317138672,
+        553.575439453125,
+        101.58055114746094
+      ],
+      "text": "\uf0b7 \nWheat: About 66.23 lakh ha area coverage under Wheat has been reported as compared to \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 6,
+      "bbox": [
+        91.31999969482422,
+        107.25257110595703,
+        389.5051574707031,
+        121.26055908203125
+      ],
+      "text": "56.55 lakh ha during the corresponding period of last year.  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 6,
+      "bbox": [
+        74.39999389648438,
+        126.81256866455078,
+        553.7819213867188,
+        140.820556640625
+      ],
+      "text": "\uf0b7 \nRapeseed & Mustard: About 64.23 lakh ha area coverage under Rapeseed & Mustard has \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 6,
+      "bbox": [
+        91.31999969482422,
+        146.37257385253906,
+        541.0618896484375,
+        160.3805694580078
+      ],
+      "text": "been reported as compared to 60.52 lakh ha during the corresponding period of last year.  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 6,
+      "bbox": [
+        74.39999389648438,
+        166.0525665283203,
+        553.7420043945312,
+        180.06056213378906
+      ],
+      "text": "\uf0b7 \nGram: About 37.43 lakh ha area coverage under Gram has been reported as compared to \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 10,
+      "page": 6,
+      "bbox": [
+        91.31999969482422,
+        185.61256408691406,
+        386.68548583984375,
+        199.6205596923828
+      ],
+      "text": "34.04 lakh ha during the corresponding period of last year. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
+      "page": 6,
+      "bbox": [
+        220.44000244140625,
+        206.63470458984375,
+        432.2996520996094,
+        246.42056274414062
+      ],
+      "text": "Government of India  \nMinistry of Agriculture & Farmers Welfare  \nDepartment of Agriculture & Farmers Welfare \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 12,
+      "page": 6,
+      "bbox": [
+        182.52000427246094,
+        247.5546875,
+        452.7338562011719,
+        270.9212646484375
+      ],
+      "text": " \nProgress of area coverage under Rabi crops as on 14.11.2025 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 13,
+      "page": 6,
+      "bbox": [
+        446.27996826171875,
+        276.35467529296875,
+        554.7738647460938,
+        287.84124755859375
+      ],
+      "text": "    (Area in lakh hactare)\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 14,
+      "page": 6,
+      "bbox": [
+        88.55999755859375,
+        299.0346984863281,
+        319.8382873535156,
+        322.4012756347656
+      ],
+      "text": "S. \nNo. \nCrops \nNormal Rabi Area \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 15,
+      "page": 6,
+      "bbox": [
+        261.239990234375,
+        310.9147033691406,
+        293.524169921875,
+        322.4012756347656
+      ],
+      "text": " (DES) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 16,
+      "page": 6,
+      "bbox": [
+        381.8399963378906,
+        293.0346984863281,
+        551.3404541015625,
+        308.9612731933594
+      ],
+      "text": "Area Sown  \nIncrease (+) / \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 17,
+      "page": 6,
+      "bbox": [
+        93.60000610351562,
+        305.0346984863281,
+        550.456298828125,
+        357.4412841796875
+      ],
+      "text": "Decrease (-) \nover 2024-25 \n2025-26 \n2024-25 \n1 \nWheat  \n312.35 \n66.23 \n56.55 \n9.68 \n2 \nRice * \n42.93 \n7.44 \n6.82 \n0.62 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 18,
+      "page": 6,
+      "bbox": [
+        93.60000610351562,
+        362.51470947265625,
+        531.1470947265625,
+        374.00128173828125
+      ],
+      "text": "3 \nPulses \n140.42 \n52.82 \n48.93 \n3.88 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 19,
+      "page": 6,
+      "bbox": [
+        93.60000610351562,
+        379.07470703125,
+        533.0059814453125,
+        475.88128662109375
+      ],
+      "text": "a \nGram \n100.99 \n37.43 \n34.04 \n3.39 \nb \nLentil \n15.13 \n6.83 \n6.08 \n0.74 \nc \nFieldpea $ \n6.50 \n4.75 \n4.24 \n0.51 \nd \nKulthi $ \n1.98 \n0.97 \n0.97 \n0.00 \ne\nUrdbean *\n6.16\n0.79\n0.98\n-0.19\nf \nMoongbean * \n1.41 \n0.05 \n0.09 \n-0.04 \ng \nLathyrus $ \n2.79 \n1.04 \n1.18 \n-0.13 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 20,
+      "page": 6,
+      "bbox": [
+        93.60000610351562,
+        480.35467529296875,
+        533.0148315429688,
+        491.84124755859375
+      ],
+      "text": "h \nOther Pulses $ \n5.46 \n0.95 \n1.36 \n-0.41 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 21,
+      "page": 6,
+      "bbox": [
+        93.60000610351562,
+        495.11468505859375,
+        531.1515502929688,
+        518.4812622070312
+      ],
+      "text": "4 \nShri Anna & \nCoarse cereals  \n55.33 \n15.53 \n13.50 \n2.04 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 22,
+      "page": 6,
+      "bbox": [
+        93.84000396728516,
+        521.6347045898438,
+        531.0570068359375,
+        533.1212768554688
+      ],
+      "text": "a \nJowar * \n24.62 \n8.82 \n8.21 \n0.61 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 23,
+      "page": 6,
+      "bbox": [
+        93.60000610351562,
+        538.5547485351562,
+        531.0419921875,
+        550.0413208007812
+      ],
+      "text": "b \nBajra # \n0.59 \n0.04 \n0.03 \n0.01 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 24,
+      "page": 6,
+      "bbox": [
+        93.84000396728516,
+        555.4747314453125,
+        531.0845336914062,
+        566.9613037109375
+      ],
+      "text": "c \nRagi # \n0.72 \n0.49 \n0.38 \n0.11 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 25,
+      "page": 6,
+      "bbox": [
+        93.60000610351562,
+        571.4346923828125,
+        533.0698852539062,
+        730.1612548828125
+      ],
+      "text": "d \nSmall Millets # \n0.16 \n0.11 \n0.03 \n0.07 \ne \nMaize * \n23.61 \n4.26 \n3.63 \n0.63 \nf \nBarley \n5.63 \n1.83 \n1.22 \n0.61 \n5 \nOilseeds \n86.78 \n66.17 \n62.93 \n3.24 \na \nRapeseed & Mustard \n79.17 \n64.23 \n60.52 \n3.71 \nb\nGroundnut *\n3.69\n0.79\n1.13\n-0.34\nc \nSafflower \n0.72 \n0.30 \n0.16 \n0.14 \nd \nSunflower * \n0.79 \n0.12 \n0.08 \n0.04 \ne \nSesamum * \n0.48 \n0.01 \n0.02 \n-0.01 \nf\nLinseed\n1.93\n0.67\n0.95\n-0.28\ng \nOther Oilseeds \n0.00 \n0.05 \n0.06 \n-0.01 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    }
+  ]
+}

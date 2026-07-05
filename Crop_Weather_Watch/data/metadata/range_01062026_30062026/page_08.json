@@ -1,0 +1,644 @@
+{
+  "page": 8,
+  "width": 612.0,
+  "height": 792.0,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 8,
+      "bbox": [
+        72.47999572753906,
+        25.603757858276367,
+        73.41047668457031,
+        29.723939895629883
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 8,
+      "bbox": [
+        65.76000213623047,
+        37.91289138793945,
+        139.379638671875,
+        50.556175231933594
+      ],
+      "text": "2. \n  CROPS \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 8,
+      "bbox": [
+        92.63999938964844,
+        57.459320068359375,
+        93.82424926757812,
+        62.70319366455078
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 8,
+      "bbox": [
+        53.279998779296875,
+        68.67079162597656,
+        199.72874450683594,
+        81.15617370605469
+      ],
+      "text": "Kharif Crops - Area coverage \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 8,
+      "bbox": [
+        55.560001373291016,
+        93.03079223632812,
+        553.5970458984375,
+        120.39617156982422
+      ],
+      "text": "\uf0b7 \nSugarcane: About 54.08 lakh ha area coverage has been reported compared to 54.29 lakh ha during the \ncorresponding period of last year.  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 8,
+      "bbox": [
+        55.560001373291016,
+        122.79078674316406,
+        553.6968994140625,
+        150.3961639404297
+      ],
+      "text": "\uf0b7 \nCotton: About 9.53 lakh ha area coverage has been reported compared to 13.19 lakh ha during the \ncorresponding period of last year. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 8,
+      "bbox": [
+        55.560001373291016,
+        152.79078674316406,
+        553.6975708007812,
+        180.1561737060547
+      ],
+      "text": "\uf0b7 \nJute: About 6.18 lakh ha area coverage has been reported compared to 6.09 lakh ha during the \ncorresponding period of last year.  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 8,
+      "bbox": [
+        91.31999969482422,
+        182.13255310058594,
+        94.13964080810547,
+        196.1405487060547
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 8,
+      "bbox": [
+        130.20001220703125,
+        203.64242553710938,
+        482.2657775878906,
+        218.25033569335938
+      ],
+      "text": "Progress of area coverage under Kharif crops as on 12.06.2026\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 10,
+      "page": 8,
+      "bbox": [
+        457.1999816894531,
+        223.25909423828125,
+        556.0551147460938,
+        233.6220245361328
+      ],
+      "text": "    Area:  In lakh hactare\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
+      "page": 8,
+      "bbox": [
+        59.159996032714844,
+        253.0191192626953,
+        151.25595092773438,
+        274.3020324707031
+      ],
+      "text": "S. \nNo. \nCrop \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 12,
+      "page": 8,
+      "bbox": [
+        206.75999450683594,
+        247.6190948486328,
+        271.568115234375,
+        257.9820251464844
+      ],
+      "text": "Normal Area     \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 13,
+      "page": 8,
+      "bbox": [
+        210.83999633789062,
+        258.41912841796875,
+        258.0489501953125,
+        268.78204345703125
+      ],
+      "text": "(2020-21 to \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 14,
+      "page": 8,
+      "bbox": [
+        216.1199951171875,
+        269.339111328125,
+        253.05970764160156,
+        279.7020263671875
+      ],
+      "text": "2024-25) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 15,
+      "page": 8,
+      "bbox": [
+        283.67999267578125,
+        239.81910705566406,
+        329.1914978027344,
+        250.18203735351562
+      ],
+      "text": "Final Area \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 16,
+      "page": 8,
+      "bbox": [
+        286.20001220703125,
+        250.6190948486328,
+        326.7906494140625,
+        260.9820251464844
+      ],
+      "text": "Coverage \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 17,
+      "page": 8,
+      "bbox": [
+        295.91998291015625,
+        261.53912353515625,
+        317.07647705078125,
+        271.90203857421875
+      ],
+      "text": "2025 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 18,
+      "page": 8,
+      "bbox": [
+        306.4800109863281,
+        277.0191345214844,
+        308.8203430175781,
+        287.3820495605469
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 19,
+      "page": 8,
+      "bbox": [
+        391.1999816894531,
+        239.81910705566406,
+        437.8192138671875,
+        250.18203735351562
+      ],
+      "text": "Area Sown \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 20,
+      "page": 8,
+      "bbox": [
+        499.8000183105469,
+        247.6190948486328,
+        550.27783203125,
+        257.9820251464844
+      ],
+      "text": "Increase(+)/ \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 21,
+      "page": 8,
+      "bbox": [
+        501.239990234375,
+        258.41912841796875,
+        549.0593872070312,
+        268.78204345703125
+      ],
+      "text": "Decrease(-) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 22,
+      "page": 8,
+      "bbox": [
+        365.2799987792969,
+        266.5791015625,
+        545.7633056640625,
+        279.7020263671875
+      ],
+      "text": "over 2025 \n2026 \n2025 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 23,
+      "page": 8,
+      "bbox": [
+        63.60000228881836,
+        292.9791259765625,
+        534.4720458984375,
+        303.342041015625
+      ],
+      "text": "1 \nRice \n412.00 \n446.70 \n4.98 \n3.88 \n1.09 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 24,
+      "page": 8,
+      "bbox": [
+        63.60000228881836,
+        308.9391174316406,
+        536.035400390625,
+        319.3020324707031
+      ],
+      "text": "2 \nPulses \n123.64 \n118.97 \n1.55 \n2.73 \n-1.18 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 25,
+      "page": 8,
+      "bbox": [
+        63.959999084472656,
+        325.0191345214844,
+        533.7694702148438,
+        335.3820495605469
+      ],
+      "text": "a\nArhar\n44.32\n44.60\n0.09\n0.21\n-0.12\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 26,
+      "page": 8,
+      "bbox": [
+        63.60000228881836,
+        341.09912109375,
+        533.7694702148438,
+        351.4620361328125
+      ],
+      "text": "b\nUrdbean\n29.60\n21.26\n0.27\n0.35\n-0.07\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 27,
+      "page": 8,
+      "bbox": [
+        63.959999084472656,
+        356.9391174316406,
+        533.7694702148438,
+        367.3020324707031
+      ],
+      "text": "c\nMoongbean\n35.48\n37.45\n0.69\n1.54\n-0.86\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 28,
+      "page": 8,
+      "bbox": [
+        63.60000228881836,
+        373.0191345214844,
+        532.20947265625,
+        383.3820495605469
+      ],
+      "text": "d\nKulthi\n1.48\n0.08\n0.06\n0.02\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 29,
+      "page": 8,
+      "bbox": [
+        63.959999084472656,
+        389.09912109375,
+        532.20947265625,
+        399.4620361328125
+      ],
+      "text": "e\nMothbean\n9.69\n0.00\n0.00\n0.00\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 30,
+      "page": 8,
+      "bbox": [
+        64.44000244140625,
+        405.05914306640625,
+        533.7694702148438,
+        415.42205810546875
+      ],
+      "text": "f\nOther pulses*\n3.07\n15.66\n0.41\n0.57\n-0.16\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 31,
+      "page": 8,
+      "bbox": [
+        63.60000228881836,
+        421.01910400390625,
+        534.4961547851562,
+        442.302001953125
+      ],
+      "text": "3 \nShri Anna cum Coarse \ncereals \n182.63 \n192.12 \n4.77 \n4.32 \n0.45 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 32,
+      "page": 8,
+      "bbox": [
+        63.959999084472656,
+        447.89910888671875,
+        533.7694702148438,
+        458.26202392578125
+      ],
+      "text": "a\nJowar\n14.44\n12.10\n0.73\n0.80\n-0.07\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 33,
+      "page": 8,
+      "bbox": [
+        63.60000228881836,
+        463.8591003417969,
+        532.20947265625,
+        474.2220153808594
+      ],
+      "text": "b\nBajra**\n70.94\n63.80\n1.15\n0.24\n0.91\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 34,
+      "page": 8,
+      "bbox": [
+        63.959999084472656,
+        479.9390869140625,
+        532.20947265625,
+        490.302001953125
+      ],
+      "text": "c\nRagi\n12.01\n13.46\n0.31\n0.30\n0.01\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 35,
+      "page": 8,
+      "bbox": [
+        63.60000228881836,
+        495.89910888671875,
+        533.7694702148438,
+        506.26202392578125
+      ],
+      "text": "d\nSmall millets\n4.47\n4.15\n0.31\n0.39\n-0.08\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 36,
+      "page": 8,
+      "bbox": [
+        63.959999084472656,
+        511.85906982421875,
+        533.7694702148438,
+        522.2219848632812
+      ],
+      "text": "e\nMaize\n80.77\n98.61\n2.28\n2.59\n-0.32\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 37,
+      "page": 8,
+      "bbox": [
+        63.60000228881836,
+        527.9390869140625,
+        536.035400390625,
+        538.302001953125
+      ],
+      "text": "4 \nOilseeds \n200.08 \n196.38 \n3.51 \n3.54 \n-0.02 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 38,
+      "page": 8,
+      "bbox": [
+        63.959999084472656,
+        543.8991088867188,
+        532.20947265625,
+        554.2620239257812
+      ],
+      "text": "a\nGroundnut\n46.79\n50.29\n2.57\n2.27\n0.30\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 39,
+      "page": 8,
+      "bbox": [
+        63.60000228881836,
+        559.9791259765625,
+        533.7694702148438,
+        570.342041015625
+      ],
+      "text": "b\nSoybean\n128.71\n123.86\n0.70\n0.90\n-0.20\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 40,
+      "page": 8,
+      "bbox": [
+        63.959999084472656,
+        575.9390869140625,
+        533.7694702148438,
+        586.302001953125
+      ],
+      "text": "c\nSunflower\n1.20\n0.88\n0.16\n0.22\n-0.06\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 41,
+      "page": 8,
+      "bbox": [
+        63.60000228881836,
+        591.8991088867188,
+        533.7694702148438,
+        602.2620239257812
+      ],
+      "text": "d\nSesamum**\n12.88\n9.63\n0.05\n0.11\n-0.06\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 42,
+      "page": 8,
+      "bbox": [
+        63.959999084472656,
+        607.9791259765625,
+        532.20947265625,
+        618.342041015625
+      ],
+      "text": "e\nNiger\n1.01\n0.83\n0.00\n0.00\n0.00\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 43,
+      "page": 8,
+      "bbox": [
+        64.44000244140625,
+        624.0591430664062,
+        532.20947265625,
+        634.4220581054688
+      ],
+      "text": "f\nCastor\n9.49\n10.89\n0.00\n0.01\n0.00\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 44,
+      "page": 8,
+      "bbox": [
+        63.60000228881836,
+        639.8991088867188,
+        532.20947265625,
+        650.2620239257812
+      ],
+      "text": "g\nOther Oilseeds\n0.00\n0.03\n0.03\n0.00\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 45,
+      "page": 8,
+      "bbox": [
+        63.60000228881836,
+        655.9791259765625,
+        536.0272827148438,
+        666.342041015625
+      ],
+      "text": "5 \nSugarcane \n54.20 \n58.84 \n54.08 \n54.29 \n-0.21 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 46,
+      "page": 8,
+      "bbox": [
+        63.60000228881836,
+        672.0591430664062,
+        534.4954833984375,
+        682.4220581054688
+      ],
+      "text": "6 \nJute & Mesta \n6.40 \n6.06 \n6.18 \n6.09 \n0.10 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 47,
+      "page": 8,
+      "bbox": [
+        63.60000228881836,
+        688.0191040039062,
+        536.0875854492188,
+        698.3820190429688
+      ],
+      "text": "7 \nCotton \n125.51 \n115.20 \n9.53 \n13.19 \n-3.66 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 48,
+      "page": 8,
+      "bbox": [
+        113.04000091552734,
+        703.9791259765625,
+        535.9339599609375,
+        714.342041015625
+      ],
+      "text": "Total \n1104.46 \n1134.27 \n84.60 \n88.04 \n-3.44 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 49,
+      "page": 8,
+      "bbox": [
+        56.39999771118164,
+        721.379150390625,
+        392.9140930175781,
+        731.7420654296875
+      ],
+      "text": "* Other pulses (Other pulses- Kulthi & Mothbean), ** Average of 2022-23 & 2023-24) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    }
+  ]
+}

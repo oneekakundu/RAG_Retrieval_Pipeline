@@ -1,0 +1,45 @@
+0,1,2,3,4,5
+e,Maize,78.95,94.95,33.69,"Andhra Pradesh (15%), Bihar (30%), Chhattisgarh
+(30%), Gujarat (35%), Himachal Pradesh (10%), J&K
+(10%), Jharkhand (25%), Karnataka (20%), Madhya
+Pradesh (35%), Maharashtra (35%), Odisha (18%),
+Rajasthan (80%), Tamil Nadu (24%), Telangana (20%),
+Uttar Pradesh (35%), etc."
+4,Oilseeds,194.63,190.13,20.47,"Overall around 20% area of Oilseeds has been harvested
+majorly in Groundnut (28.87%), Soybean (16.29%) and
+Sesame (49.43%)."
+a,Groundnut,45.10,48.36,28.87,"Gujarat (25%), Andhra Pradesh (60%), Rajasthan
+(40%), Tamil Nadu (70%) & Uttar Pradeh (46%) has
+already been harvested."
+b,Soybean,127.19,120.45,16.29,"Gujarat (30%), Rajasthan (50%), Uttar Pradesh (57%)
+and Uttrakhand (10%) has alrady been harvested."
+c,Sunflower,1.29,0.71,7.30,"Tamil Nadu (73%), Andhra Pradesh (65%) has already
+been harvested."
+d,Sesamum**,10.32,10.51,49.43,"Harvesting completed in Karnataka. Uttar Pradesh
+(73%), Gujarat (70%), Rajasthan (75%), Andhra
+Pradesh (90%) & Tamil Nadu (25%) has alrady been
+harvested."
+e,Niger,1.08,1.04,0.69,
+f,Castor,9.65,8.98,0.91,"Harvesting completed in Karnataka. Andhra Pradesh
+(10%) & Tamil Nadu (14%) has been harvested"
+5,Sugarcane,52.51,59.07,,
+6,"Jute &
+Mesta",6.60,5.56,100.00,Harvesting has been completed
+7,Cotton,129.50,110.03,,Harvesting given as under
+Total,,1096.65,1121.45,26.71,
+States,,,,Harvesting Status of Cotton,
+North Zone,,,,"1st picking has been completed in Punjab, Haryana, Rajasthan
+and 2nd picking has been completed in Punjab. 2nd picking in
+Hrayana (90%) & Rajasthan (40%) has been completed.",
+"(Punjab, Haryana and Rajasthan)",,,,,
+Central Zone,,,,"1st picking in Gujarat (80%), Maharashtra (5%) and Madhya
+Pradesh (30%) has already been completed.",
+"(Gujarat, Madhya Pradesh and
+Maharashtra)",,,,,
+South Zone,,,,"1st picking in Andhra Pradesh (20%), Telangana (15%) and
+Karnataka (30%) has already been completed. In Tamil Nadu,
+Crop is at vegetative stage.",
+"(Telangana, Andhra Pradesh, Karnataka
+and Tamil Nadu)",,,,,
+Odisha & Others,,,,"1st picking in Odisha (4%) & Other states (20%). In Odisha, crop
+is at boll maturity stage.",

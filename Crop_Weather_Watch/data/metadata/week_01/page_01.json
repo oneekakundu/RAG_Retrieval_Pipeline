@@ -1,0 +1,215 @@
+{
+  "page": 1,
+  "width": 612.0,
+  "height": 792.0,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 1,
+      "bbox": [
+        70.44000244140625,
+        758.9324340820312,
+        529.7888793945312,
+        771.828857421875
+      ],
+      "text": "Agricultural Statistics Division| Department of Agriculture & Farmers Welfare |Ministry of Agriculture & Farmers Welfare \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 1,
+      "bbox": [
+        296.8800048828125,
+        771.732421875,
+        301.67388916015625,
+        779.7131958007812
+      ],
+      "text": "1 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 1,
+      "bbox": [
+        295.32000732421875,
+        140.81243896484375,
+        298.1396484375,
+        154.35801696777344
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 1,
+      "bbox": [
+        251.40000915527344,
+        161.21243286132812,
+        341.9913330078125,
+        174.7580108642578
+      ],
+      "text": "(as on 17.11.2025) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 1,
+      "bbox": [
+        45.959999084472656,
+        181.78451538085938,
+        196.75408935546875,
+        199.80014038085938
+      ],
+      "text": "  Key Insights                \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 1,
+      "bbox": [
+        62.87999725341797,
+        208.89256286621094,
+        553.8585205078125,
+        271.8605651855469
+      ],
+      "text": "1. Rabi Sowing Status: As on November 14, 2025, the area sown under Rabi crops is 208.19 lakh \nha (including 64.23 lakh ha in Rapeseed & Mustard & 37.43 lakh ha in Gram) as compared to \n188.73 lakh ha during the corresponding period of last year.  \n\uf0b7 As on 14.11.2025, 50.73% of area has been harvested for Kharif crops all over India. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 1,
+      "bbox": [
+        62.87999725341797,
+        273.9325866699219,
+        556.5213012695312,
+        368.43798828125
+      ],
+      "text": "Approximately, 57% area of Pulses mainly in Uradbean (84%), Moongbean (98%) & Mothbean \n(100%); 89.23% area of Oilseeds majorly in Groundnut (81.95%),  Soyabean (99.98%)& \nSesamum (81.44%); 80.55% area of Shri Anna cum Coarse Cereals, majorly in Jowar (84.58%)  \n& Bajra (93.85%) and 38% area of Rice has been harvested for crops of Kharif 2025-26.     \n \n2. Weather Update:  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 1,
+      "bbox": [
+        84.12000274658203,
+        376.0525817871094,
+        553.8563842773438,
+        390.0605773925781
+      ],
+      "text": "a) Temperature: Minimum temperature is likely to be below normal in most of India except in \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 1,
+      "bbox": [
+        101.04000091552734,
+        390.0925598144531,
+        553.7280883789062,
+        418.1405944824219
+      ],
+      "text": "some parts of NE India and J&K. No large change in minimum temperature likely over \nnorthwest, central &amp; east India during the week. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 10,
+      "page": 1,
+      "bbox": [
+        84.12000274658203,
+        425.7325744628906,
+        553.8150024414062,
+        439.7405700683594
+      ],
+      "text": "b) Rainfall Distribution: From October 01\u2013 November 16 2025, the All-India cumulative \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
+      "page": 1,
+      "bbox": [
+        101.04000091552734,
+        439.652587890625,
+        553.8566284179688,
+        481.8605651855469
+      ],
+      "text": "rainfall is 30% higher than its Long Period Average (LPA), with regional variations: (i) \nEast & Northeast India: 13%; (ii) Northwest India: 111%; (iii) Central India: 56%; and \nSouth Peninsula: 8%. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 12,
+      "page": 1,
+      "bbox": [
+        79.80000305175781,
+        489.425048828125,
+        553.8363037109375,
+        503.9405822753906
+      ],
+      "text": "\uf0b7 A low pressure area has formed over Southwest Bay of Bengal off Sri Lanka coast. Under \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 13,
+      "page": 1,
+      "bbox": [
+        79.80000305175781,
+        506.0125427246094,
+        554.2203369140625,
+        569.1005249023438
+      ],
+      "text": "its influence, heavy to very heavy rainfall Tamil Nadu during 18th -22nd, Kerala & Mahe \nduring 16th- 20th; over Coastal Andhra Pradesh & Yanam, Rayalseema on 17th & 18th and \nAndaman & Nicobar Islands during 18th -21st November \n\uf0b7 Light to moderate rainfall/thunderstorm at most/many places with isolated heavy rainfall \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 14,
+      "page": 1,
+      "bbox": [
+        79.80000305175781,
+        571.1725463867188,
+        554.2166137695312,
+        666.9005737304688
+      ],
+      "text": "very likely over Tamil Nadu during 18th -22nd, Kerala & Mahe during 17th  - 20th; over \nCoastal Andhra Pradesh & Yanam, Rayalseema on 17th & 18th and Andaman & Nicobar \nIslands during 18th -21st November; with isolated very Heavy rainfall over Tamil Nadu on \n17th November.  \n\uf0b7 Overall rainfall activity is likely to below normal over all the homogenous regions of India. \n\uf0b7 No significant change in minimum temperature likely over plains of northwest India, \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 15,
+      "page": 1,
+      "bbox": [
+        96.72000122070312,
+        669.092529296875,
+        553.764404296875,
+        699.300537109375
+      ],
+      "text": "central, east and north Peninsular India during next three days and slight rise likely \nthereafter. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 16,
+      "page": 1,
+      "bbox": [
+        101.04000091552734,
+        701.3724975585938,
+        103.8596420288086,
+        747.6605224609375
+      ],
+      "text": " \n \n \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    }
+  ]
+}
