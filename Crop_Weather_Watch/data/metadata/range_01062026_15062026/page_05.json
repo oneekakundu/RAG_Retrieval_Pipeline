@@ -1,0 +1,241 @@
+{
+  "page": 5,
+  "width": 595.4400024414062,
+  "height": 841.6799926757812,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 5,
+      "bbox": [
+        222.77000427246094,
+        27.779640197753906,
+        388.8999938964844,
+        45.44736099243164
+      ],
+      "text": "Details of each Segment \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 5,
+      "bbox": [
+        42.47999954223633,
+        58.37998962402344,
+        136.5800018310547,
+        71.83199310302734
+      ],
+      "text": "1. \nRAINFALL \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 5,
+      "bbox": [
+        49.560001373291016,
+        78.67999267578125,
+        559.66796875,
+        125.1319808959961
+      ],
+      "text": "\uf0b7 \nDuring the week (21 May \u2013 27 May 2026), lower rainfall was observed, as compared to Long Period \nAverage (LPA) by 3%. Cumulative seasonal rainfall (01st March to 27 May 2026) is higher than \nLPA by 1%. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 5,
+      "bbox": [
+        70.94400024414062,
+        132.7279815673828,
+        73.94400024414062,
+        146.01197814941406
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 5,
+      "bbox": [
+        72.14399719238281,
+        374.9900207519531,
+        563.4959716796875,
+        388.4420166015625
+      ],
+      "text": "     \n    \n       \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 5,
+      "bbox": [
+        67.58399963378906,
+        470.3380126953125,
+        70.58399963378906,
+        483.62200927734375
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 5,
+      "bbox": [
+        67.58399963378906,
+        496.3780212402344,
+        162.86000061035156,
+        509.6620178222656
+      ],
+      "text": "Rainfall Forecast: \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 5,
+      "bbox": [
+        49.560001373291016,
+        521.77001953125,
+        560.76806640625,
+        551.0919799804688
+      ],
+      "text": "\u2022 \nNormal Rainfall activity likely over central and Northeast India. Below normal rainfall is likely over \nsouth peninsular India and western Himalayan region. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 5,
+      "bbox": [
+        70.94400024414062,
+        553.64794921875,
+        76.94400024414062,
+        582.77197265625
+      ],
+      "text": "  \n  \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 10,
+      "page": 5,
+      "bbox": [
+        49.560001373291016,
+        590.74560546875,
+        193.4600067138672,
+        601.7713623046875
+      ],
+      "text": "TEMPERATURE: MIN & MAX \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
+      "page": 5,
+      "bbox": [
+        49.560001373291016,
+        613.64794921875,
+        52.560001373291016,
+        626.9319458007812
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 12,
+      "page": 5,
+      "bbox": [
+        49.560001373291016,
+        636.5679931640625,
+        192.88999938964844,
+        649.8519897460938
+      ],
+      "text": "Week 1 (29 May \u2013 04 June):  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 13,
+      "page": 5,
+      "bbox": [
+        49.560001373291016,
+        661.8400268554688,
+        560.9619750976562,
+        676.4920043945312
+      ],
+      "text": "\uf0b7 Maximum temperatures are very likely to be 5-6 Deg Celsius below normal over most parts of the \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 14,
+      "page": 5,
+      "bbox": [
+        67.58399963378906,
+        679.0479736328125,
+        361.989990234375,
+        692.3319702148438
+      ],
+      "text": "country during the week except over North-Eastern States. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 15,
+      "page": 5,
+      "bbox": [
+        67.58399963378906,
+        699.927001953125,
+        68.33399963378906,
+        703.2479858398438
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 16,
+      "page": 5,
+      "bbox": [
+        67.58399963378906,
+        714.1079711914062,
+        238.97000122070312,
+        727.3919677734375
+      ],
+      "text": "Week 2 (05 June  - 11 June 2026):  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 17,
+      "page": 5,
+      "bbox": [
+        49.560001373291016,
+        739.260009765625,
+        560.7120361328125,
+        753.9119873046875
+      ],
+      "text": "\uf0b7 Low probability of Heatwave conditions likely over some parts of northwest India (Rajasthan, south \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 18,
+      "page": 5,
+      "bbox": [
+        67.58399963378906,
+        756.5879516601562,
+        433.8999938964844,
+        769.8719482421875
+      ],
+      "text": "Punjab, south Haryana, south Uttar Pradesh) during some days of the week. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    }
+  ]
+}

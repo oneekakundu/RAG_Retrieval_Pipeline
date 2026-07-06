@@ -1,0 +1,644 @@
+{
+  "page": 12,
+  "width": 595.4400024414062,
+  "height": 841.6799926757812,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 12,
+      "bbox": [
+        49.560001373291016,
+        32.525604248046875,
+        124.06999969482422,
+        43.55132293701172
+      ],
+      "text": "8.    PRICES: \n \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 12,
+      "bbox": [
+        49.560001373291016,
+        55.78797912597656,
+        260.3299865722656,
+        69.07198333740234
+      ],
+      "text": "Mandi Wholesale prices (In Rs./Quintal) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 12,
+      "bbox": [
+        26.520000457763672,
+        123.00621795654297,
+        92.67288208007812,
+        134.1116180419922
+      ],
+      "text": "Commodities \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 12,
+      "bbox": [
+        109.58000183105469,
+        99.48619842529297,
+        495.2288818359375,
+        110.59159851074219
+      ],
+      "text": "All India Weekly Average Mandi Prices (In Rs./Quintal) \n% Variation Over \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 12,
+      "bbox": [
+        540.9600219726562,
+        82.32616424560547,
+        575.302001953125,
+        93.43156433105469
+      ],
+      "text": "Arrival \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 12,
+      "bbox": [
+        537.3599853515625,
+        93.72618865966797,
+        579.0088500976562,
+        127.87156677246094
+      ],
+      "text": "(In \nMetric \nTonnes) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 12,
+      "bbox": [
+        109.94000244140625,
+        140.76617431640625,
+        148.6943817138672,
+        151.87156677246094
+      ],
+      "text": "Current \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 12,
+      "bbox": [
+        117.13999938964844,
+        152.28619384765625,
+        141.62887573242188,
+        163.39158630371094
+      ],
+      "text": "MSP \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 12,
+      "bbox": [
+        165.86000061035156,
+        135.0062255859375,
+        198.5188446044922,
+        146.1116180419922
+      ],
+      "text": "Prices \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 10,
+      "page": 12,
+      "bbox": [
+        161.3000030517578,
+        146.52618408203125,
+        202.9788818359375,
+        169.15159606933594
+      ],
+      "text": "as on \n29.05.26 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
+      "page": 12,
+      "bbox": [
+        222.1699981689453,
+        129.2462158203125,
+        250.98428344726562,
+        151.87156677246094
+      ],
+      "text": "One \nWeek \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 12,
+      "page": 12,
+      "bbox": [
+        215.69000244140625,
+        152.28619384765625,
+        257.3388977050781,
+        174.91160583496094
+      ],
+      "text": "Ago \n22.05.26 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 13,
+      "page": 12,
+      "bbox": [
+        270.2900085449219,
+        135.0062255859375,
+        311.40496826171875,
+        146.1116180419922
+      ],
+      "text": "1 Month \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 14,
+      "page": 12,
+      "bbox": [
+        270.04998779296875,
+        146.52618408203125,
+        311.7189025878906,
+        169.15159606933594
+      ],
+      "text": "Ago \n29.04.26 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 15,
+      "page": 12,
+      "bbox": [
+        330.30999755859375,
+        135.0062255859375,
+        362.94891357421875,
+        146.1116180419922
+      ],
+      "text": "1 Year \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 16,
+      "page": 12,
+      "bbox": [
+        325.75,
+        146.52618408203125,
+        367.3988952636719,
+        169.15159606933594
+      ],
+      "text": "Ago \n29.05.25 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 17,
+      "page": 12,
+      "bbox": [
+        386.7099914550781,
+        140.76617431640625,
+        415.6388854980469,
+        163.39158630371094
+      ],
+      "text": "Last \nWeek \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 18,
+      "page": 12,
+      "bbox": [
+        435.82000732421875,
+        140.76617431640625,
+        468.5888977050781,
+        163.39158630371094
+      ],
+      "text": "Last \nMonth \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 19,
+      "page": 12,
+      "bbox": [
+        488.5,
+        140.76617431640625,
+        521.1388549804688,
+        151.87156677246094
+      ],
+      "text": "1 Year \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 20,
+      "page": 12,
+      "bbox": [
+        493.7799987792969,
+        152.28619384765625,
+        521.5088500976562,
+        163.39158630371094
+      ],
+      "text": "Ago   \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 21,
+      "page": 12,
+      "bbox": [
+        538.2000122070312,
+        135.0062255859375,
+        580.9183349609375,
+        146.1116180419922
+      ],
+      "text": "Arrivals  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 22,
+      "page": 12,
+      "bbox": [
+        537.3599853515625,
+        146.52618408203125,
+        579.0088500976562,
+        169.15159606933594
+      ],
+      "text": "as on \n29.05.26 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 23,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        178.326171875,
+        58.44887924194336,
+        189.4315643310547
+      ],
+      "text": "Cereals \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 24,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        193.086181640625,
+        573.4888305664062,
+        206.7115936279297
+      ],
+      "text": "Paddy(Common) \n2369 \n2088 \n2229 \n2252 \n2138 \n-6.29 \n-7.25 \n-2.30 \n59904 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 25,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        210.126220703125,
+        576.2488403320312,
+        224.2316131591797
+      ],
+      "text": "Wheat  \n2585 \n2442 \n2456 \n2515 \n2500 \n-0.57 \n-2.91 \n-2.31 \n138826 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 26,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        228.03619384765625,
+        573.4888305664062,
+        242.02159118652344
+      ],
+      "text": "Maize \n2400 \n1900 \n1901 \n1770 \n2057 \n-0.03 \n7.35 \n-7.62 \n45616 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 27,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        248.55621337890625,
+        54.60887908935547,
+        259.66162109375
+      ],
+      "text": "Pulses \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 28,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        263.55621337890625,
+        570.60888671875,
+        277.66162109375
+      ],
+      "text": "Arhar whole \n8000 \n7491 \n7693 \n7261 \n6519 \n-2.62 \n3.17 \n14.92 \n5769 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 29,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        281.43621826171875,
+        573.4888305664062,
+        295.421630859375
+      ],
+      "text": "Gram whole \n5875 \n5715 \n5655 \n5271 \n5560 \n1.05 \n8.43 \n2.79 \n16273 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 30,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        299.19622802734375,
+        570.60888671875,
+        313.18157958984375
+      ],
+      "text": "Masur Whole \n7000 \n6604 \n7030 \n7110 \n6443 \n-6.07 \n-7.11 \n2.50 \n1474 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 31,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        316.9561767578125,
+        570.60888671875,
+        331.06158447265625
+      ],
+      "text": "Moong Whole \n8768 \n7006 \n7502 \n7859 \n7049 \n-6.61 \n-10.86 \n-0.61 \n6557 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 32,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        334.8362121582031,
+        570.60888671875,
+        348.82159423828125
+      ],
+      "text": "Urad Whole \n7800 \n7542 \n7689 \n5945 \n7167 \n-1.90 \n26.86 \n5.24 \n3783 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 33,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        355.356201171875,
+        53.408878326416016,
+        366.46160888671875
+      ],
+      "text": "Millets \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 34,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        370.356201171875,
+        570.60888671875,
+        384.46160888671875
+      ],
+      "text": "Jowar \n3699 \n3603 \n3823 \n3321 \n2981 \n-5.76 \n8.49 \n20.84 \n2786 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 35,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        388.2561950683594,
+        570.60888671875,
+        402.2416076660156
+      ],
+      "text": "Bajra \n2775 \n2288 \n2313 \n2056 \n2396 \n-1.05 \n11.30 \n-4.49 \n3988 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 36,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        406.0162048339844,
+        567.848876953125,
+        420.0016174316406
+      ],
+      "text": "Ragi \n4886 \n3406 \n3489 \n3457 \n3368 \n-2.40 \n-1.49 \n1.10 \n315 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 37,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        427.3761901855469,
+        67.952880859375,
+        438.4815979003906
+      ],
+      "text": "Oil Seeds \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 38,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        443.2161865234375,
+        570.60888671875,
+        457.20159912109375
+      ],
+      "text": "Groundnut \n7263 \n6961 \n7255 \n6414 \n5086 \n-4.05 \n8.53 \n36.85 \n4785 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 39,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        460.9761962890625,
+        573.4888305664062,
+        474.96160888671875
+      ],
+      "text": "Mustard \n6200 \n7275 \n7093 \n6381 \n6168 \n2.56 \n14.00 \n17.95 \n10048 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 40,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        478.7362060546875,
+        573.4888305664062,
+        492.84161376953125
+      ],
+      "text": "Soyabean \n5328 \n7122 \n7128 \n5924 \n4181 \n-0.08 \n20.23 \n70.34 \n17398 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 41,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        496.6162109375,
+        570.60888671875,
+        510.6015930175781
+      ],
+      "text": "Sesamum \n9846 \n11283 \n11321 \n12620 \n9870 \n-0.33 \n-10.59 \n14.32 \n3288 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 42,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        514.376220703125,
+        570.60888671875,
+        528.3616333007812
+      ],
+      "text": "Sunflower \n7721 \n7678 \n7348 \n6498 \n5121 \n4.50 \n18.16 \n49.94 \n1095 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 43,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        535.0162353515625,
+        81.75288391113281,
+        546.1216430664062
+      ],
+      "text": " Horticulture \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 44,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        550.0462036132812,
+        573.4888305664062,
+        564.0316162109375
+      ],
+      "text": "Onion \n  \n1162 \n1042 \n1099 \n1158 \n11.53 \n5.76 \n0.34 \n52142 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 45,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        567.8062133789062,
+        573.4888305664062,
+        581.7915649414062
+      ],
+      "text": "Potato \n  \n737 \n729 \n657 \n1192 \n1.05 \n12.05 \n-38.20 \n37209 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 46,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        585.566162109375,
+        573.4888305664062,
+        599.6715698242188
+      ],
+      "text": "Tomato \n  \n1915 \n2143 \n2045 \n1072 \n-10.64 \n-6.37 \n78.64 \n13968 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 47,
+      "page": 12,
+      "bbox": [
+        19.559999465942383,
+        604.6461791992188,
+        117.38888549804688,
+        615.7515869140625
+      ],
+      "text": "Source: Agmarknet  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 48,
+      "page": 12,
+      "bbox": [
+        49.560001373291016,
+        623.5032958984375,
+        52.31999969482422,
+        635.724609375
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 49,
+      "page": 12,
+      "bbox": [
+        49.560001373291016,
+        651.2080078125,
+        560.6640014648438,
+        680.3319702148438
+      ],
+      "text": "Mandi wholesale prices of all crops during this week are running below the MSP, except for Mustard, \nSoyabean  and Sesamum. Prices of tomato has gone higher during this week compared to last week. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    }
+  ]
+}

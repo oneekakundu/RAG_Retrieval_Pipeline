@@ -61,11 +61,13 @@ class WeatherWatchDownloader:
         filtered = [record for parsed_date, record in parsed_records if start_dt <= parsed_date <= end_dt]
         return filtered
 
-    def download_reports(self, records: List[dict], limit: Optional[int] = None) -> List[dict]:
+    def download_reports(self, records: List[dict], week_name: str, limit: Optional[int] = None) -> List[dict]:
         """Download the requested number of reports and return metadata for the downloaded files."""
         if limit is not None:
             records = records[:limit]
 
+        week_dir = self.output_dir / week_name / "pdf"
+        ensure_directory(week_dir)
         downloaded = []
         for record in records:
             title = record.get("Title", "unknown")
@@ -73,7 +75,11 @@ class WeatherWatchDownloader:
             if not pdf_link:
                 continue
             safe_name = clean_filename(title) + ".pdf"
-            target_path = self.output_dir / safe_name
+            target_path = week_dir / safe_name
+            if target_path.exists():
+                self.logger.info("Skipping existing PDF %s", target_path.name)
+                downloaded.append({"title": title, "pdf_path": str(target_path), "pdf_url": pdf_link})
+                continue
             if self.download_pdf(pdf_link, target_path):
                 downloaded.append({"title": title, "pdf_path": str(target_path), "pdf_url": pdf_link})
         return downloaded

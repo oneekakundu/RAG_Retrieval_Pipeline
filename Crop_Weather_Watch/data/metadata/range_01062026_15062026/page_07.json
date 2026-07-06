@@ -1,0 +1,124 @@
+{
+  "page": 7,
+  "width": 595.4400024414062,
+  "height": 841.6799926757812,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 7,
+      "bbox": [
+        49.560001373291016,
+        27.227983474731445,
+        560.9620361328125,
+        72.43196868896484
+      ],
+      "text": "some more parts of southwest, westcentral, eastcentral & northeast Bay of Bengal, and remaining \nparts of southeast Bay of Bengal during next 3-4 days. \n \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 7,
+      "bbox": [
+        438.1000061035156,
+        310.0156555175781,
+        440.5899963378906,
+        321.0413818359375
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 7,
+      "bbox": [
+        49.560001373291016,
+        328.2139892578125,
+        485.3800048828125,
+        342.469970703125
+      ],
+      "text": "Forecast for the 2026 Southwest Monsoon Rainfall over the Country as a Whole \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 7,
+      "bbox": [
+        49.560001373291016,
+        354.9980163574219,
+        561.052001953125,
+        384.7220153808594
+      ],
+      "text": " \n\uf0b7 Quantitatively, the southwest monsoon seasonal rainfall over the country as a whole is likely to be \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 7,
+      "bbox": [
+        49.560001373291016,
+        387.4179992675781,
+        560.998046875,
+        433.2220153808594
+      ],
+      "text": "90% of the Long Period Average (LPA) with a model error of \u00b14%, indicating that below normal \nor less rainfall is most likely. \n\uf0b7 The long period average (LPA) of rainfall over the country is about 87 cm based on the data of 1971-\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 7,
+      "bbox": [
+        49.560001373291016,
+        435.89801025390625,
+        560.7081909179688,
+        465.86199951171875
+      ],
+      "text": "2020 \n\uf0b7  The Probability forecast suggests 84% probability for below normal or less rainfall for the country as \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 7,
+      "bbox": [
+        49.560001373291016,
+        468.4179992675781,
+        313.6300048828125,
+        497.6620178222656
+      ],
+      "text": "a whole against climatological probability of 33%. \n \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 7,
+      "bbox": [
+        511.5400085449219,
+        726.2279663085938,
+        514.5400390625,
+        739.511962890625
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 7,
+      "bbox": [
+        121.58000183105469,
+        746.2679443359375,
+        124.58000183105469,
+        759.5519409179688
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    }
+  ]
+}

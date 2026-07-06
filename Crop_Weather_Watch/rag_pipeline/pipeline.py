@@ -33,7 +33,7 @@ class WeatherWatchRAGPipeline:
 
     def process_reports(self, records: List[Dict[str, Any]], week_name: str, limit: Optional[int] = None) -> Dict[str, Any]:
         """Process one week of reports and save all intermediate artifacts."""
-        downloaded = self.downloader.download_reports(records, limit=limit)
+        downloaded = self.downloader.download_reports(records, week_name=week_name, limit=limit)
         results = []
         for report in downloaded:
             try:
