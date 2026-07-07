@@ -1,0 +1,189 @@
+{
+  "page": 10,
+  "width": 595.4400024414062,
+  "height": 841.6799926757812,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 10,
+      "bbox": [
+        49.560001373291016,
+        27.467973709106445,
+        52.560001373291016,
+        40.75197219848633
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 10,
+      "bbox": [
+        49.560001373291016,
+        48.34797668457031,
+        432.3399963378906,
+        61.63197708129883
+      ],
+      "text": "5. \nREMOTE SENSING BASED SOIL MOISTURE OBSERVATION \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 10,
+      "bbox": [
+        67.58399963378906,
+        70.20796203613281,
+        70.58399963378906,
+        83.4919662475586
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 10,
+      "bbox": [
+        67.58399963378906,
+        95.40797424316406,
+        208.97000122070312,
+        108.69197845458984
+      ],
+      "text": "Soil Moisture Observation  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 10,
+      "bbox": [
+        31.559999465942383,
+        128.52796936035156,
+        561.0759887695312,
+        173.49195861816406
+      ],
+      "text": "\uf0b7 \nSoil moisture during 22 May \u2013 28 May 2026 is similar to the average of the past 10 years in major parts \nof Rajasthan, Gujarat, Madhya Pradesh, Maharashtra, Telangana, Northern and Central Karnataka, \nKerala, Punjab, Bihar, Jharkhand, Uttarakhand, Uttar Pradesh H.P., Tamil Nadu and J & K. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 10,
+      "bbox": [
+        31.559999465942383,
+        176.04798889160156,
+        560.9180297851562,
+        205.17201232910156
+      ],
+      "text": "\uf0b7 \n]Soil moisture is better than the average of the past 10 years in parts of Northeastern parts of Bihar, \nNorthern West Bengal and Ladakh. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 10,
+      "bbox": [
+        31.559999465942383,
+        207.8479766845703,
+        561.0279541015625,
+        237.00196838378906
+      ],
+      "text": "\uf0b7 \nIt was lower than average of past 10 years in pockets of Odisha, Chhattisgarh, Haryana, Southern \nKarnataka, Southern West Bengal, parts of Andhra Pradesh and the Northeastern States. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 10,
+      "bbox": [
+        85.58399963378906,
+        253.7179718017578,
+        88.58399963378906,
+        267.0019836425781
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 10,
+      "bbox": [
+        534.1199951171875,
+        529.9779663085938,
+        537.1199951171875,
+        543.261962890625
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 10,
+      "page": 10,
+      "bbox": [
+        49.560001373291016,
+        557.1279907226562,
+        52.560001373291016,
+        570.4119873046875
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
+      "page": 10,
+      "bbox": [
+        69.6240005493164,
+        587.0079956054688,
+        72.6240005493164,
+        600.2919921875
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 12,
+      "page": 10,
+      "bbox": [
+        312.30999755859375,
+        616.2879638671875,
+        318.30999755859375,
+        629.5719604492188
+      ],
+      "text": ". \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 13,
+      "page": 10,
+      "bbox": [
+        69.6240005493164,
+        645.447998046875,
+        72.6240005493164,
+        658.7319946289062
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 14,
+      "page": 10,
+      "bbox": [
+        69.6240005493164,
+        674.7279663085938,
+        72.6240005493164,
+        688.011962890625
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    }
+  ]
+}

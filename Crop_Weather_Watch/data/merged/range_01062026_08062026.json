@@ -1,0 +1,5152 @@
+{
+  "document_name": "Minutes of the meeting of CWWG as on 01.06.2026.pdf",
+  "pages": [
+    {
+      "page": 1,
+      "elements": [
+        {
+          "type": "text",
+          "page": 1,
+          "content": "Government of India \nMinistry of Agriculture & Farmers Welfare \nDepartment of Agriculture & Farmers Welfare \nWeekly report/ Minutes of the Crop Weather Watch Group \n(CWWG) meeting as on 01.06.2026\n[IMAGE page_01_img_1]",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": null,
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_01_table_1.csv"
+        },
+        {
+          "type": "table",
+          "page": 1,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_01_table_1.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "Government of India \nMinistry of Agriculture & Farmers Welfare \nDepartment of Agriculture & Farmers Welfare \nWeekly report/ Minutes of the Crop Weather Watch Group \n(CWWG) meeting as on 01.06.2026\n[IMAGE page_01_img_1]",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_01_img_1.jpg"
+        },
+        {
+          "type": "image",
+          "page": 1,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_01_img_1.jpg",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_01_table_1.csv",
+          "next_element": null
+        }
+      ],
+      "metadata": {
+        "page": 1,
+        "width": 595.4400024414062,
+        "height": 841.6799926757812,
+        "blocks": [
+          {
+            "block_index": 1,
+            "page": 1,
+            "bbox": [
+              21.600000381469727,
+              40.78797912597656,
+              27.600000381469727,
+              54.07197952270508
+            ],
+            "text": "  \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 2,
+            "page": 1,
+            "bbox": [
+              21.600000381469727,
+              66.72798156738281,
+              24.600000381469727,
+              80.0119857788086
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 3,
+            "page": 1,
+            "bbox": [
+              21.600000381469727,
+              92.64796447753906,
+              24.600000381469727,
+              105.93196868896484
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 4,
+            "page": 1,
+            "bbox": [
+              21.600000381469727,
+              118.56800842285156,
+              24.600000381469727,
+              131.8520050048828
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 5,
+            "page": 1,
+            "bbox": [
+              21.600000381469727,
+              144.3679962158203,
+              24.600000381469727,
+              157.65199279785156
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 6,
+            "page": 1,
+            "bbox": [
+              21.600000381469727,
+              170.28797912597656,
+              24.600000381469727,
+              183.5719757080078
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 7,
+            "page": 1,
+            "bbox": [
+              233.80999755859375,
+              56.11405944824219,
+              348.2666931152344,
+              69.19153594970703
+            ],
+            "text": "Government of India \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 8,
+            "page": 1,
+            "bbox": [
+              175.49000549316406,
+              72.33403015136719,
+              406.586669921875,
+              85.41150665283203
+            ],
+            "text": "Ministry of Agriculture & Farmers Welfare \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 9,
+            "page": 1,
+            "bbox": [
+              165.13999938964844,
+              84.7689208984375,
+              417.6099853515625,
+              103.88899993896484
+            ],
+            "text": "Department of Agriculture & Farmers Welfare \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 10,
+            "page": 1,
+            "bbox": [
+              34.20000076293945,
+              115.60438537597656,
+              549.1679077148438,
+              137.78866577148438
+            ],
+            "text": "Weekly report/ Minutes of the Crop Weather Watch Group \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 11,
+            "page": 1,
+            "bbox": [
+              139.33999633789062,
+              142.1243438720703,
+              444.4300231933594,
+              164.30862426757812
+            ],
+            "text": "(CWWG) meeting as on 01.06.2026 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          }
+        ]
+      }
+    },
+    {
+      "page": 2,
+      "elements": [
+        {
+          "type": "text",
+          "page": 2,
+          "content": "Key Insights \n1. Rabi Season harvest and Summer Season Sowing Status:  \n As per 3rd Advance Estimates 2025-26, the area sown under the summer crops is 87.26 lakh ha as \ncompared to 83.91 lakh ha during the corresponding period of last year. As compared to previous year, \nRice area declined by 0.65 lakh ha whereas, Maize area increased by 2.08 lakh ha, Groundnut by 1.03 \nlakh ha, Urad by 0.76 lakh ha and Shree Anna by 0.70 lakh ha.  \n \n As on 01.06.2026, rabi crops harvesting has been completed in all states. \n \n2. Weather Update:  \na) Temperature: Maximum temperature is likely to be below normal in most of country except in \nNortheast India. \n \nb) Rainfall Distribution: From March 01– May 31 2026, the All-India cumulative rainfall is 1% \nhigher than its Long Period Average (LPA), with regional variations: (i) East & Northeast India: \n1%; (ii) Northwest India: (-) 6%; (iii) Central India: 17%; and South Peninsula: 0%. \n The Western Disturbance as a cyclonic circulation over northwest Uttar Pradesh & neighbourhood \nbetween 3.1 & 7.6 km above mean sea level with a trough aloft in middle & upper tropospheric \nwesterlies with its axis at 5.8 km above mean sea level roughly along Long 78°E to the north of \nLat 20°N persists.  \n Isolated heavy rainfall likely over Northeast India and South Peninsular India during the week. \n Moderate to Severe Thunderstorm activity with squally wind speed upto 90kmph and isolated \nhailstorm likely over Northwest, Central & adjoining East India on 31st May. Isolated Hailstorm \nactivity likely over Odisha, West Madhya Pradesh and Madhya Maharashtra on 01st June. \n Normal to above normal rainfall is expected over central and northwest India. \n Heat wave condition likely to prevail over Bihar during 04th–06th June.  \n \n \n3.  Inputs Situation \n \na) Water Reservoir Status: As on 29 May 2026, the total live water storage in 166 important \nreservoirs across the country (monitored by CWC) is 56.300 billion cubic meter, which is 30.67% \nof total live storage capacity (183.565 BCM). The current year's storage is nearly 100.73 percent of \nlast year's storage and 119.11 percent of the average storage of the last ten years during the \ncorresponding period. The overall storage position is better than the corresponding period of last \nyear in the country as a whole and is also better than the Normal storage during the corresponding \nperiod.   \nb) Groundwater Levels: In January, 2026, around 75.8% of the country's monitoring stations \nexhibited a depth to water level within 10 meters below ground level. Deeper water levels of more \nthan 20 m are observed in around 13.5% of stations of the country covering mainly the western \nstates, especially Western Rajasthan, Punjab, Haryana and Chandigarh.",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": null,
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_02_table_1.csv"
+        },
+        {
+          "type": "table",
+          "page": 2,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_02_table_1.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "Key Insights \n1. Rabi Season harvest and Summer Season Sowing Status:  \n As per 3rd Advance Estimates 2025-26, the area sown under the summer crops is 87.26 lakh ha as \ncompared to 83.91 lakh ha during the corresponding period of last year. As compared to previous year, \nRice area declined by 0.65 lakh ha whereas, Maize area increased by 2.08 lakh ha, Groundnut by 1.03 \nlakh ha, Urad by 0.76 lakh ha and Shree Anna by 0.70 lakh ha.  \n \n As on 01.06.2026, rabi crops harvesting has been completed in all states. \n \n2. Weather Update:  \na) Temperature: Maximum temperature is likely to be below normal in most of country except in \nNortheast India. \n \nb) Rainfall Distribution: From March 01– May 31 2026, the All-India cumulative rainfall is 1% \nhigher than its Long Period Average (LPA), with regional variations: (i) East & Northeast India: \n1%; (ii) Northwest India: (-) 6%; (iii) Central India: 17%; and South Peninsula: 0%. \n The Western Disturbance as a cyclonic circulation over northwest Uttar Pradesh & neighbourhood \nbetween 3.1 & 7.6 km above mean sea level with a trough aloft in middle & upper tropospheric \nwesterlies with its axis at 5.8 km above mean sea level roughly along Long 78°E to the north of \nLat 20°N persists.  \n Isolated heavy rainfall likely over Northeast India and South Peninsular India during the week. \n Moderate to Severe Thunderstorm activity with squally wind speed upto 90kmph and isolated \nhailstorm likely over Northwest, Central & adjoining East India on 31st May. Isolated Hailstorm \nactivity likely over Odisha, West Madhya Pradesh and Madhya Maharashtra on 01st June. \n Normal to above normal rainfall is expected over central and northwest India. \n Heat wave condition likely to prevail over Bihar during 04th–06th June.  \n \n \n3.  Inputs Situation \n \na) Water Reservoir Status: As on 29 May 2026, the total live water storage in 166 important \nreservoirs across the country (monitored by CWC) is 56.300 billion cubic meter, which is 30.67% \nof total live storage capacity (183.565 BCM). The current year's storage is nearly 100.73 percent of \nlast year's storage and 119.11 percent of the average storage of the last ten years during the \ncorresponding period. The overall storage position is better than the corresponding period of last \nyear in the country as a whole and is also better than the Normal storage during the corresponding \nperiod.   \nb) Groundwater Levels: In January, 2026, around 75.8% of the country's monitoring stations \nexhibited a depth to water level within 10 meters below ground level. Deeper water levels of more \nthan 20 m are observed in around 13.5% of stations of the country covering mainly the western \nstates, especially Western Rajasthan, Punjab, Haryana and Chandigarh.",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_02_table_2.csv"
+        },
+        {
+          "type": "table",
+          "page": 2,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_02_table_2.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_02_table_1.csv",
+          "next_element": null
+        }
+      ],
+      "metadata": {
+        "page": 2,
+        "width": 595.4400024414062,
+        "height": 841.6799926757812,
+        "blocks": [
+          {
+            "block_index": 1,
+            "page": 2,
+            "bbox": [
+              21.600000381469727,
+              35.885650634765625,
+              24.09000015258789,
+              46.91136932373047
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 2,
+            "page": 2,
+            "bbox": [
+              241.61000061035156,
+              59.342002868652344,
+              341.1099853515625,
+              79.26800537109375
+            ],
+            "text": "Key Insights \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 3,
+            "page": 2,
+            "bbox": [
+              39.599998474121094,
+              92.88801574707031,
+              354.1600036621094,
+              106.1720199584961
+            ],
+            "text": "1. Rabi Season harvest and Summer Season Sowing Status:  \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 4,
+            "page": 2,
+            "bbox": [
+              39.599998474121094,
+              117.91998291015625,
+              560.8700561523438,
+              132.5719757080078
+            ],
+            "text": " As per 3rd Advance Estimates 2025-26, the area sown under the summer crops is 87.26 lakh ha as \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 5,
+            "page": 2,
+            "bbox": [
+              39.599998474121094,
+              135.1280059814453,
+              561.0521240234375,
+              212.8520050048828
+            ],
+            "text": "compared to 83.91 lakh ha during the corresponding period of last year. As compared to previous year, \nRice area declined by 0.65 lakh ha whereas, Maize area increased by 2.08 lakh ha, Groundnut by 1.03 \nlakh ha, Urad by 0.76 lakh ha and Shree Anna by 0.70 lakh ha.  \n \n As on 01.06.2026, rabi crops harvesting has been completed in all states. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 6,
+            "page": 2,
+            "bbox": [
+              57.624000549316406,
+              225.32861328125,
+              59.3640022277832,
+              233.0333251953125
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 7,
+            "page": 2,
+            "bbox": [
+              39.599998474121094,
+              244.5499725341797,
+              152.66000366210938,
+              258.0019836425781
+            ],
+            "text": "2. Weather Update:  \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 8,
+            "page": 2,
+            "bbox": [
+              62.183998107910156,
+              266.1500244140625,
+              561.0640869140625,
+              279.6020202636719
+            ],
+            "text": "a) Temperature: Maximum temperature is likely to be below normal in most of country except in \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 9,
+            "page": 2,
+            "bbox": [
+              80.18399810791016,
+              280.1180114746094,
+              160.4600067138672,
+              307.3699645996094
+            ],
+            "text": "Northeast India. \n \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 10,
+            "page": 2,
+            "bbox": [
+              62.183998107910156,
+              313.54998779296875,
+              561.1200561523438,
+              327.0019836425781
+            ],
+            "text": "b) Rainfall Distribution: From March 01– May 31 2026, the All-India cumulative rainfall is 1% \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 11,
+            "page": 2,
+            "bbox": [
+              80.18399810791016,
+              329.5580139160156,
+              560.8699340820312,
+              358.6820068359375
+            ],
+            "text": "higher than its Long Period Average (LPA), with regional variations: (i) East & Northeast India: \n1%; (ii) Northwest India: (-) 6%; (iii) Central India: 17%; and South Peninsula: 0%. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 12,
+            "page": 2,
+            "bbox": [
+              62.183998107910156,
+              368.75,
+              560.7239379882812,
+              383.4020080566406
+            ],
+            "text": " The Western Disturbance as a cyclonic circulation over northwest Uttar Pradesh & neighbourhood \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 13,
+            "page": 2,
+            "bbox": [
+              62.183998107910156,
+              386.0979919433594,
+              560.8159790039062,
+              464.5419921875
+            ],
+            "text": "between 3.1 & 7.6 km above mean sea level with a trough aloft in middle & upper tropospheric \nwesterlies with its axis at 5.8 km above mean sea level roughly along Long 78°E to the north of \nLat 20°N persists.  \n Isolated heavy rainfall likely over Northeast India and South Peninsular India during the week. \n Moderate to Severe Thunderstorm activity with squally wind speed upto 90kmph and isolated \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 14,
+            "page": 2,
+            "bbox": [
+              62.183998107910156,
+              467.0979919433594,
+              560.7359008789062,
+              529.7019653320312
+            ],
+            "text": "hailstorm likely over Northwest, Central & adjoining East India on 31st May. Isolated Hailstorm \nactivity likely over Odisha, West Madhya Pradesh and Madhya Maharashtra on 01st June. \n Normal to above normal rainfall is expected over central and northwest India. \n Heat wave condition likely to prevail over Bihar during 04th–06th June.  \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 15,
+            "page": 2,
+            "bbox": [
+              80.18399810791016,
+              532.2579345703125,
+              96.6240005493164,
+              561.531982421875
+            ],
+            "text": " \n \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 16,
+            "page": 2,
+            "bbox": [
+              21.600000381469727,
+              569.2000122070312,
+              146.66000366210938,
+              596.2119750976562
+            ],
+            "text": "3.  Inputs Situation \n \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 17,
+            "page": 2,
+            "bbox": [
+              57.624000549316406,
+              596.5599975585938,
+              556.3099975585938,
+              610.011962890625
+            ],
+            "text": "a) Water Reservoir Status: As on 29 May 2026, the total live water storage in 166 important \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 18,
+            "page": 2,
+            "bbox": [
+              75.6240005493164,
+              612.5679931640625,
+              556.5599975585938,
+              705.1919555664062
+            ],
+            "text": "reservoirs across the country (monitored by CWC) is 56.300 billion cubic meter, which is 30.67% \nof total live storage capacity (183.565 BCM). The current year's storage is nearly 100.73 percent of \nlast year's storage and 119.11 percent of the average storage of the last ten years during the \ncorresponding period. The overall storage position is better than the corresponding period of last \nyear in the country as a whole and is also better than the Normal storage during the corresponding \nperiod.   \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 19,
+            "page": 2,
+            "bbox": [
+              57.624000549316406,
+              715.6199951171875,
+              560.8340454101562,
+              729.0719604492188
+            ],
+            "text": "b) Groundwater Levels: In January, 2026, around 75.8% of the country's monitoring stations \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 20,
+            "page": 2,
+            "bbox": [
+              75.6240005493164,
+              731.6279907226562,
+              560.833984375,
+              776.7119750976562
+            ],
+            "text": "exhibited a depth to water level within 10 meters below ground level. Deeper water levels of more \nthan 20 m are observed in around 13.5% of stations of the country covering mainly the western \nstates, especially Western Rajasthan, Punjab, Haryana and Chandigarh. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          }
+        ]
+      }
+    },
+    {
+      "page": 3,
+      "elements": [
+        {
+          "type": "text",
+          "page": 3,
+          "content": "The deeper groundwater level in the states like Western Rajasthan, Punjab, Haryana and \nChandigarh during January, 2026 has been significantly influenced by the over extraction of \ngroundwater compared to the recharge in the area, indicating negative water balance.  \nAbout 70% of the analyzed stations of the unconfined aquifer experienced a rise of water level in \nJanuary, 2026 when compared to the decadal mean water level of 2016-2025.  \nThe Groundwater Drought Indices indicate that in January, 2026, groundwater conditions across \nIndia remained largely stable, with 90.30% of monitoring stations falling under normal condition in \nrespect of Ground Water Drought. However, localized deficits were observed in several regions — \nnotably in Arunachal Pradesh, Himachal Pradesh, Meghalaya, and Nagaland. \n \n \n \nc) Fertilizers: The fertilizer supply remains stable across all products. \n \n \n4. Pests & Diseases: The overall incidence of pests and diseases remained below the Economic Threshold \nLevel. The monitoring of Cotton crop for Pink Ball Worm is progressing as per the protocol.\n[IMAGE page_03_img_1]",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": null,
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_03_table_1.csv"
+        },
+        {
+          "type": "table",
+          "page": 3,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_03_table_1.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "The deeper groundwater level in the states like Western Rajasthan, Punjab, Haryana and \nChandigarh during January, 2026 has been significantly influenced by the over extraction of \ngroundwater compared to the recharge in the area, indicating negative water balance.  \nAbout 70% of the analyzed stations of the unconfined aquifer experienced a rise of water level in \nJanuary, 2026 when compared to the decadal mean water level of 2016-2025.  \nThe Groundwater Drought Indices indicate that in January, 2026, groundwater conditions across \nIndia remained largely stable, with 90.30% of monitoring stations falling under normal condition in \nrespect of Ground Water Drought. However, localized deficits were observed in several regions — \nnotably in Arunachal Pradesh, Himachal Pradesh, Meghalaya, and Nagaland. \n \n \n \nc) Fertilizers: The fertilizer supply remains stable across all products. \n \n \n4. Pests & Diseases: The overall incidence of pests and diseases remained below the Economic Threshold \nLevel. The monitoring of Cotton crop for Pink Ball Worm is progressing as per the protocol.\n[IMAGE page_03_img_1]",
+          "next_element": null
+        }
+      ],
+      "metadata": {
+        "page": 3,
+        "width": 595.4400024414062,
+        "height": 841.6799926757812,
+        "blocks": [
+          {
+            "block_index": 1,
+            "page": 3,
+            "bbox": [
+              75.6240005493164,
+              35.50801086425781,
+              560.8220825195312,
+              80.61202239990234
+            ],
+            "text": "The deeper groundwater level in the states like Western Rajasthan, Punjab, Haryana and \nChandigarh during January, 2026 has been significantly influenced by the over extraction of \ngroundwater compared to the recharge in the area, indicating negative water balance.  \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 2,
+            "page": 3,
+            "bbox": [
+              75.6240005493164,
+              97.20796203613281,
+              560.6639404296875,
+              126.33199310302734
+            ],
+            "text": "About 70% of the analyzed stations of the unconfined aquifer experienced a rise of water level in \nJanuary, 2026 when compared to the decadal mean water level of 2016-2025.  \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 3,
+            "page": 3,
+            "bbox": [
+              75.6240005493164,
+              142.92799377441406,
+              561.1199951171875,
+              203.7320098876953
+            ],
+            "text": "The Groundwater Drought Indices indicate that in January, 2026, groundwater conditions across \nIndia remained largely stable, with 90.30% of monitoring stations falling under normal condition in \nrespect of Ground Water Drought. However, localized deficits were observed in several regions — \nnotably in Arunachal Pradesh, Himachal Pradesh, Meghalaya, and Nagaland. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 4,
+            "page": 3,
+            "bbox": [
+              75.6240005493164,
+              220.3579864501953,
+              78.6240005493164,
+              233.64198303222656
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 5,
+            "page": 3,
+            "bbox": [
+              498.82000732421875,
+              480.1956481933594,
+              501.30999755859375,
+              491.22137451171875
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 6,
+            "page": 3,
+            "bbox": [
+              314.5899963378906,
+              497.3380126953125,
+              317.5899963378906,
+              510.62200927734375
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 7,
+            "page": 3,
+            "bbox": [
+              57.624000549316406,
+              518.8900146484375,
+              398.95001220703125,
+              532.3419799804688
+            ],
+            "text": "c) Fertilizers: The fertilizer supply remains stable across all products. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 8,
+            "page": 3,
+            "bbox": [
+              75.6240005493164,
+              532.8579711914062,
+              78.6240005493164,
+              559.9719848632812
+            ],
+            "text": " \n \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 9,
+            "page": 3,
+            "bbox": [
+              39.599998474121094,
+              568.3599853515625,
+              560.8699951171875,
+              597.6519775390625
+            ],
+            "text": "4. Pests & Diseases: The overall incidence of pests and diseases remained below the Economic Threshold \nLevel. The monitoring of Cotton crop for Pink Ball Worm is progressing as per the protocol.  \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 10,
+            "page": 3,
+            "bbox": [
+              21.600000381469727,
+              605.4879760742188,
+              24.600000381469727,
+              618.77197265625
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 11,
+            "page": 3,
+            "bbox": [
+              21.600000381469727,
+              626.3679809570312,
+              24.600000381469727,
+              639.6519775390625
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 12,
+            "page": 3,
+            "bbox": [
+              21.600000381469727,
+              647.2479858398438,
+              24.600000381469727,
+              660.531982421875
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 13,
+            "page": 3,
+            "bbox": [
+              21.600000381469727,
+              668.1279907226562,
+              24.600000381469727,
+              681.4119873046875
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          }
+        ]
+      }
+    },
+    {
+      "page": 4,
+      "elements": [
+        {
+          "type": "text",
+          "page": 4,
+          "content": "5. Crops whose Mandi Wholesale prices are below MSP:  \n \nAll India Mandi Wholesale Prices \nCommodities \nMSP (RS/Qtl) \nPrice as on 29-05-2026 \n% Variation over MSP \nPaddy (Rice unmilled) \nWheat \nMaize \nArhar \nGram whole \nMasur \nMoong \nUrad \nJowar \nBajra \nRagi \nGroundnut \nSunflower \n2369 \n2585 \n2400 \n8000 \n5875 \n7000 \n8768 \n7800 \n3699 \n2775 \n4886 \n7263 \n7721 \n2088 \n2442 \n1900 \n7491 \n5715 \n6604 \n7006 \n7542 \n3603 \n2288 \n3406 \n6961 \n7678 \n-11.86 \n-5.53 \n-20.83 \n-6.36 \n-2.72 \n-5.66 \n-20.10 \n-3.31 \n-2.60 \n-17.55 \n-30.29 \n-4.16 \n-0.56 \n \n \n \nAll the commodities are currently going below MSP during this week.",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": null,
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_04_table_1.csv"
+        },
+        {
+          "type": "table",
+          "page": 4,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_04_table_1.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "5. Crops whose Mandi Wholesale prices are below MSP:  \n \nAll India Mandi Wholesale Prices \nCommodities \nMSP (RS/Qtl) \nPrice as on 29-05-2026 \n% Variation over MSP \nPaddy (Rice unmilled) \nWheat \nMaize \nArhar \nGram whole \nMasur \nMoong \nUrad \nJowar \nBajra \nRagi \nGroundnut \nSunflower \n2369 \n2585 \n2400 \n8000 \n5875 \n7000 \n8768 \n7800 \n3699 \n2775 \n4886 \n7263 \n7721 \n2088 \n2442 \n1900 \n7491 \n5715 \n6604 \n7006 \n7542 \n3603 \n2288 \n3406 \n6961 \n7678 \n-11.86 \n-5.53 \n-20.83 \n-6.36 \n-2.72 \n-5.66 \n-20.10 \n-3.31 \n-2.60 \n-17.55 \n-30.29 \n-4.16 \n-0.56 \n \n \n \nAll the commodities are currently going below MSP during this week.",
+          "next_element": null
+        }
+      ],
+      "metadata": {
+        "page": 4,
+        "width": 595.4400024414062,
+        "height": 841.6799926757812,
+        "blocks": [
+          {
+            "block_index": 1,
+            "page": 4,
+            "bbox": [
+              21.600000381469727,
+              40.78797912597656,
+              24.600000381469727,
+              54.07197952270508
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 2,
+            "page": 4,
+            "bbox": [
+              39.599998474121094,
+              61.49998474121094,
+              340.75,
+              74.95198822021484
+            ],
+            "text": "5. Crops whose Mandi Wholesale prices are below MSP:  \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 3,
+            "page": 4,
+            "bbox": [
+              57.624000549316406,
+              82.56800842285156,
+              60.624000549316406,
+              95.85201263427734
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 4,
+            "page": 4,
+            "bbox": [
+              62.784000396728516,
+              98.88801574707031,
+              539.280029296875,
+              128.49195861816406
+            ],
+            "text": "All India Mandi Wholesale Prices \nCommodities \nMSP (RS/Qtl) \nPrice as on 29-05-2026 \n% Variation over MSP \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 5,
+            "page": 4,
+            "bbox": [
+              42.47999954223633,
+              140.7680206298828,
+              154.10000610351562,
+              154.05201721191406
+            ],
+            "text": "Paddy (Rice unmilled) \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 6,
+            "page": 4,
+            "bbox": [
+              81.14399719238281,
+              161.52796936035156,
+              115.45999908447266,
+              174.8119659423828
+            ],
+            "text": "Wheat \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 7,
+            "page": 4,
+            "bbox": [
+              81.74400329589844,
+              182.16798400878906,
+              114.73999786376953,
+              195.4519805908203
+            ],
+            "text": "Maize \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 8,
+            "page": 4,
+            "bbox": [
+              82.8239974975586,
+              202.92799377441406,
+              113.77999877929688,
+              216.2119903564453
+            ],
+            "text": "Arhar \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 9,
+            "page": 4,
+            "bbox": [
+              66.98400115966797,
+              223.5979766845703,
+              129.6199951171875,
+              236.88197326660156
+            ],
+            "text": "Gram whole \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 10,
+            "page": 4,
+            "bbox": [
+              81.38400268554688,
+              244.3579864501953,
+              115.0999984741211,
+              257.6419982910156
+            ],
+            "text": "Masur \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 11,
+            "page": 4,
+            "bbox": [
+              79.46399688720703,
+              264.9980163574219,
+              117.13999938964844,
+              278.2820129394531
+            ],
+            "text": "Moong \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 12,
+            "page": 4,
+            "bbox": [
+              84.74400329589844,
+              285.7580261230469,
+              111.73999786376953,
+              299.0420227050781
+            ],
+            "text": "Urad \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 13,
+            "page": 4,
+            "bbox": [
+              82.46399688720703,
+              306.3979797363281,
+              114.13999938964844,
+              319.6819763183594
+            ],
+            "text": "Jowar \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 14,
+            "page": 4,
+            "bbox": [
+              83.78399658203125,
+              327.15802001953125,
+              112.81999969482422,
+              340.4420166015625
+            ],
+            "text": "Bajra \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 15,
+            "page": 4,
+            "bbox": [
+              85.46399688720703,
+              347.7980041503906,
+              111.13999938964844,
+              361.0820007324219
+            ],
+            "text": "Ragi \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 16,
+            "page": 4,
+            "bbox": [
+              70.8239974975586,
+              368.5580139160156,
+              125.77999877929688,
+              381.8420104980469
+            ],
+            "text": "Groundnut \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 17,
+            "page": 4,
+            "bbox": [
+              71.78399658203125,
+              389.218017578125,
+              124.81999969482422,
+              402.50201416015625
+            ],
+            "text": "Sunflower \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 18,
+            "page": 4,
+            "bbox": [
+              207.77000427246094,
+              140.7680206298828,
+              234.77000427246094,
+              154.05201721191406
+            ],
+            "text": "2369 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 19,
+            "page": 4,
+            "bbox": [
+              207.77000427246094,
+              161.52796936035156,
+              234.77000427246094,
+              174.8119659423828
+            ],
+            "text": "2585 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 20,
+            "page": 4,
+            "bbox": [
+              207.77000427246094,
+              182.16798400878906,
+              234.77000427246094,
+              195.4519805908203
+            ],
+            "text": "2400 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 21,
+            "page": 4,
+            "bbox": [
+              207.77000427246094,
+              202.92799377441406,
+              234.77000427246094,
+              216.2119903564453
+            ],
+            "text": "8000 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 22,
+            "page": 4,
+            "bbox": [
+              207.77000427246094,
+              223.5979766845703,
+              234.77000427246094,
+              236.88197326660156
+            ],
+            "text": "5875 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 23,
+            "page": 4,
+            "bbox": [
+              207.77000427246094,
+              244.3579864501953,
+              234.77000427246094,
+              257.6419982910156
+            ],
+            "text": "7000 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 24,
+            "page": 4,
+            "bbox": [
+              207.77000427246094,
+              264.9980163574219,
+              234.77000427246094,
+              278.2820129394531
+            ],
+            "text": "8768 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 25,
+            "page": 4,
+            "bbox": [
+              207.77000427246094,
+              285.7580261230469,
+              234.77000427246094,
+              299.0420227050781
+            ],
+            "text": "7800 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 26,
+            "page": 4,
+            "bbox": [
+              207.77000427246094,
+              306.3979797363281,
+              234.77000427246094,
+              319.6819763183594
+            ],
+            "text": "3699 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 27,
+            "page": 4,
+            "bbox": [
+              207.77000427246094,
+              327.15802001953125,
+              234.77000427246094,
+              340.4420166015625
+            ],
+            "text": "2775 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 28,
+            "page": 4,
+            "bbox": [
+              207.77000427246094,
+              347.7980041503906,
+              234.77000427246094,
+              361.0820007324219
+            ],
+            "text": "4886 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 29,
+            "page": 4,
+            "bbox": [
+              207.77000427246094,
+              368.5580139160156,
+              234.77000427246094,
+              381.8420104980469
+            ],
+            "text": "7263 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 30,
+            "page": 4,
+            "bbox": [
+              207.77000427246094,
+              389.218017578125,
+              234.77000427246094,
+              402.50201416015625
+            ],
+            "text": "7721 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 31,
+            "page": 4,
+            "bbox": [
+              328.75,
+              140.7680206298828,
+              355.75,
+              154.05201721191406
+            ],
+            "text": "2088 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 32,
+            "page": 4,
+            "bbox": [
+              328.75,
+              161.52796936035156,
+              355.75,
+              174.8119659423828
+            ],
+            "text": "2442 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 33,
+            "page": 4,
+            "bbox": [
+              328.75,
+              182.16798400878906,
+              355.75,
+              195.4519805908203
+            ],
+            "text": "1900 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 34,
+            "page": 4,
+            "bbox": [
+              328.75,
+              202.92799377441406,
+              355.75,
+              216.2119903564453
+            ],
+            "text": "7491 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 35,
+            "page": 4,
+            "bbox": [
+              328.75,
+              223.5979766845703,
+              355.75,
+              236.88197326660156
+            ],
+            "text": "5715 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 36,
+            "page": 4,
+            "bbox": [
+              328.75,
+              244.3579864501953,
+              355.75,
+              257.6419982910156
+            ],
+            "text": "6604 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 37,
+            "page": 4,
+            "bbox": [
+              328.75,
+              264.9980163574219,
+              355.75,
+              278.2820129394531
+            ],
+            "text": "7006 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 38,
+            "page": 4,
+            "bbox": [
+              328.75,
+              285.7580261230469,
+              355.75,
+              299.0420227050781
+            ],
+            "text": "7542 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 39,
+            "page": 4,
+            "bbox": [
+              328.75,
+              306.3979797363281,
+              355.75,
+              319.6819763183594
+            ],
+            "text": "3603 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 40,
+            "page": 4,
+            "bbox": [
+              328.75,
+              327.15802001953125,
+              355.75,
+              340.4420166015625
+            ],
+            "text": "2288 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 41,
+            "page": 4,
+            "bbox": [
+              328.75,
+              347.7980041503906,
+              355.75,
+              361.0820007324219
+            ],
+            "text": "3406 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 42,
+            "page": 4,
+            "bbox": [
+              328.75,
+              368.5580139160156,
+              355.75,
+              381.8420104980469
+            ],
+            "text": "6961 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 43,
+            "page": 4,
+            "bbox": [
+              328.75,
+              389.218017578125,
+              355.75,
+              402.50201416015625
+            ],
+            "text": "7678 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 44,
+            "page": 4,
+            "bbox": [
+              461.6199951171875,
+              140.7680206298828,
+              495.5799865722656,
+              154.05201721191406
+            ],
+            "text": "-11.86 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 45,
+            "page": 4,
+            "bbox": [
+              464.6199951171875,
+              161.52796936035156,
+              492.5799865722656,
+              174.8119659423828
+            ],
+            "text": "-5.53 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 46,
+            "page": 4,
+            "bbox": [
+              461.6199951171875,
+              182.16798400878906,
+              495.5799865722656,
+              195.4519805908203
+            ],
+            "text": "-20.83 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 47,
+            "page": 4,
+            "bbox": [
+              464.6199951171875,
+              202.92799377441406,
+              492.5799865722656,
+              216.2119903564453
+            ],
+            "text": "-6.36 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 48,
+            "page": 4,
+            "bbox": [
+              464.6199951171875,
+              223.5979766845703,
+              492.5799865722656,
+              236.88197326660156
+            ],
+            "text": "-2.72 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 49,
+            "page": 4,
+            "bbox": [
+              464.6199951171875,
+              244.3579864501953,
+              492.5799865722656,
+              257.6419982910156
+            ],
+            "text": "-5.66 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 50,
+            "page": 4,
+            "bbox": [
+              461.6199951171875,
+              264.9980163574219,
+              495.5799865722656,
+              278.2820129394531
+            ],
+            "text": "-20.10 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 51,
+            "page": 4,
+            "bbox": [
+              464.6199951171875,
+              285.7580261230469,
+              492.5799865722656,
+              299.0420227050781
+            ],
+            "text": "-3.31 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 52,
+            "page": 4,
+            "bbox": [
+              464.6199951171875,
+              306.3979797363281,
+              492.5799865722656,
+              319.6819763183594
+            ],
+            "text": "-2.60 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 53,
+            "page": 4,
+            "bbox": [
+              461.6199951171875,
+              327.15802001953125,
+              495.5799865722656,
+              340.4420166015625
+            ],
+            "text": "-17.55 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 54,
+            "page": 4,
+            "bbox": [
+              461.6199951171875,
+              347.7980041503906,
+              495.5799865722656,
+              361.0820007324219
+            ],
+            "text": "-30.29 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 55,
+            "page": 4,
+            "bbox": [
+              464.6199951171875,
+              368.5580139160156,
+              492.5799865722656,
+              381.8420104980469
+            ],
+            "text": "-4.16 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 56,
+            "page": 4,
+            "bbox": [
+              464.6199951171875,
+              389.218017578125,
+              492.5799865722656,
+              402.50201416015625
+            ],
+            "text": "-0.56 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 57,
+            "page": 4,
+            "bbox": [
+              21.600000381469727,
+              415.7380065917969,
+              400.3640441894531,
+              460.4620056152344
+            ],
+            "text": " \n \n \nAll the commodities are currently going below MSP during this week.\n",
+            "type": "text",
+            "source_type": "pdfblock"
+          }
+        ]
+      }
+    },
+    {
+      "page": 5,
+      "elements": [
+        {
+          "type": "text",
+          "page": 5,
+          "content": "Details of each Segment \n1. \nRAINFALL \n \nDuring the week (21 May – 27 May 2026), lower rainfall was observed, as compared to Long Period \nAverage (LPA) by 3%. Cumulative seasonal rainfall (01st March to 27 May 2026) is higher than \nLPA by 1%. \n \n     \n    \n       \n \nRainfall Forecast: \n• \nNormal Rainfall activity likely over central and Northeast India. Below normal rainfall is likely over \nsouth peninsular India and western Himalayan region. \n  \n  \nTEMPERATURE: MIN & MAX \n \nWeek 1 (29 May – 04 June):  \n Maximum temperatures are very likely to be 5-6 Deg Celsius below normal over most parts of the \ncountry during the week except over North-Eastern States. \n \nWeek 2 (05 June  - 11 June 2026):  \n Low probability of Heatwave conditions likely over some parts of northwest India (Rajasthan, south \nPunjab, south Haryana, south Uttar Pradesh) during some days of the week.\n[IMAGE page_05_img_1]\n[IMAGE page_05_img_2]\n[IMAGE page_05_img_3]",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": null,
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_1.jpg"
+        },
+        {
+          "type": "image",
+          "page": 5,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_1.jpg",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "Details of each Segment \n1. \nRAINFALL \n \nDuring the week (21 May – 27 May 2026), lower rainfall was observed, as compared to Long Period \nAverage (LPA) by 3%. Cumulative seasonal rainfall (01st March to 27 May 2026) is higher than \nLPA by 1%. \n \n     \n    \n       \n \nRainfall Forecast: \n• \nNormal Rainfall activity likely over central and Northeast India. Below normal rainfall is likely over \nsouth peninsular India and western Himalayan region. \n  \n  \nTEMPERATURE: MIN & MAX \n \nWeek 1 (29 May – 04 June):  \n Maximum temperatures are very likely to be 5-6 Deg Celsius below normal over most parts of the \ncountry during the week except over North-Eastern States. \n \nWeek 2 (05 June  - 11 June 2026):  \n Low probability of Heatwave conditions likely over some parts of northwest India (Rajasthan, south \nPunjab, south Haryana, south Uttar Pradesh) during some days of the week.\n[IMAGE page_05_img_1]\n[IMAGE page_05_img_2]\n[IMAGE page_05_img_3]",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_2.jpg"
+        },
+        {
+          "type": "image",
+          "page": 5,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_2.jpg",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_1.jpg",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_3.jpg"
+        },
+        {
+          "type": "image",
+          "page": 5,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_3.jpg",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_2.jpg",
+          "next_element": null
+        }
+      ],
+      "metadata": {
+        "page": 5,
+        "width": 595.4400024414062,
+        "height": 841.6799926757812,
+        "blocks": [
+          {
+            "block_index": 1,
+            "page": 5,
+            "bbox": [
+              222.77000427246094,
+              27.779640197753906,
+              388.8999938964844,
+              45.44736099243164
+            ],
+            "text": "Details of each Segment \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 2,
+            "page": 5,
+            "bbox": [
+              42.47999954223633,
+              58.37998962402344,
+              136.5800018310547,
+              71.83199310302734
+            ],
+            "text": "1. \nRAINFALL \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 3,
+            "page": 5,
+            "bbox": [
+              49.560001373291016,
+              78.67999267578125,
+              559.66796875,
+              125.1319808959961
+            ],
+            "text": " \nDuring the week (21 May – 27 May 2026), lower rainfall was observed, as compared to Long Period \nAverage (LPA) by 3%. Cumulative seasonal rainfall (01st March to 27 May 2026) is higher than \nLPA by 1%. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 4,
+            "page": 5,
+            "bbox": [
+              70.94400024414062,
+              132.7279815673828,
+              73.94400024414062,
+              146.01197814941406
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 5,
+            "page": 5,
+            "bbox": [
+              72.14399719238281,
+              374.9900207519531,
+              563.4959716796875,
+              388.4420166015625
+            ],
+            "text": "     \n    \n       \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 6,
+            "page": 5,
+            "bbox": [
+              67.58399963378906,
+              470.3380126953125,
+              70.58399963378906,
+              483.62200927734375
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 7,
+            "page": 5,
+            "bbox": [
+              67.58399963378906,
+              496.3780212402344,
+              162.86000061035156,
+              509.6620178222656
+            ],
+            "text": "Rainfall Forecast: \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 8,
+            "page": 5,
+            "bbox": [
+              49.560001373291016,
+              521.77001953125,
+              560.76806640625,
+              551.0919799804688
+            ],
+            "text": "• \nNormal Rainfall activity likely over central and Northeast India. Below normal rainfall is likely over \nsouth peninsular India and western Himalayan region. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 9,
+            "page": 5,
+            "bbox": [
+              70.94400024414062,
+              553.64794921875,
+              76.94400024414062,
+              582.77197265625
+            ],
+            "text": "  \n  \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 10,
+            "page": 5,
+            "bbox": [
+              49.560001373291016,
+              590.74560546875,
+              193.4600067138672,
+              601.7713623046875
+            ],
+            "text": "TEMPERATURE: MIN & MAX \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 11,
+            "page": 5,
+            "bbox": [
+              49.560001373291016,
+              613.64794921875,
+              52.560001373291016,
+              626.9319458007812
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 12,
+            "page": 5,
+            "bbox": [
+              49.560001373291016,
+              636.5679931640625,
+              192.88999938964844,
+              649.8519897460938
+            ],
+            "text": "Week 1 (29 May – 04 June):  \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 13,
+            "page": 5,
+            "bbox": [
+              49.560001373291016,
+              661.8400268554688,
+              560.9619750976562,
+              676.4920043945312
+            ],
+            "text": " Maximum temperatures are very likely to be 5-6 Deg Celsius below normal over most parts of the \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 14,
+            "page": 5,
+            "bbox": [
+              67.58399963378906,
+              679.0479736328125,
+              361.989990234375,
+              692.3319702148438
+            ],
+            "text": "country during the week except over North-Eastern States. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 15,
+            "page": 5,
+            "bbox": [
+              67.58399963378906,
+              699.927001953125,
+              68.33399963378906,
+              703.2479858398438
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 16,
+            "page": 5,
+            "bbox": [
+              67.58399963378906,
+              714.1079711914062,
+              238.97000122070312,
+              727.3919677734375
+            ],
+            "text": "Week 2 (05 June  - 11 June 2026):  \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 17,
+            "page": 5,
+            "bbox": [
+              49.560001373291016,
+              739.260009765625,
+              560.7120361328125,
+              753.9119873046875
+            ],
+            "text": " Low probability of Heatwave conditions likely over some parts of northwest India (Rajasthan, south \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 18,
+            "page": 5,
+            "bbox": [
+              67.58399963378906,
+              756.5879516601562,
+              433.8999938964844,
+              769.8719482421875
+            ],
+            "text": "Punjab, south Haryana, south Uttar Pradesh) during some days of the week. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          }
+        ]
+      }
+    },
+    {
+      "page": 6,
+      "elements": [
+        {
+          "type": "text",
+          "page": 6,
+          "content": " Above-normal (+1.6 to +3.0°C) to appreciably above-normal (+3.1 to +5.0°C) maximum \ntemperatures are likely over some parts of East India (Bihar, Gangetic West Bengal & Odisha). Near-\nnormal weekly maximum temperatures (-1.5 to +1.5°C) are likely across the rest of the country \nduring the week. \n Maximum temperatures are very likely to be 4-5 Deg Celsius below normal over most parts of the \ncountry during week 2 except many parts of Odisha, West Bengal, Bihar, and Arunachal \nPradesh, West Rajasthan, Punjab. \n \n \n \n \n \n \nAdvance of Southwest Monsoon 2026: \n \n The Northern Limit of Monsoon continues to pass through 10°N/60°E, 9°/65°E, 8.5°N/70°E, \n8°N/75°E, 7.8°N/78°E, 8°N/80°E, 10°N/80°E, 13°N/87°E, 16°N/90°E, 19°N/93°E and 22°N/97°E. \n \n Conditions are favourable for further advance of southwest monsoon into some more parts of \nsouthwest & southeast Arabian Sea, Lakshadweep Islands, some parts of Kerala & Tamil Nadu,\n[IMAGE page_06_img_1]\n[IMAGE page_06_img_2]",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": null,
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_06_img_1.jpg"
+        },
+        {
+          "type": "image",
+          "page": 6,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_06_img_1.jpg",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": " Above-normal (+1.6 to +3.0°C) to appreciably above-normal (+3.1 to +5.0°C) maximum \ntemperatures are likely over some parts of East India (Bihar, Gangetic West Bengal & Odisha). Near-\nnormal weekly maximum temperatures (-1.5 to +1.5°C) are likely across the rest of the country \nduring the week. \n Maximum temperatures are very likely to be 4-5 Deg Celsius below normal over most parts of the \ncountry during week 2 except many parts of Odisha, West Bengal, Bihar, and Arunachal \nPradesh, West Rajasthan, Punjab. \n \n \n \n \n \n \nAdvance of Southwest Monsoon 2026: \n \n The Northern Limit of Monsoon continues to pass through 10°N/60°E, 9°/65°E, 8.5°N/70°E, \n8°N/75°E, 7.8°N/78°E, 8°N/80°E, 10°N/80°E, 13°N/87°E, 16°N/90°E, 19°N/93°E and 22°N/97°E. \n \n Conditions are favourable for further advance of southwest monsoon into some more parts of \nsouthwest & southeast Arabian Sea, Lakshadweep Islands, some parts of Kerala & Tamil Nadu,\n[IMAGE page_06_img_1]\n[IMAGE page_06_img_2]",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_06_img_2.jpg"
+        },
+        {
+          "type": "image",
+          "page": 6,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_06_img_2.jpg",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_06_img_1.jpg",
+          "next_element": null
+        }
+      ],
+      "metadata": {
+        "page": 6,
+        "width": 595.4400024414062,
+        "height": 841.6799926757812,
+        "blocks": [
+          {
+            "block_index": 1,
+            "page": 6,
+            "bbox": [
+              49.560001373291016,
+              26.700010299682617,
+              560.9500122070312,
+              41.35200881958008
+            ],
+            "text": " Above-normal (+1.6 to +3.0°C) to appreciably above-normal (+3.1 to +5.0°C) maximum \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 2,
+            "page": 6,
+            "bbox": [
+              49.560001373291016,
+              43.90797424316406,
+              560.8779296875,
+              105.69197845458984
+            ],
+            "text": "temperatures are likely over some parts of East India (Bihar, Gangetic West Bengal & Odisha). Near-\nnormal weekly maximum temperatures (-1.5 to +1.5°C) are likely across the rest of the country \nduring the week. \n Maximum temperatures are very likely to be 4-5 Deg Celsius below normal over most parts of the \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 3,
+            "page": 6,
+            "bbox": [
+              67.58399963378906,
+              108.24800109863281,
+              561.0759887695312,
+              169.17201232910156
+            ],
+            "text": "country during week 2 except many parts of Odisha, West Bengal, Bihar, and Arunachal \nPradesh, West Rajasthan, Punjab. \n \n \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 4,
+            "page": 6,
+            "bbox": [
+              157.5800018310547,
+              366.6556396484375,
+              501.9100036621094,
+              390.74200439453125
+            ],
+            "text": " \n \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 5,
+            "page": 6,
+            "bbox": [
+              492.3399963378906,
+              603.465576171875,
+              494.8299865722656,
+              614.4913330078125
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 6,
+            "page": 6,
+            "bbox": [
+              157.5800018310547,
+              621.465576171875,
+              160.07000732421875,
+              632.4913330078125
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 7,
+            "page": 6,
+            "bbox": [
+              45.0,
+              642.2080078125,
+              242.80999755859375,
+              655.4920043945312
+            ],
+            "text": "Advance of Southwest Monsoon 2026: \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 8,
+            "page": 6,
+            "bbox": [
+              45.0,
+              663.0880126953125,
+              48.0,
+              676.3720092773438
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 9,
+            "page": 6,
+            "bbox": [
+              63.14400100708008,
+              678.1599731445312,
+              560.8198852539062,
+              692.8119506835938
+            ],
+            "text": " The Northern Limit of Monsoon continues to pass through 10°N/60°E, 9°/65°E, 8.5°N/70°E, \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 10,
+            "page": 6,
+            "bbox": [
+              63.14400100708008,
+              695.5079956054688,
+              561.0,
+              741.3119506835938
+            ],
+            "text": "8°N/75°E, 7.8°N/78°E, 8°N/80°E, 10°N/80°E, 13°N/87°E, 16°N/90°E, 19°N/93°E and 22°N/97°E. \n \n Conditions are favourable for further advance of southwest monsoon into some more parts of \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 11,
+            "page": 6,
+            "bbox": [
+              81.14399719238281,
+              743.9879760742188,
+              560.7960205078125,
+              757.27197265625
+            ],
+            "text": "southwest & southeast Arabian Sea, Lakshadweep Islands, some parts of Kerala & Tamil Nadu, \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          }
+        ]
+      }
+    },
+    {
+      "page": 7,
+      "elements": [
+        {
+          "type": "text",
+          "page": 7,
+          "content": "some more parts of southwest, westcentral, eastcentral & northeast Bay of Bengal, and remaining \nparts of southeast Bay of Bengal during next 3-4 days. \n \n \nForecast for the 2026 Southwest Monsoon Rainfall over the Country as a Whole \n \n Quantitatively, the southwest monsoon seasonal rainfall over the country as a whole is likely to be \n90% of the Long Period Average (LPA) with a model error of ±4%, indicating that below normal \nor less rainfall is most likely. \n The long period average (LPA) of rainfall over the country is about 87 cm based on the data of 1971-\n2020 \n  The Probability forecast suggests 84% probability for below normal or less rainfall for the country as \na whole against climatological probability of 33%.\n[IMAGE page_07_img_1]\n[IMAGE page_07_img_2]",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": null,
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_07_img_1.jpg"
+        },
+        {
+          "type": "image",
+          "page": 7,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_07_img_1.jpg",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "some more parts of southwest, westcentral, eastcentral & northeast Bay of Bengal, and remaining \nparts of southeast Bay of Bengal during next 3-4 days. \n \n \nForecast for the 2026 Southwest Monsoon Rainfall over the Country as a Whole \n \n Quantitatively, the southwest monsoon seasonal rainfall over the country as a whole is likely to be \n90% of the Long Period Average (LPA) with a model error of ±4%, indicating that below normal \nor less rainfall is most likely. \n The long period average (LPA) of rainfall over the country is about 87 cm based on the data of 1971-\n2020 \n  The Probability forecast suggests 84% probability for below normal or less rainfall for the country as \na whole against climatological probability of 33%.\n[IMAGE page_07_img_1]\n[IMAGE page_07_img_2]",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_07_img_2.jpg"
+        },
+        {
+          "type": "image",
+          "page": 7,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_07_img_2.jpg",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_07_img_1.jpg",
+          "next_element": null
+        }
+      ],
+      "metadata": {
+        "page": 7,
+        "width": 595.4400024414062,
+        "height": 841.6799926757812,
+        "blocks": [
+          {
+            "block_index": 1,
+            "page": 7,
+            "bbox": [
+              49.560001373291016,
+              27.227983474731445,
+              560.9620361328125,
+              72.43196868896484
+            ],
+            "text": "some more parts of southwest, westcentral, eastcentral & northeast Bay of Bengal, and remaining \nparts of southeast Bay of Bengal during next 3-4 days. \n \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 2,
+            "page": 7,
+            "bbox": [
+              438.1000061035156,
+              310.0156555175781,
+              440.5899963378906,
+              321.0413818359375
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 3,
+            "page": 7,
+            "bbox": [
+              49.560001373291016,
+              328.2139892578125,
+              485.3800048828125,
+              342.469970703125
+            ],
+            "text": "Forecast for the 2026 Southwest Monsoon Rainfall over the Country as a Whole \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 4,
+            "page": 7,
+            "bbox": [
+              49.560001373291016,
+              354.9980163574219,
+              561.052001953125,
+              384.7220153808594
+            ],
+            "text": " \n Quantitatively, the southwest monsoon seasonal rainfall over the country as a whole is likely to be \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 5,
+            "page": 7,
+            "bbox": [
+              49.560001373291016,
+              387.4179992675781,
+              560.998046875,
+              433.2220153808594
+            ],
+            "text": "90% of the Long Period Average (LPA) with a model error of ±4%, indicating that below normal \nor less rainfall is most likely. \n The long period average (LPA) of rainfall over the country is about 87 cm based on the data of 1971-\n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 6,
+            "page": 7,
+            "bbox": [
+              49.560001373291016,
+              435.89801025390625,
+              560.7081909179688,
+              465.86199951171875
+            ],
+            "text": "2020 \n  The Probability forecast suggests 84% probability for below normal or less rainfall for the country as \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 7,
+            "page": 7,
+            "bbox": [
+              49.560001373291016,
+              468.4179992675781,
+              313.6300048828125,
+              497.6620178222656
+            ],
+            "text": "a whole against climatological probability of 33%. \n \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 8,
+            "page": 7,
+            "bbox": [
+              511.5400085449219,
+              726.2279663085938,
+              514.5400390625,
+              739.511962890625
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 9,
+            "page": 7,
+            "bbox": [
+              121.58000183105469,
+              746.2679443359375,
+              124.58000183105469,
+              759.5519409179688
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          }
+        ]
+      }
+    },
+    {
+      "page": 8,
+      "elements": [
+        {
+          "type": "text",
+          "page": 8,
+          "content": "2. \n  CROPS \n \nRabi Crops - Area coverage \n \nAs per 3rd Advance Estimates 2025-26, about 116.3 percent of the normal area has been \nsown under the summer season crops. \n \nRice: About 32.63 lakh ha area coverage under Summer Rice has been reported as \ncompared to 33.28 lakh ha during the corresponding period of last year.  \n \nPulses: About 27.16 lakh ha area coverage has been reported compared to 27.07 lakh ha \nduring the corresponding period of last year.  \n \nOilseeds: About 10.62 lakh ha area coverage has been reported compared to 9.51 lakh ha \nduring the corresponding period of last year. \nFinal Summer Crops Area coverage as per Third Advance Estimates 2025-26 \n  \nArea in Lakh Ha \nIncrease / \nDecrease \nCrop \nNormal \n2025-26 \n2024-25 \nRice \n31.49 \n32.63 \n33.28 \n-0.65 \nMaize \n6.98 \n10.58 \n8.50 \n2.08 \nJowar \n0.34 \n0.43 \n0.36 \n0.07 \nBajra \n4.43 \n5.83 \n5.20 \n0.63 \nShree Anna /Nutri Cereals \n4.77 \n6.26 \n5.56 \n0.70 \nNutri/Coarse Cereals \n11.75 \n16.84 \n14.05 \n2.79 \nCereals \n43.23 \n49.48 \n47.33 \n2.15 \nUrad \n2.96 \n4.34 \n3.58 \n0.76 \nMoong \n20.44 \n22.82 \n23.49 \n-0.67 \nTotal Pulses \n23.40 \n27.16 \n27.07 \n0.09 \nTotal Food Grains \n66.64 \n76.64 \n74.40 \n2.24 \nGroundnut \n3.40 \n5.23 \n4.20 \n1.03 \nSesamum \n4.66 \n5.04 \n4.96 \n0.08 \nSunflower \n0.34 \n0.35 \n0.35 \n0.00 \nTotal Oil Seeds \n8.40 \n10.62 \n9.51 \n1.11 \nTotal \n75.04 \n87.26 \n83.91 \n3.35 \nSource: Agriculture Statistics Division (3ʳᵈ Advance Estimates for 2025-26) \nDisclaimer : For Kharif and Rabi crop-wise estimated area, please see advanced estimates released by Ministry of Agriculture \nand Farmers' Welfare available on UPAg (upag.gov.in)",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": null,
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_08_table_1.csv"
+        },
+        {
+          "type": "table",
+          "page": 8,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_08_table_1.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "2. \n  CROPS \n \nRabi Crops - Area coverage \n \nAs per 3rd Advance Estimates 2025-26, about 116.3 percent of the normal area has been \nsown under the summer season crops. \n \nRice: About 32.63 lakh ha area coverage under Summer Rice has been reported as \ncompared to 33.28 lakh ha during the corresponding period of last year.  \n \nPulses: About 27.16 lakh ha area coverage has been reported compared to 27.07 lakh ha \nduring the corresponding period of last year.  \n \nOilseeds: About 10.62 lakh ha area coverage has been reported compared to 9.51 lakh ha \nduring the corresponding period of last year. \nFinal Summer Crops Area coverage as per Third Advance Estimates 2025-26 \n  \nArea in Lakh Ha \nIncrease / \nDecrease \nCrop \nNormal \n2025-26 \n2024-25 \nRice \n31.49 \n32.63 \n33.28 \n-0.65 \nMaize \n6.98 \n10.58 \n8.50 \n2.08 \nJowar \n0.34 \n0.43 \n0.36 \n0.07 \nBajra \n4.43 \n5.83 \n5.20 \n0.63 \nShree Anna /Nutri Cereals \n4.77 \n6.26 \n5.56 \n0.70 \nNutri/Coarse Cereals \n11.75 \n16.84 \n14.05 \n2.79 \nCereals \n43.23 \n49.48 \n47.33 \n2.15 \nUrad \n2.96 \n4.34 \n3.58 \n0.76 \nMoong \n20.44 \n22.82 \n23.49 \n-0.67 \nTotal Pulses \n23.40 \n27.16 \n27.07 \n0.09 \nTotal Food Grains \n66.64 \n76.64 \n74.40 \n2.24 \nGroundnut \n3.40 \n5.23 \n4.20 \n1.03 \nSesamum \n4.66 \n5.04 \n4.96 \n0.08 \nSunflower \n0.34 \n0.35 \n0.35 \n0.00 \nTotal Oil Seeds \n8.40 \n10.62 \n9.51 \n1.11 \nTotal \n75.04 \n87.26 \n83.91 \n3.35 \nSource: Agriculture Statistics Division (3ʳᵈ Advance Estimates for 2025-26) \nDisclaimer : For Kharif and Rabi crop-wise estimated area, please see advanced estimates released by Ministry of Agriculture \nand Farmers' Welfare available on UPAg (upag.gov.in)",
+          "next_element": null
+        }
+      ],
+      "metadata": {
+        "page": 8,
+        "width": 595.4400024414062,
+        "height": 841.6799926757812,
+        "blocks": [
+          {
+            "block_index": 1,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              27.07161521911621,
+              50.55000305175781,
+              31.45533561706543
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 2,
+            "page": 8,
+            "bbox": [
+              42.47999954223633,
+              40.25999450683594,
+              120.62000274658203,
+              53.71199417114258
+            ],
+            "text": "2. \n  CROPS \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 3,
+            "page": 8,
+            "bbox": [
+              70.94400024414062,
+              61.029380798339844,
+              72.2040023803711,
+              66.60865783691406
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 4,
+            "page": 8,
+            "bbox": [
+              29.15999984741211,
+              72.96797180175781,
+              174.86000061035156,
+              86.2519760131836
+            ],
+            "text": "Rabi Crops - Area coverage \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 5,
+            "page": 8,
+            "bbox": [
+              51.599998474121094,
+              98.74400329589844,
+              561.075927734375,
+              130.36398315429688
+            ],
+            "text": " \nAs per 3rd Advance Estimates 2025-26, about 116.3 percent of the normal area has been \nsown under the summer season crops. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 6,
+            "page": 8,
+            "bbox": [
+              51.599998474121094,
+              133.0640106201172,
+              560.7318115234375,
+              164.68399047851562
+            ],
+            "text": " \nRice: About 32.63 lakh ha area coverage under Summer Rice has been reported as \ncompared to 33.28 lakh ha during the corresponding period of last year.  \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 7,
+            "page": 8,
+            "bbox": [
+              51.599998474121094,
+              167.2639617919922,
+              560.9620361328125,
+              198.88400268554688
+            ],
+            "text": " \nPulses: About 27.16 lakh ha area coverage has been reported compared to 27.07 lakh ha \nduring the corresponding period of last year.  \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 8,
+            "page": 8,
+            "bbox": [
+              51.599998474121094,
+              201.58396911621094,
+              561.112060546875,
+              233.20401000976562
+            ],
+            "text": " \nOilseeds: About 10.62 lakh ha area coverage has been reported compared to 9.51 lakh ha \nduring the corresponding period of last year. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 9,
+            "page": 8,
+            "bbox": [
+              106.0999984741211,
+              247.8379669189453,
+              504.4599914550781,
+              261.1219787597656
+            ],
+            "text": "Final Summer Crops Area coverage as per Third Advance Estimates 2025-26 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 10,
+            "page": 8,
+            "bbox": [
+              114.9800033569336,
+              273.5180358886719,
+              541.9840087890625,
+              292.2019958496094
+            ],
+            "text": "  \nArea in Lakh Ha \nIncrease / \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 11,
+            "page": 8,
+            "bbox": [
+              103.0999984741211,
+              292.7179870605469,
+              540.239990234375,
+              306.0019836425781
+            ],
+            "text": "Decrease \nCrop \nNormal \n2025-26 \n2024-25 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 12,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              312.0379943847656,
+              561.1199951171875,
+              325.3219909667969
+            ],
+            "text": "Rice \n31.49 \n32.63 \n33.28 \n-0.65 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 13,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              331.1180114746094,
+              561.1199951171875,
+              344.4020080566406
+            ],
+            "text": "Maize \n6.98 \n10.58 \n8.50 \n2.08 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 14,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              350.4380187988281,
+              561.1199951171875,
+              363.7220153808594
+            ],
+            "text": "Jowar \n0.34 \n0.43 \n0.36 \n0.07 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 15,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              369.75799560546875,
+              561.1199951171875,
+              383.0419921875
+            ],
+            "text": "Bajra \n4.43 \n5.83 \n5.20 \n0.63 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 16,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              395.3380126953125,
+              561.1199951171875,
+              408.62200927734375
+            ],
+            "text": "Shree Anna /Nutri Cereals \n4.77 \n6.26 \n5.56 \n0.70 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 17,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              421.01800537109375,
+              561.1199951171875,
+              434.302001953125
+            ],
+            "text": "Nutri/Coarse Cereals \n11.75 \n16.84 \n14.05 \n2.79 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 18,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              440.5780029296875,
+              561.1199951171875,
+              453.86199951171875
+            ],
+            "text": "Cereals \n43.23 \n49.48 \n47.33 \n2.15 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 19,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              459.65802001953125,
+              561.1199951171875,
+              472.9420166015625
+            ],
+            "text": "Urad \n2.96 \n4.34 \n3.58 \n0.76 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 20,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              478.9779968261719,
+              561.1199951171875,
+              492.2619934082031
+            ],
+            "text": "Moong \n20.44 \n22.82 \n23.49 \n-0.67 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 21,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              498.5379943847656,
+              561.1199951171875,
+              511.8219909667969
+            ],
+            "text": "Total Pulses \n23.40 \n27.16 \n27.07 \n0.09 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 22,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              517.7379760742188,
+              561.1199951171875,
+              531.02197265625
+            ],
+            "text": "Total Food Grains \n66.64 \n76.64 \n74.40 \n2.24 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 23,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              536.8479614257812,
+              561.1199951171875,
+              550.1319580078125
+            ],
+            "text": "Groundnut \n3.40 \n5.23 \n4.20 \n1.03 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 24,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              556.16796875,
+              561.1199951171875,
+              569.4519653320312
+            ],
+            "text": "Sesamum \n4.66 \n5.04 \n4.96 \n0.08 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 25,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              575.4879760742188,
+              561.1199951171875,
+              588.77197265625
+            ],
+            "text": "Sunflower \n0.34 \n0.35 \n0.35 \n0.00 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 26,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              595.0479736328125,
+              561.1199951171875,
+              608.3319702148438
+            ],
+            "text": "Total Oil Seeds \n8.40 \n10.62 \n9.51 \n1.11 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 27,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              614.2479858398438,
+              561.1199951171875,
+              627.531982421875
+            ],
+            "text": "Total \n75.04 \n87.26 \n83.91 \n3.35 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 28,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              638.025634765625,
+              370.5999755859375,
+              649.0513916015625
+            ],
+            "text": "Source: Agriculture Statistics Division (3ʳᵈ Advance Estimates for 2025-26) \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 29,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              658.7069702148438,
+              559.6644897460938,
+              684.6088256835938
+            ],
+            "text": "Disclaimer : For Kharif and Rabi crop-wise estimated area, please see advanced estimates released by Ministry of Agriculture \nand Farmers' Welfare available on UPAg (upag.gov.in) \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 30,
+            "page": 8,
+            "bbox": [
+              49.560001373291016,
+              696.4833984375,
+              52.31999969482422,
+              708.7046508789062
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 31,
+            "page": 8,
+            "bbox": [
+              36.0,
+              724.427978515625,
+              39.0,
+              737.7119750976562
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 32,
+            "page": 8,
+            "bbox": [
+              36.0,
+              750.2279663085938,
+              39.0,
+              763.511962890625
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          }
+        ]
+      }
+    },
+    {
+      "page": 9,
+      "elements": [
+        {
+          "type": "text",
+          "page": 9,
+          "content": "3. \nRESERVOIR STORAGE  \nAs on 29 May, 2026, the current live storage in 166 reservoirs was 56.300 BCM (30.67%) of total live \ncapacity of 183.565 BCM. \n 125 reservoirs having storage more than 80% of normal storage. \n 26 reservoirs having storage 51% to 80%. \n 15 reservoirs having storage upto 50%. \n \n      \n \nSource: CWC \n \n \nThe status for 166 major reservoirs of the country \nPeriod \nStorage as % of FRL Storage as % of Last \nYear \nStorage as % of 10 Year’s \nAverage Level \nCurrent Week \n31 \n111 \n119 \nLast Week \n33 \n113 \n124\n[IMAGE page_09_img_1]\n[IMAGE page_09_img_2]",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": null,
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_09_table_1.csv"
+        },
+        {
+          "type": "table",
+          "page": 9,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_09_table_1.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "3. \nRESERVOIR STORAGE  \nAs on 29 May, 2026, the current live storage in 166 reservoirs was 56.300 BCM (30.67%) of total live \ncapacity of 183.565 BCM. \n 125 reservoirs having storage more than 80% of normal storage. \n 26 reservoirs having storage 51% to 80%. \n 15 reservoirs having storage upto 50%. \n \n      \n \nSource: CWC \n \n \nThe status for 166 major reservoirs of the country \nPeriod \nStorage as % of FRL Storage as % of Last \nYear \nStorage as % of 10 Year’s \nAverage Level \nCurrent Week \n31 \n111 \n119 \nLast Week \n33 \n113 \n124\n[IMAGE page_09_img_1]\n[IMAGE page_09_img_2]",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_09_img_1.jpg"
+        },
+        {
+          "type": "image",
+          "page": 9,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_09_img_1.jpg",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_09_table_1.csv",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_09_img_2.jpg"
+        },
+        {
+          "type": "image",
+          "page": 9,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_09_img_2.jpg",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_09_img_1.jpg",
+          "next_element": null
+        }
+      ],
+      "metadata": {
+        "page": 9,
+        "width": 595.4400024414062,
+        "height": 841.6799926757812,
+        "blocks": [
+          {
+            "block_index": 1,
+            "page": 9,
+            "bbox": [
+              42.47999954223633,
+              27.299972534179688,
+              209.92999267578125,
+              40.75197219848633
+            ],
+            "text": "3. \nRESERVOIR STORAGE  \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 2,
+            "page": 9,
+            "bbox": [
+              49.560001373291016,
+              66.84797668457031,
+              561.0399780273438,
+              93.93196868896484
+            ],
+            "text": "As on 29 May, 2026, the current live storage in 166 reservoirs was 56.300 BCM (30.67%) of total live \ncapacity of 183.565 BCM. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 3,
+            "page": 9,
+            "bbox": [
+              67.58399963378906,
+              103.8800048828125,
+              397.1499938964844,
+              152.01197814941406
+            ],
+            "text": " 125 reservoirs having storage more than 80% of normal storage. \n 26 reservoirs having storage 51% to 80%. \n 15 reservoirs having storage upto 50%. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 4,
+            "page": 9,
+            "bbox": [
+              85.58399963378906,
+              262.3580017089844,
+              88.58399963378906,
+              275.6419982910156
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 5,
+            "page": 9,
+            "bbox": [
+              320.5899963378906,
+              480.65802001953125,
+              338.5899963378906,
+              493.9420166015625
+            ],
+            "text": "      \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 6,
+            "page": 9,
+            "bbox": [
+              558.1199951171875,
+              681.5855712890625,
+              560.6099853515625,
+              692.611328125
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 7,
+            "page": 9,
+            "bbox": [
+              229.61000061035156,
+              702.4679565429688,
+              295.1300048828125,
+              715.751953125
+            ],
+            "text": "Source: CWC \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 8,
+            "page": 9,
+            "bbox": [
+              49.560001373291016,
+              728.3880004882812,
+              52.560001373291016,
+              741.6719970703125
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 9,
+            "page": 9,
+            "bbox": [
+              58.58399963378906,
+              754.18798828125,
+              61.58399963378906,
+              767.4719848632812
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 10,
+            "page": 9,
+            "bbox": [
+              220.3699951171875,
+              171.86563110351562,
+              436.2699890136719,
+              182.891357421875
+            ],
+            "text": "The status for 166 major reservoirs of the country \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 11,
+            "page": 9,
+            "bbox": [
+              81.38400268554688,
+              190.56800842285156,
+              428.3259582519531,
+              203.8520050048828
+            ],
+            "text": "Period \nStorage as % of FRL Storage as % of Last \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 12,
+            "page": 9,
+            "bbox": [
+              318.54998779296875,
+              204.3679962158203,
+              346.8699951171875,
+              217.65199279785156
+            ],
+            "text": "Year \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 13,
+            "page": 9,
+            "bbox": [
+              433.05999755859375,
+              190.56800842285156,
+              569.0320434570312,
+              217.65199279785156
+            ],
+            "text": "Storage as % of 10 Year’s \nAverage Level \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 14,
+            "page": 9,
+            "bbox": [
+              79.94400024414062,
+              223.4779815673828,
+              520.5399780273438,
+              237.00196838378906
+            ],
+            "text": "Current Week \n31 \n111 \n119 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 15,
+            "page": 9,
+            "bbox": [
+              79.94400024414062,
+              242.79798889160156,
+              520.5399780273438,
+              256.3219909667969
+            ],
+            "text": "Last Week \n33 \n113 \n124 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          }
+        ]
+      }
+    },
+    {
+      "page": 10,
+      "elements": [
+        {
+          "type": "text",
+          "page": 10,
+          "content": "5. \nREMOTE SENSING BASED SOIL MOISTURE OBSERVATION \n \nSoil Moisture Observation  \n \nSoil moisture during 22 May – 28 May 2026 is similar to the average of the past 10 years in major parts \nof Rajasthan, Gujarat, Madhya Pradesh, Maharashtra, Telangana, Northern and Central Karnataka, \nKerala, Punjab, Bihar, Jharkhand, Uttarakhand, Uttar Pradesh H.P., Tamil Nadu and J & K. \n \n]Soil moisture is better than the average of the past 10 years in parts of Northeastern parts of Bihar, \nNorthern West Bengal and Ladakh. \n \nIt was lower than average of past 10 years in pockets of Odisha, Chhattisgarh, Haryana, Southern \nKarnataka, Southern West Bengal, parts of Andhra Pradesh and the Northeastern States. \n \n \n \n \n.\n[IMAGE page_10_img_1]",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": null,
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_10_img_1.jpg"
+        },
+        {
+          "type": "image",
+          "page": 10,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_10_img_1.jpg",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "5. \nREMOTE SENSING BASED SOIL MOISTURE OBSERVATION \n \nSoil Moisture Observation  \n \nSoil moisture during 22 May – 28 May 2026 is similar to the average of the past 10 years in major parts \nof Rajasthan, Gujarat, Madhya Pradesh, Maharashtra, Telangana, Northern and Central Karnataka, \nKerala, Punjab, Bihar, Jharkhand, Uttarakhand, Uttar Pradesh H.P., Tamil Nadu and J & K. \n \n]Soil moisture is better than the average of the past 10 years in parts of Northeastern parts of Bihar, \nNorthern West Bengal and Ladakh. \n \nIt was lower than average of past 10 years in pockets of Odisha, Chhattisgarh, Haryana, Southern \nKarnataka, Southern West Bengal, parts of Andhra Pradesh and the Northeastern States. \n \n \n \n \n.\n[IMAGE page_10_img_1]",
+          "next_element": null
+        }
+      ],
+      "metadata": {
+        "page": 10,
+        "width": 595.4400024414062,
+        "height": 841.6799926757812,
+        "blocks": [
+          {
+            "block_index": 1,
+            "page": 10,
+            "bbox": [
+              49.560001373291016,
+              27.467973709106445,
+              52.560001373291016,
+              40.75197219848633
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 2,
+            "page": 10,
+            "bbox": [
+              49.560001373291016,
+              48.34797668457031,
+              432.3399963378906,
+              61.63197708129883
+            ],
+            "text": "5. \nREMOTE SENSING BASED SOIL MOISTURE OBSERVATION \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 3,
+            "page": 10,
+            "bbox": [
+              67.58399963378906,
+              70.20796203613281,
+              70.58399963378906,
+              83.4919662475586
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 4,
+            "page": 10,
+            "bbox": [
+              67.58399963378906,
+              95.40797424316406,
+              208.97000122070312,
+              108.69197845458984
+            ],
+            "text": "Soil Moisture Observation  \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 5,
+            "page": 10,
+            "bbox": [
+              31.559999465942383,
+              128.52796936035156,
+              561.0759887695312,
+              173.49195861816406
+            ],
+            "text": " \nSoil moisture during 22 May – 28 May 2026 is similar to the average of the past 10 years in major parts \nof Rajasthan, Gujarat, Madhya Pradesh, Maharashtra, Telangana, Northern and Central Karnataka, \nKerala, Punjab, Bihar, Jharkhand, Uttarakhand, Uttar Pradesh H.P., Tamil Nadu and J & K. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 6,
+            "page": 10,
+            "bbox": [
+              31.559999465942383,
+              176.04798889160156,
+              560.9180297851562,
+              205.17201232910156
+            ],
+            "text": " \n]Soil moisture is better than the average of the past 10 years in parts of Northeastern parts of Bihar, \nNorthern West Bengal and Ladakh. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 7,
+            "page": 10,
+            "bbox": [
+              31.559999465942383,
+              207.8479766845703,
+              561.0279541015625,
+              237.00196838378906
+            ],
+            "text": " \nIt was lower than average of past 10 years in pockets of Odisha, Chhattisgarh, Haryana, Southern \nKarnataka, Southern West Bengal, parts of Andhra Pradesh and the Northeastern States. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 8,
+            "page": 10,
+            "bbox": [
+              85.58399963378906,
+              253.7179718017578,
+              88.58399963378906,
+              267.0019836425781
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 9,
+            "page": 10,
+            "bbox": [
+              534.1199951171875,
+              529.9779663085938,
+              537.1199951171875,
+              543.261962890625
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 10,
+            "page": 10,
+            "bbox": [
+              49.560001373291016,
+              557.1279907226562,
+              52.560001373291016,
+              570.4119873046875
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 11,
+            "page": 10,
+            "bbox": [
+              69.6240005493164,
+              587.0079956054688,
+              72.6240005493164,
+              600.2919921875
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 12,
+            "page": 10,
+            "bbox": [
+              312.30999755859375,
+              616.2879638671875,
+              318.30999755859375,
+              629.5719604492188
+            ],
+            "text": ". \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 13,
+            "page": 10,
+            "bbox": [
+              69.6240005493164,
+              645.447998046875,
+              72.6240005493164,
+              658.7319946289062
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 14,
+            "page": 10,
+            "bbox": [
+              69.6240005493164,
+              674.7279663085938,
+              72.6240005493164,
+              688.011962890625
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          }
+        ]
+      }
+    },
+    {
+      "page": 11,
+      "elements": [
+        {
+          "type": "text",
+          "page": 11,
+          "content": "6.   FERTILIZER POSITION: \nAvailability of fertilizer has been found comfortable. Details of Requirement, Receipt, Availability, \nSales and Stock position of Major Fertilizers (Urea, DAP, MOP, Complex and SSP) during Kharif \n2026 as on 29.05.2026 is given below: \n(Unit : in Lakh MT) \nProduct \nTotal \nRequirement \nKharif 2026 \nTotal sale \nduring \nKharif 2026 \n(as on 29/05/26) \nAvailability \nSales \nClosing stock \nUREA \n194.02 \n27.96 \n101.49 \n33.53 \n67.96 \nDAP \n59.17 \n6.93 \n27.00 \n8.45 \n18.55 \nMOP \n17.57 \n2.00 \n10.48 \n2.37 \n8.11 \nNPK \n84.99 \n11.61 \n63.07 \n15.01 \n48.06 \nSSP \n34.81 \n4.72 \n30.32 \n6.02 \n24.30 \nTOTAL \n390.56 \n53.23 \n232.36 \n65.37 \n166.99 \n \n· \nIn case of DAP, The opening stock of Kharif 2026 as compared to the opening stock of Kharif \n2025 is more by 11.78 LMT \n· \nAs on 29th May, 2026 the availability of DAP is 27.00 LMT against the requirement of 8.75 LMT \nduring the ongoing Kharif 2026 season. \n· \nAs on 29th May 2026, adequate stock of Urea (101.49 LMT), DAP (27.00 LMT), MOP (10.48 \nLMT), NPK (63.07 LMT) and SSP (30.32 LMT) is available. \n \n \n \n7.      PEST & DISEASE \n \n The overall intensity of pests and diseases remained below the Economic Threshold Level.",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": null,
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_11_table_1.csv"
+        },
+        {
+          "type": "table",
+          "page": 11,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_11_table_1.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "6.   FERTILIZER POSITION: \nAvailability of fertilizer has been found comfortable. Details of Requirement, Receipt, Availability, \nSales and Stock position of Major Fertilizers (Urea, DAP, MOP, Complex and SSP) during Kharif \n2026 as on 29.05.2026 is given below: \n(Unit : in Lakh MT) \nProduct \nTotal \nRequirement \nKharif 2026 \nTotal sale \nduring \nKharif 2026 \n(as on 29/05/26) \nAvailability \nSales \nClosing stock \nUREA \n194.02 \n27.96 \n101.49 \n33.53 \n67.96 \nDAP \n59.17 \n6.93 \n27.00 \n8.45 \n18.55 \nMOP \n17.57 \n2.00 \n10.48 \n2.37 \n8.11 \nNPK \n84.99 \n11.61 \n63.07 \n15.01 \n48.06 \nSSP \n34.81 \n4.72 \n30.32 \n6.02 \n24.30 \nTOTAL \n390.56 \n53.23 \n232.36 \n65.37 \n166.99 \n \n· \nIn case of DAP, The opening stock of Kharif 2026 as compared to the opening stock of Kharif \n2025 is more by 11.78 LMT \n· \nAs on 29th May, 2026 the availability of DAP is 27.00 LMT against the requirement of 8.75 LMT \nduring the ongoing Kharif 2026 season. \n· \nAs on 29th May 2026, adequate stock of Urea (101.49 LMT), DAP (27.00 LMT), MOP (10.48 \nLMT), NPK (63.07 LMT) and SSP (30.32 LMT) is available. \n \n \n \n7.      PEST & DISEASE \n \n The overall intensity of pests and diseases remained below the Economic Threshold Level.",
+          "next_element": null
+        }
+      ],
+      "metadata": {
+        "page": 11,
+        "width": 595.4400024414062,
+        "height": 841.6799926757812,
+        "blocks": [
+          {
+            "block_index": 1,
+            "page": 11,
+            "bbox": [
+              49.560001373291016,
+              27.467973709106445,
+              52.560001373291016,
+              40.75197219848633
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 2,
+            "page": 11,
+            "bbox": [
+              49.560001373291016,
+              50.38801574707031,
+              210.2899932861328,
+              63.67201614379883
+            ],
+            "text": "6.   FERTILIZER POSITION: \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 3,
+            "page": 11,
+            "bbox": [
+              69.6240005493164,
+              75.96797180175781,
+              561.1199951171875,
+              121.0520248413086
+            ],
+            "text": "Availability of fertilizer has been found comfortable. Details of Requirement, Receipt, Availability, \nSales and Stock position of Major Fertilizers (Urea, DAP, MOP, Complex and SSP) during Kharif \n2026 as on 29.05.2026 is given below: \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 4,
+            "page": 11,
+            "bbox": [
+              461.5,
+              133.56800842285156,
+              561.1199951171875,
+              146.8520050048828
+            ],
+            "text": "(Unit : in Lakh MT) \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 5,
+            "page": 11,
+            "bbox": [
+              93.38400268554688,
+              183.4879913330078,
+              137.66000366210938,
+              196.77198791503906
+            ],
+            "text": "Product \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 6,
+            "page": 11,
+            "bbox": [
+              170.05999755859375,
+              168.6079864501953,
+              240.2479705810547,
+              196.77198791503906
+            ],
+            "text": "Total \nRequirement \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 7,
+            "page": 11,
+            "bbox": [
+              172.82000732421875,
+              198.3679962158203,
+              237.52999877929688,
+              211.65199279785156
+            ],
+            "text": "Kharif 2026 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 8,
+            "page": 11,
+            "bbox": [
+              265.7300109863281,
+              168.6079864501953,
+              318.4219970703125,
+              181.89198303222656
+            ],
+            "text": "Total sale \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 9,
+            "page": 11,
+            "bbox": [
+              259.7300109863281,
+              183.4879913330078,
+              324.42999267578125,
+              211.65199279785156
+            ],
+            "text": "during \nKharif 2026 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 10,
+            "page": 11,
+            "bbox": [
+              406.1499938964844,
+              168.6079864501953,
+              489.2200012207031,
+              181.89198303222656
+            ],
+            "text": "(as on 29/05/26) \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 11,
+            "page": 11,
+            "bbox": [
+              340.75,
+              193.0879669189453,
+              559.4400024414062,
+              206.37196350097656
+            ],
+            "text": "Availability \nSales \nClosing stock \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 12,
+            "page": 11,
+            "bbox": [
+              77.54399871826172,
+              228.5180206298828,
+              538.7999877929688,
+              243.12196350097656
+            ],
+            "text": "UREA \n194.02 \n27.96 \n101.49 \n33.53 \n67.96 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 13,
+            "page": 11,
+            "bbox": [
+              77.54399871826172,
+              259.9579772949219,
+              538.7999877929688,
+              274.4419860839844
+            ],
+            "text": "DAP \n59.17 \n6.93 \n27.00 \n8.45 \n18.55 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 14,
+            "page": 11,
+            "bbox": [
+              77.54399871826172,
+              291.2779846191406,
+              535.7999877929688,
+              305.7619934082031
+            ],
+            "text": "MOP \n17.57 \n2.00 \n10.48 \n2.37 \n8.11 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 15,
+            "page": 11,
+            "bbox": [
+              77.54399871826172,
+              322.718017578125,
+              538.7999877929688,
+              337.2019958496094
+            ],
+            "text": "NPK \n84.99 \n11.61 \n63.07 \n15.01 \n48.06 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 16,
+            "page": 11,
+            "bbox": [
+              77.54399871826172,
+              354.0379943847656,
+              538.7999877929688,
+              368.5220031738281
+            ],
+            "text": "SSP \n34.81 \n4.72 \n30.32 \n6.02 \n24.30 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 17,
+            "page": 11,
+            "bbox": [
+              72.98400115966797,
+              385.6180114746094,
+              541.7999877929688,
+              399.98199462890625
+            ],
+            "text": "TOTAL \n390.56 \n53.23 \n232.36 \n65.37 \n166.99 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 18,
+            "page": 11,
+            "bbox": [
+              67.58399963378906,
+              411.77801513671875,
+              561.1199951171875,
+              562.17138671875
+            ],
+            "text": " \n· \nIn case of DAP, The opening stock of Kharif 2026 as compared to the opening stock of Kharif \n2025 is more by 11.78 LMT \n· \nAs on 29th May, 2026 the availability of DAP is 27.00 LMT against the requirement of 8.75 LMT \nduring the ongoing Kharif 2026 season. \n· \nAs on 29th May 2026, adequate stock of Urea (101.49 LMT), DAP (27.00 LMT), MOP (10.48 \nLMT), NPK (63.07 LMT) and SSP (30.32 LMT) is available. \n \n \n \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 19,
+            "page": 11,
+            "bbox": [
+              49.560001373291016,
+              571.64794921875,
+              177.02000427246094,
+              584.9319458007812
+            ],
+            "text": "7.      PEST & DISEASE \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 20,
+            "page": 11,
+            "bbox": [
+              49.560001373291016,
+              592.2879638671875,
+              52.560001373291016,
+              605.5719604492188
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 21,
+            "page": 11,
+            "bbox": [
+              67.58399963378906,
+              614.6799926757812,
+              524.8599853515625,
+              629.3319702148438
+            ],
+            "text": " The overall intensity of pests and diseases remained below the Economic Threshold Level. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 22,
+            "page": 11,
+            "bbox": [
+              40.560001373291016,
+              637.2879638671875,
+              43.560001373291016,
+              650.5719604492188
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 23,
+            "page": 11,
+            "bbox": [
+              40.560001373291016,
+              658.0479736328125,
+              43.560001373291016,
+              671.3319702148438
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          }
+        ]
+      }
+    },
+    {
+      "page": 12,
+      "elements": [
+        {
+          "type": "text",
+          "page": 12,
+          "content": "8.    PRICES: \n \nMandi Wholesale prices (In Rs./Quintal) \nCommodities \nAll India Weekly Average Mandi Prices (In Rs./Quintal) \n% Variation Over \nArrival \n(In \nMetric \nTonnes) \nCurrent \nMSP \nPrices \nas on \n29.05.26 \nOne \nWeek \nAgo \n22.05.26 \n1 Month \nAgo \n29.04.26 \n1 Year \nAgo \n29.05.25 \nLast \nWeek \nLast \nMonth \n1 Year \nAgo   \nArrivals  \nas on \n29.05.26 \nCereals \nPaddy(Common) \n2369 \n2088 \n2229 \n2252 \n2138 \n-6.29 \n-7.25 \n-2.30 \n59904 \nWheat  \n2585 \n2442 \n2456 \n2515 \n2500 \n-0.57 \n-2.91 \n-2.31 \n138826 \nMaize \n2400 \n1900 \n1901 \n1770 \n2057 \n-0.03 \n7.35 \n-7.62 \n45616 \nPulses \nArhar whole \n8000 \n7491 \n7693 \n7261 \n6519 \n-2.62 \n3.17 \n14.92 \n5769 \nGram whole \n5875 \n5715 \n5655 \n5271 \n5560 \n1.05 \n8.43 \n2.79 \n16273 \nMasur Whole \n7000 \n6604 \n7030 \n7110 \n6443 \n-6.07 \n-7.11 \n2.50 \n1474 \nMoong Whole \n8768 \n7006 \n7502 \n7859 \n7049 \n-6.61 \n-10.86 \n-0.61 \n6557 \nUrad Whole \n7800 \n7542 \n7689 \n5945 \n7167 \n-1.90 \n26.86 \n5.24 \n3783 \nMillets \nJowar \n3699 \n3603 \n3823 \n3321 \n2981 \n-5.76 \n8.49 \n20.84 \n2786 \nBajra \n2775 \n2288 \n2313 \n2056 \n2396 \n-1.05 \n11.30 \n-4.49 \n3988 \nRagi \n4886 \n3406 \n3489 \n3457 \n3368 \n-2.40 \n-1.49 \n1.10 \n315 \nOil Seeds \nGroundnut \n7263 \n6961 \n7255 \n6414 \n5086 \n-4.05 \n8.53 \n36.85 \n4785 \nMustard \n6200 \n7275 \n7093 \n6381 \n6168 \n2.56 \n14.00 \n17.95 \n10048 \nSoyabean \n5328 \n7122 \n7128 \n5924 \n4181 \n-0.08 \n20.23 \n70.34 \n17398 \nSesamum \n9846 \n11283 \n11321 \n12620 \n9870 \n-0.33 \n-10.59 \n14.32 \n3288 \nSunflower \n7721 \n7678 \n7348 \n6498 \n5121 \n4.50 \n18.16 \n49.94 \n1095 \n Horticulture \nOnion \n  \n1162 \n1042 \n1099 \n1158 \n11.53 \n5.76 \n0.34 \n52142 \nPotato \n  \n737 \n729 \n657 \n1192 \n1.05 \n12.05 \n-38.20 \n37209 \nTomato \n  \n1915 \n2143 \n2045 \n1072 \n-10.64 \n-6.37 \n78.64 \n13968 \nSource: Agmarknet  \n \nMandi wholesale prices of all crops during this week are running below the MSP, except for Mustard, \nSoyabean  and Sesamum. Prices of tomato has gone higher during this week compared to last week.",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": null,
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_1.csv"
+        },
+        {
+          "type": "table",
+          "page": 12,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_1.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "8.    PRICES: \n \nMandi Wholesale prices (In Rs./Quintal) \nCommodities \nAll India Weekly Average Mandi Prices (In Rs./Quintal) \n% Variation Over \nArrival \n(In \nMetric \nTonnes) \nCurrent \nMSP \nPrices \nas on \n29.05.26 \nOne \nWeek \nAgo \n22.05.26 \n1 Month \nAgo \n29.04.26 \n1 Year \nAgo \n29.05.25 \nLast \nWeek \nLast \nMonth \n1 Year \nAgo   \nArrivals  \nas on \n29.05.26 \nCereals \nPaddy(Common) \n2369 \n2088 \n2229 \n2252 \n2138 \n-6.29 \n-7.25 \n-2.30 \n59904 \nWheat  \n2585 \n2442 \n2456 \n2515 \n2500 \n-0.57 \n-2.91 \n-2.31 \n138826 \nMaize \n2400 \n1900 \n1901 \n1770 \n2057 \n-0.03 \n7.35 \n-7.62 \n45616 \nPulses \nArhar whole \n8000 \n7491 \n7693 \n7261 \n6519 \n-2.62 \n3.17 \n14.92 \n5769 \nGram whole \n5875 \n5715 \n5655 \n5271 \n5560 \n1.05 \n8.43 \n2.79 \n16273 \nMasur Whole \n7000 \n6604 \n7030 \n7110 \n6443 \n-6.07 \n-7.11 \n2.50 \n1474 \nMoong Whole \n8768 \n7006 \n7502 \n7859 \n7049 \n-6.61 \n-10.86 \n-0.61 \n6557 \nUrad Whole \n7800 \n7542 \n7689 \n5945 \n7167 \n-1.90 \n26.86 \n5.24 \n3783 \nMillets \nJowar \n3699 \n3603 \n3823 \n3321 \n2981 \n-5.76 \n8.49 \n20.84 \n2786 \nBajra \n2775 \n2288 \n2313 \n2056 \n2396 \n-1.05 \n11.30 \n-4.49 \n3988 \nRagi \n4886 \n3406 \n3489 \n3457 \n3368 \n-2.40 \n-1.49 \n1.10 \n315 \nOil Seeds \nGroundnut \n7263 \n6961 \n7255 \n6414 \n5086 \n-4.05 \n8.53 \n36.85 \n4785 \nMustard \n6200 \n7275 \n7093 \n6381 \n6168 \n2.56 \n14.00 \n17.95 \n10048 \nSoyabean \n5328 \n7122 \n7128 \n5924 \n4181 \n-0.08 \n20.23 \n70.34 \n17398 \nSesamum \n9846 \n11283 \n11321 \n12620 \n9870 \n-0.33 \n-10.59 \n14.32 \n3288 \nSunflower \n7721 \n7678 \n7348 \n6498 \n5121 \n4.50 \n18.16 \n49.94 \n1095 \n Horticulture \nOnion \n  \n1162 \n1042 \n1099 \n1158 \n11.53 \n5.76 \n0.34 \n52142 \nPotato \n  \n737 \n729 \n657 \n1192 \n1.05 \n12.05 \n-38.20 \n37209 \nTomato \n  \n1915 \n2143 \n2045 \n1072 \n-10.64 \n-6.37 \n78.64 \n13968 \nSource: Agmarknet  \n \nMandi wholesale prices of all crops during this week are running below the MSP, except for Mustard, \nSoyabean  and Sesamum. Prices of tomato has gone higher during this week compared to last week.",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_2.csv"
+        },
+        {
+          "type": "table",
+          "page": 12,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_2.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_1.csv",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_3.csv"
+        },
+        {
+          "type": "table",
+          "page": 12,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_3.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_2.csv",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_4.csv"
+        },
+        {
+          "type": "table",
+          "page": 12,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_4.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_3.csv",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_5.csv"
+        },
+        {
+          "type": "table",
+          "page": 12,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_5.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_4.csv",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_6.csv"
+        },
+        {
+          "type": "table",
+          "page": 12,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_6.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_5.csv",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_7.csv"
+        },
+        {
+          "type": "table",
+          "page": 12,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_7.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_6.csv",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_8.csv"
+        },
+        {
+          "type": "table",
+          "page": 12,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_8.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_7.csv",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_9.csv"
+        },
+        {
+          "type": "table",
+          "page": 12,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_9.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_8.csv",
+          "next_element": null
+        }
+      ],
+      "metadata": {
+        "page": 12,
+        "width": 595.4400024414062,
+        "height": 841.6799926757812,
+        "blocks": [
+          {
+            "block_index": 1,
+            "page": 12,
+            "bbox": [
+              49.560001373291016,
+              32.525604248046875,
+              124.06999969482422,
+              43.55132293701172
+            ],
+            "text": "8.    PRICES: \n \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 2,
+            "page": 12,
+            "bbox": [
+              49.560001373291016,
+              55.78797912597656,
+              260.3299865722656,
+              69.07198333740234
+            ],
+            "text": "Mandi Wholesale prices (In Rs./Quintal) \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 3,
+            "page": 12,
+            "bbox": [
+              26.520000457763672,
+              123.00621795654297,
+              92.67288208007812,
+              134.1116180419922
+            ],
+            "text": "Commodities \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 4,
+            "page": 12,
+            "bbox": [
+              109.58000183105469,
+              99.48619842529297,
+              495.2288818359375,
+              110.59159851074219
+            ],
+            "text": "All India Weekly Average Mandi Prices (In Rs./Quintal) \n% Variation Over \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 5,
+            "page": 12,
+            "bbox": [
+              540.9600219726562,
+              82.32616424560547,
+              575.302001953125,
+              93.43156433105469
+            ],
+            "text": "Arrival \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 6,
+            "page": 12,
+            "bbox": [
+              537.3599853515625,
+              93.72618865966797,
+              579.0088500976562,
+              127.87156677246094
+            ],
+            "text": "(In \nMetric \nTonnes) \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 7,
+            "page": 12,
+            "bbox": [
+              109.94000244140625,
+              140.76617431640625,
+              148.6943817138672,
+              151.87156677246094
+            ],
+            "text": "Current \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 8,
+            "page": 12,
+            "bbox": [
+              117.13999938964844,
+              152.28619384765625,
+              141.62887573242188,
+              163.39158630371094
+            ],
+            "text": "MSP \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 9,
+            "page": 12,
+            "bbox": [
+              165.86000061035156,
+              135.0062255859375,
+              198.5188446044922,
+              146.1116180419922
+            ],
+            "text": "Prices \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 10,
+            "page": 12,
+            "bbox": [
+              161.3000030517578,
+              146.52618408203125,
+              202.9788818359375,
+              169.15159606933594
+            ],
+            "text": "as on \n29.05.26 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 11,
+            "page": 12,
+            "bbox": [
+              222.1699981689453,
+              129.2462158203125,
+              250.98428344726562,
+              151.87156677246094
+            ],
+            "text": "One \nWeek \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 12,
+            "page": 12,
+            "bbox": [
+              215.69000244140625,
+              152.28619384765625,
+              257.3388977050781,
+              174.91160583496094
+            ],
+            "text": "Ago \n22.05.26 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 13,
+            "page": 12,
+            "bbox": [
+              270.04998779296875,
+              135.0062255859375,
+              311.7189025878906,
+              169.15159606933594
+            ],
+            "text": "1 Month \nAgo \n29.04.26 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 14,
+            "page": 12,
+            "bbox": [
+              325.75,
+              135.0062255859375,
+              367.3988952636719,
+              169.15159606933594
+            ],
+            "text": "1 Year \nAgo \n29.05.25 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 15,
+            "page": 12,
+            "bbox": [
+              386.7099914550781,
+              140.76617431640625,
+              415.6388854980469,
+              163.39158630371094
+            ],
+            "text": "Last \nWeek \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 16,
+            "page": 12,
+            "bbox": [
+              435.82000732421875,
+              140.76617431640625,
+              468.5888977050781,
+              163.39158630371094
+            ],
+            "text": "Last \nMonth \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 17,
+            "page": 12,
+            "bbox": [
+              488.5,
+              140.76617431640625,
+              521.5088500976562,
+              163.39158630371094
+            ],
+            "text": "1 Year \nAgo   \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 18,
+            "page": 12,
+            "bbox": [
+              538.2000122070312,
+              135.0062255859375,
+              580.9183349609375,
+              146.1116180419922
+            ],
+            "text": "Arrivals  \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 19,
+            "page": 12,
+            "bbox": [
+              537.3599853515625,
+              146.52618408203125,
+              579.0088500976562,
+              169.15159606933594
+            ],
+            "text": "as on \n29.05.26 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 20,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              178.326171875,
+              58.44887924194336,
+              189.4315643310547
+            ],
+            "text": "Cereals \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 21,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              193.086181640625,
+              573.4888305664062,
+              206.7115936279297
+            ],
+            "text": "Paddy(Common) \n2369 \n2088 \n2229 \n2252 \n2138 \n-6.29 \n-7.25 \n-2.30 \n59904 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 22,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              210.126220703125,
+              576.2488403320312,
+              224.2316131591797
+            ],
+            "text": "Wheat  \n2585 \n2442 \n2456 \n2515 \n2500 \n-0.57 \n-2.91 \n-2.31 \n138826 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 23,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              228.03619384765625,
+              573.4888305664062,
+              242.02159118652344
+            ],
+            "text": "Maize \n2400 \n1900 \n1901 \n1770 \n2057 \n-0.03 \n7.35 \n-7.62 \n45616 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 24,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              248.55621337890625,
+              54.60887908935547,
+              259.66162109375
+            ],
+            "text": "Pulses \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 25,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              263.55621337890625,
+              570.60888671875,
+              277.66162109375
+            ],
+            "text": "Arhar whole \n8000 \n7491 \n7693 \n7261 \n6519 \n-2.62 \n3.17 \n14.92 \n5769 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 26,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              281.43621826171875,
+              573.4888305664062,
+              295.421630859375
+            ],
+            "text": "Gram whole \n5875 \n5715 \n5655 \n5271 \n5560 \n1.05 \n8.43 \n2.79 \n16273 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 27,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              299.19622802734375,
+              570.60888671875,
+              313.18157958984375
+            ],
+            "text": "Masur Whole \n7000 \n6604 \n7030 \n7110 \n6443 \n-6.07 \n-7.11 \n2.50 \n1474 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 28,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              316.9561767578125,
+              570.60888671875,
+              331.06158447265625
+            ],
+            "text": "Moong Whole \n8768 \n7006 \n7502 \n7859 \n7049 \n-6.61 \n-10.86 \n-0.61 \n6557 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 29,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              334.8362121582031,
+              570.60888671875,
+              348.82159423828125
+            ],
+            "text": "Urad Whole \n7800 \n7542 \n7689 \n5945 \n7167 \n-1.90 \n26.86 \n5.24 \n3783 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 30,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              355.356201171875,
+              53.408878326416016,
+              366.46160888671875
+            ],
+            "text": "Millets \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 31,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              370.356201171875,
+              570.60888671875,
+              384.46160888671875
+            ],
+            "text": "Jowar \n3699 \n3603 \n3823 \n3321 \n2981 \n-5.76 \n8.49 \n20.84 \n2786 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 32,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              388.2561950683594,
+              570.60888671875,
+              402.2416076660156
+            ],
+            "text": "Bajra \n2775 \n2288 \n2313 \n2056 \n2396 \n-1.05 \n11.30 \n-4.49 \n3988 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 33,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              406.0162048339844,
+              567.848876953125,
+              420.0016174316406
+            ],
+            "text": "Ragi \n4886 \n3406 \n3489 \n3457 \n3368 \n-2.40 \n-1.49 \n1.10 \n315 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 34,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              427.3761901855469,
+              67.952880859375,
+              438.4815979003906
+            ],
+            "text": "Oil Seeds \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 35,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              443.2161865234375,
+              570.60888671875,
+              457.20159912109375
+            ],
+            "text": "Groundnut \n7263 \n6961 \n7255 \n6414 \n5086 \n-4.05 \n8.53 \n36.85 \n4785 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 36,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              460.9761962890625,
+              573.4888305664062,
+              474.96160888671875
+            ],
+            "text": "Mustard \n6200 \n7275 \n7093 \n6381 \n6168 \n2.56 \n14.00 \n17.95 \n10048 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 37,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              478.7362060546875,
+              573.4888305664062,
+              492.84161376953125
+            ],
+            "text": "Soyabean \n5328 \n7122 \n7128 \n5924 \n4181 \n-0.08 \n20.23 \n70.34 \n17398 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 38,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              496.6162109375,
+              570.60888671875,
+              510.6015930175781
+            ],
+            "text": "Sesamum \n9846 \n11283 \n11321 \n12620 \n9870 \n-0.33 \n-10.59 \n14.32 \n3288 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 39,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              514.376220703125,
+              570.60888671875,
+              528.3616333007812
+            ],
+            "text": "Sunflower \n7721 \n7678 \n7348 \n6498 \n5121 \n4.50 \n18.16 \n49.94 \n1095 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 40,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              535.0162353515625,
+              81.75288391113281,
+              546.1216430664062
+            ],
+            "text": " Horticulture \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 41,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              550.0462036132812,
+              573.4888305664062,
+              564.0316162109375
+            ],
+            "text": "Onion \n  \n1162 \n1042 \n1099 \n1158 \n11.53 \n5.76 \n0.34 \n52142 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 42,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              567.8062133789062,
+              573.4888305664062,
+              581.7915649414062
+            ],
+            "text": "Potato \n  \n737 \n729 \n657 \n1192 \n1.05 \n12.05 \n-38.20 \n37209 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 43,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              585.566162109375,
+              573.4888305664062,
+              599.6715698242188
+            ],
+            "text": "Tomato \n  \n1915 \n2143 \n2045 \n1072 \n-10.64 \n-6.37 \n78.64 \n13968 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 44,
+            "page": 12,
+            "bbox": [
+              19.559999465942383,
+              604.6461791992188,
+              117.38888549804688,
+              615.7515869140625
+            ],
+            "text": "Source: Agmarknet  \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 45,
+            "page": 12,
+            "bbox": [
+              49.560001373291016,
+              623.5032958984375,
+              52.31999969482422,
+              635.724609375
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 46,
+            "page": 12,
+            "bbox": [
+              49.560001373291016,
+              651.2080078125,
+              560.6640014648438,
+              680.3319702148438
+            ],
+            "text": "Mandi wholesale prices of all crops during this week are running below the MSP, except for Mustard, \nSoyabean  and Sesamum. Prices of tomato has gone higher during this week compared to last week. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          }
+        ]
+      }
+    },
+    {
+      "page": 13,
+      "elements": [
+        {
+          "type": "text",
+          "page": 13,
+          "content": "Retail Prices (In Rs./Kg.) \n \nCommodities \nAll India Weekly Average Retail Prices (In Rs./Kg) \n% Variation Over \n  \nPrices as \non 29.05.26 \nOne Week \nAgo \n22.05.26 \n1 Month \nAgo \n29.04.26 \n1 Year Ago \n29.05.25 \nLast \nWeek \nLast \nMonth \n1 Year \nAgo   \nCereals \nRice  \n  \n43.23 \n43.17 \n42.93 \n42.67 \n0.14 \n0.70 \n1.31 \nWheat  \n  \n31.05 \n30.93 \n30.97 \n31.46 \n0.39 \n0.26 \n-1.30 \nPulses \nArhar/Tur Dal \n  \n122.47 \n122.48 \n122.39 \n124.54 \n-0.01 \n0.07 \n-1.66 \nGram Dal \n  \n85.34 \n85.21 \n84.89 \n86.52 \n0.15 \n0.53 \n-1.36 \nMasur Dal \n  \n90.04 \n90.00 \n89.50 \n88.12 \n0.04 \n0.60 \n2.18 \nMoong Dal \n  \n111.44 \n111.55 \n111.51 \n111.83 \n-0.10 \n-0.06 \n-0.35 \nUrad Dal \n  \n118.38 \n118.20 \n117.80 \n116.73 \n0.15 \n0.49 \n1.41 \nMillets \nJowar \n  \n43.95 \n43.85 \n43.80 \n43.60 \n0.23 \n0.34 \n0.80 \nBajra \n  \n37.94 \n37.80 \n37.52 \n38.27 \n0.37 \n1.12 \n-0.86 \nRagi \n  \n54.97 \n54.73 \n54.44 \n53.56 \n0.44 \n0.97 \n2.63 \nEdible Oils \nMustard Oil \n  \n190.23 \n189.86 \n189.14 \n170.72 \n0.19 \n0.58 \n11.43 \nSoyabean Oil \n  \n160.79 \n159.92 \n158.45 \n147.46 \n0.54 \n1.48 \n9.04 \nHorticulture \nOnion \n  \n25.67 \n25.72 \n25.03 \n26.09 \n-0.19 \n2.56 \n-1.61 \nPotato \n  \n21.25 \n21.07 \n20.55 \n24.56 \n0.85 \n3.41 \n-13.48 \nTomato \n  \n37.26 \n37.32 \n34.18 \n25.48 \n-0.16 \n9.01 \n46.23 \nSource: Department of Consumer Affairs (DOCA)",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": null,
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_1.csv"
+        },
+        {
+          "type": "table",
+          "page": 13,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_1.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "Retail Prices (In Rs./Kg.) \n \nCommodities \nAll India Weekly Average Retail Prices (In Rs./Kg) \n% Variation Over \n  \nPrices as \non 29.05.26 \nOne Week \nAgo \n22.05.26 \n1 Month \nAgo \n29.04.26 \n1 Year Ago \n29.05.25 \nLast \nWeek \nLast \nMonth \n1 Year \nAgo   \nCereals \nRice  \n  \n43.23 \n43.17 \n42.93 \n42.67 \n0.14 \n0.70 \n1.31 \nWheat  \n  \n31.05 \n30.93 \n30.97 \n31.46 \n0.39 \n0.26 \n-1.30 \nPulses \nArhar/Tur Dal \n  \n122.47 \n122.48 \n122.39 \n124.54 \n-0.01 \n0.07 \n-1.66 \nGram Dal \n  \n85.34 \n85.21 \n84.89 \n86.52 \n0.15 \n0.53 \n-1.36 \nMasur Dal \n  \n90.04 \n90.00 \n89.50 \n88.12 \n0.04 \n0.60 \n2.18 \nMoong Dal \n  \n111.44 \n111.55 \n111.51 \n111.83 \n-0.10 \n-0.06 \n-0.35 \nUrad Dal \n  \n118.38 \n118.20 \n117.80 \n116.73 \n0.15 \n0.49 \n1.41 \nMillets \nJowar \n  \n43.95 \n43.85 \n43.80 \n43.60 \n0.23 \n0.34 \n0.80 \nBajra \n  \n37.94 \n37.80 \n37.52 \n38.27 \n0.37 \n1.12 \n-0.86 \nRagi \n  \n54.97 \n54.73 \n54.44 \n53.56 \n0.44 \n0.97 \n2.63 \nEdible Oils \nMustard Oil \n  \n190.23 \n189.86 \n189.14 \n170.72 \n0.19 \n0.58 \n11.43 \nSoyabean Oil \n  \n160.79 \n159.92 \n158.45 \n147.46 \n0.54 \n1.48 \n9.04 \nHorticulture \nOnion \n  \n25.67 \n25.72 \n25.03 \n26.09 \n-0.19 \n2.56 \n-1.61 \nPotato \n  \n21.25 \n21.07 \n20.55 \n24.56 \n0.85 \n3.41 \n-13.48 \nTomato \n  \n37.26 \n37.32 \n34.18 \n25.48 \n-0.16 \n9.01 \n46.23 \nSource: Department of Consumer Affairs (DOCA)",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_2.csv"
+        },
+        {
+          "type": "table",
+          "page": 13,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_2.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_1.csv",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_3.csv"
+        },
+        {
+          "type": "table",
+          "page": 13,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_3.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_2.csv",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_4.csv"
+        },
+        {
+          "type": "table",
+          "page": 13,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_4.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_3.csv",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_5.csv"
+        },
+        {
+          "type": "table",
+          "page": 13,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_5.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_4.csv",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_6.csv"
+        },
+        {
+          "type": "table",
+          "page": 13,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_6.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_5.csv",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_7.csv"
+        },
+        {
+          "type": "table",
+          "page": 13,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_7.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_6.csv",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_8.csv"
+        },
+        {
+          "type": "table",
+          "page": 13,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_8.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_7.csv",
+          "next_element": null
+        }
+      ],
+      "metadata": {
+        "page": 13,
+        "width": 595.4400024414062,
+        "height": 841.6799926757812,
+        "blocks": [
+          {
+            "block_index": 1,
+            "page": 13,
+            "bbox": [
+              63.14400100708008,
+              32.50801086425781,
+              66.14399719238281,
+              45.79201126098633
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 2,
+            "page": 13,
+            "bbox": [
+              49.560001373291016,
+              53.26802062988281,
+              180.88999938964844,
+              66.5520248413086
+            ],
+            "text": "Retail Prices (In Rs./Kg.) \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 3,
+            "page": 13,
+            "bbox": [
+              49.560001373291016,
+              79.32801818847656,
+              52.560001373291016,
+              92.61202239990234
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 4,
+            "page": 13,
+            "bbox": [
+              47.7599983215332,
+              136.92620849609375,
+              113.90888214111328,
+              148.03160095214844
+            ],
+            "text": "Commodities \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 5,
+            "page": 13,
+            "bbox": [
+              157.33999633789062,
+              109.08617401123047,
+              535.4488525390625,
+              120.19157409667969
+            ],
+            "text": "All India Weekly Average Retail Prices (In Rs./Kg) \n% Variation Over \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 6,
+            "page": 13,
+            "bbox": [
+              137.77999877929688,
+              140.76617431640625,
+              211.25888061523438,
+              163.39158630371094
+            ],
+            "text": "  \nPrices as \non 29.05.26 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 7,
+            "page": 13,
+            "bbox": [
+              224.92999267578125,
+              135.0062255859375,
+              275.91522216796875,
+              146.1116180419922
+            ],
+            "text": "One Week \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 8,
+            "page": 13,
+            "bbox": [
+              229.61000061035156,
+              146.52618408203125,
+              271.2588806152344,
+              169.15159606933594
+            ],
+            "text": "Ago \n22.05.26 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 9,
+            "page": 13,
+            "bbox": [
+              297.19000244140625,
+              135.0062255859375,
+              338.8388977050781,
+              169.15159606933594
+            ],
+            "text": "1 Month \nAgo \n29.04.26 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 10,
+            "page": 13,
+            "bbox": [
+              358.1499938964844,
+              140.76617431640625,
+              458.6288757324219,
+              163.39158630371094
+            ],
+            "text": "1 Year Ago \n29.05.25 \nLast \nWeek \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 11,
+            "page": 13,
+            "bbox": [
+              479.8599853515625,
+              140.76617431640625,
+              512.6288452148438,
+              163.39158630371094
+            ],
+            "text": "Last \nMonth \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 12,
+            "page": 13,
+            "bbox": [
+              529.780029296875,
+              140.76617431640625,
+              562.808837890625,
+              163.39158630371094
+            ],
+            "text": "1 Year \nAgo   \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 13,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              185.88616943359375,
+              72.63288116455078,
+              196.99156188964844
+            ],
+            "text": "Cereals \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 14,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              205.55001831054688,
+              555.8109741210938,
+              220.63157653808594
+            ],
+            "text": "Rice  \n  \n43.23 \n43.17 \n42.93 \n42.67 \n0.14 \n0.70 \n1.31 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 15,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              228.98001098632812,
+              557.3709716796875,
+              244.0615692138672
+            ],
+            "text": "Wheat  \n  \n31.05 \n30.93 \n30.97 \n31.46 \n0.39 \n0.26 \n-1.30 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 16,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              256.2362060546875,
+              68.79288482666016,
+              267.34161376953125
+            ],
+            "text": "Pulses \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 17,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              275.8999938964844,
+              557.3709716796875,
+              290.98162841796875
+            ],
+            "text": "Arhar/Tur Dal \n  \n122.47 \n122.48 \n122.39 \n124.54 \n-0.01 \n0.07 \n-1.66 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 18,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              299.3000183105469,
+              557.3709716796875,
+              314.381591796875
+            ],
+            "text": "Gram Dal \n  \n85.34 \n85.21 \n84.89 \n86.52 \n0.15 \n0.53 \n-1.36 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 19,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              322.8199768066406,
+              555.8109741210938,
+              337.901611328125
+            ],
+            "text": "Masur Dal \n  \n90.04 \n90.00 \n89.50 \n88.12 \n0.04 \n0.60 \n2.18 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 20,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              346.2200012207031,
+              557.3709716796875,
+              361.3016052246094
+            ],
+            "text": "Moong Dal \n  \n111.44 \n111.55 \n111.51 \n111.83 \n-0.10 \n-0.06 \n-0.35 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 21,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              369.739990234375,
+              555.8109741210938,
+              384.70159912109375
+            ],
+            "text": "Urad Dal \n  \n118.38 \n118.20 \n117.80 \n116.73 \n0.15 \n0.49 \n1.41 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 22,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              397.0162048339844,
+              67.59288024902344,
+              408.1216125488281
+            ],
+            "text": "Millets \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 23,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              416.67999267578125,
+              555.8109741210938,
+              431.6416015625
+            ],
+            "text": "Jowar \n  \n43.95 \n43.85 \n43.80 \n43.60 \n0.23 \n0.34 \n0.80 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 24,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              440.0799865722656,
+              557.3709716796875,
+              455.16162109375
+            ],
+            "text": "Bajra \n  \n37.94 \n37.80 \n37.52 \n38.27 \n0.37 \n1.12 \n-0.86 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 25,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              463.47998046875,
+              555.8109741210938,
+              478.5616149902344
+            ],
+            "text": "Ragi \n  \n54.97 \n54.73 \n54.44 \n53.56 \n0.44 \n0.97 \n2.63 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 26,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              490.856201171875,
+              88.23287963867188,
+              501.96160888671875
+            ],
+            "text": "Edible Oils \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 27,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              510.3999938964844,
+              558.3309936523438,
+              525.4816284179688
+            ],
+            "text": "Mustard Oil \n  \n190.23 \n189.86 \n189.14 \n170.72 \n0.19 \n0.58 \n11.43 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 28,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              533.9200439453125,
+              555.8109741210938,
+              548.91162109375
+            ],
+            "text": "Soyabean Oil \n  \n160.79 \n159.92 \n158.45 \n147.46 \n0.54 \n1.48 \n9.04 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 29,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              561.2061767578125,
+              93.15288543701172,
+              572.3115844726562
+            ],
+            "text": "Horticulture \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 30,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              580.75,
+              557.3709716796875,
+              595.8316040039062
+            ],
+            "text": "Onion \n  \n25.67 \n25.72 \n25.03 \n26.09 \n-0.19 \n2.56 \n-1.61 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 31,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              604.27001953125,
+              559.8909912109375,
+              619.3516235351562
+            ],
+            "text": "Potato \n  \n21.25 \n21.07 \n20.55 \n24.56 \n0.85 \n3.41 \n-13.48 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 32,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              627.6700439453125,
+              558.3309936523438,
+              642.7515869140625
+            ],
+            "text": "Tomato \n  \n37.26 \n37.32 \n34.18 \n25.48 \n-0.16 \n9.01 \n46.23 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 33,
+            "page": 13,
+            "bbox": [
+              33.720001220703125,
+              654.9262084960938,
+              269.93890380859375,
+              666.0316162109375
+            ],
+            "text": "Source: Department of Consumer Affairs (DOCA) \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 34,
+            "page": 13,
+            "bbox": [
+              49.560001373291016,
+              678.5679931640625,
+              52.560001373291016,
+              691.8519897460938
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 35,
+            "page": 13,
+            "bbox": [
+              49.560001373291016,
+              704.0433349609375,
+              52.31999969482422,
+              716.2646484375
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          }
+        ]
+      }
+    },
+    {
+      "page": 14,
+      "elements": [
+        {
+          "type": "text",
+          "page": 14,
+          "content": "9.   PROCUREMENT \n \nCentral Pool Stock (As on 16.05.2026): Actual stock of Rice was 397.05 LMT against Buffer norm of \n135.80 LMT.  Actual stock of wheat was 465.10 LMT against Buffer Norm of 74.60 LMT. Therefore, \nActual stock of Rice & Wheat together was 862.15 LMT against buffer norm of 210.40 LMT. \no Buffer norm changes quarterly, above-mentioned norm is as on 1st April, it changes next on \n1st July and so on. \nAll India Procurement of Paddy/Rice during KMS 2024-25 \n                                                                           As on 28.05.2026 (Figures in LMT) \nCrop \nRice \nProcurement \nEstimates \nduring KMS \n2025-26 \n(Estimates in \nterms of Paddy) \nKMS 2025-26 \nKMS 2024-25 \nProgressive \nPaddy \nprocurement  \nProgressive \nprocurement in \nterms of Rice \n(Percentage of \ntarget achieved) \nProgressive \nCorresponding \npaddy \nProcurement \nProgressive \nCorresponding \nProcurement  in \nterms of Rice \nKharif \n486.59 \n(719.31) \n713.44 \n479.56 \n(98.56%) \n685.35 \n460.34 \nRabi \n79.57 \n(118.12) \n74.18 \n49.85 \n(62.65%) \n71.72 \n48.16 \nKharif + \nRabi \n566.16 \n(837.43) \n787.62 \n529.41 \n(93.51 %) \n757.07 \n508.5 \n (Source: FCI Portal)   \n \nAll India Procurement of Wheat during RMS 2025-26 & RMS 2024-25 \nAs on 28.052026  (Figures in LMT) \nWheat Procurement Estimates \nduring RMS 2026-27 ( LMTs) \nProgressive Wheat \nProcurement during RMS \n2026-27 \nProgressive Corresponding Wheat \nProcurement during RMS 2025-\n26 \n345.99 \n347.79 \n297.75 \n (Source: FCI Portal)   \n \n**********************",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": null,
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_14_table_1.csv"
+        },
+        {
+          "type": "table",
+          "page": 14,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_14_table_1.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "9.   PROCUREMENT \n \nCentral Pool Stock (As on 16.05.2026): Actual stock of Rice was 397.05 LMT against Buffer norm of \n135.80 LMT.  Actual stock of wheat was 465.10 LMT against Buffer Norm of 74.60 LMT. Therefore, \nActual stock of Rice & Wheat together was 862.15 LMT against buffer norm of 210.40 LMT. \no Buffer norm changes quarterly, above-mentioned norm is as on 1st April, it changes next on \n1st July and so on. \nAll India Procurement of Paddy/Rice during KMS 2024-25 \n                                                                           As on 28.05.2026 (Figures in LMT) \nCrop \nRice \nProcurement \nEstimates \nduring KMS \n2025-26 \n(Estimates in \nterms of Paddy) \nKMS 2025-26 \nKMS 2024-25 \nProgressive \nPaddy \nprocurement  \nProgressive \nprocurement in \nterms of Rice \n(Percentage of \ntarget achieved) \nProgressive \nCorresponding \npaddy \nProcurement \nProgressive \nCorresponding \nProcurement  in \nterms of Rice \nKharif \n486.59 \n(719.31) \n713.44 \n479.56 \n(98.56%) \n685.35 \n460.34 \nRabi \n79.57 \n(118.12) \n74.18 \n49.85 \n(62.65%) \n71.72 \n48.16 \nKharif + \nRabi \n566.16 \n(837.43) \n787.62 \n529.41 \n(93.51 %) \n757.07 \n508.5 \n (Source: FCI Portal)   \n \nAll India Procurement of Wheat during RMS 2025-26 & RMS 2024-25 \nAs on 28.052026  (Figures in LMT) \nWheat Procurement Estimates \nduring RMS 2026-27 ( LMTs) \nProgressive Wheat \nProcurement during RMS \n2026-27 \nProgressive Corresponding Wheat \nProcurement during RMS 2025-\n26 \n345.99 \n347.79 \n297.75 \n (Source: FCI Portal)   \n \n**********************",
+          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_14_table_2.csv"
+        },
+        {
+          "type": "table",
+          "page": 14,
+          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_14_table_2.csv",
+          "bbox": null,
+          "section_heading": null,
+          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_14_table_1.csv",
+          "next_element": null
+        }
+      ],
+      "metadata": {
+        "page": 14,
+        "width": 595.4400024414062,
+        "height": 841.6799926757812,
+        "blocks": [
+          {
+            "block_index": 1,
+            "page": 14,
+            "bbox": [
+              49.560001373291016,
+              27.123382568359375,
+              52.31999969482422,
+              39.344661712646484
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 2,
+            "page": 14,
+            "bbox": [
+              40.560001373291016,
+              55.06800842285156,
+              156.97999572753906,
+              68.35201263427734
+            ],
+            "text": "9.   PROCUREMENT \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 3,
+            "page": 14,
+            "bbox": [
+              121.58000183105469,
+              75.96797180175781,
+              124.58000183105469,
+              89.2519760131836
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 4,
+            "page": 14,
+            "bbox": [
+              49.560001373291016,
+              99.48799133300781,
+              559.5260009765625,
+              144.6919708251953
+            ],
+            "text": "Central Pool Stock (As on 16.05.2026): Actual stock of Rice was 397.05 LMT against Buffer norm of \n135.80 LMT.  Actual stock of wheat was 465.10 LMT against Buffer Norm of 74.60 LMT. Therefore, \nActual stock of Rice & Wheat together was 862.15 LMT against buffer norm of 210.40 LMT. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 5,
+            "page": 14,
+            "bbox": [
+              67.58399963378906,
+              156.8963623046875,
+              561.0520629882812,
+              170.6120147705078
+            ],
+            "text": "o Buffer norm changes quarterly, above-mentioned norm is as on 1st April, it changes next on \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 6,
+            "page": 14,
+            "bbox": [
+              85.58399963378906,
+              172.85638427734375,
+              180.0500030517578,
+              186.5719757080078
+            ],
+            "text": "1st July and so on. \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 7,
+            "page": 14,
+            "bbox": [
+              162.3800048828125,
+              200.64796447753906,
+              467.1400146484375,
+              213.9319610595703
+            ],
+            "text": "All India Procurement of Paddy/Rice during KMS 2024-25 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 8,
+            "page": 14,
+            "bbox": [
+              160.82000732421875,
+              229.8379669189453,
+              567.4500122070312,
+              243.12196350097656
+            ],
+            "text": "                                                                           As on 28.05.2026 (Figures in LMT) \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 9,
+            "page": 14,
+            "bbox": [
+              57.624000549316406,
+              307.1180114746094,
+              87.26399993896484,
+              320.4020080566406
+            ],
+            "text": "Crop \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 10,
+            "page": 14,
+            "bbox": [
+              120.5,
+              260.6780090332031,
+              190.68798828125,
+              287.7619934082031
+            ],
+            "text": "Rice \nProcurement \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 11,
+            "page": 14,
+            "bbox": [
+              121.58000183105469,
+              288.2779846191406,
+              189.5719757080078,
+              315.3620300292969
+            ],
+            "text": "Estimates \nduring KMS \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 12,
+            "page": 14,
+            "bbox": [
+              134.05999755859375,
+              315.8780212402344,
+              177.02000427246094,
+              329.1620178222656
+            ],
+            "text": "2025-26 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 13,
+            "page": 14,
+            "bbox": [
+              113.05999755859375,
+              339.63800048828125,
+              198.0500030517578,
+              366.7220153808594
+            ],
+            "text": "(Estimates in \nterms of Paddy) \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 14,
+            "page": 14,
+            "bbox": [
+              257.92999267578125,
+              260.6780090332031,
+              515.1400146484375,
+              273.9620056152344
+            ],
+            "text": "KMS 2025-26 \nKMS 2024-25 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 15,
+            "page": 14,
+            "bbox": [
+              208.00999450683594,
+              290.7980041503906,
+              274.6099853515625,
+              331.6819763183594
+            ],
+            "text": "Progressive \nPaddy \nprocurement  \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 16,
+            "page": 14,
+            "bbox": [
+              291.04998779296875,
+              290.7980041503906,
+              376.3900146484375,
+              359.5220031738281
+            ],
+            "text": "Progressive \nprocurement in \nterms of Rice \n(Percentage of \ntarget achieved) \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 17,
+            "page": 14,
+            "bbox": [
+              388.989990234375,
+              290.7980041503906,
+              469.3420104980469,
+              345.48199462890625
+            ],
+            "text": "Progressive \nCorresponding \npaddy \nProcurement \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 18,
+            "page": 14,
+            "bbox": [
+              482.3800048828125,
+              290.7980041503906,
+              562.7320556640625,
+              345.7220153808594
+            ],
+            "text": "Progressive \nCorresponding \nProcurement  in \nterms of Rice \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 19,
+            "page": 14,
+            "bbox": [
+              55.20000076293945,
+              382.4980163574219,
+              173.5399932861328,
+              395.7820129394531
+            ],
+            "text": "Kharif \n486.59 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 20,
+            "page": 14,
+            "bbox": [
+              133.5800018310547,
+              382.4980163574219,
+              354.19000244140625,
+              414.62200927734375
+            ],
+            "text": "(719.31) \n713.44 \n479.56 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 21,
+            "page": 14,
+            "bbox": [
+              312.19000244140625,
+              391.9779968261719,
+              543.1199951171875,
+              414.62200927734375
+            ],
+            "text": "(98.56%) \n685.35 \n460.34 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 22,
+            "page": 14,
+            "bbox": [
+              59.54399871826172,
+              420.65802001953125,
+              170.5399932861328,
+              433.9420166015625
+            ],
+            "text": "Rabi \n79.57 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 23,
+            "page": 14,
+            "bbox": [
+              133.5800018310547,
+              420.65802001953125,
+              351.19000244140625,
+              452.6620178222656
+            ],
+            "text": "(118.12) \n74.18 \n49.85 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 24,
+            "page": 14,
+            "bbox": [
+              312.19000244140625,
+              430.01800537109375,
+              540.1199951171875,
+              452.6620178222656
+            ],
+            "text": "(62.65%) \n71.72 \n48.16 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 25,
+            "page": 14,
+            "bbox": [
+              50.400001525878906,
+              458.697998046875,
+              94.32001495361328,
+              471.98199462890625
+            ],
+            "text": "Kharif + \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 26,
+            "page": 14,
+            "bbox": [
+              59.54399871826172,
+              472.4980163574219,
+              84.71399688720703,
+              485.7820129394531
+            ],
+            "text": "Rabi \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 27,
+            "page": 14,
+            "bbox": [
+              137.5399932861328,
+              458.697998046875,
+              173.5399932861328,
+              471.98199462890625
+            ],
+            "text": "566.16 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 28,
+            "page": 14,
+            "bbox": [
+              133.5800018310547,
+              458.697998046875,
+              354.19000244140625,
+              490.8219909667969
+            ],
+            "text": "(837.43) \n787.62 \n529.41 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 29,
+            "page": 14,
+            "bbox": [
+              310.6300048828125,
+              468.1780090332031,
+              540.1199951171875,
+              490.8219909667969
+            ],
+            "text": "(93.51 %) \n757.07 \n508.5 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 30,
+            "page": 14,
+            "bbox": [
+              49.560001373291016,
+              496.8580017089844,
+              153.97999572753906,
+              510.1419982910156
+            ],
+            "text": " (Source: FCI Portal)   \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 31,
+            "page": 14,
+            "bbox": [
+              558.1199951171875,
+              521.4580078125,
+              561.1199951171875,
+              534.7420043945312
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 32,
+            "page": 14,
+            "bbox": [
+              117.5,
+              553.5279541015625,
+              482.6199951171875,
+              566.8119506835938
+            ],
+            "text": "All India Procurement of Wheat during RMS 2025-26 & RMS 2024-25 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 33,
+            "page": 14,
+            "bbox": [
+              368.4700012207031,
+              578.7279663085938,
+              550.0499877929688,
+              592.011962890625
+            ],
+            "text": "As on 28.052026  (Figures in LMT) \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 34,
+            "page": 14,
+            "bbox": [
+              49.560001373291016,
+              609.5679931640625,
+              209.6640167236328,
+              638.8119506835938
+            ],
+            "text": "Wheat Procurement Estimates \nduring RMS 2026-27 ( LMTs) \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 35,
+            "page": 14,
+            "bbox": [
+              219.2899932861328,
+              609.5679931640625,
+              356.8459777832031,
+              638.6919555664062
+            ],
+            "text": "Progressive Wheat \nProcurement during RMS \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 36,
+            "page": 14,
+            "bbox": [
+              266.69000244140625,
+              641.3679809570312,
+              309.6700134277344,
+              654.6519775390625
+            ],
+            "text": "2026-27 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 37,
+            "page": 14,
+            "bbox": [
+              370.6300048828125,
+              609.5679931640625,
+              550.3180541992188,
+              622.8519897460938
+            ],
+            "text": "Progressive Corresponding Wheat \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 38,
+            "page": 14,
+            "bbox": [
+              376.2699890136719,
+              625.407958984375,
+              541.9559936523438,
+              638.6919555664062
+            ],
+            "text": "Procurement during RMS 2025-\n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 39,
+            "page": 14,
+            "bbox": [
+              453.1000061035156,
+              641.3679809570312,
+              468.1000061035156,
+              654.6519775390625
+            ],
+            "text": "26 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 40,
+            "page": 14,
+            "bbox": [
+              118.69999694824219,
+              672.447998046875,
+              487.6600036621094,
+              685.7319946289062
+            ],
+            "text": "345.99 \n347.79 \n297.75 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 41,
+            "page": 14,
+            "bbox": [
+              49.560001373291016,
+              703.0679931640625,
+              153.97999572753906,
+              716.3519897460938
+            ],
+            "text": " (Source: FCI Portal)   \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 42,
+            "page": 14,
+            "bbox": [
+              49.560001373291016,
+              727.66796875,
+              52.560001373291016,
+              740.9519653320312
+            ],
+            "text": " \n",
+            "type": "empty",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 43,
+            "page": 14,
+            "bbox": [
+              237.77000427246094,
+              752.9879760742188,
+              372.7900085449219,
+              766.27197265625
+            ],
+            "text": "********************** \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,748 @@
+{
+  "page": 4,
+  "width": 595.4400024414062,
+  "height": 841.6799926757812,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 4,
+      "bbox": [
+        21.600000381469727,
+        40.78797912597656,
+        24.600000381469727,
+        54.07197952270508
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 4,
+      "bbox": [
+        39.599998474121094,
+        61.49998474121094,
+        340.75,
+        74.95198822021484
+      ],
+      "text": "5. Crops whose Mandi Wholesale prices are below MSP:  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 4,
+      "bbox": [
+        57.624000549316406,
+        82.56800842285156,
+        60.624000549316406,
+        95.85201263427734
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 4,
+      "bbox": [
+        62.784000396728516,
+        98.88801574707031,
+        539.280029296875,
+        128.49195861816406
+      ],
+      "text": "All India Mandi Wholesale Prices \nCommodities \nMSP (RS/Qtl) \nPrice as on 29-05-2026 \n% Variation over MSP \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 4,
+      "bbox": [
+        42.47999954223633,
+        140.7680206298828,
+        154.10000610351562,
+        154.05201721191406
+      ],
+      "text": "Paddy (Rice unmilled) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 4,
+      "bbox": [
+        81.14399719238281,
+        161.52796936035156,
+        115.45999908447266,
+        174.8119659423828
+      ],
+      "text": "Wheat \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 4,
+      "bbox": [
+        81.74400329589844,
+        182.16798400878906,
+        114.73999786376953,
+        195.4519805908203
+      ],
+      "text": "Maize \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 4,
+      "bbox": [
+        82.8239974975586,
+        202.92799377441406,
+        113.77999877929688,
+        216.2119903564453
+      ],
+      "text": "Arhar \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 4,
+      "bbox": [
+        66.98400115966797,
+        223.5979766845703,
+        129.6199951171875,
+        236.88197326660156
+      ],
+      "text": "Gram whole \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 10,
+      "page": 4,
+      "bbox": [
+        81.38400268554688,
+        244.3579864501953,
+        115.0999984741211,
+        257.6419982910156
+      ],
+      "text": "Masur \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
+      "page": 4,
+      "bbox": [
+        79.46399688720703,
+        264.9980163574219,
+        117.13999938964844,
+        278.2820129394531
+      ],
+      "text": "Moong \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 12,
+      "page": 4,
+      "bbox": [
+        84.74400329589844,
+        285.7580261230469,
+        111.73999786376953,
+        299.0420227050781
+      ],
+      "text": "Urad \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 13,
+      "page": 4,
+      "bbox": [
+        82.46399688720703,
+        306.3979797363281,
+        114.13999938964844,
+        319.6819763183594
+      ],
+      "text": "Jowar \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 14,
+      "page": 4,
+      "bbox": [
+        83.78399658203125,
+        327.15802001953125,
+        112.81999969482422,
+        340.4420166015625
+      ],
+      "text": "Bajra \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 15,
+      "page": 4,
+      "bbox": [
+        85.46399688720703,
+        347.7980041503906,
+        111.13999938964844,
+        361.0820007324219
+      ],
+      "text": "Ragi \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 16,
+      "page": 4,
+      "bbox": [
+        70.8239974975586,
+        368.5580139160156,
+        125.77999877929688,
+        381.8420104980469
+      ],
+      "text": "Groundnut \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 17,
+      "page": 4,
+      "bbox": [
+        71.78399658203125,
+        389.218017578125,
+        124.81999969482422,
+        402.50201416015625
+      ],
+      "text": "Sunflower \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 18,
+      "page": 4,
+      "bbox": [
+        207.77000427246094,
+        140.7680206298828,
+        234.77000427246094,
+        154.05201721191406
+      ],
+      "text": "2369 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 19,
+      "page": 4,
+      "bbox": [
+        207.77000427246094,
+        161.52796936035156,
+        234.77000427246094,
+        174.8119659423828
+      ],
+      "text": "2585 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 20,
+      "page": 4,
+      "bbox": [
+        207.77000427246094,
+        182.16798400878906,
+        234.77000427246094,
+        195.4519805908203
+      ],
+      "text": "2400 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 21,
+      "page": 4,
+      "bbox": [
+        207.77000427246094,
+        202.92799377441406,
+        234.77000427246094,
+        216.2119903564453
+      ],
+      "text": "8000 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 22,
+      "page": 4,
+      "bbox": [
+        207.77000427246094,
+        223.5979766845703,
+        234.77000427246094,
+        236.88197326660156
+      ],
+      "text": "5875 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 23,
+      "page": 4,
+      "bbox": [
+        207.77000427246094,
+        244.3579864501953,
+        234.77000427246094,
+        257.6419982910156
+      ],
+      "text": "7000 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 24,
+      "page": 4,
+      "bbox": [
+        207.77000427246094,
+        264.9980163574219,
+        234.77000427246094,
+        278.2820129394531
+      ],
+      "text": "8768 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 25,
+      "page": 4,
+      "bbox": [
+        207.77000427246094,
+        285.7580261230469,
+        234.77000427246094,
+        299.0420227050781
+      ],
+      "text": "7800 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 26,
+      "page": 4,
+      "bbox": [
+        207.77000427246094,
+        306.3979797363281,
+        234.77000427246094,
+        319.6819763183594
+      ],
+      "text": "3699 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 27,
+      "page": 4,
+      "bbox": [
+        207.77000427246094,
+        327.15802001953125,
+        234.77000427246094,
+        340.4420166015625
+      ],
+      "text": "2775 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 28,
+      "page": 4,
+      "bbox": [
+        207.77000427246094,
+        347.7980041503906,
+        234.77000427246094,
+        361.0820007324219
+      ],
+      "text": "4886 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 29,
+      "page": 4,
+      "bbox": [
+        207.77000427246094,
+        368.5580139160156,
+        234.77000427246094,
+        381.8420104980469
+      ],
+      "text": "7263 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 30,
+      "page": 4,
+      "bbox": [
+        207.77000427246094,
+        389.218017578125,
+        234.77000427246094,
+        402.50201416015625
+      ],
+      "text": "7721 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 31,
+      "page": 4,
+      "bbox": [
+        328.75,
+        140.7680206298828,
+        355.75,
+        154.05201721191406
+      ],
+      "text": "2088 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 32,
+      "page": 4,
+      "bbox": [
+        328.75,
+        161.52796936035156,
+        355.75,
+        174.8119659423828
+      ],
+      "text": "2442 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 33,
+      "page": 4,
+      "bbox": [
+        328.75,
+        182.16798400878906,
+        355.75,
+        195.4519805908203
+      ],
+      "text": "1900 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 34,
+      "page": 4,
+      "bbox": [
+        328.75,
+        202.92799377441406,
+        355.75,
+        216.2119903564453
+      ],
+      "text": "7491 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 35,
+      "page": 4,
+      "bbox": [
+        328.75,
+        223.5979766845703,
+        355.75,
+        236.88197326660156
+      ],
+      "text": "5715 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 36,
+      "page": 4,
+      "bbox": [
+        328.75,
+        244.3579864501953,
+        355.75,
+        257.6419982910156
+      ],
+      "text": "6604 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 37,
+      "page": 4,
+      "bbox": [
+        328.75,
+        264.9980163574219,
+        355.75,
+        278.2820129394531
+      ],
+      "text": "7006 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 38,
+      "page": 4,
+      "bbox": [
+        328.75,
+        285.7580261230469,
+        355.75,
+        299.0420227050781
+      ],
+      "text": "7542 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 39,
+      "page": 4,
+      "bbox": [
+        328.75,
+        306.3979797363281,
+        355.75,
+        319.6819763183594
+      ],
+      "text": "3603 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 40,
+      "page": 4,
+      "bbox": [
+        328.75,
+        327.15802001953125,
+        355.75,
+        340.4420166015625
+      ],
+      "text": "2288 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 41,
+      "page": 4,
+      "bbox": [
+        328.75,
+        347.7980041503906,
+        355.75,
+        361.0820007324219
+      ],
+      "text": "3406 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 42,
+      "page": 4,
+      "bbox": [
+        328.75,
+        368.5580139160156,
+        355.75,
+        381.8420104980469
+      ],
+      "text": "6961 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 43,
+      "page": 4,
+      "bbox": [
+        328.75,
+        389.218017578125,
+        355.75,
+        402.50201416015625
+      ],
+      "text": "7678 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 44,
+      "page": 4,
+      "bbox": [
+        461.6199951171875,
+        140.7680206298828,
+        495.5799865722656,
+        154.05201721191406
+      ],
+      "text": "-11.86 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 45,
+      "page": 4,
+      "bbox": [
+        464.6199951171875,
+        161.52796936035156,
+        492.5799865722656,
+        174.8119659423828
+      ],
+      "text": "-5.53 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 46,
+      "page": 4,
+      "bbox": [
+        461.6199951171875,
+        182.16798400878906,
+        495.5799865722656,
+        195.4519805908203
+      ],
+      "text": "-20.83 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 47,
+      "page": 4,
+      "bbox": [
+        464.6199951171875,
+        202.92799377441406,
+        492.5799865722656,
+        216.2119903564453
+      ],
+      "text": "-6.36 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 48,
+      "page": 4,
+      "bbox": [
+        464.6199951171875,
+        223.5979766845703,
+        492.5799865722656,
+        236.88197326660156
+      ],
+      "text": "-2.72 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 49,
+      "page": 4,
+      "bbox": [
+        464.6199951171875,
+        244.3579864501953,
+        492.5799865722656,
+        257.6419982910156
+      ],
+      "text": "-5.66 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 50,
+      "page": 4,
+      "bbox": [
+        461.6199951171875,
+        264.9980163574219,
+        495.5799865722656,
+        278.2820129394531
+      ],
+      "text": "-20.10 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 51,
+      "page": 4,
+      "bbox": [
+        464.6199951171875,
+        285.7580261230469,
+        492.5799865722656,
+        299.0420227050781
+      ],
+      "text": "-3.31 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 52,
+      "page": 4,
+      "bbox": [
+        464.6199951171875,
+        306.3979797363281,
+        492.5799865722656,
+        319.6819763183594
+      ],
+      "text": "-2.60 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 53,
+      "page": 4,
+      "bbox": [
+        461.6199951171875,
+        327.15802001953125,
+        495.5799865722656,
+        340.4420166015625
+      ],
+      "text": "-17.55 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 54,
+      "page": 4,
+      "bbox": [
+        461.6199951171875,
+        347.7980041503906,
+        495.5799865722656,
+        361.0820007324219
+      ],
+      "text": "-30.29 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 55,
+      "page": 4,
+      "bbox": [
+        464.6199951171875,
+        368.5580139160156,
+        492.5799865722656,
+        381.8420104980469
+      ],
+      "text": "-4.16 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 56,
+      "page": 4,
+      "bbox": [
+        464.6199951171875,
+        389.218017578125,
+        492.5799865722656,
+        402.50201416015625
+      ],
+      "text": "-0.56 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 57,
+      "page": 4,
+      "bbox": [
+        21.600000381469727,
+        415.7380065917969,
+        400.3640441894531,
+        460.4620056152344
+      ],
+      "text": " \n \n \nAll the commodities are currently going below MSP during this week.\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    }
+  ]
+}

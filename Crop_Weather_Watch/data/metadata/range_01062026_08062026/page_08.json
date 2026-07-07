@@ -1,0 +1,423 @@
+{
+  "page": 8,
+  "width": 595.4400024414062,
+  "height": 841.6799926757812,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        27.07161521911621,
+        50.55000305175781,
+        31.45533561706543
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 8,
+      "bbox": [
+        42.47999954223633,
+        40.25999450683594,
+        120.62000274658203,
+        53.71199417114258
+      ],
+      "text": "2. \n  CROPS \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 8,
+      "bbox": [
+        70.94400024414062,
+        61.029380798339844,
+        72.2040023803711,
+        66.60865783691406
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 8,
+      "bbox": [
+        29.15999984741211,
+        72.96797180175781,
+        174.86000061035156,
+        86.2519760131836
+      ],
+      "text": "Rabi Crops - Area coverage \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 8,
+      "bbox": [
+        51.599998474121094,
+        98.74400329589844,
+        561.075927734375,
+        130.36398315429688
+      ],
+      "text": "\uf0b7 \nAs per 3rd Advance Estimates 2025-26, about 116.3 percent of the normal area has been \nsown under the summer season crops. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 8,
+      "bbox": [
+        51.599998474121094,
+        133.0640106201172,
+        560.7318115234375,
+        164.68399047851562
+      ],
+      "text": "\uf0b7 \nRice: About 32.63 lakh ha area coverage under Summer Rice has been reported as \ncompared to 33.28 lakh ha during the corresponding period of last year.  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 8,
+      "bbox": [
+        51.599998474121094,
+        167.2639617919922,
+        560.9620361328125,
+        198.88400268554688
+      ],
+      "text": "\uf0b7 \nPulses: About 27.16 lakh ha area coverage has been reported compared to 27.07 lakh ha \nduring the corresponding period of last year.  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 8,
+      "bbox": [
+        51.599998474121094,
+        201.58396911621094,
+        561.112060546875,
+        233.20401000976562
+      ],
+      "text": "\uf0b7 \nOilseeds: About 10.62 lakh ha area coverage has been reported compared to 9.51 lakh ha \nduring the corresponding period of last year. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 8,
+      "bbox": [
+        106.0999984741211,
+        247.8379669189453,
+        504.4599914550781,
+        261.1219787597656
+      ],
+      "text": "Final Summer Crops Area coverage as per Third Advance Estimates 2025-26 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 10,
+      "page": 8,
+      "bbox": [
+        114.9800033569336,
+        273.5180358886719,
+        541.9840087890625,
+        292.2019958496094
+      ],
+      "text": "  \nArea in Lakh Ha \nIncrease / \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
+      "page": 8,
+      "bbox": [
+        103.0999984741211,
+        292.7179870605469,
+        540.239990234375,
+        306.0019836425781
+      ],
+      "text": "Decrease \nCrop \nNormal \n2025-26 \n2024-25 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 12,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        312.0379943847656,
+        561.1199951171875,
+        325.3219909667969
+      ],
+      "text": "Rice \n31.49 \n32.63 \n33.28 \n-0.65 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 13,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        331.1180114746094,
+        561.1199951171875,
+        344.4020080566406
+      ],
+      "text": "Maize \n6.98 \n10.58 \n8.50 \n2.08 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 14,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        350.4380187988281,
+        561.1199951171875,
+        363.7220153808594
+      ],
+      "text": "Jowar \n0.34 \n0.43 \n0.36 \n0.07 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 15,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        369.75799560546875,
+        561.1199951171875,
+        383.0419921875
+      ],
+      "text": "Bajra \n4.43 \n5.83 \n5.20 \n0.63 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 16,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        395.3380126953125,
+        561.1199951171875,
+        408.62200927734375
+      ],
+      "text": "Shree Anna /Nutri Cereals \n4.77 \n6.26 \n5.56 \n0.70 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 17,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        421.01800537109375,
+        561.1199951171875,
+        434.302001953125
+      ],
+      "text": "Nutri/Coarse Cereals \n11.75 \n16.84 \n14.05 \n2.79 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 18,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        440.5780029296875,
+        561.1199951171875,
+        453.86199951171875
+      ],
+      "text": "Cereals \n43.23 \n49.48 \n47.33 \n2.15 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 19,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        459.65802001953125,
+        561.1199951171875,
+        472.9420166015625
+      ],
+      "text": "Urad \n2.96 \n4.34 \n3.58 \n0.76 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 20,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        478.9779968261719,
+        561.1199951171875,
+        492.2619934082031
+      ],
+      "text": "Moong \n20.44 \n22.82 \n23.49 \n-0.67 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 21,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        498.5379943847656,
+        561.1199951171875,
+        511.8219909667969
+      ],
+      "text": "Total Pulses \n23.40 \n27.16 \n27.07 \n0.09 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 22,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        517.7379760742188,
+        561.1199951171875,
+        531.02197265625
+      ],
+      "text": "Total Food Grains \n66.64 \n76.64 \n74.40 \n2.24 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 23,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        536.8479614257812,
+        561.1199951171875,
+        550.1319580078125
+      ],
+      "text": "Groundnut \n3.40 \n5.23 \n4.20 \n1.03 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 24,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        556.16796875,
+        561.1199951171875,
+        569.4519653320312
+      ],
+      "text": "Sesamum \n4.66 \n5.04 \n4.96 \n0.08 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 25,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        575.4879760742188,
+        561.1199951171875,
+        588.77197265625
+      ],
+      "text": "Sunflower \n0.34 \n0.35 \n0.35 \n0.00 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 26,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        595.0479736328125,
+        561.1199951171875,
+        608.3319702148438
+      ],
+      "text": "Total Oil Seeds \n8.40 \n10.62 \n9.51 \n1.11 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 27,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        614.2479858398438,
+        561.1199951171875,
+        627.531982421875
+      ],
+      "text": "Total \n75.04 \n87.26 \n83.91 \n3.35 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 28,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        638.025634765625,
+        370.5999755859375,
+        649.0513916015625
+      ],
+      "text": "Source: Agriculture Statistics Division (3\u02b3\u1d48 Advance Estimates for 2025-26) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 29,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        658.7069702148438,
+        559.6644897460938,
+        684.6088256835938
+      ],
+      "text": "Disclaimer : For Kharif and Rabi crop-wise estimated area, please see advanced estimates released by Ministry of Agriculture \nand Farmers' Welfare available on UPAg (upag.gov.in) \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 30,
+      "page": 8,
+      "bbox": [
+        49.560001373291016,
+        696.4833984375,
+        52.31999969482422,
+        708.7046508789062
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 31,
+      "page": 8,
+      "bbox": [
+        36.0,
+        724.427978515625,
+        39.0,
+        737.7119750976562
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 32,
+      "page": 8,
+      "bbox": [
+        36.0,
+        750.2279663085938,
+        39.0,
+        763.511962890625
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    }
+  ]
+}

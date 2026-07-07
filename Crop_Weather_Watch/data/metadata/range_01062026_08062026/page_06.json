@@ -1,0 +1,150 @@
+{
+  "page": 6,
+  "width": 595.4400024414062,
+  "height": 841.6799926757812,
+  "blocks": [
+    {
+      "block_index": 1,
+      "page": 6,
+      "bbox": [
+        49.560001373291016,
+        26.700010299682617,
+        560.9500122070312,
+        41.35200881958008
+      ],
+      "text": "\uf0b7 Above-normal (+1.6 to +3.0\u00b0C) to appreciably above-normal (+3.1 to +5.0\u00b0C) maximum \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 2,
+      "page": 6,
+      "bbox": [
+        49.560001373291016,
+        43.90797424316406,
+        560.8779296875,
+        105.69197845458984
+      ],
+      "text": "temperatures are likely over some parts of East India (Bihar, Gangetic West Bengal & Odisha). Near-\nnormal weekly maximum temperatures (-1.5 to +1.5\u00b0C) are likely across the rest of the country \nduring the week. \n\uf0b7 Maximum temperatures are very likely to be 4-5 Deg Celsius below normal over most parts of the \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 3,
+      "page": 6,
+      "bbox": [
+        67.58399963378906,
+        108.24800109863281,
+        561.0759887695312,
+        169.17201232910156
+      ],
+      "text": "country during week 2 except many parts of Odisha, West Bengal, Bihar, and Arunachal \nPradesh, West Rajasthan, Punjab. \n \n \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 4,
+      "page": 6,
+      "bbox": [
+        157.5800018310547,
+        366.6556396484375,
+        501.9100036621094,
+        390.74200439453125
+      ],
+      "text": " \n \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 5,
+      "page": 6,
+      "bbox": [
+        492.3399963378906,
+        603.465576171875,
+        494.8299865722656,
+        614.4913330078125
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 6,
+      "page": 6,
+      "bbox": [
+        157.5800018310547,
+        621.465576171875,
+        160.07000732421875,
+        632.4913330078125
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 7,
+      "page": 6,
+      "bbox": [
+        45.0,
+        642.2080078125,
+        242.80999755859375,
+        655.4920043945312
+      ],
+      "text": "Advance of Southwest Monsoon 2026: \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 8,
+      "page": 6,
+      "bbox": [
+        45.0,
+        663.0880126953125,
+        48.0,
+        676.3720092773438
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 9,
+      "page": 6,
+      "bbox": [
+        63.14400100708008,
+        678.1599731445312,
+        560.8198852539062,
+        692.8119506835938
+      ],
+      "text": "\uf0b7 The Northern Limit of Monsoon continues to pass through 10\u00b0N/60\u00b0E, 9\u00b0/65\u00b0E, 8.5\u00b0N/70\u00b0E, \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 10,
+      "page": 6,
+      "bbox": [
+        63.14400100708008,
+        695.5079956054688,
+        561.0,
+        741.3119506835938
+      ],
+      "text": "8\u00b0N/75\u00b0E, 7.8\u00b0N/78\u00b0E, 8\u00b0N/80\u00b0E, 10\u00b0N/80\u00b0E, 13\u00b0N/87\u00b0E, 16\u00b0N/90\u00b0E, 19\u00b0N/93\u00b0E and 22\u00b0N/97\u00b0E. \n \n\uf0b7 Conditions are favourable for further advance of southwest monsoon into some more parts of \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
+      "page": 6,
+      "bbox": [
+        81.14399719238281,
+        743.9879760742188,
+        560.7960205078125,
+        757.27197265625
+      ],
+      "text": "southwest & southeast Arabian Sea, Lakshadweep Islands, some parts of Kerala & Tamil Nadu, \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    }
+  ]
+}
