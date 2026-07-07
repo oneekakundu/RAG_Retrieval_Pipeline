@@ -23,3 +23,5 @@ The pipeline now asks for the start and end dates, downloads only the reports in
 Creation of venv: python -m venv venv
 Activation: .\venv\Scripts\Activate.ps1
 Install requirements: pip install -r requirements.txt
+
+python Crop_Weather_Watch/run_rag_pipeline.py --start-date 01-06-2026 --end-date 08-06-2026 --limit 10
