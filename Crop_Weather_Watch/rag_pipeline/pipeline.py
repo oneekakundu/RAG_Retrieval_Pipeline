@@ -56,19 +56,46 @@ class WeatherWatchRAGPipeline:
                 page_texts = {item["page"]: [{"content": item.get("content", ""), "page": item["page"], "bbox": None, "section_heading": None}] for item in text_doc.get("page_texts", [])}
 
                 for page_number in range(1, len(metadata.get("pages", [])) + 1):
-                    text_blocks = page_texts.get(page_number, [{"content": "", "page": page_number, "bbox": None, "section_heading": None}])
-                    page_structures.append(build_page_structure(page_number, text_blocks, page_tables.get(page_number, []), page_images.get(page_number, []), metadata["pages"][page_number - 1]))
+                    page_meta = metadata["pages"][page_number - 1]
+                    blocks = page_meta.get("blocks", [])
+                    if blocks:
+                        text_blocks = []
+                        for b in blocks:
+                            if b.get("type") == "text" and b.get("text", "").strip():
+                                text_blocks.append({
+                                    "content": b.get("text", "").strip(),
+                                    "page": page_number,
+                                    "bbox": b.get("bbox"),
+                                    "section_heading": None,
+                                })
+                    else:
+                        text_blocks = page_texts.get(page_number, [{"content": "", "page": page_number, "bbox": None, "section_heading": None}])
+
+                    page_structures.append(build_page_structure(page_number, text_blocks, page_tables.get(page_number, []), page_images.get(page_number, []), page_meta))
 
                 document = build_document_representation(pdf_path.name, page_structures)
                 merged_path = self.output_dir / "merged" / f"{week_name}.json"
                 safe_json_dump(document, merged_path)
 
-                chunks = chunk_document(document, week_name)
+                from .hierarchical_chunker import build_parent_chunks, build_child_chunks, link_parent_child, prepare_chunks_for_embedding
+
+                parent_chunks = build_parent_chunks(document, week_name)
+                child_chunks = build_child_chunks(parent_chunks, document)
+                link_parent_child(parent_chunks, child_chunks)
+
+                # Save parent chunks to their own file
+                parent_chunks_path = self.output_dir / "chunks" / f"{week_name}_parent.json"
+                ensure_directory(parent_chunks_path.parent)
+                parent_chunks_path.write_text(json.dumps(parent_chunks, indent=2), encoding="utf-8")
+
+                # Save child chunks as the main chunks file for downstream tasks/indexers
                 chunks_path = self.output_dir / "chunks" / f"{week_name}.json"
                 ensure_directory(chunks_path.parent)
-                chunks_path.write_text(json.dumps(chunks, indent=2), encoding="utf-8")
+                chunks_path.write_text(json.dumps(child_chunks, indent=2), encoding="utf-8")
 
-                embedded_chunks = self.embedding_indexer.embed_chunks(chunks)
+                # Prepare child chunks for embedding (adds chunk_id key matching child_chunk_id)
+                prepared_chunks = prepare_chunks_for_embedding(child_chunks)
+                embedded_chunks = self.embedding_indexer.embed_chunks(prepared_chunks)
                 results.append({"pdf_path": str(pdf_path), "chunks": embedded_chunks})
             except Exception as exc:
                 self.logger.exception("Failed to process report %s: %s", report.get("pdf_path"), exc)
@@ -83,6 +110,6 @@ class WeatherWatchRAGPipeline:
 
         return {"week": week_name, "reports": results}
 
-    def search(self, query: str, top_k: int = 5) -> List[Dict[str, Any]]:
+    def search(self, query: str, top_k: int = 5, expand_to_parent: bool = False) -> List[Dict[str, Any]]:
         engine = SemanticSearchEngine(index_path=self.output_dir / "faiss" / "chunks.index", metadata_path=self.output_dir / "faiss" / "chunks_metadata.json")
-        return engine.search(query, top_k=top_k)
+        return engine.search_hierarchical(query, top_k=top_k, expand_to_parent=expand_to_parent)

@@ -24,4 +24,10 @@ Creation of venv: python -m venv venv
 Activation: .\venv\Scripts\Activate.ps1
 Install requirements: pip install -r requirements.txt
 
+The run command along with sample questions to try !
+
 python Crop_Weather_Watch/run_rag_pipeline.py --start-date 01-06-2026 --end-date 08-06-2026 --limit 10
+
+1)what is Kharif Season Sowing Status?
+2)table on kharif crop
+3)image on kharif crops

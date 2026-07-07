@@ -1,7 +1,6 @@
 [
   {
-    "child_chunk_id": "range_01062026_08062026_page_01_child_001",
-    "parent_chunk_id": "range_01062026_08062026_page_01",
+    "chunk_id": "range_01062026_08062026_page_01",
     "text": "Government of India\n\nMinistry of Agriculture & Farmers Welfare\n\nDepartment of Agriculture & Farmers Welfare\n\nWeekly report/ Minutes of the Crop Weather Watch Group\n\n(CWWG) meeting as on 01.06.2026",
     "linked_tables": [
       {
@@ -46,13 +45,15 @@
       "headings": [],
       "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf"
     },
-    "previous_child": null,
-    "next_child": "range_01062026_08062026_page_02_child_001"
+    "children": [
+      "range_01062026_08062026_page_01_child_001"
+    ],
+    "previous_chunk": null,
+    "next_chunk": "range_01062026_08062026_page_02"
   },
   {
-    "child_chunk_id": "range_01062026_08062026_page_02_child_001",
-    "parent_chunk_id": "range_01062026_08062026_page_02",
-    "text": "Key Insights\n\n1. Rabi Season harvest and Summer Season Sowing Status:\n\n\uf0b7 As per 3rd Advance Estimates 2025-26, the area sown under the summer crops is 87.26 lakh ha as\n\ncompared to 83.91 lakh ha during the corresponding period of last year. As compared to previous year, \nRice area declined by 0.65 lakh ha whereas, Maize area increased by 2.08 lakh ha, Groundnut by 1.03 \nlakh ha, Urad by 0.76 lakh ha and Shree Anna by 0.70 lakh ha.  \n \n\uf0b7 As on 01.06.2026, rabi crops harvesting has been completed in all states.\n\n2. Weather Update:\n\na) Temperature: Maximum temperature is likely to be below normal in most of country except in\n\nNortheast India.\n\nb) Rainfall Distribution: From March 01\u2013 May 31 2026, the All-India cumulative rainfall is 1%\n\nhigher than its Long Period Average (LPA), with regional variations: (i) East & Northeast India: \n1%; (ii) Northwest India: (-) 6%; (iii) Central India: 17%; and South Peninsula: 0%.\n\n\uf0b7 The Western Disturbance as a cyclonic circulation over northwest Uttar Pradesh & neighbourhood\n\nbetween 3.1 & 7.6 km above mean sea level with a trough aloft in middle & upper tropospheric \nwesterlies with its axis at 5.8 km above mean sea level roughly along Long 78\u00b0E to the north of \nLat 20\u00b0N persists.  \n\uf0b7 Isolated heavy rainfall likely over Northeast India and South Peninsular India during the week. \n\uf0b7 Moderate to Severe Thunderstorm activity with squally wind speed upto 90kmph and isolated\n\nhailstorm likely over Northwest, Central & adjoining East India on 31st May. Isolated Hailstorm \nactivity likely over Odisha, West Madhya Pradesh and Madhya Maharashtra on 01st June. \n\uf0b7 Normal to above normal rainfall is expected over central and northwest India. \n\uf0b7 Heat wave condition likely to prevail over Bihar during 04th\u201306th June.",
+    "chunk_id": "range_01062026_08062026_page_02",
+    "text": "Key Insights\n\n1. Rabi Season harvest and Summer Season Sowing Status:\n\n\uf0b7 As per 3rd Advance Estimates 2025-26, the area sown under the summer crops is 87.26 lakh ha as\n\ncompared to 83.91 lakh ha during the corresponding period of last year. As compared to previous year, \nRice area declined by 0.65 lakh ha whereas, Maize area increased by 2.08 lakh ha, Groundnut by 1.03 \nlakh ha, Urad by 0.76 lakh ha and Shree Anna by 0.70 lakh ha.  \n \n\uf0b7 As on 01.06.2026, rabi crops harvesting has been completed in all states.\n\n2. Weather Update:\n\na) Temperature: Maximum temperature is likely to be below normal in most of country except in\n\nNortheast India.\n\nb) Rainfall Distribution: From March 01\u2013 May 31 2026, the All-India cumulative rainfall is 1%\n\nhigher than its Long Period Average (LPA), with regional variations: (i) East & Northeast India: \n1%; (ii) Northwest India: (-) 6%; (iii) Central India: 17%; and South Peninsula: 0%.\n\n\uf0b7 The Western Disturbance as a cyclonic circulation over northwest Uttar Pradesh & neighbourhood\n\nbetween 3.1 & 7.6 km above mean sea level with a trough aloft in middle & upper tropospheric \nwesterlies with its axis at 5.8 km above mean sea level roughly along Long 78\u00b0E to the north of \nLat 20\u00b0N persists.  \n\uf0b7 Isolated heavy rainfall likely over Northeast India and South Peninsular India during the week. \n\uf0b7 Moderate to Severe Thunderstorm activity with squally wind speed upto 90kmph and isolated\n\nhailstorm likely over Northwest, Central & adjoining East India on 31st May. Isolated Hailstorm \nactivity likely over Odisha, West Madhya Pradesh and Madhya Maharashtra on 01st June. \n\uf0b7 Normal to above normal rainfall is expected over central and northwest India. \n\uf0b7 Heat wave condition likely to prevail over Bihar during 04th\u201306th June.\n\n3.  Inputs Situation\n\na) Water Reservoir Status: As on 29 May 2026, the total live water storage in 166 important\n\nreservoirs across the country (monitored by CWC) is 56.300 billion cubic meter, which is 30.67% \nof total live storage capacity (183.565 BCM). The current year's storage is nearly 100.73 percent of \nlast year's storage and 119.11 percent of the average storage of the last ten years during the \ncorresponding period. The overall storage position is better than the corresponding period of last \nyear in the country as a whole and is also better than the Normal storage during the corresponding \nperiod.\n\nb) Groundwater Levels: In January, 2026, around 75.8% of the country's monitoring stations\n\nexhibited a depth to water level within 10 meters below ground level. Deeper water levels of more \nthan 20 m are observed in around 13.5% of stations of the country covering mainly the western \nstates, especially Western Rajasthan, Punjab, Haryana and Chandigarh.",
     "linked_tables": [
       {
         "type": "table",
@@ -69,27 +70,7 @@
         "previous_element": "Northeast India.",
         "next_element": "b) Rainfall Distribution: From March 01\u2013 May 31 2026, the All-India cumulative rainfall is 1%",
         "position": 15
-      }
-    ],
-    "linked_images": [],
-    "metadata": {
-      "page_numbers": [
-        2
-      ],
-      "headings": [
-        "1. Rabi Season harvest and Summer Season Sowing Status:",
-        "2. Weather Update:"
-      ],
-      "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf"
-    },
-    "previous_child": "range_01062026_08062026_page_01_child_001",
-    "next_child": "range_01062026_08062026_page_02_child_002"
-  },
-  {
-    "child_chunk_id": "range_01062026_08062026_page_02_child_002",
-    "parent_chunk_id": "range_01062026_08062026_page_02",
-    "text": "3.  Inputs Situation\n\na) Water Reservoir Status: As on 29 May 2026, the total live water storage in 166 important\n\nreservoirs across the country (monitored by CWC) is 56.300 billion cubic meter, which is 30.67% \nof total live storage capacity (183.565 BCM). The current year's storage is nearly 100.73 percent of \nlast year's storage and 119.11 percent of the average storage of the last ten years during the \ncorresponding period. The overall storage position is better than the corresponding period of last \nyear in the country as a whole and is also better than the Normal storage during the corresponding \nperiod.\n\nb) Groundwater Levels: In January, 2026, around 75.8% of the country's monitoring stations\n\nexhibited a depth to water level within 10 meters below ground level. Deeper water levels of more \nthan 20 m are observed in around 13.5% of stations of the country covering mainly the western \nstates, especially Western Rajasthan, Punjab, Haryana and Chandigarh.",
-    "linked_tables": [
+      },
       {
         "type": "table",
         "page": 2,
@@ -113,16 +94,21 @@
         2
       ],
       "headings": [
+        "1. Rabi Season harvest and Summer Season Sowing Status:",
+        "2. Weather Update:",
         "3.  Inputs Situation"
       ],
       "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf"
     },
-    "previous_child": "range_01062026_08062026_page_02_child_001",
-    "next_child": "range_01062026_08062026_page_03_child_001"
+    "children": [
+      "range_01062026_08062026_page_02_child_001",
+      "range_01062026_08062026_page_02_child_002"
+    ],
+    "previous_chunk": "range_01062026_08062026_page_01",
+    "next_chunk": "range_01062026_08062026_page_03"
   },
   {
-    "child_chunk_id": "range_01062026_08062026_page_03_child_001",
-    "parent_chunk_id": "range_01062026_08062026_page_03",
+    "chunk_id": "range_01062026_08062026_page_03",
     "text": "The deeper groundwater level in the states like Western Rajasthan, Punjab, Haryana and \nChandigarh during January, 2026 has been significantly influenced by the over extraction of \ngroundwater compared to the recharge in the area, indicating negative water balance.\n\nAbout 70% of the analyzed stations of the unconfined aquifer experienced a rise of water level in \nJanuary, 2026 when compared to the decadal mean water level of 2016-2025.\n\nThe Groundwater Drought Indices indicate that in January, 2026, groundwater conditions across \nIndia remained largely stable, with 90.30% of monitoring stations falling under normal condition in \nrespect of Ground Water Drought. However, localized deficits were observed in several regions \u2014 \nnotably in Arunachal Pradesh, Himachal Pradesh, Meghalaya, and Nagaland.\n\nc) Fertilizers: The fertilizer supply remains stable across all products.\n\n4. Pests & Diseases: The overall incidence of pests and diseases remained below the Economic Threshold \nLevel. The monitoring of Cotton crop for Pink Ball Worm is progressing as per the protocol.",
     "linked_tables": [
       {
@@ -150,12 +136,14 @@
       "headings": [],
       "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf"
     },
-    "previous_child": "range_01062026_08062026_page_02_child_002",
-    "next_child": "range_01062026_08062026_page_04_child_001"
+    "children": [
+      "range_01062026_08062026_page_03_child_001"
+    ],
+    "previous_chunk": "range_01062026_08062026_page_02",
+    "next_chunk": "range_01062026_08062026_page_04"
   },
   {
-    "child_chunk_id": "range_01062026_08062026_page_04_child_001",
-    "parent_chunk_id": "range_01062026_08062026_page_04",
+    "chunk_id": "range_01062026_08062026_page_04",
     "text": "5. Crops whose Mandi Wholesale prices are below MSP:\n\nAll India Mandi Wholesale Prices \nCommodities \nMSP (RS/Qtl) \nPrice as on 29-05-2026 \n% Variation over MSP\n\nPaddy (Rice unmilled)\n\n2369\n\n2088\n\n-11.86\n\nWheat\n\n2585\n\n2442\n\n-5.53\n\nMaize\n\n2400\n\n1900\n\n-20.83\n\nArhar\n\n8000\n\n7491\n\n-6.36\n\nGram whole\n\n5875\n\n5715\n\n-2.72\n\nMasur\n\n7000\n\n6604\n\n-5.66\n\nMoong\n\n8768\n\n7006\n\n-20.10\n\nUrad\n\n7800\n\n7542\n\n-3.31\n\nJowar\n\n3699\n\n3603\n\n-2.60\n\nBajra\n\n2775\n\n2288\n\n-17.55\n\nRagi\n\n4886\n\n3406\n\n-30.29\n\nGroundnut\n\n7263\n\n6961\n\n-4.16\n\nSunflower\n\n7721\n\n7678\n\n-0.56\n\nAll the commodities are currently going below MSP during this week.",
     "linked_tables": [
       {
@@ -211,12 +199,14 @@
       ],
       "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf"
     },
-    "previous_child": "range_01062026_08062026_page_03_child_001",
-    "next_child": "range_01062026_08062026_page_05_child_001"
+    "children": [
+      "range_01062026_08062026_page_04_child_001"
+    ],
+    "previous_chunk": "range_01062026_08062026_page_03",
+    "next_chunk": "range_01062026_08062026_page_05"
   },
   {
-    "child_chunk_id": "range_01062026_08062026_page_05_child_001",
-    "parent_chunk_id": "range_01062026_08062026_page_05",
+    "chunk_id": "range_01062026_08062026_page_05",
     "text": "Details of each Segment\n\n1. \nRAINFALL\n\n\uf0b7 \nDuring the week (21 May \u2013 27 May 2026), lower rainfall was observed, as compared to Long Period \nAverage (LPA) by 3%. Cumulative seasonal rainfall (01st March to 27 May 2026) is higher than \nLPA by 1%.\n\nRainfall Forecast:\n\n\u2022 \nNormal Rainfall activity likely over central and Northeast India. Below normal rainfall is likely over \nsouth peninsular India and western Himalayan region.\n\nTEMPERATURE: MIN & MAX\n\nWeek 1 (29 May \u2013 04 June):\n\n\uf0b7 Maximum temperatures are very likely to be 5-6 Deg Celsius below normal over most parts of the\n\ncountry during the week except over North-Eastern States.\n\nWeek 2 (05 June  - 11 June 2026):\n\n\uf0b7 Low probability of Heatwave conditions likely over some parts of northwest India (Rajasthan, south\n\nPunjab, south Haryana, south Uttar Pradesh) during some days of the week.",
     "linked_tables": [],
     "linked_images": [
@@ -279,12 +269,14 @@
       ],
       "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf"
     },
-    "previous_child": "range_01062026_08062026_page_04_child_001",
-    "next_child": "range_01062026_08062026_page_06_child_001"
+    "children": [
+      "range_01062026_08062026_page_05_child_001"
+    ],
+    "previous_chunk": "range_01062026_08062026_page_04",
+    "next_chunk": "range_01062026_08062026_page_06"
   },
   {
-    "child_chunk_id": "range_01062026_08062026_page_06_child_001",
-    "parent_chunk_id": "range_01062026_08062026_page_06",
+    "chunk_id": "range_01062026_08062026_page_06",
     "text": "\uf0b7 Above-normal (+1.6 to +3.0\u00b0C) to appreciably above-normal (+3.1 to +5.0\u00b0C) maximum\n\ntemperatures are likely over some parts of East India (Bihar, Gangetic West Bengal & Odisha). Near-\nnormal weekly maximum temperatures (-1.5 to +1.5\u00b0C) are likely across the rest of the country \nduring the week. \n\uf0b7 Maximum temperatures are very likely to be 4-5 Deg Celsius below normal over most parts of the\n\ncountry during week 2 except many parts of Odisha, West Bengal, Bihar, and Arunachal \nPradesh, West Rajasthan, Punjab.\n\nAdvance of Southwest Monsoon 2026:\n\n\uf0b7 The Northern Limit of Monsoon continues to pass through 10\u00b0N/60\u00b0E, 9\u00b0/65\u00b0E, 8.5\u00b0N/70\u00b0E,\n\n8\u00b0N/75\u00b0E, 7.8\u00b0N/78\u00b0E, 8\u00b0N/80\u00b0E, 10\u00b0N/80\u00b0E, 13\u00b0N/87\u00b0E, 16\u00b0N/90\u00b0E, 19\u00b0N/93\u00b0E and 22\u00b0N/97\u00b0E. \n \n\uf0b7 Conditions are favourable for further advance of southwest monsoon into some more parts of\n\nsouthwest & southeast Arabian Sea, Lakshadweep Islands, some parts of Kerala & Tamil Nadu,",
     "linked_tables": [],
     "linked_images": [
@@ -328,12 +320,14 @@
       "headings": [],
       "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf"
     },
-    "previous_child": "range_01062026_08062026_page_05_child_001",
-    "next_child": "range_01062026_08062026_page_07_child_001"
+    "children": [
+      "range_01062026_08062026_page_06_child_001"
+    ],
+    "previous_chunk": "range_01062026_08062026_page_05",
+    "next_chunk": "range_01062026_08062026_page_07"
   },
   {
-    "child_chunk_id": "range_01062026_08062026_page_07_child_001",
-    "parent_chunk_id": "range_01062026_08062026_page_07",
+    "chunk_id": "range_01062026_08062026_page_07",
     "text": "some more parts of southwest, westcentral, eastcentral & northeast Bay of Bengal, and remaining \nparts of southeast Bay of Bengal during next 3-4 days.\n\nForecast for the 2026 Southwest Monsoon Rainfall over the Country as a Whole\n\n\uf0b7 Quantitatively, the southwest monsoon seasonal rainfall over the country as a whole is likely to be\n\n90% of the Long Period Average (LPA) with a model error of \u00b14%, indicating that below normal \nor less rainfall is most likely. \n\uf0b7 The long period average (LPA) of rainfall over the country is about 87 cm based on the data of 1971-\n\n2020 \n\uf0b7  The Probability forecast suggests 84% probability for below normal or less rainfall for the country as\n\na whole against climatological probability of 33%.",
     "linked_tables": [],
     "linked_images": [
@@ -379,13 +373,15 @@
       ],
       "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf"
     },
-    "previous_child": "range_01062026_08062026_page_06_child_001",
-    "next_child": "range_01062026_08062026_page_08_child_001"
+    "children": [
+      "range_01062026_08062026_page_07_child_001"
+    ],
+    "previous_chunk": "range_01062026_08062026_page_06",
+    "next_chunk": "range_01062026_08062026_page_08"
   },
   {
-    "child_chunk_id": "range_01062026_08062026_page_08_child_001",
-    "parent_chunk_id": "range_01062026_08062026_page_08",
-    "text": "2. \n  CROPS\n\nRabi Crops - Area coverage\n\n\uf0b7 \nAs per 3rd Advance Estimates 2025-26, about 116.3 percent of the normal area has been \nsown under the summer season crops.\n\n\uf0b7 \nRice: About 32.63 lakh ha area coverage under Summer Rice has been reported as \ncompared to 33.28 lakh ha during the corresponding period of last year.\n\n\uf0b7 \nPulses: About 27.16 lakh ha area coverage has been reported compared to 27.07 lakh ha \nduring the corresponding period of last year.\n\n\uf0b7 \nOilseeds: About 10.62 lakh ha area coverage has been reported compared to 9.51 lakh ha \nduring the corresponding period of last year.\n\nFinal Summer Crops Area coverage as per Third Advance Estimates 2025-26\n\nArea in Lakh Ha \nIncrease /\n\nDecrease \nCrop \nNormal \n2025-26 \n2024-25\n\nRice \n31.49 \n32.63 \n33.28 \n-0.65\n\nMaize \n6.98 \n10.58 \n8.50 \n2.08\n\nJowar \n0.34 \n0.43 \n0.36 \n0.07\n\nBajra \n4.43 \n5.83 \n5.20 \n0.63\n\nShree Anna /Nutri Cereals \n4.77 \n6.26 \n5.56 \n0.70\n\nNutri/Coarse Cereals \n11.75 \n16.84 \n14.05 \n2.79\n\nCereals \n43.23 \n49.48 \n47.33 \n2.15\n\nUrad \n2.96 \n4.34 \n3.58 \n0.76\n\nMoong \n20.44 \n22.82 \n23.49 \n-0.67\n\nTotal Pulses \n23.40 \n27.16 \n27.07 \n0.09\n\nTotal Food Grains \n66.64 \n76.64 \n74.40 \n2.24\n\nGroundnut \n3.40 \n5.23 \n4.20 \n1.03\n\nSesamum \n4.66 \n5.04 \n4.96 \n0.08\n\nSunflower \n0.34 \n0.35 \n0.35 \n0.00\n\nTotal Oil Seeds \n8.40 \n10.62 \n9.51 \n1.11\n\nTotal \n75.04 \n87.26 \n83.91 \n3.35",
+    "chunk_id": "range_01062026_08062026_page_08",
+    "text": "2. \n  CROPS\n\nRabi Crops - Area coverage\n\n\uf0b7 \nAs per 3rd Advance Estimates 2025-26, about 116.3 percent of the normal area has been \nsown under the summer season crops.\n\n\uf0b7 \nRice: About 32.63 lakh ha area coverage under Summer Rice has been reported as \ncompared to 33.28 lakh ha during the corresponding period of last year.\n\n\uf0b7 \nPulses: About 27.16 lakh ha area coverage has been reported compared to 27.07 lakh ha \nduring the corresponding period of last year.\n\n\uf0b7 \nOilseeds: About 10.62 lakh ha area coverage has been reported compared to 9.51 lakh ha \nduring the corresponding period of last year.\n\nFinal Summer Crops Area coverage as per Third Advance Estimates 2025-26\n\nArea in Lakh Ha \nIncrease /\n\nDecrease \nCrop \nNormal \n2025-26 \n2024-25\n\nRice \n31.49 \n32.63 \n33.28 \n-0.65\n\nMaize \n6.98 \n10.58 \n8.50 \n2.08\n\nJowar \n0.34 \n0.43 \n0.36 \n0.07\n\nBajra \n4.43 \n5.83 \n5.20 \n0.63\n\nShree Anna /Nutri Cereals \n4.77 \n6.26 \n5.56 \n0.70\n\nNutri/Coarse Cereals \n11.75 \n16.84 \n14.05 \n2.79\n\nCereals \n43.23 \n49.48 \n47.33 \n2.15\n\nUrad \n2.96 \n4.34 \n3.58 \n0.76\n\nMoong \n20.44 \n22.82 \n23.49 \n-0.67\n\nTotal Pulses \n23.40 \n27.16 \n27.07 \n0.09\n\nTotal Food Grains \n66.64 \n76.64 \n74.40 \n2.24\n\nGroundnut \n3.40 \n5.23 \n4.20 \n1.03\n\nSesamum \n4.66 \n5.04 \n4.96 \n0.08\n\nSunflower \n0.34 \n0.35 \n0.35 \n0.00\n\nTotal Oil Seeds \n8.40 \n10.62 \n9.51 \n1.11\n\nTotal \n75.04 \n87.26 \n83.91 \n3.35\n\nSource: Agriculture Statistics Division (3\u02b3\u1d48 Advance Estimates for 2025-26)\n\nDisclaimer : For Kharif and Rabi crop-wise estimated area, please see advanced estimates released by Ministry of Agriculture \nand Farmers' Welfare available on UPAg (upag.gov.in)",
     "linked_tables": [
       {
         "type": "table",
@@ -414,28 +410,15 @@
       ],
       "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf"
     },
-    "previous_child": "range_01062026_08062026_page_07_child_001",
-    "next_child": "range_01062026_08062026_page_08_child_002"
+    "children": [
+      "range_01062026_08062026_page_08_child_001",
+      "range_01062026_08062026_page_08_child_002"
+    ],
+    "previous_chunk": "range_01062026_08062026_page_07",
+    "next_chunk": "range_01062026_08062026_page_09"
   },
   {
-    "child_chunk_id": "range_01062026_08062026_page_08_child_002",
-    "parent_chunk_id": "range_01062026_08062026_page_08",
-    "text": "Source: Agriculture Statistics Division (3\u02b3\u1d48 Advance Estimates for 2025-26)\n\nDisclaimer : For Kharif and Rabi crop-wise estimated area, please see advanced estimates released by Ministry of Agriculture \nand Farmers' Welfare available on UPAg (upag.gov.in)",
-    "linked_tables": [],
-    "linked_images": [],
-    "metadata": {
-      "page_numbers": [
-        8
-      ],
-      "headings": [],
-      "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf"
-    },
-    "previous_child": "range_01062026_08062026_page_08_child_001",
-    "next_child": "range_01062026_08062026_page_09_child_001"
-  },
-  {
-    "child_chunk_id": "range_01062026_08062026_page_09_child_001",
-    "parent_chunk_id": "range_01062026_08062026_page_09",
+    "chunk_id": "range_01062026_08062026_page_09",
     "text": "3. \nRESERVOIR STORAGE\n\nAs on 29 May, 2026, the current live storage in 166 reservoirs was 56.300 BCM (30.67%) of total live \ncapacity of 183.565 BCM.\n\n\uf0b7 125 reservoirs having storage more than 80% of normal storage. \n\uf0b7 26 reservoirs having storage 51% to 80%. \n\uf0b7 15 reservoirs having storage upto 50%.\n\nThe status for 166 major reservoirs of the country\n\nPeriod \nStorage as % of FRL Storage as % of Last\n\nStorage as % of 10 Year\u2019s \nAverage Level\n\nYear\n\nCurrent Week \n31 \n111 \n119\n\nLast Week \n33 \n113 \n124\n\nSource: CWC",
     "linked_tables": [
       {
@@ -498,12 +481,14 @@
       ],
       "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf"
     },
-    "previous_child": "range_01062026_08062026_page_08_child_002",
-    "next_child": "range_01062026_08062026_page_10_child_001"
+    "children": [
+      "range_01062026_08062026_page_09_child_001"
+    ],
+    "previous_chunk": "range_01062026_08062026_page_08",
+    "next_chunk": "range_01062026_08062026_page_10"
   },
   {
-    "child_chunk_id": "range_01062026_08062026_page_10_child_001",
-    "parent_chunk_id": "range_01062026_08062026_page_10",
+    "chunk_id": "range_01062026_08062026_page_10",
     "text": "5. \nREMOTE SENSING BASED SOIL MOISTURE OBSERVATION\n\nSoil Moisture Observation\n\n\uf0b7 \nSoil moisture during 22 May \u2013 28 May 2026 is similar to the average of the past 10 years in major parts \nof Rajasthan, Gujarat, Madhya Pradesh, Maharashtra, Telangana, Northern and Central Karnataka, \nKerala, Punjab, Bihar, Jharkhand, Uttarakhand, Uttar Pradesh H.P., Tamil Nadu and J & K.\n\n\uf0b7 \n]Soil moisture is better than the average of the past 10 years in parts of Northeastern parts of Bihar, \nNorthern West Bengal and Ladakh.\n\n\uf0b7 \nIt was lower than average of past 10 years in pockets of Odisha, Chhattisgarh, Haryana, Southern \nKarnataka, Southern West Bengal, parts of Andhra Pradesh and the Northeastern States.\n\n.",
     "linked_tables": [],
     "linked_images": [
@@ -533,12 +518,14 @@
       ],
       "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf"
     },
-    "previous_child": "range_01062026_08062026_page_09_child_001",
-    "next_child": "range_01062026_08062026_page_11_child_001"
+    "children": [
+      "range_01062026_08062026_page_10_child_001"
+    ],
+    "previous_chunk": "range_01062026_08062026_page_09",
+    "next_chunk": "range_01062026_08062026_page_11"
   },
   {
-    "child_chunk_id": "range_01062026_08062026_page_11_child_001",
-    "parent_chunk_id": "range_01062026_08062026_page_11",
+    "chunk_id": "range_01062026_08062026_page_11",
     "text": "6.   FERTILIZER POSITION:\n\nAvailability of fertilizer has been found comfortable. Details of Requirement, Receipt, Availability, \nSales and Stock position of Major Fertilizers (Urea, DAP, MOP, Complex and SSP) during Kharif \n2026 as on 29.05.2026 is given below:\n\n(Unit : in Lakh MT)\n\nTotal \nRequirement\n\nTotal sale\n\n(as on 29/05/26)\n\nProduct\n\nduring \nKharif 2026\n\nAvailability \nSales \nClosing stock\n\nKharif 2026\n\nUREA \n194.02 \n27.96 \n101.49 \n33.53 \n67.96\n\nDAP \n59.17 \n6.93 \n27.00 \n8.45 \n18.55\n\nMOP \n17.57 \n2.00 \n10.48 \n2.37 \n8.11\n\nNPK \n84.99 \n11.61 \n63.07 \n15.01 \n48.06\n\nSSP \n34.81 \n4.72 \n30.32 \n6.02 \n24.30\n\nTOTAL \n390.56 \n53.23 \n232.36 \n65.37 \n166.99\n\n\u00b7 \nIn case of DAP, The opening stock of Kharif 2026 as compared to the opening stock of Kharif \n2025 is more by 11.78 LMT \n\u00b7 \nAs on 29th May, 2026 the availability of DAP is 27.00 LMT against the requirement of 8.75 LMT \nduring the ongoing Kharif 2026 season. \n\u00b7 \nAs on 29th May 2026, adequate stock of Urea (101.49 LMT), DAP (27.00 LMT), MOP (10.48 \nLMT), NPK (63.07 LMT) and SSP (30.32 LMT) is available.\n\n7.      PEST & DISEASE\n\n\uf0b7 The overall intensity of pests and diseases remained below the Economic Threshold Level.",
     "linked_tables": [
       {
@@ -569,13 +556,15 @@
       ],
       "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf"
     },
-    "previous_child": "range_01062026_08062026_page_10_child_001",
-    "next_child": "range_01062026_08062026_page_12_child_001"
+    "children": [
+      "range_01062026_08062026_page_11_child_001"
+    ],
+    "previous_chunk": "range_01062026_08062026_page_10",
+    "next_chunk": "range_01062026_08062026_page_12"
   },
   {
-    "child_chunk_id": "range_01062026_08062026_page_12_child_001",
-    "parent_chunk_id": "range_01062026_08062026_page_12",
-    "text": "8.    PRICES:\n\nMandi Wholesale prices (In Rs./Quintal)\n\nArrival\n\n(In \nMetric \nTonnes)\n\nAll India Weekly Average Mandi Prices (In Rs./Quintal) \n% Variation Over\n\nCommodities\n\nOne \nWeek\n\nPrices\n\n1 Month \nAgo \n29.04.26\n\n1 Year \nAgo \n29.05.25\n\nArrivals\n\nCurrent\n\nLast \nWeek\n\nLast \nMonth\n\n1 Year \nAgo\n\nas on \n29.05.26\n\nas on \n29.05.26\n\nMSP\n\nAgo \n22.05.26\n\nCereals\n\nPaddy(Common) \n2369 \n2088 \n2229 \n2252 \n2138 \n-6.29 \n-7.25 \n-2.30 \n59904\n\nWheat  \n2585 \n2442 \n2456 \n2515 \n2500 \n-0.57 \n-2.91 \n-2.31 \n138826\n\nMaize \n2400 \n1900 \n1901 \n1770 \n2057 \n-0.03 \n7.35 \n-7.62 \n45616\n\nPulses\n\nArhar whole \n8000 \n7491 \n7693 \n7261 \n6519 \n-2.62 \n3.17 \n14.92 \n5769\n\nGram whole \n5875 \n5715 \n5655 \n5271 \n5560 \n1.05 \n8.43 \n2.79 \n16273\n\nMasur Whole \n7000 \n6604 \n7030 \n7110 \n6443 \n-6.07 \n-7.11 \n2.50 \n1474\n\nMoong Whole \n8768 \n7006 \n7502 \n7859 \n7049 \n-6.61 \n-10.86 \n-0.61 \n6557\n\nUrad Whole \n7800 \n7542 \n7689 \n5945 \n7167 \n-1.90 \n26.86 \n5.24 \n3783\n\nMillets\n\nJowar \n3699 \n3603 \n3823 \n3321 \n2981 \n-5.76 \n8.49 \n20.84 \n2786\n\nBajra \n2775 \n2288 \n2313 \n2056 \n2396 \n-1.05 \n11.30 \n-4.49 \n3988\n\nRagi \n4886 \n3406 \n3489 \n3457 \n3368 \n-2.40 \n-1.49 \n1.10 \n315\n\nOil Seeds\n\nGroundnut \n7263 \n6961 \n7255 \n6414 \n5086 \n-4.05 \n8.53 \n36.85 \n4785\n\nMustard \n6200 \n7275 \n7093 \n6381 \n6168 \n2.56 \n14.00 \n17.95 \n10048\n\nSoyabean \n5328 \n7122 \n7128 \n5924 \n4181 \n-0.08 \n20.23 \n70.34 \n17398\n\nSesamum \n9846 \n11283 \n11321 \n12620 \n9870 \n-0.33 \n-10.59 \n14.32 \n3288\n\nSunflower \n7721 \n7678 \n7348 \n6498 \n5121 \n4.50 \n18.16 \n49.94 \n1095",
+    "chunk_id": "range_01062026_08062026_page_12",
+    "text": "8.    PRICES:\n\nMandi Wholesale prices (In Rs./Quintal)\n\nArrival\n\n(In \nMetric \nTonnes)\n\nAll India Weekly Average Mandi Prices (In Rs./Quintal) \n% Variation Over\n\nCommodities\n\nOne \nWeek\n\nPrices\n\n1 Month \nAgo \n29.04.26\n\n1 Year \nAgo \n29.05.25\n\nArrivals\n\nCurrent\n\nLast \nWeek\n\nLast \nMonth\n\n1 Year \nAgo\n\nas on \n29.05.26\n\nas on \n29.05.26\n\nMSP\n\nAgo \n22.05.26\n\nCereals\n\nPaddy(Common) \n2369 \n2088 \n2229 \n2252 \n2138 \n-6.29 \n-7.25 \n-2.30 \n59904\n\nWheat  \n2585 \n2442 \n2456 \n2515 \n2500 \n-0.57 \n-2.91 \n-2.31 \n138826\n\nMaize \n2400 \n1900 \n1901 \n1770 \n2057 \n-0.03 \n7.35 \n-7.62 \n45616\n\nPulses\n\nArhar whole \n8000 \n7491 \n7693 \n7261 \n6519 \n-2.62 \n3.17 \n14.92 \n5769\n\nGram whole \n5875 \n5715 \n5655 \n5271 \n5560 \n1.05 \n8.43 \n2.79 \n16273\n\nMasur Whole \n7000 \n6604 \n7030 \n7110 \n6443 \n-6.07 \n-7.11 \n2.50 \n1474\n\nMoong Whole \n8768 \n7006 \n7502 \n7859 \n7049 \n-6.61 \n-10.86 \n-0.61 \n6557\n\nUrad Whole \n7800 \n7542 \n7689 \n5945 \n7167 \n-1.90 \n26.86 \n5.24 \n3783\n\nMillets\n\nJowar \n3699 \n3603 \n3823 \n3321 \n2981 \n-5.76 \n8.49 \n20.84 \n2786\n\nBajra \n2775 \n2288 \n2313 \n2056 \n2396 \n-1.05 \n11.30 \n-4.49 \n3988\n\nRagi \n4886 \n3406 \n3489 \n3457 \n3368 \n-2.40 \n-1.49 \n1.10 \n315\n\nOil Seeds\n\nGroundnut \n7263 \n6961 \n7255 \n6414 \n5086 \n-4.05 \n8.53 \n36.85 \n4785\n\nMustard \n6200 \n7275 \n7093 \n6381 \n6168 \n2.56 \n14.00 \n17.95 \n10048\n\nSoyabean \n5328 \n7122 \n7128 \n5924 \n4181 \n-0.08 \n20.23 \n70.34 \n17398\n\nSesamum \n9846 \n11283 \n11321 \n12620 \n9870 \n-0.33 \n-10.59 \n14.32 \n3288\n\nSunflower \n7721 \n7678 \n7348 \n6498 \n5121 \n4.50 \n18.16 \n49.94 \n1095\n\nHorticulture\n\nOnion \n  \n1162 \n1042 \n1099 \n1158 \n11.53 \n5.76 \n0.34 \n52142\n\nPotato \n  \n737 \n729 \n657 \n1192 \n1.05 \n12.05 \n-38.20 \n37209\n\nTomato \n  \n1915 \n2143 \n2045 \n1072 \n-10.64 \n-6.37 \n78.64 \n13968\n\nSource: Agmarknet\n\nMandi wholesale prices of all crops during this week are running below the MSP, except for Mustard, \nSoyabean  and Sesamum. Prices of tomato has gone higher during this week compared to last week.",
     "linked_tables": [
       {
         "type": "table",
@@ -734,28 +723,15 @@
       ],
       "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf"
     },
-    "previous_child": "range_01062026_08062026_page_11_child_001",
-    "next_child": "range_01062026_08062026_page_12_child_002"
+    "children": [
+      "range_01062026_08062026_page_12_child_001",
+      "range_01062026_08062026_page_12_child_002"
+    ],
+    "previous_chunk": "range_01062026_08062026_page_11",
+    "next_chunk": "range_01062026_08062026_page_13"
   },
   {
-    "child_chunk_id": "range_01062026_08062026_page_12_child_002",
-    "parent_chunk_id": "range_01062026_08062026_page_12",
-    "text": "Horticulture\n\nOnion \n  \n1162 \n1042 \n1099 \n1158 \n11.53 \n5.76 \n0.34 \n52142\n\nPotato \n  \n737 \n729 \n657 \n1192 \n1.05 \n12.05 \n-38.20 \n37209\n\nTomato \n  \n1915 \n2143 \n2045 \n1072 \n-10.64 \n-6.37 \n78.64 \n13968\n\nSource: Agmarknet\n\nMandi wholesale prices of all crops during this week are running below the MSP, except for Mustard, \nSoyabean  and Sesamum. Prices of tomato has gone higher during this week compared to last week.",
-    "linked_tables": [],
-    "linked_images": [],
-    "metadata": {
-      "page_numbers": [
-        12
-      ],
-      "headings": [],
-      "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf"
-    },
-    "previous_child": "range_01062026_08062026_page_12_child_001",
-    "next_child": "range_01062026_08062026_page_13_child_001"
-  },
-  {
-    "child_chunk_id": "range_01062026_08062026_page_13_child_001",
-    "parent_chunk_id": "range_01062026_08062026_page_13",
+    "chunk_id": "range_01062026_08062026_page_13",
     "text": "Retail Prices (In Rs./Kg.)\n\nAll India Weekly Average Retail Prices (In Rs./Kg) \n% Variation Over\n\nOne Week\n\n1 Month \nAgo \n29.04.26\n\nCommodities\n\nPrices as \non 29.05.26\n\n1 Year Ago \n29.05.25 \nLast \nWeek\n\nLast \nMonth\n\n1 Year \nAgo\n\nAgo \n22.05.26\n\nCereals\n\nRice  \n  \n43.23 \n43.17 \n42.93 \n42.67 \n0.14 \n0.70 \n1.31\n\nWheat  \n  \n31.05 \n30.93 \n30.97 \n31.46 \n0.39 \n0.26 \n-1.30\n\nPulses\n\nArhar/Tur Dal \n  \n122.47 \n122.48 \n122.39 \n124.54 \n-0.01 \n0.07 \n-1.66\n\nGram Dal \n  \n85.34 \n85.21 \n84.89 \n86.52 \n0.15 \n0.53 \n-1.36\n\nMasur Dal \n  \n90.04 \n90.00 \n89.50 \n88.12 \n0.04 \n0.60 \n2.18\n\nMoong Dal \n  \n111.44 \n111.55 \n111.51 \n111.83 \n-0.10 \n-0.06 \n-0.35\n\nUrad Dal \n  \n118.38 \n118.20 \n117.80 \n116.73 \n0.15 \n0.49 \n1.41\n\nMillets\n\nJowar \n  \n43.95 \n43.85 \n43.80 \n43.60 \n0.23 \n0.34 \n0.80\n\nBajra \n  \n37.94 \n37.80 \n37.52 \n38.27 \n0.37 \n1.12 \n-0.86\n\nRagi \n  \n54.97 \n54.73 \n54.44 \n53.56 \n0.44 \n0.97 \n2.63\n\nEdible Oils\n\nMustard Oil \n  \n190.23 \n189.86 \n189.14 \n170.72 \n0.19 \n0.58 \n11.43\n\nSoyabean Oil \n  \n160.79 \n159.92 \n158.45 \n147.46 \n0.54 \n1.48 \n9.04\n\nHorticulture\n\nOnion \n  \n25.67 \n25.72 \n25.03 \n26.09 \n-0.19 \n2.56 \n-1.61\n\nPotato \n  \n21.25 \n21.07 \n20.55 \n24.56 \n0.85 \n3.41 \n-13.48\n\nTomato \n  \n37.26 \n37.32 \n34.18 \n25.48 \n-0.16 \n9.01 \n46.23\n\nSource: Department of Consumer Affairs (DOCA)",
     "linked_tables": [
       {
@@ -897,13 +873,15 @@
       ],
       "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf"
     },
-    "previous_child": "range_01062026_08062026_page_12_child_002",
-    "next_child": "range_01062026_08062026_page_14_child_001"
+    "children": [
+      "range_01062026_08062026_page_13_child_001"
+    ],
+    "previous_chunk": "range_01062026_08062026_page_12",
+    "next_chunk": "range_01062026_08062026_page_14"
   },
   {
-    "child_chunk_id": "range_01062026_08062026_page_14_child_001",
-    "parent_chunk_id": "range_01062026_08062026_page_14",
-    "text": "9.   PROCUREMENT\n\nCentral Pool Stock (As on 16.05.2026): Actual stock of Rice was 397.05 LMT against Buffer norm of \n135.80 LMT.  Actual stock of wheat was 465.10 LMT against Buffer Norm of 74.60 LMT. Therefore, \nActual stock of Rice & Wheat together was 862.15 LMT against buffer norm of 210.40 LMT.\n\no Buffer norm changes quarterly, above-mentioned norm is as on 1st April, it changes next on\n\n1st July and so on.\n\nAll India Procurement of Paddy/Rice during KMS 2024-25\n\nAs on 28.05.2026 (Figures in LMT)\n\nRice \nProcurement\n\nKMS 2025-26 \nKMS 2024-25\n\nEstimates \nduring KMS\n\nProgressive \nPaddy \nprocurement\n\nProgressive \nprocurement in \nterms of Rice \n(Percentage of \ntarget achieved)\n\nProgressive \nCorresponding \npaddy \nProcurement\n\nProgressive \nCorresponding \nProcurement  in \nterms of Rice\n\nCrop\n\n2025-26\n\n(Estimates in \nterms of Paddy)\n\nKharif \n486.59\n\n(719.31) \n713.44 \n479.56\n\n(98.56%) \n685.35 \n460.34\n\nRabi \n79.57\n\n(118.12) \n74.18 \n49.85\n\n(62.65%) \n71.72 \n48.16\n\nKharif +\n\n(837.43) \n787.62 \n529.41\n\n566.16\n\n(93.51 %) \n757.07 \n508.5\n\nRabi\n\n(Source: FCI Portal)\n\nAll India Procurement of Wheat during RMS 2025-26 & RMS 2024-25\n\nAs on 28.052026  (Figures in LMT)\n\nWheat Procurement Estimates \nduring RMS 2026-27 ( LMTs)\n\nProgressive Wheat \nProcurement during RMS\n\nProgressive Corresponding Wheat\n\nProcurement during RMS 2025-\n\n2026-27\n\n26\n\n345.99 \n347.79 \n297.75\n\n(Source: FCI Portal)",
+    "chunk_id": "range_01062026_08062026_page_14",
+    "text": "9.   PROCUREMENT\n\nCentral Pool Stock (As on 16.05.2026): Actual stock of Rice was 397.05 LMT against Buffer norm of \n135.80 LMT.  Actual stock of wheat was 465.10 LMT against Buffer Norm of 74.60 LMT. Therefore, \nActual stock of Rice & Wheat together was 862.15 LMT against buffer norm of 210.40 LMT.\n\no Buffer norm changes quarterly, above-mentioned norm is as on 1st April, it changes next on\n\n1st July and so on.\n\nAll India Procurement of Paddy/Rice during KMS 2024-25\n\nAs on 28.05.2026 (Figures in LMT)\n\nRice \nProcurement\n\nKMS 2025-26 \nKMS 2024-25\n\nEstimates \nduring KMS\n\nProgressive \nPaddy \nprocurement\n\nProgressive \nprocurement in \nterms of Rice \n(Percentage of \ntarget achieved)\n\nProgressive \nCorresponding \npaddy \nProcurement\n\nProgressive \nCorresponding \nProcurement  in \nterms of Rice\n\nCrop\n\n2025-26\n\n(Estimates in \nterms of Paddy)\n\nKharif \n486.59\n\n(719.31) \n713.44 \n479.56\n\n(98.56%) \n685.35 \n460.34\n\nRabi \n79.57\n\n(118.12) \n74.18 \n49.85\n\n(62.65%) \n71.72 \n48.16\n\nKharif +\n\n(837.43) \n787.62 \n529.41\n\n566.16\n\n(93.51 %) \n757.07 \n508.5\n\nRabi\n\n(Source: FCI Portal)\n\nAll India Procurement of Wheat during RMS 2025-26 & RMS 2024-25\n\nAs on 28.052026  (Figures in LMT)\n\nWheat Procurement Estimates \nduring RMS 2026-27 ( LMTs)\n\nProgressive Wheat \nProcurement during RMS\n\nProgressive Corresponding Wheat\n\nProcurement during RMS 2025-\n\n2026-27\n\n26\n\n345.99 \n347.79 \n297.75\n\n(Source: FCI Portal)\n\n**********************",
     "linked_tables": [
       {
         "type": "table",
@@ -954,23 +932,11 @@
       ],
       "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf"
     },
-    "previous_child": "range_01062026_08062026_page_13_child_001",
-    "next_child": "range_01062026_08062026_page_14_child_002"
-  },
-  {
-    "child_chunk_id": "range_01062026_08062026_page_14_child_002",
-    "parent_chunk_id": "range_01062026_08062026_page_14",
-    "text": "**********************",
-    "linked_tables": [],
-    "linked_images": [],
-    "metadata": {
-      "page_numbers": [
-        14
-      ],
-      "headings": [],
-      "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf"
-    },
-    "previous_child": "range_01062026_08062026_page_14_child_001",
-    "next_child": null
+    "children": [
+      "range_01062026_08062026_page_14_child_001",
+      "range_01062026_08062026_page_14_child_002"
+    ],
+    "previous_chunk": "range_01062026_08062026_page_13",
+    "next_chunk": null
   }
 ]

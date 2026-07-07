@@ -57,8 +57,9 @@ class TableExtractor(BaseExtractor):
         table_records = []
         with pdfplumber.open(pdf_path) as pdf:
             for page_number, page in enumerate(pdf.pages, start=1):
-                tables = page.extract_tables()
-                for table_index, table in enumerate(tables or [], start=1):
+                tables = page.find_tables()
+                for table_index, table_obj in enumerate(tables or [], start=1):
+                    table = table_obj.extract()
                     if not table:
                         continue
                     rows = [row for row in table if any(cell is not None and str(cell).strip() for cell in row)]
@@ -68,7 +69,14 @@ class TableExtractor(BaseExtractor):
                     df = pd.DataFrame(rows)
                     df.to_csv(csv_path, index=False)
                     df.to_json(json_path, orient="records", indent=2)
-                    table_records.append({"page": page_number, "table_index": table_index, "csv_path": str(csv_path), "json_path": str(json_path)})
+                    table_records.append({
+                        "page": page_number,
+                        "table_index": table_index,
+                        "csv_path": str(csv_path),
+                        "json_path": str(json_path),
+                        "bbox": [float(val) for val in table_obj.bbox] if table_obj.bbox else [0.0, 0.0, 0.0, 0.0],
+                        "caption": f"Table {table_index} on page {page_number}",
+                    })
         return table_records
 
 
@@ -84,6 +92,8 @@ class ImageExtractor(BaseExtractor):
             for img_index, img in enumerate(image_list, start=1):
                 xref = img[0]
                 pix = fitz.Pixmap(doc, xref)
+                rects = page.get_image_rects(xref)
+                bbox = [float(rects[0].x0), float(rects[0].y0), float(rects[0].x1), float(rects[0].y1)] if rects else [0.0, 0.0, 0.0, 0.0]
                 try:
                     if pix.alpha or pix.colorspace.name != "DeviceRGB":
                         pix = fitz.Pixmap(fitz.csRGB, pix)
@@ -93,7 +103,13 @@ class ImageExtractor(BaseExtractor):
                     self.logger.warning("Could not save image %s for page %s: %s", img_index, page_number, exc)
                     continue
                 pix = None
-                image_records.append({"page": page_number, "image_index": img_index, "path": str(image_path)})
+                image_records.append({
+                    "page": page_number,
+                    "image_index": img_index,
+                    "path": str(image_path),
+                    "bbox": bbox,
+                    "caption": f"Image {img_index} on page {page_number}",
+                })
         doc.close()
         return image_records
 
