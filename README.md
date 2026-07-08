@@ -30,4 +30,4 @@ python Crop_Weather_Watch/run_rag_pipeline.py --start-date 01-06-2026 --end-date
 
 1)what is Kharif Season Sowing Status?
 2)table on kharif crop
-3)image on kharif crops
+3)MME forecast Tmax anomaly image

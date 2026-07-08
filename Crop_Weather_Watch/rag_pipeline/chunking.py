@@ -19,9 +19,17 @@ def build_chunk_from_elements(elements: List[Dict[str, Any]], chunk_id: str, sou
             if heading:
                 headings.append(heading)
         elif element_type == "table":
-            linked_tables.append(element.get("path"))
+            tbl_path = element.get("path")
+            linked_tables.append(tbl_path)
+            if tbl_path:
+                from pathlib import Path
+                text_parts.append(f"[TABLE {Path(tbl_path).stem}]")
         elif element_type == "image":
-            linked_images.append(element.get("path"))
+            img_path = element.get("path")
+            linked_images.append(img_path)
+            if img_path:
+                from pathlib import Path
+                text_parts.append(f"[IMAGE {Path(img_path).stem}]")
 
         if element.get("page") is not None:
             page_numbers.append(element["page"])
@@ -44,11 +52,15 @@ def build_chunk_from_elements(elements: List[Dict[str, Any]], chunk_id: str, sou
 
 def chunk_document(document: Dict[str, Any], week_name: str) -> List[Dict[str, Any]]:
     """Create a simple late-chunking style grouping by page while preserving linked elements."""
+    from pathlib import Path
     chunks = []
     for page_index, page in enumerate(document.get("pages", []), start=1):
         page_elements = page.get("elements", [])
         if not page_elements:
             continue
-        chunk = build_chunk_from_elements(page_elements, f"{week_name}_page_{page_index:02d}", document.get("document_name", week_name))
+        doc_name = document.get("document_name", week_name)
+        doc_stem = Path(doc_name).stem.replace(" ", "_").replace(".", "_")
+        chunk_id = f"{week_name}_{doc_stem}_page_{page_index:02d}"
+        chunk = build_chunk_from_elements(page_elements, chunk_id, doc_name)
         chunks.append(chunk)
     return chunks

@@ -1,16 +1,16 @@
 {
   "page": 3,
-  "width": 612.0,
-  "height": 792.0,
+  "width": 595.4400024414062,
+  "height": 841.6799926757812,
   "blocks": [
     {
       "block_index": 1,
       "page": 3,
       "bbox": [
-        96.95999908447266,
-        33.63079071044922,
-        553.7933349609375,
-        76.11617279052734
+        75.6240005493164,
+        35.50801086425781,
+        560.8220825195312,
+        80.61202239990234
       ],
       "text": "The deeper groundwater level in the states like Western Rajasthan, Punjab, Haryana and \nChandigarh during January, 2026 has been significantly influenced by the over extraction of \ngroundwater compared to the recharge in the area, indicating negative water balance.  \n",
       "type": "text",
@@ -20,10 +20,10 @@
       "block_index": 2,
       "page": 3,
       "bbox": [
-        96.95999908447266,
-        91.71078491210938,
-        553.7617797851562,
-        119.1961669921875
+        75.6240005493164,
+        97.20796203613281,
+        560.6639404296875,
+        126.33199310302734
       ],
       "text": "About 70% of the analyzed stations of the unconfined aquifer experienced a rise of water level in \nJanuary, 2026 when compared to the decadal mean water level of 2016-2025.  \n",
       "type": "text",
@@ -33,10 +33,10 @@
       "block_index": 3,
       "page": 3,
       "bbox": [
-        96.95999908447266,
-        134.79078674316406,
-        553.6978149414062,
-        192.0361785888672
+        75.6240005493164,
+        142.92799377441406,
+        561.1199951171875,
+        203.7320098876953
       ],
       "text": "The Groundwater Drought Indices indicate that in January, 2026, groundwater conditions across \nIndia remained largely stable, with 90.30% of monitoring stations falling under normal condition in \nrespect of Ground Water Drought. However, localized deficits were observed in several regions \u2014 \nnotably in Arunachal Pradesh, Himachal Pradesh, Meghalaya, and Nagaland. \n",
       "type": "text",
@@ -46,10 +46,10 @@
       "block_index": 4,
       "page": 3,
       "bbox": [
-        96.95999908447266,
-        207.7507781982422,
-        99.7796401977539,
-        220.2361602783203
+        75.6240005493164,
+        220.3579864501953,
+        78.6240005493164,
+        233.64198303222656
       ],
       "text": " \n",
       "type": "empty",
@@ -59,10 +59,10 @@
       "block_index": 5,
       "page": 3,
       "bbox": [
-        495.4800109863281,
-        452.09912109375,
-        497.8203430175781,
-        462.4620361328125
+        498.82000732421875,
+        480.1956481933594,
+        501.30999755859375,
+        491.22137451171875
       ],
       "text": " \n",
       "type": "empty",
@@ -72,10 +72,10 @@
       "block_index": 6,
       "page": 3,
       "bbox": [
-        321.9599914550781,
-        468.51080322265625,
-        324.7796325683594,
-        480.99615478515625
+        314.5899963378906,
+        497.3380126953125,
+        317.5899963378906,
+        510.62200927734375
       ],
       "text": " \n",
       "type": "empty",
@@ -85,10 +85,10 @@
       "block_index": 7,
       "page": 3,
       "bbox": [
-        80.04000091552734,
-        488.7528991699219,
-        401.15185546875,
-        501.39617919921875
+        57.624000549316406,
+        518.8900146484375,
+        398.95001220703125,
+        532.3419799804688
       ],
       "text": "c) Fertilizers: The fertilizer supply remains stable across all products. \n",
       "type": "text",
@@ -98,10 +98,10 @@
       "block_index": 8,
       "page": 3,
       "bbox": [
-        96.95999908447266,
-        501.99078369140625,
-        99.7796401977539,
-        527.4361572265625
+        75.6240005493164,
+        532.8579711914062,
+        78.6240005493164,
+        559.9719848632812
       ],
       "text": " \n \n",
       "type": "empty",
@@ -111,12 +111,12 @@
       "block_index": 9,
       "page": 3,
       "bbox": [
-        63.12000274658203,
-        535.3129272460938,
-        553.71142578125,
-        562.9561767578125
+        39.599998474121094,
+        568.3599853515625,
+        560.8699951171875,
+        581.8119506835938
       ],
-      "text": "4. Pests & Diseases: The overall incidence of pests and diseases remained below the Economic Threshold \nLevel.  \n",
+      "text": "4. Pests & Diseases: The overall incidence of pests and diseases remained below the Economic Threshold \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -124,23 +124,23 @@
       "block_index": 10,
       "page": 3,
       "bbox": [
-        46.19999694824219,
-        570.1507568359375,
-        49.0196418762207,
-        582.6361083984375
+        57.624000549316406,
+        584.3679809570312,
+        508.6600036621094,
+        597.6519775390625
       ],
-      "text": " \n",
-      "type": "empty",
+      "text": "Level. The monitoring of Cotton crop for Pink Ball Worm is progressing as per the protocol.  \n",
+      "type": "text",
       "source_type": "pdfblock"
     },
     {
       "block_index": 11,
       "page": 3,
       "bbox": [
-        46.19999694824219,
-        589.7108154296875,
-        49.0196418762207,
-        602.1961669921875
+        21.600000381469727,
+        605.4879760742188,
+        24.600000381469727,
+        618.77197265625
       ],
       "text": " \n",
       "type": "empty",
@@ -150,10 +150,10 @@
       "block_index": 12,
       "page": 3,
       "bbox": [
-        46.19999694824219,
-        609.3908081054688,
-        49.0196418762207,
-        621.8761596679688
+        21.600000381469727,
+        626.3679809570312,
+        24.600000381469727,
+        639.6519775390625
       ],
       "text": " \n",
       "type": "empty",
@@ -163,10 +163,23 @@
       "block_index": 13,
       "page": 3,
       "bbox": [
-        46.19999694824219,
-        629.07080078125,
-        49.0196418762207,
-        641.55615234375
+        21.600000381469727,
+        647.2479858398438,
+        24.600000381469727,
+        660.531982421875
+      ],
+      "text": " \n",
+      "type": "empty",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 14,
+      "page": 3,
+      "bbox": [
+        21.600000381469727,
+        668.1279907226562,
+        24.600000381469727,
+        681.4119873046875
       ],
       "text": " \n",
       "type": "empty",

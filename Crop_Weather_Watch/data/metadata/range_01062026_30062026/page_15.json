@@ -113,15 +113,28 @@
       "bbox": [
         62.159996032714844,
         265.432861328125,
-        553.7053833007812,
-        352.4761657714844
+        379.67041015625,
+        278.0761413574219
       ],
-      "text": "3. Inflation Scenario for the Month of May, 2026 (based on CPI) \n \nThe Consumer Price Index (CPI: Base Year 2024) based inflation rate has increased to 3.93% \n(provisional) in May, 2026 from 3.48% in April, 2026. Consumer Food Price Index (CFPI) based \ninflation rate for All-India Combined has increased to 4.78% (provisional) in May, 2026 from 4.20% in \nApril, 2026. \n",
+      "text": "3. Inflation Scenario for the Month of May, 2026 (based on CPI) \n",
       "type": "text",
       "source_type": "pdfblock"
     },
     {
       "block_index": 10,
+      "page": 15,
+      "bbox": [
+        79.08000183105469,
+        280.47076416015625,
+        553.7053833007812,
+        352.4761657714844
+      ],
+      "text": " \nThe Consumer Price Index (CPI: Base Year 2024) based inflation rate has increased to 3.93% \n(provisional) in May, 2026 from 3.48% in April, 2026. Consumer Food Price Index (CFPI) based \ninflation rate for All-India Combined has increased to 4.78% (provisional) in May, 2026 from 4.20% in \nApril, 2026. \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
       "page": 15,
       "bbox": [
         62.159996032714844,
@@ -134,7 +147,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 11,
+      "block_index": 12,
       "page": 15,
       "bbox": [
         79.08000183105469,
@@ -147,7 +160,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 12,
+      "block_index": 13,
       "page": 15,
       "bbox": [
         79.08000183105469,
@@ -160,7 +173,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 13,
+      "block_index": 14,
       "page": 15,
       "bbox": [
         79.08000183105469,
@@ -173,7 +186,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 14,
+      "block_index": 15,
       "page": 15,
       "bbox": [
         79.08000183105469,
@@ -186,7 +199,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 15,
+      "block_index": 16,
       "page": 15,
       "bbox": [
         79.08000183105469,
@@ -199,7 +212,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 16,
+      "block_index": 17,
       "page": 15,
       "bbox": [
         79.08000183105469,
@@ -212,7 +225,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 17,
+      "block_index": 18,
       "page": 15,
       "bbox": [
         79.08000183105469,
@@ -225,7 +238,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 18,
+      "block_index": 19,
       "page": 15,
       "bbox": [
         79.08000183105469,
@@ -238,7 +251,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 19,
+      "block_index": 20,
       "page": 15,
       "bbox": [
         79.08000183105469,
@@ -251,15 +264,28 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 20,
+      "block_index": 21,
       "page": 15,
       "bbox": [
         58.727027893066406,
+        183.60777282714844,
+        388.0310974121094,
+        548.52734375
+      ],
+      "text": "10.21.40.32\n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 22,
+      "page": 15,
+      "bbox": [
+        85.25769805908203,
         93.19601440429688,
         560.0621948242188,
         636.7222900390625
       ],
-      "text": "10.21.40.32\n30-JUN-2026 10:55 AM\n",
+      "text": "30-JUN-2026 10:55 AM\n",
       "type": "text",
       "source_type": "pdfblock"
     }

@@ -252,8 +252,21 @@ def build_child_chunks(parent_chunks: List[Dict[str, Any]], document: Dict[str, 
         # Assign tables/images on the page to their closest child chunk
         assign_linked_elements(child_chunks_for_page, page.get("elements", []))
         
-        # Clean up temporary positions
+        # Clean up temporary positions and append image/table markers to child chunk text
         for child in child_chunks_for_page:
+            extra_markers = []
+            for img in child.get("linked_images", []):
+                img_path = img.get("path")
+                if img_path:
+                    extra_markers.append(f"[IMAGE {Path(img_path).stem}]")
+            for tbl in child.get("linked_tables", []):
+                tbl_path = tbl.get("path")
+                if tbl_path:
+                    extra_markers.append(f"[TABLE {Path(tbl_path).stem}]")
+            
+            if extra_markers:
+                child["text"] = child["text"] + "\n" + "\n".join(extra_markers)
+
             if "_text_positions" in child:
                 del child["_text_positions"]
                 

@@ -1,16 +1,16 @@
 {
   "page": 11,
-  "width": 612.0,
-  "height": 792.0,
+  "width": 595.4400024414062,
+  "height": 841.6799926757812,
   "blocks": [
     {
       "block_index": 1,
       "page": 11,
       "bbox": [
-        79.08000183105469,
-        25.830791473388672,
-        81.89964294433594,
-        38.3161735534668
+        49.560001373291016,
+        27.467973709106445,
+        52.560001373291016,
+        40.75197219848633
       ],
       "text": " \n",
       "type": "empty",
@@ -20,12 +20,12 @@
       "block_index": 2,
       "page": 11,
       "bbox": [
-        79.08000183105469,
-        47.310791015625,
-        230.45962524414062,
-        59.796173095703125
+        49.560001373291016,
+        50.38801574707031,
+        210.2899932861328,
+        63.67201614379883
       ],
-      "text": "5.   FERTILIZER POSITION: \n",
+      "text": "6.   FERTILIZER POSITION: \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -33,12 +33,12 @@
       "block_index": 3,
       "page": 11,
       "bbox": [
-        98.04000091552734,
-        71.7907943725586,
-        553.6273193359375,
-        114.03617858886719
+        69.6240005493164,
+        75.96797180175781,
+        561.1199951171875,
+        121.0520248413086
       ],
-      "text": "Availability of fertilizer has been found comfortable. Details of Requirement, Receipt, Availability, \nSales and Stock position of Major Fertilizers (Urea, DAP, MOP, Complex and SSP) during Kharif \n2026 as on 12.06.2026 is given below: \n",
+      "text": "Availability of fertilizer has been found comfortable. Details of Requirement, Receipt, Availability, \nSales and Stock position of Major Fertilizers (Urea, DAP, MOP, Complex and SSP) during Kharif \n2026 as on 29.05.2026 is given below: \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -46,10 +46,10 @@
       "block_index": 4,
       "page": 11,
       "bbox": [
-        460.32000732421875,
-        126.03079223632812,
-        554.043212890625,
-        138.51617431640625
+        461.5,
+        133.56800842285156,
+        561.1199951171875,
+        146.8520050048828
       ],
       "text": "(Unit : in Lakh MT) \n",
       "type": "text",
@@ -59,10 +59,10 @@
       "block_index": 5,
       "page": 11,
       "bbox": [
-        119.75999450683594,
-        172.83079528808594,
-        161.37794494628906,
-        185.31617736816406
+        93.38400268554688,
+        183.4879913330078,
+        137.66000366210938,
+        196.77198791503906
       ],
       "text": "Product \n",
       "type": "text",
@@ -72,10 +72,10 @@
       "block_index": 6,
       "page": 11,
       "bbox": [
-        190.79998779296875,
-        158.79078674316406,
-        256.9697265625,
-        185.31617736816406
+        170.05999755859375,
+        168.6079864501953,
+        240.2479705810547,
+        196.77198791503906
       ],
       "text": "Total \nRequirement \n",
       "type": "text",
@@ -85,10 +85,10 @@
       "block_index": 7,
       "page": 11,
       "bbox": [
-        193.44000244140625,
-        186.7507781982422,
-        254.21652221679688,
-        199.2361602783203
+        172.82000732421875,
+        198.3679962158203,
+        237.52999877929688,
+        211.65199279785156
       ],
       "text": "Kharif 2026 \n",
       "type": "text",
@@ -98,12 +98,12 @@
       "block_index": 8,
       "page": 11,
       "bbox": [
-        274.79998779296875,
-        158.79078674316406,
-        340.94525146484375,
-        171.2761688232422
+        265.7300109863281,
+        168.6079864501953,
+        318.4219970703125,
+        181.89198303222656
       ],
-      "text": "Requirement \n",
+      "text": "Total sale \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -111,12 +111,12 @@
       "block_index": 9,
       "page": 11,
       "bbox": [
-        275.6399841308594,
-        172.83079528808594,
-        339.99871826171875,
-        185.31617736816406
+        259.7300109863281,
+        183.4879913330078,
+        324.42999267578125,
+        211.65199279785156
       ],
-      "text": "during June, \n",
+      "text": "during \nKharif 2026 \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -124,12 +124,12 @@
       "block_index": 10,
       "page": 11,
       "bbox": [
-        295.08001708984375,
-        186.7507781982422,
-        320.456787109375,
-        199.2361602783203
+        406.1499938964844,
+        168.6079864501953,
+        489.2200012207031,
+        181.89198303222656
       ],
-      "text": "2026 \n",
+      "text": "(as on 29/05/26) \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -137,12 +137,12 @@
       "block_index": 11,
       "page": 11,
       "bbox": [
-        413.27996826171875,
-        158.79078674316406,
-        491.3086853027344,
-        171.2761688232422
+        340.75,
+        193.0879669189453,
+        559.4400024414062,
+        206.37196350097656
       ],
-      "text": "(as on 12/06/26) \n",
+      "text": "Availability \nSales \nClosing stock \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -150,12 +150,12 @@
       "block_index": 12,
       "page": 11,
       "bbox": [
-        352.55999755859375,
-        181.83079528808594,
-        550.4549560546875,
-        194.31617736816406
+        77.54399871826172,
+        228.5180206298828,
+        538.7999877929688,
+        243.12196350097656
       ],
-      "text": "Availability \nSales \nClosing stock\n",
+      "text": "UREA \n194.02 \n27.96 \n101.49 \n33.53 \n67.96 \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -163,12 +163,12 @@
       "block_index": 13,
       "page": 11,
       "bbox": [
-        105.47999572753906,
-        215.43080139160156,
-        533.62744140625,
-        228.8761749267578
+        77.54399871826172,
+        259.9579772949219,
+        538.7999877929688,
+        274.4419860839844
       ],
-      "text": "UREA \n194.02 \n35.64 \n116.82 \n48.87 \n67.95 \n",
+      "text": "DAP \n59.17 \n6.93 \n27.00 \n8.45 \n18.55 \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -176,12 +176,12 @@
       "block_index": 14,
       "page": 11,
       "bbox": [
-        105.47999572753906,
-        244.95079040527344,
-        533.5678100585938,
-        258.3961486816406
+        77.54399871826172,
+        291.2779846191406,
+        535.7999877929688,
+        305.7619934082031
       ],
-      "text": "DAP \n59.17 \n10.85 \n29.38 \n12.40 \n16.98 \n",
+      "text": "MOP \n17.57 \n2.00 \n10.48 \n2.37 \n8.11 \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -189,12 +189,12 @@
       "block_index": 15,
       "page": 11,
       "bbox": [
-        105.47999572753906,
-        274.47076416015625,
-        530.8609008789062,
-        287.9161682128906
+        77.54399871826172,
+        322.718017578125,
+        538.7999877929688,
+        337.2019958496094
       ],
-      "text": "MOP \n17.57 \n3.32 \n11.65 \n3.24 \n8.41 \n",
+      "text": "NPK \n84.99 \n11.61 \n63.07 \n15.01 \n48.06 \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -202,12 +202,12 @@
       "block_index": 16,
       "page": 11,
       "bbox": [
-        105.47999572753906,
-        304.11077880859375,
-        533.5678100585938,
-        317.4361572265625
+        77.54399871826172,
+        354.0379943847656,
+        538.7999877929688,
+        368.5220031738281
       ],
-      "text": "NPK \n84.99 \n16.33 \n68.41 \n22.99 \n45.43 \n",
+      "text": "SSP \n34.81 \n4.72 \n30.32 \n6.02 \n24.30 \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -215,12 +215,12 @@
       "block_index": 17,
       "page": 11,
       "bbox": [
-        105.47999572753906,
-        333.63079833984375,
-        533.5678100585938,
-        346.9561462402344
+        72.98400115966797,
+        385.6180114746094,
+        541.7999877929688,
+        399.98199462890625
       ],
-      "text": "SSP \n34.81 \n6.69 \n33.04 \n9.36 \n23.68 \n",
+      "text": "TOTAL \n390.56 \n53.23 \n232.36 \n65.37 \n166.99 \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -228,12 +228,12 @@
       "block_index": 18,
       "page": 11,
       "bbox": [
-        101.16000366210938,
-        363.03082275390625,
-        536.447021484375,
-        376.5961608886719
+        67.58399963378906,
+        411.77801513671875,
+        561.1199951171875,
+        562.17138671875
       ],
-      "text": "TOTAL \n390.56 \n72.83 \n259.30 \n96.85 \n162.45 \n",
+      "text": " \n\u00b7 \nIn case of DAP, The opening stock of Kharif 2026 as compared to the opening stock of Kharif \n2025 is more by 11.78 LMT \n\u00b7 \nAs on 29th May, 2026 the availability of DAP is 27.00 LMT against the requirement of 8.75 LMT \nduring the ongoing Kharif 2026 season. \n\u00b7 \nAs on 29th May 2026, adequate stock of Urea (101.49 LMT), DAP (27.00 LMT), MOP (10.48 \nLMT), NPK (63.07 LMT) and SSP (30.32 LMT) is available. \n \n \n \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -241,12 +241,12 @@
       "block_index": 19,
       "page": 11,
       "bbox": [
-        96.12000274658203,
-        387.99078369140625,
-        553.6937866210938,
-        543.4620361328125
+        49.560001373291016,
+        571.64794921875,
+        177.02000427246094,
+        584.9319458007812
       ],
-      "text": " \n\u00b7 \nIn case of DAP, The opening stock of Kharif 2026 as compared to the opening stock of Kharif \n2025 is more by 11.78 LMT \n\u00b7 \nAs on 12thJune, 2026 the availability of DAP is 29.38 LMT against the requirement of 10.85 \nLMT during the ongoing Kharif 2026 season. \n\u00b7 \nAs on 12th June 2026, adequate stock of Urea (116.82 LMT), DAP (29.38 LMT), MOP (11.65 \nLMT), NPK (68.41 LMT) and SSP (33.04 LMT) is available. \n \n \n \n \n",
+      "text": "7.      PEST & DISEASE \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -254,62 +254,49 @@
       "block_index": 20,
       "page": 11,
       "bbox": [
-        79.08000183105469,
-        552.3908081054688,
-        199.02175903320312,
-        564.8761596679688
+        49.560001373291016,
+        592.2879638671875,
+        52.560001373291016,
+        605.5719604492188
       ],
-      "text": "6.      PEST & DISEASE \n",
-      "type": "text",
+      "text": " \n",
+      "type": "empty",
       "source_type": "pdfblock"
     },
     {
       "block_index": 21,
       "page": 11,
       "bbox": [
-        79.08000183105469,
-        572.07080078125,
-        81.89964294433594,
-        584.55615234375
-      ],
-      "text": " \n",
-      "type": "empty",
-      "source_type": "pdfblock"
-    },
-    {
-      "block_index": 22,
-      "page": 11,
-      "bbox": [
-        96.12000274658203,
-        593.1050415039062,
-        526.11474609375,
-        606.9100341796875
+        67.58399963378906,
+        614.6799926757812,
+        524.8599853515625,
+        629.3319702148438
       ],
       "text": "\uf0b7 The overall intensity of pests and diseases remained below the Economic Threshold Level. \n",
       "type": "text",
       "source_type": "pdfblock"
     },
     {
-      "block_index": 23,
+      "block_index": 22,
       "page": 11,
       "bbox": [
-        70.68000030517578,
-        614.07080078125,
-        73.49964141845703,
-        626.55615234375
+        40.560001373291016,
+        637.2879638671875,
+        43.560001373291016,
+        650.5719604492188
       ],
       "text": " \n",
       "type": "empty",
       "source_type": "pdfblock"
     },
     {
-      "block_index": 24,
+      "block_index": 23,
       "page": 11,
       "bbox": [
-        70.68000030517578,
-        633.7508544921875,
-        73.49964141845703,
-        646.2362060546875
+        40.560001373291016,
+        658.0479736328125,
+        43.560001373291016,
+        671.3319702148438
       ],
       "text": " \n",
       "type": "empty",

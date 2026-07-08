@@ -54,6 +54,13 @@ def main() -> None:
             for item in results:
                 print(f"\nChunk: {item['chunk_id']} | Page: {item['page_number']} | Score: {item['score']:.3f}")
                 print(item['text'][:1200])
+                if item.get("linked_images"):
+                    print("Linked Images:")
+                    for img in item["linked_images"]:
+                        if isinstance(img, dict):
+                            print(f"  - Path: {img.get('path')} (Caption: {img.get('caption')})")
+                        else:
+                            print(f"  - Path: {img}")
 
 
 if __name__ == "__main__":

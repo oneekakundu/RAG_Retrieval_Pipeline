@@ -46,13 +46,13 @@
           ],
           "section_heading": null,
           "previous_element": "Ministry of Agriculture & Farmers Welfare",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_01_table_1.csv",
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_01_table_1.csv",
           "position": 3
         },
         {
           "type": "table",
           "page": 1,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_01_table_1.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_01_table_1.csv",
           "bbox": [
             27.72,
             114.86000000000001,
@@ -76,7 +76,7 @@
             137.78866577148438
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_01_table_1.csv",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_01_table_1.csv",
           "next_element": "(CWWG) meeting as on 01.06.2026",
           "position": 5
         },
@@ -92,13 +92,13 @@
           ],
           "section_heading": null,
           "previous_element": "Weekly report/ Minutes of the Crop Weather Watch Group",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_01_img_1.jpg",
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_01_img_1.jpg",
           "position": 6
         },
         {
           "type": "image",
           "page": 1,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_01_img_1.jpg",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_01_img_1.jpg",
           "bbox": [
             21.600000381469727,
             195.5,
@@ -368,15 +368,15 @@
           ],
           "section_heading": null,
           "previous_element": "a) Temperature: Maximum temperature is likely to be below normal in most of country except in",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_02_table_1.csv",
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_02_table_1.csv",
           "position": 14
         },
         {
           "type": "table",
           "page": 2,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_02_table_1.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_02_table_1.csv",
           "bbox": [
-            57.79938461538461,
+            57.799384615384604,
             313.4899999999999,
             559.203,
             361.00999999999993
@@ -398,7 +398,7 @@
             327.0019836425781
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_02_table_1.csv",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_02_table_1.csv",
           "next_element": "higher than its Long Period Average (LPA), with regional variations: (i) East & Northeast India: \n1%; (ii) Northwest India: (-) 6%; (iii) Central India: 17%; and South Peninsula: 0%.",
           "position": 16
         },
@@ -474,15 +474,15 @@
           ],
           "section_heading": "3.  Inputs Situation",
           "previous_element": "hailstorm likely over Northwest, Central & adjoining East India on 31st May. Isolated Hailstorm \nactivity likely over Odisha, West Madhya Pradesh and Madhya Maharashtra on 01st June. \n Normal to above normal rainfall is expected over central and northwest India. \n Heat wave condition likely to prevail over Bihar during 04th–06th June.",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_02_table_2.csv",
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_02_table_2.csv",
           "position": 21
         },
         {
           "type": "table",
           "page": 2,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_02_table_2.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_02_table_2.csv",
           "bbox": [
-            57.79938461538461,
+            57.799384615384604,
             596.5,
             555.004,
             707.52
@@ -504,7 +504,7 @@
             610.011962890625
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_02_table_2.csv",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_02_table_2.csv",
           "next_element": "reservoirs across the country (monitored by CWC) is 56.300 billion cubic meter, which is 30.67% \nof total live storage capacity (183.565 BCM). The current year's storage is nearly 100.73 percent of \nlast year's storage and 119.11 percent of the average storage of the last ten years during the \ncorresponding period. The overall storage position is better than the corresponding period of last \nyear in the country as a whole and is also better than the Normal storage during the corresponding \nperiod.",
           "position": 23
         },
@@ -867,13 +867,13 @@
           ],
           "section_heading": null,
           "previous_element": "About 70% of the analyzed stations of the unconfined aquifer experienced a rise of water level in \nJanuary, 2026 when compared to the decadal mean water level of 2016-2025.",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_03_table_1.csv",
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_03_table_1.csv",
           "position": 29
         },
         {
           "type": "table",
           "page": 3,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_03_table_1.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_03_table_1.csv",
           "bbox": [
             74.184,
             220.10599999999988,
@@ -883,8 +883,24 @@
           "section_heading": null,
           "caption": "Table 1 on page 3",
           "previous_element": "The Groundwater Drought Indices indicate that in January, 2026, groundwater conditions across \nIndia remained largely stable, with 90.30% of monitoring stations falling under normal condition in \nrespect of Ground Water Drought. However, localized deficits were observed in several regions — \nnotably in Arunachal Pradesh, Himachal Pradesh, Meghalaya, and Nagaland.",
-          "next_element": "c) Fertilizers: The fertilizer supply remains stable across all products.",
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_03_img_1.jpg",
           "position": 30
+        },
+        {
+          "type": "image",
+          "page": 3,
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_03_img_1.jpg",
+          "bbox": [
+            130.3000030517578,
+            241.89999389648438,
+            498.70001220703125,
+            489.0
+          ],
+          "section_heading": null,
+          "caption": "Image 1 on page 3",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_03_table_1.csv",
+          "next_element": "c) Fertilizers: The fertilizer supply remains stable across all products.",
+          "position": 31
         },
         {
           "type": "text",
@@ -897,24 +913,39 @@
             532.3419799804688
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_03_table_1.csv",
-          "next_element": "4. Pests & Diseases: The overall incidence of pests and diseases remained below the Economic Threshold \nLevel. The monitoring of Cotton crop for Pink Ball Worm is progressing as per the protocol.",
-          "position": 31
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_03_img_1.jpg",
+          "next_element": "4. Pests & Diseases: The overall incidence of pests and diseases remained below the Economic Threshold",
+          "position": 32
         },
         {
           "type": "text",
           "page": 3,
-          "content": "4. Pests & Diseases: The overall incidence of pests and diseases remained below the Economic Threshold \nLevel. The monitoring of Cotton crop for Pink Ball Worm is progressing as per the protocol.",
+          "content": "4. Pests & Diseases: The overall incidence of pests and diseases remained below the Economic Threshold",
           "bbox": [
             39.599998474121094,
             568.3599853515625,
             560.8699951171875,
+            581.8119506835938
+          ],
+          "section_heading": "4. Pests & Diseases: The overall incidence of pests and diseases remained below the Economic Threshold",
+          "previous_element": "c) Fertilizers: The fertilizer supply remains stable across all products.",
+          "next_element": "Level. The monitoring of Cotton crop for Pink Ball Worm is progressing as per the protocol.",
+          "position": 33
+        },
+        {
+          "type": "text",
+          "page": 3,
+          "content": "Level. The monitoring of Cotton crop for Pink Ball Worm is progressing as per the protocol.",
+          "bbox": [
+            57.624000549316406,
+            584.3679809570312,
+            508.6600036621094,
             597.6519775390625
           ],
           "section_heading": null,
-          "previous_element": "c) Fertilizers: The fertilizer supply remains stable across all products.",
+          "previous_element": "4. Pests & Diseases: The overall incidence of pests and diseases remained below the Economic Threshold",
           "next_element": null,
-          "position": 32
+          "position": 34
         }
       ],
       "metadata": {
@@ -1033,14 +1064,27 @@
               39.599998474121094,
               568.3599853515625,
               560.8699951171875,
-              597.6519775390625
+              581.8119506835938
             ],
-            "text": "4. Pests & Diseases: The overall incidence of pests and diseases remained below the Economic Threshold \nLevel. The monitoring of Cotton crop for Pink Ball Worm is progressing as per the protocol.  \n",
+            "text": "4. Pests & Diseases: The overall incidence of pests and diseases remained below the Economic Threshold \n",
             "type": "text",
             "source_type": "pdfblock"
           },
           {
             "block_index": 10,
+            "page": 3,
+            "bbox": [
+              57.624000549316406,
+              584.3679809570312,
+              508.6600036621094,
+              597.6519775390625
+            ],
+            "text": "Level. The monitoring of Cotton crop for Pink Ball Worm is progressing as per the protocol.  \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 11,
             "page": 3,
             "bbox": [
               21.600000381469727,
@@ -1053,7 +1097,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 11,
+            "block_index": 12,
             "page": 3,
             "bbox": [
               21.600000381469727,
@@ -1066,7 +1110,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 12,
+            "block_index": 13,
             "page": 3,
             "bbox": [
               21.600000381469727,
@@ -1079,7 +1123,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 13,
+            "block_index": 14,
             "page": 3,
             "bbox": [
               21.600000381469727,
@@ -1109,24 +1153,24 @@
           ],
           "section_heading": "5. Crops whose Mandi Wholesale prices are below MSP:",
           "previous_element": null,
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_04_table_1.csv",
-          "position": 33
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_04_table_1.csv",
+          "position": 35
         },
         {
           "type": "table",
           "page": 4,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_04_table_1.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_04_table_1.csv",
           "bbox": [
             30.559999999999995,
             98.29999999999995,
             549.0399933333333,
-            409.87000499999994
+            409.87000499999976
           ],
           "section_heading": null,
           "caption": "Table 1 on page 4",
           "previous_element": "5. Crops whose Mandi Wholesale prices are below MSP:",
           "next_element": "All India Mandi Wholesale Prices \nCommodities \nMSP (RS/Qtl) \nPrice as on 29-05-2026 \n% Variation over MSP",
-          "position": 34
+          "position": 36
         },
         {
           "type": "text",
@@ -1139,9 +1183,9 @@
             128.49195861816406
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_04_table_1.csv",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_04_table_1.csv",
           "next_element": "Paddy (Rice unmilled)",
-          "position": 35
+          "position": 37
         },
         {
           "type": "text",
@@ -1156,7 +1200,7 @@
           "section_heading": null,
           "previous_element": "All India Mandi Wholesale Prices \nCommodities \nMSP (RS/Qtl) \nPrice as on 29-05-2026 \n% Variation over MSP",
           "next_element": "2369",
-          "position": 36
+          "position": 38
         },
         {
           "type": "text",
@@ -1171,7 +1215,7 @@
           "section_heading": "2369",
           "previous_element": "Paddy (Rice unmilled)",
           "next_element": "2088",
-          "position": 37
+          "position": 39
         },
         {
           "type": "text",
@@ -1186,7 +1230,7 @@
           "section_heading": "2088",
           "previous_element": "2369",
           "next_element": "-11.86",
-          "position": 38
+          "position": 40
         },
         {
           "type": "text",
@@ -1201,7 +1245,7 @@
           "section_heading": null,
           "previous_element": "2088",
           "next_element": "Wheat",
-          "position": 39
+          "position": 41
         },
         {
           "type": "text",
@@ -1216,7 +1260,7 @@
           "section_heading": null,
           "previous_element": "-11.86",
           "next_element": "2585",
-          "position": 40
+          "position": 42
         },
         {
           "type": "text",
@@ -1231,7 +1275,7 @@
           "section_heading": "2585",
           "previous_element": "Wheat",
           "next_element": "2442",
-          "position": 41
+          "position": 43
         },
         {
           "type": "text",
@@ -1246,7 +1290,7 @@
           "section_heading": "2442",
           "previous_element": "2585",
           "next_element": "-5.53",
-          "position": 42
+          "position": 44
         },
         {
           "type": "text",
@@ -1261,7 +1305,7 @@
           "section_heading": null,
           "previous_element": "2442",
           "next_element": "Maize",
-          "position": 43
+          "position": 45
         },
         {
           "type": "text",
@@ -1276,7 +1320,7 @@
           "section_heading": null,
           "previous_element": "-5.53",
           "next_element": "2400",
-          "position": 44
+          "position": 46
         },
         {
           "type": "text",
@@ -1291,7 +1335,7 @@
           "section_heading": "2400",
           "previous_element": "Maize",
           "next_element": "1900",
-          "position": 45
+          "position": 47
         },
         {
           "type": "text",
@@ -1306,7 +1350,7 @@
           "section_heading": "1900",
           "previous_element": "2400",
           "next_element": "-20.83",
-          "position": 46
+          "position": 48
         },
         {
           "type": "text",
@@ -1321,7 +1365,7 @@
           "section_heading": null,
           "previous_element": "1900",
           "next_element": "Arhar",
-          "position": 47
+          "position": 49
         },
         {
           "type": "text",
@@ -1336,7 +1380,7 @@
           "section_heading": null,
           "previous_element": "-20.83",
           "next_element": "8000",
-          "position": 48
+          "position": 50
         },
         {
           "type": "text",
@@ -1351,7 +1395,7 @@
           "section_heading": "8000",
           "previous_element": "Arhar",
           "next_element": "7491",
-          "position": 49
+          "position": 51
         },
         {
           "type": "text",
@@ -1366,7 +1410,7 @@
           "section_heading": "7491",
           "previous_element": "8000",
           "next_element": "-6.36",
-          "position": 50
+          "position": 52
         },
         {
           "type": "text",
@@ -1381,7 +1425,7 @@
           "section_heading": null,
           "previous_element": "7491",
           "next_element": "Gram whole",
-          "position": 51
+          "position": 53
         },
         {
           "type": "text",
@@ -1396,7 +1440,7 @@
           "section_heading": null,
           "previous_element": "-6.36",
           "next_element": "5875",
-          "position": 52
+          "position": 54
         },
         {
           "type": "text",
@@ -1411,7 +1455,7 @@
           "section_heading": "5875",
           "previous_element": "Gram whole",
           "next_element": "5715",
-          "position": 53
+          "position": 55
         },
         {
           "type": "text",
@@ -1426,7 +1470,7 @@
           "section_heading": "5715",
           "previous_element": "5875",
           "next_element": "-2.72",
-          "position": 54
+          "position": 56
         },
         {
           "type": "text",
@@ -1441,7 +1485,7 @@
           "section_heading": null,
           "previous_element": "5715",
           "next_element": "Masur",
-          "position": 55
+          "position": 57
         },
         {
           "type": "text",
@@ -1456,7 +1500,7 @@
           "section_heading": null,
           "previous_element": "-2.72",
           "next_element": "7000",
-          "position": 56
+          "position": 58
         },
         {
           "type": "text",
@@ -1471,7 +1515,7 @@
           "section_heading": "7000",
           "previous_element": "Masur",
           "next_element": "6604",
-          "position": 57
+          "position": 59
         },
         {
           "type": "text",
@@ -1486,7 +1530,7 @@
           "section_heading": "6604",
           "previous_element": "7000",
           "next_element": "-5.66",
-          "position": 58
+          "position": 60
         },
         {
           "type": "text",
@@ -1501,7 +1545,7 @@
           "section_heading": null,
           "previous_element": "6604",
           "next_element": "Moong",
-          "position": 59
+          "position": 61
         },
         {
           "type": "text",
@@ -1516,7 +1560,7 @@
           "section_heading": null,
           "previous_element": "-5.66",
           "next_element": "8768",
-          "position": 60
+          "position": 62
         },
         {
           "type": "text",
@@ -1531,7 +1575,7 @@
           "section_heading": "8768",
           "previous_element": "Moong",
           "next_element": "7006",
-          "position": 61
+          "position": 63
         },
         {
           "type": "text",
@@ -1546,7 +1590,7 @@
           "section_heading": "7006",
           "previous_element": "8768",
           "next_element": "-20.10",
-          "position": 62
+          "position": 64
         },
         {
           "type": "text",
@@ -1561,7 +1605,7 @@
           "section_heading": null,
           "previous_element": "7006",
           "next_element": "Urad",
-          "position": 63
+          "position": 65
         },
         {
           "type": "text",
@@ -1576,7 +1620,7 @@
           "section_heading": null,
           "previous_element": "-20.10",
           "next_element": "7800",
-          "position": 64
+          "position": 66
         },
         {
           "type": "text",
@@ -1591,7 +1635,7 @@
           "section_heading": "7800",
           "previous_element": "Urad",
           "next_element": "7542",
-          "position": 65
+          "position": 67
         },
         {
           "type": "text",
@@ -1606,7 +1650,7 @@
           "section_heading": "7542",
           "previous_element": "7800",
           "next_element": "-3.31",
-          "position": 66
+          "position": 68
         },
         {
           "type": "text",
@@ -1621,7 +1665,7 @@
           "section_heading": null,
           "previous_element": "7542",
           "next_element": "Jowar",
-          "position": 67
+          "position": 69
         },
         {
           "type": "text",
@@ -1636,7 +1680,7 @@
           "section_heading": null,
           "previous_element": "-3.31",
           "next_element": "3699",
-          "position": 68
+          "position": 70
         },
         {
           "type": "text",
@@ -1651,7 +1695,7 @@
           "section_heading": "3699",
           "previous_element": "Jowar",
           "next_element": "3603",
-          "position": 69
+          "position": 71
         },
         {
           "type": "text",
@@ -1666,7 +1710,7 @@
           "section_heading": "3603",
           "previous_element": "3699",
           "next_element": "-2.60",
-          "position": 70
+          "position": 72
         },
         {
           "type": "text",
@@ -1681,7 +1725,7 @@
           "section_heading": null,
           "previous_element": "3603",
           "next_element": "Bajra",
-          "position": 71
+          "position": 73
         },
         {
           "type": "text",
@@ -1696,7 +1740,7 @@
           "section_heading": null,
           "previous_element": "-2.60",
           "next_element": "2775",
-          "position": 72
+          "position": 74
         },
         {
           "type": "text",
@@ -1711,7 +1755,7 @@
           "section_heading": "2775",
           "previous_element": "Bajra",
           "next_element": "2288",
-          "position": 73
+          "position": 75
         },
         {
           "type": "text",
@@ -1726,7 +1770,7 @@
           "section_heading": "2288",
           "previous_element": "2775",
           "next_element": "-17.55",
-          "position": 74
+          "position": 76
         },
         {
           "type": "text",
@@ -1741,7 +1785,7 @@
           "section_heading": null,
           "previous_element": "2288",
           "next_element": "Ragi",
-          "position": 75
+          "position": 77
         },
         {
           "type": "text",
@@ -1756,7 +1800,7 @@
           "section_heading": null,
           "previous_element": "-17.55",
           "next_element": "4886",
-          "position": 76
+          "position": 78
         },
         {
           "type": "text",
@@ -1771,7 +1815,7 @@
           "section_heading": "4886",
           "previous_element": "Ragi",
           "next_element": "3406",
-          "position": 77
+          "position": 79
         },
         {
           "type": "text",
@@ -1786,7 +1830,7 @@
           "section_heading": "3406",
           "previous_element": "4886",
           "next_element": "-30.29",
-          "position": 78
+          "position": 80
         },
         {
           "type": "text",
@@ -1801,7 +1845,7 @@
           "section_heading": null,
           "previous_element": "3406",
           "next_element": "Groundnut",
-          "position": 79
+          "position": 81
         },
         {
           "type": "text",
@@ -1816,7 +1860,7 @@
           "section_heading": null,
           "previous_element": "-30.29",
           "next_element": "7263",
-          "position": 80
+          "position": 82
         },
         {
           "type": "text",
@@ -1831,7 +1875,7 @@
           "section_heading": "7263",
           "previous_element": "Groundnut",
           "next_element": "6961",
-          "position": 81
+          "position": 83
         },
         {
           "type": "text",
@@ -1846,7 +1890,7 @@
           "section_heading": "6961",
           "previous_element": "7263",
           "next_element": "-4.16",
-          "position": 82
+          "position": 84
         },
         {
           "type": "text",
@@ -1861,7 +1905,7 @@
           "section_heading": null,
           "previous_element": "6961",
           "next_element": "Sunflower",
-          "position": 83
+          "position": 85
         },
         {
           "type": "text",
@@ -1876,7 +1920,7 @@
           "section_heading": null,
           "previous_element": "-4.16",
           "next_element": "7721",
-          "position": 84
+          "position": 86
         },
         {
           "type": "text",
@@ -1891,7 +1935,7 @@
           "section_heading": "7721",
           "previous_element": "Sunflower",
           "next_element": "7678",
-          "position": 85
+          "position": 87
         },
         {
           "type": "text",
@@ -1906,7 +1950,7 @@
           "section_heading": "7678",
           "previous_element": "7721",
           "next_element": "-0.56",
-          "position": 86
+          "position": 88
         },
         {
           "type": "text",
@@ -1921,7 +1965,7 @@
           "section_heading": null,
           "previous_element": "7678",
           "next_element": "All the commodities are currently going below MSP during this week.",
-          "position": 87
+          "position": 89
         },
         {
           "type": "text",
@@ -1936,7 +1980,7 @@
           "section_heading": null,
           "previous_element": "-0.56",
           "next_element": null,
-          "position": 88
+          "position": 90
         }
       ],
       "metadata": {
@@ -2704,7 +2748,7 @@
           "section_heading": null,
           "previous_element": null,
           "next_element": "1. \nRAINFALL",
-          "position": 89
+          "position": 91
         },
         {
           "type": "text",
@@ -2719,7 +2763,7 @@
           "section_heading": "1. \nRAINFALL",
           "previous_element": "Details of each Segment",
           "next_element": " \nDuring the week (21 May – 27 May 2026), lower rainfall was observed, as compared to Long Period \nAverage (LPA) by 3%. Cumulative seasonal rainfall (01st March to 27 May 2026) is higher than \nLPA by 1%.",
-          "position": 90
+          "position": 92
         },
         {
           "type": "text",
@@ -2733,13 +2777,13 @@
           ],
           "section_heading": null,
           "previous_element": "1. \nRAINFALL",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_1.jpg",
-          "position": 91
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_1.jpg",
+          "position": 93
         },
         {
           "type": "image",
           "page": 5,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_1.jpg",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_1.jpg",
           "bbox": [
             87.94999694824219,
             153.84999084472656,
@@ -2749,13 +2793,13 @@
           "section_heading": null,
           "caption": "Image 1 on page 5",
           "previous_element": " \nDuring the week (21 May – 27 May 2026), lower rainfall was observed, as compared to Long Period \nAverage (LPA) by 3%. Cumulative seasonal rainfall (01st March to 27 May 2026) is higher than \nLPA by 1%.",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_2.jpg",
-          "position": 92
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_2.jpg",
+          "position": 94
         },
         {
           "type": "image",
           "page": 5,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_2.jpg",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_2.jpg",
           "bbox": [
             324.95001220703125,
             155.74998474121094,
@@ -2764,14 +2808,14 @@
           ],
           "section_heading": null,
           "caption": "Image 2 on page 5",
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_1.jpg",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_3.jpg",
-          "position": 93
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_1.jpg",
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_3.jpg",
+          "position": 95
         },
         {
           "type": "image",
           "page": 5,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_3.jpg",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_3.jpg",
           "bbox": [
             75.3499984741211,
             396.5,
@@ -2780,9 +2824,9 @@
           ],
           "section_heading": null,
           "caption": "Image 3 on page 5",
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_2.jpg",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_2.jpg",
           "next_element": "Rainfall Forecast:",
-          "position": 94
+          "position": 96
         },
         {
           "type": "text",
@@ -2795,9 +2839,9 @@
             509.6620178222656
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_3.jpg",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_05_img_3.jpg",
           "next_element": "• \nNormal Rainfall activity likely over central and Northeast India. Below normal rainfall is likely over \nsouth peninsular India and western Himalayan region.",
-          "position": 95
+          "position": 97
         },
         {
           "type": "text",
@@ -2812,7 +2856,7 @@
           "section_heading": null,
           "previous_element": "Rainfall Forecast:",
           "next_element": "TEMPERATURE: MIN & MAX",
-          "position": 96
+          "position": 98
         },
         {
           "type": "text",
@@ -2827,7 +2871,7 @@
           "section_heading": "TEMPERATURE: MIN & MAX",
           "previous_element": "• \nNormal Rainfall activity likely over central and Northeast India. Below normal rainfall is likely over \nsouth peninsular India and western Himalayan region.",
           "next_element": "Week 1 (29 May – 04 June):",
-          "position": 97
+          "position": 99
         },
         {
           "type": "text",
@@ -2842,7 +2886,7 @@
           "section_heading": null,
           "previous_element": "TEMPERATURE: MIN & MAX",
           "next_element": " Maximum temperatures are very likely to be 5-6 Deg Celsius below normal over most parts of the",
-          "position": 98
+          "position": 100
         },
         {
           "type": "text",
@@ -2857,7 +2901,7 @@
           "section_heading": null,
           "previous_element": "Week 1 (29 May – 04 June):",
           "next_element": "country during the week except over North-Eastern States.",
-          "position": 99
+          "position": 101
         },
         {
           "type": "text",
@@ -2872,7 +2916,7 @@
           "section_heading": null,
           "previous_element": " Maximum temperatures are very likely to be 5-6 Deg Celsius below normal over most parts of the",
           "next_element": "Week 2 (05 June  - 11 June 2026):",
-          "position": 100
+          "position": 102
         },
         {
           "type": "text",
@@ -2887,7 +2931,7 @@
           "section_heading": null,
           "previous_element": "country during the week except over North-Eastern States.",
           "next_element": " Low probability of Heatwave conditions likely over some parts of northwest India (Rajasthan, south",
-          "position": 101
+          "position": 103
         },
         {
           "type": "text",
@@ -2902,7 +2946,7 @@
           "section_heading": null,
           "previous_element": "Week 2 (05 June  - 11 June 2026):",
           "next_element": "Punjab, south Haryana, south Uttar Pradesh) during some days of the week.",
-          "position": 102
+          "position": 104
         },
         {
           "type": "text",
@@ -2917,7 +2961,7 @@
           "section_heading": null,
           "previous_element": " Low probability of Heatwave conditions likely over some parts of northwest India (Rajasthan, south",
           "next_element": null,
-          "position": 103
+          "position": 105
         }
       ],
       "metadata": {
@@ -3178,7 +3222,7 @@
           "section_heading": null,
           "previous_element": null,
           "next_element": "temperatures are likely over some parts of East India (Bihar, Gangetic West Bengal & Odisha). Near-\nnormal weekly maximum temperatures (-1.5 to +1.5°C) are likely across the rest of the country \nduring the week. \n Maximum temperatures are very likely to be 4-5 Deg Celsius below normal over most parts of the",
-          "position": 104
+          "position": 106
         },
         {
           "type": "text",
@@ -3193,7 +3237,7 @@
           "section_heading": null,
           "previous_element": " Above-normal (+1.6 to +3.0°C) to appreciably above-normal (+3.1 to +5.0°C) maximum",
           "next_element": "country during week 2 except many parts of Odisha, West Bengal, Bihar, and Arunachal \nPradesh, West Rajasthan, Punjab.",
-          "position": 105
+          "position": 107
         },
         {
           "type": "text",
@@ -3207,13 +3251,13 @@
           ],
           "section_heading": null,
           "previous_element": "temperatures are likely over some parts of East India (Bihar, Gangetic West Bengal & Odisha). Near-\nnormal weekly maximum temperatures (-1.5 to +1.5°C) are likely across the rest of the country \nduring the week. \n Maximum temperatures are very likely to be 4-5 Deg Celsius below normal over most parts of the",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_06_img_1.jpg",
-          "position": 106
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_06_img_1.jpg",
+          "position": 108
         },
         {
           "type": "image",
           "page": 6,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_06_img_1.jpg",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_06_img_1.jpg",
           "bbox": [
             153.10000610351562,
             171.60000610351562,
@@ -3223,13 +3267,13 @@
           "section_heading": null,
           "caption": "Image 1 on page 6",
           "previous_element": "country during week 2 except many parts of Odisha, West Bengal, Bihar, and Arunachal \nPradesh, West Rajasthan, Punjab.",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_06_img_2.jpg",
-          "position": 107
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_06_img_2.jpg",
+          "position": 109
         },
         {
           "type": "image",
           "page": 6,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_06_img_2.jpg",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_06_img_2.jpg",
           "bbox": [
             157.5500030517578,
             397.8999938964844,
@@ -3238,9 +3282,9 @@
           ],
           "section_heading": null,
           "caption": "Image 2 on page 6",
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_06_img_1.jpg",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_06_img_1.jpg",
           "next_element": "Advance of Southwest Monsoon 2026:",
-          "position": 108
+          "position": 110
         },
         {
           "type": "text",
@@ -3253,9 +3297,9 @@
             655.4920043945312
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_06_img_2.jpg",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_06_img_2.jpg",
           "next_element": " The Northern Limit of Monsoon continues to pass through 10°N/60°E, 9°/65°E, 8.5°N/70°E,",
-          "position": 109
+          "position": 111
         },
         {
           "type": "text",
@@ -3270,7 +3314,7 @@
           "section_heading": null,
           "previous_element": "Advance of Southwest Monsoon 2026:",
           "next_element": "8°N/75°E, 7.8°N/78°E, 8°N/80°E, 10°N/80°E, 13°N/87°E, 16°N/90°E, 19°N/93°E and 22°N/97°E. \n \n Conditions are favourable for further advance of southwest monsoon into some more parts of",
-          "position": 110
+          "position": 112
         },
         {
           "type": "text",
@@ -3285,7 +3329,7 @@
           "section_heading": null,
           "previous_element": " The Northern Limit of Monsoon continues to pass through 10°N/60°E, 9°/65°E, 8.5°N/70°E,",
           "next_element": "southwest & southeast Arabian Sea, Lakshadweep Islands, some parts of Kerala & Tamil Nadu,",
-          "position": 111
+          "position": 113
         },
         {
           "type": "text",
@@ -3300,7 +3344,7 @@
           "section_heading": null,
           "previous_element": "8°N/75°E, 7.8°N/78°E, 8°N/80°E, 10°N/80°E, 13°N/87°E, 16°N/90°E, 19°N/93°E and 22°N/97°E. \n \n Conditions are favourable for further advance of southwest monsoon into some more parts of",
           "next_element": null,
-          "position": 112
+          "position": 114
         }
       ],
       "metadata": {
@@ -3469,13 +3513,13 @@
           ],
           "section_heading": null,
           "previous_element": null,
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_07_img_1.jpg",
-          "position": 113
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_07_img_1.jpg",
+          "position": 115
         },
         {
           "type": "image",
           "page": 7,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_07_img_1.jpg",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_07_img_1.jpg",
           "bbox": [
             201.10000610351562,
             79.44998168945312,
@@ -3486,7 +3530,7 @@
           "caption": "Image 1 on page 7",
           "previous_element": "some more parts of southwest, westcentral, eastcentral & northeast Bay of Bengal, and remaining \nparts of southeast Bay of Bengal during next 3-4 days.",
           "next_element": "Forecast for the 2026 Southwest Monsoon Rainfall over the Country as a Whole",
-          "position": 114
+          "position": 116
         },
         {
           "type": "text",
@@ -3499,9 +3543,9 @@
             342.469970703125
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_07_img_1.jpg",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_07_img_1.jpg",
           "next_element": " Quantitatively, the southwest monsoon seasonal rainfall over the country as a whole is likely to be",
-          "position": 115
+          "position": 117
         },
         {
           "type": "text",
@@ -3516,7 +3560,7 @@
           "section_heading": null,
           "previous_element": "Forecast for the 2026 Southwest Monsoon Rainfall over the Country as a Whole",
           "next_element": "90% of the Long Period Average (LPA) with a model error of ±4%, indicating that below normal \nor less rainfall is most likely. \n The long period average (LPA) of rainfall over the country is about 87 cm based on the data of 1971-",
-          "position": 116
+          "position": 118
         },
         {
           "type": "text",
@@ -3531,7 +3575,7 @@
           "section_heading": null,
           "previous_element": " Quantitatively, the southwest monsoon seasonal rainfall over the country as a whole is likely to be",
           "next_element": "2020 \n  The Probability forecast suggests 84% probability for below normal or less rainfall for the country as",
-          "position": 117
+          "position": 119
         },
         {
           "type": "text",
@@ -3546,7 +3590,7 @@
           "section_heading": "2020 \n  The Probability forecast suggests 84% probability for below normal or less rainfall for the country as",
           "previous_element": "90% of the Long Period Average (LPA) with a model error of ±4%, indicating that below normal \nor less rainfall is most likely. \n The long period average (LPA) of rainfall over the country is about 87 cm based on the data of 1971-",
           "next_element": "a whole against climatological probability of 33%.",
-          "position": 118
+          "position": 120
         },
         {
           "type": "text",
@@ -3560,13 +3604,13 @@
           ],
           "section_heading": null,
           "previous_element": "2020 \n  The Probability forecast suggests 84% probability for below normal or less rainfall for the country as",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_07_img_2.jpg",
-          "position": 119
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_07_img_2.jpg",
+          "position": 121
         },
         {
           "type": "image",
           "page": 7,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_07_img_2.jpg",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_07_img_2.jpg",
           "bbox": [
             99.5999984741211,
             505.4499816894531,
@@ -3577,7 +3621,7 @@
           "caption": "Image 2 on page 7",
           "previous_element": "a whole against climatological probability of 33%.",
           "next_element": null,
-          "position": 120
+          "position": 122
         }
       ],
       "metadata": {
@@ -3721,7 +3765,7 @@
           "section_heading": "2. \n  CROPS",
           "previous_element": null,
           "next_element": "Rabi Crops - Area coverage",
-          "position": 121
+          "position": 123
         },
         {
           "type": "text",
@@ -3736,7 +3780,7 @@
           "section_heading": null,
           "previous_element": "2. \n  CROPS",
           "next_element": " \nAs per 3rd Advance Estimates 2025-26, about 116.3 percent of the normal area has been \nsown under the summer season crops.",
-          "position": 122
+          "position": 124
         },
         {
           "type": "text",
@@ -3751,7 +3795,7 @@
           "section_heading": null,
           "previous_element": "Rabi Crops - Area coverage",
           "next_element": " \nRice: About 32.63 lakh ha area coverage under Summer Rice has been reported as \ncompared to 33.28 lakh ha during the corresponding period of last year.",
-          "position": 123
+          "position": 125
         },
         {
           "type": "text",
@@ -3766,7 +3810,7 @@
           "section_heading": null,
           "previous_element": " \nAs per 3rd Advance Estimates 2025-26, about 116.3 percent of the normal area has been \nsown under the summer season crops.",
           "next_element": " \nPulses: About 27.16 lakh ha area coverage has been reported compared to 27.07 lakh ha \nduring the corresponding period of last year.",
-          "position": 124
+          "position": 126
         },
         {
           "type": "text",
@@ -3781,7 +3825,7 @@
           "section_heading": null,
           "previous_element": " \nRice: About 32.63 lakh ha area coverage under Summer Rice has been reported as \ncompared to 33.28 lakh ha during the corresponding period of last year.",
           "next_element": " \nOilseeds: About 10.62 lakh ha area coverage has been reported compared to 9.51 lakh ha \nduring the corresponding period of last year.",
-          "position": 125
+          "position": 127
         },
         {
           "type": "text",
@@ -3795,24 +3839,24 @@
           ],
           "section_heading": null,
           "previous_element": " \nPulses: About 27.16 lakh ha area coverage has been reported compared to 27.07 lakh ha \nduring the corresponding period of last year.",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_08_table_1.csv",
-          "position": 126
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_08_table_1.csv",
+          "position": 128
         },
         {
           "type": "table",
           "page": 8,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_08_table_1.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_08_table_1.csv",
           "bbox": [
-            44.172000000000004,
+            44.172000000000025,
             235.80999999999995,
-            563.5080905,
+            563.5080904999999,
             627.6999899999998
           ],
           "section_heading": null,
           "caption": "Table 1 on page 8",
           "previous_element": " \nOilseeds: About 10.62 lakh ha area coverage has been reported compared to 9.51 lakh ha \nduring the corresponding period of last year.",
           "next_element": "Final Summer Crops Area coverage as per Third Advance Estimates 2025-26",
-          "position": 127
+          "position": 129
         },
         {
           "type": "text",
@@ -3825,9 +3869,9 @@
             261.1219787597656
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_08_table_1.csv",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_08_table_1.csv",
           "next_element": "Area in Lakh Ha \nIncrease /",
-          "position": 128
+          "position": 130
         },
         {
           "type": "text",
@@ -3842,7 +3886,7 @@
           "section_heading": null,
           "previous_element": "Final Summer Crops Area coverage as per Third Advance Estimates 2025-26",
           "next_element": "Decrease \nCrop \nNormal \n2025-26 \n2024-25",
-          "position": 129
+          "position": 131
         },
         {
           "type": "text",
@@ -3857,7 +3901,7 @@
           "section_heading": null,
           "previous_element": "Area in Lakh Ha \nIncrease /",
           "next_element": "Rice \n31.49 \n32.63 \n33.28 \n-0.65",
-          "position": 130
+          "position": 132
         },
         {
           "type": "text",
@@ -3872,7 +3916,7 @@
           "section_heading": null,
           "previous_element": "Decrease \nCrop \nNormal \n2025-26 \n2024-25",
           "next_element": "Maize \n6.98 \n10.58 \n8.50 \n2.08",
-          "position": 131
+          "position": 133
         },
         {
           "type": "text",
@@ -3887,7 +3931,7 @@
           "section_heading": null,
           "previous_element": "Rice \n31.49 \n32.63 \n33.28 \n-0.65",
           "next_element": "Jowar \n0.34 \n0.43 \n0.36 \n0.07",
-          "position": 132
+          "position": 134
         },
         {
           "type": "text",
@@ -3902,7 +3946,7 @@
           "section_heading": null,
           "previous_element": "Maize \n6.98 \n10.58 \n8.50 \n2.08",
           "next_element": "Bajra \n4.43 \n5.83 \n5.20 \n0.63",
-          "position": 133
+          "position": 135
         },
         {
           "type": "text",
@@ -3917,7 +3961,7 @@
           "section_heading": null,
           "previous_element": "Jowar \n0.34 \n0.43 \n0.36 \n0.07",
           "next_element": "Shree Anna /Nutri Cereals \n4.77 \n6.26 \n5.56 \n0.70",
-          "position": 134
+          "position": 136
         },
         {
           "type": "text",
@@ -3932,7 +3976,7 @@
           "section_heading": null,
           "previous_element": "Bajra \n4.43 \n5.83 \n5.20 \n0.63",
           "next_element": "Nutri/Coarse Cereals \n11.75 \n16.84 \n14.05 \n2.79",
-          "position": 135
+          "position": 137
         },
         {
           "type": "text",
@@ -3947,7 +3991,7 @@
           "section_heading": null,
           "previous_element": "Shree Anna /Nutri Cereals \n4.77 \n6.26 \n5.56 \n0.70",
           "next_element": "Cereals \n43.23 \n49.48 \n47.33 \n2.15",
-          "position": 136
+          "position": 138
         },
         {
           "type": "text",
@@ -3962,7 +4006,7 @@
           "section_heading": null,
           "previous_element": "Nutri/Coarse Cereals \n11.75 \n16.84 \n14.05 \n2.79",
           "next_element": "Urad \n2.96 \n4.34 \n3.58 \n0.76",
-          "position": 137
+          "position": 139
         },
         {
           "type": "text",
@@ -3977,7 +4021,7 @@
           "section_heading": null,
           "previous_element": "Cereals \n43.23 \n49.48 \n47.33 \n2.15",
           "next_element": "Moong \n20.44 \n22.82 \n23.49 \n-0.67",
-          "position": 138
+          "position": 140
         },
         {
           "type": "text",
@@ -3992,7 +4036,7 @@
           "section_heading": null,
           "previous_element": "Urad \n2.96 \n4.34 \n3.58 \n0.76",
           "next_element": "Total Pulses \n23.40 \n27.16 \n27.07 \n0.09",
-          "position": 139
+          "position": 141
         },
         {
           "type": "text",
@@ -4007,7 +4051,7 @@
           "section_heading": null,
           "previous_element": "Moong \n20.44 \n22.82 \n23.49 \n-0.67",
           "next_element": "Total Food Grains \n66.64 \n76.64 \n74.40 \n2.24",
-          "position": 140
+          "position": 142
         },
         {
           "type": "text",
@@ -4022,7 +4066,7 @@
           "section_heading": null,
           "previous_element": "Total Pulses \n23.40 \n27.16 \n27.07 \n0.09",
           "next_element": "Groundnut \n3.40 \n5.23 \n4.20 \n1.03",
-          "position": 141
+          "position": 143
         },
         {
           "type": "text",
@@ -4037,7 +4081,7 @@
           "section_heading": null,
           "previous_element": "Total Food Grains \n66.64 \n76.64 \n74.40 \n2.24",
           "next_element": "Sesamum \n4.66 \n5.04 \n4.96 \n0.08",
-          "position": 142
+          "position": 144
         },
         {
           "type": "text",
@@ -4052,7 +4096,7 @@
           "section_heading": null,
           "previous_element": "Groundnut \n3.40 \n5.23 \n4.20 \n1.03",
           "next_element": "Sunflower \n0.34 \n0.35 \n0.35 \n0.00",
-          "position": 143
+          "position": 145
         },
         {
           "type": "text",
@@ -4067,7 +4111,7 @@
           "section_heading": null,
           "previous_element": "Sesamum \n4.66 \n5.04 \n4.96 \n0.08",
           "next_element": "Total Oil Seeds \n8.40 \n10.62 \n9.51 \n1.11",
-          "position": 144
+          "position": 146
         },
         {
           "type": "text",
@@ -4082,7 +4126,7 @@
           "section_heading": null,
           "previous_element": "Sunflower \n0.34 \n0.35 \n0.35 \n0.00",
           "next_element": "Total \n75.04 \n87.26 \n83.91 \n3.35",
-          "position": 145
+          "position": 147
         },
         {
           "type": "text",
@@ -4097,7 +4141,7 @@
           "section_heading": null,
           "previous_element": "Total Oil Seeds \n8.40 \n10.62 \n9.51 \n1.11",
           "next_element": "Source: Agriculture Statistics Division (3ʳᵈ Advance Estimates for 2025-26)",
-          "position": 146
+          "position": 148
         },
         {
           "type": "text",
@@ -4112,7 +4156,7 @@
           "section_heading": null,
           "previous_element": "Total \n75.04 \n87.26 \n83.91 \n3.35",
           "next_element": "Disclaimer : For Kharif and Rabi crop-wise estimated area, please see advanced estimates released by Ministry of Agriculture \nand Farmers' Welfare available on UPAg (upag.gov.in)",
-          "position": 147
+          "position": 149
         },
         {
           "type": "text",
@@ -4127,7 +4171,7 @@
           "section_heading": null,
           "previous_element": "Source: Agriculture Statistics Division (3ʳᵈ Advance Estimates for 2025-26)",
           "next_element": null,
-          "position": 148
+          "position": 150
         }
       ],
       "metadata": {
@@ -4570,7 +4614,7 @@
           "section_heading": "3. \nRESERVOIR STORAGE",
           "previous_element": null,
           "next_element": "As on 29 May, 2026, the current live storage in 166 reservoirs was 56.300 BCM (30.67%) of total live \ncapacity of 183.565 BCM.",
-          "position": 149
+          "position": 151
         },
         {
           "type": "text",
@@ -4585,7 +4629,7 @@
           "section_heading": null,
           "previous_element": "3. \nRESERVOIR STORAGE",
           "next_element": " 125 reservoirs having storage more than 80% of normal storage. \n 26 reservoirs having storage 51% to 80%. \n 15 reservoirs having storage upto 50%.",
-          "position": 150
+          "position": 152
         },
         {
           "type": "text",
@@ -4599,15 +4643,15 @@
           ],
           "section_heading": null,
           "previous_element": "As on 29 May, 2026, the current live storage in 166 reservoirs was 56.300 BCM (30.67%) of total live \ncapacity of 183.565 BCM.",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_09_table_1.csv",
-          "position": 151
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_09_table_1.csv",
+          "position": 153
         },
         {
           "type": "table",
           "page": 9,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_09_table_1.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_09_table_1.csv",
           "bbox": [
-            70.104,
+            70.10400000000001,
             166.2199999999999,
             584.2537955555556,
             256.61000999999993
@@ -4616,7 +4660,7 @@
           "caption": "Table 1 on page 9",
           "previous_element": " 125 reservoirs having storage more than 80% of normal storage. \n 26 reservoirs having storage 51% to 80%. \n 15 reservoirs having storage upto 50%.",
           "next_element": "The status for 166 major reservoirs of the country",
-          "position": 152
+          "position": 154
         },
         {
           "type": "text",
@@ -4629,9 +4673,9 @@
             182.891357421875
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_09_table_1.csv",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_09_table_1.csv",
           "next_element": "Period \nStorage as % of FRL Storage as % of Last",
-          "position": 153
+          "position": 155
         },
         {
           "type": "text",
@@ -4646,7 +4690,7 @@
           "section_heading": null,
           "previous_element": "The status for 166 major reservoirs of the country",
           "next_element": "Storage as % of 10 Year’s \nAverage Level",
-          "position": 154
+          "position": 156
         },
         {
           "type": "text",
@@ -4661,7 +4705,7 @@
           "section_heading": null,
           "previous_element": "Period \nStorage as % of FRL Storage as % of Last",
           "next_element": "Year",
-          "position": 155
+          "position": 157
         },
         {
           "type": "text",
@@ -4676,7 +4720,7 @@
           "section_heading": null,
           "previous_element": "Storage as % of 10 Year’s \nAverage Level",
           "next_element": "Current Week \n31 \n111 \n119",
-          "position": 156
+          "position": 158
         },
         {
           "type": "text",
@@ -4691,7 +4735,7 @@
           "section_heading": null,
           "previous_element": "Year",
           "next_element": "Last Week \n33 \n113 \n124",
-          "position": 157
+          "position": 159
         },
         {
           "type": "text",
@@ -4705,13 +4749,13 @@
           ],
           "section_heading": null,
           "previous_element": "Current Week \n31 \n111 \n119",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_09_img_1.jpg",
-          "position": 158
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_09_img_1.jpg",
+          "position": 160
         },
         {
           "type": "image",
           "page": 9,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_09_img_1.jpg",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_09_img_1.jpg",
           "bbox": [
             50.04999923706055,
             288.25,
@@ -4721,13 +4765,13 @@
           "section_heading": null,
           "caption": "Image 1 on page 9",
           "previous_element": "Last Week \n33 \n113 \n124",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_09_img_2.jpg",
-          "position": 159
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_09_img_2.jpg",
+          "position": 161
         },
         {
           "type": "image",
           "page": 9,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_09_img_2.jpg",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_09_img_2.jpg",
           "bbox": [
             230.64999389648438,
             503.9000244140625,
@@ -4736,9 +4780,9 @@
           ],
           "section_heading": null,
           "caption": "Image 2 on page 9",
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_09_img_1.jpg",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_09_img_1.jpg",
           "next_element": "Source: CWC",
-          "position": 160
+          "position": 162
         },
         {
           "type": "text",
@@ -4751,9 +4795,9 @@
             715.751953125
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_09_img_2.jpg",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_09_img_2.jpg",
           "next_element": null,
-          "position": 161
+          "position": 163
         }
       ],
       "metadata": {
@@ -4975,7 +5019,7 @@
           "section_heading": "5. \nREMOTE SENSING BASED SOIL MOISTURE OBSERVATION",
           "previous_element": null,
           "next_element": "Soil Moisture Observation",
-          "position": 162
+          "position": 164
         },
         {
           "type": "text",
@@ -4990,7 +5034,7 @@
           "section_heading": null,
           "previous_element": "5. \nREMOTE SENSING BASED SOIL MOISTURE OBSERVATION",
           "next_element": " \nSoil moisture during 22 May – 28 May 2026 is similar to the average of the past 10 years in major parts \nof Rajasthan, Gujarat, Madhya Pradesh, Maharashtra, Telangana, Northern and Central Karnataka, \nKerala, Punjab, Bihar, Jharkhand, Uttarakhand, Uttar Pradesh H.P., Tamil Nadu and J & K.",
-          "position": 163
+          "position": 165
         },
         {
           "type": "text",
@@ -5005,7 +5049,7 @@
           "section_heading": null,
           "previous_element": "Soil Moisture Observation",
           "next_element": " \n]Soil moisture is better than the average of the past 10 years in parts of Northeastern parts of Bihar, \nNorthern West Bengal and Ladakh.",
-          "position": 164
+          "position": 166
         },
         {
           "type": "text",
@@ -5020,7 +5064,7 @@
           "section_heading": null,
           "previous_element": " \nSoil moisture during 22 May – 28 May 2026 is similar to the average of the past 10 years in major parts \nof Rajasthan, Gujarat, Madhya Pradesh, Maharashtra, Telangana, Northern and Central Karnataka, \nKerala, Punjab, Bihar, Jharkhand, Uttarakhand, Uttar Pradesh H.P., Tamil Nadu and J & K.",
           "next_element": " \nIt was lower than average of past 10 years in pockets of Odisha, Chhattisgarh, Haryana, Southern \nKarnataka, Southern West Bengal, parts of Andhra Pradesh and the Northeastern States.",
-          "position": 165
+          "position": 167
         },
         {
           "type": "text",
@@ -5034,13 +5078,13 @@
           ],
           "section_heading": null,
           "previous_element": " \n]Soil moisture is better than the average of the past 10 years in parts of Northeastern parts of Bihar, \nNorthern West Bengal and Ladakh.",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_10_img_1.jpg",
-          "position": 166
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_10_img_1.jpg",
+          "position": 168
         },
         {
           "type": "image",
           "page": 10,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_10_img_1.jpg",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_10_img_1.jpg",
           "bbox": [
             77.05000305175781,
             283.54998779296875,
@@ -5051,7 +5095,7 @@
           "caption": "Image 1 on page 10",
           "previous_element": " \nIt was lower than average of past 10 years in pockets of Odisha, Chhattisgarh, Haryana, Southern \nKarnataka, Southern West Bengal, parts of Andhra Pradesh and the Northeastern States.",
           "next_element": ".",
-          "position": 167
+          "position": 169
         },
         {
           "type": "text",
@@ -5064,9 +5108,9 @@
             629.5719604492188
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_10_img_1.jpg",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\images\\range_01062026_08062026\\page_10_img_1.jpg",
           "next_element": null,
-          "position": 168
+          "position": 170
         }
       ],
       "metadata": {
@@ -5275,7 +5319,7 @@
           "section_heading": "6.   FERTILIZER POSITION:",
           "previous_element": null,
           "next_element": "Availability of fertilizer has been found comfortable. Details of Requirement, Receipt, Availability, \nSales and Stock position of Major Fertilizers (Urea, DAP, MOP, Complex and SSP) during Kharif \n2026 as on 29.05.2026 is given below:",
-          "position": 169
+          "position": 171
         },
         {
           "type": "text",
@@ -5290,7 +5334,7 @@
           "section_heading": null,
           "previous_element": "6.   FERTILIZER POSITION:",
           "next_element": "(Unit : in Lakh MT)",
-          "position": 170
+          "position": 172
         },
         {
           "type": "text",
@@ -5304,24 +5348,24 @@
           ],
           "section_heading": null,
           "previous_element": "Availability of fertilizer has been found comfortable. Details of Requirement, Receipt, Availability, \nSales and Stock position of Major Fertilizers (Urea, DAP, MOP, Complex and SSP) during Kharif \n2026 as on 29.05.2026 is given below:",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_11_table_1.csv",
-          "position": 171
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_11_table_1.csv",
+          "position": 173
         },
         {
           "type": "table",
           "page": 11,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_11_table_1.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_11_table_1.csv",
           "bbox": [
-            72.15811764705882,
-            162.97199999999992,
-            562.42688,
-            411.3099949999999
+            72.15811764705883,
+            162.9719999999999,
+            562.4268800000001,
+            411.309995
           ],
           "section_heading": null,
           "caption": "Table 1 on page 11",
           "previous_element": "(Unit : in Lakh MT)",
           "next_element": "Total \nRequirement",
-          "position": 172
+          "position": 174
         },
         {
           "type": "text",
@@ -5334,9 +5378,9 @@
             196.77198791503906
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_11_table_1.csv",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_11_table_1.csv",
           "next_element": "Total sale",
-          "position": 173
+          "position": 175
         },
         {
           "type": "text",
@@ -5351,7 +5395,7 @@
           "section_heading": null,
           "previous_element": "Total \nRequirement",
           "next_element": "(as on 29/05/26)",
-          "position": 174
+          "position": 176
         },
         {
           "type": "text",
@@ -5366,7 +5410,7 @@
           "section_heading": null,
           "previous_element": "Total sale",
           "next_element": "Product",
-          "position": 175
+          "position": 177
         },
         {
           "type": "text",
@@ -5381,7 +5425,7 @@
           "section_heading": null,
           "previous_element": "(as on 29/05/26)",
           "next_element": "during \nKharif 2026",
-          "position": 176
+          "position": 178
         },
         {
           "type": "text",
@@ -5396,7 +5440,7 @@
           "section_heading": null,
           "previous_element": "Product",
           "next_element": "Availability \nSales \nClosing stock",
-          "position": 177
+          "position": 179
         },
         {
           "type": "text",
@@ -5411,7 +5455,7 @@
           "section_heading": null,
           "previous_element": "during \nKharif 2026",
           "next_element": "Kharif 2026",
-          "position": 178
+          "position": 180
         },
         {
           "type": "text",
@@ -5426,7 +5470,7 @@
           "section_heading": null,
           "previous_element": "Availability \nSales \nClosing stock",
           "next_element": "UREA \n194.02 \n27.96 \n101.49 \n33.53 \n67.96",
-          "position": 179
+          "position": 181
         },
         {
           "type": "text",
@@ -5441,7 +5485,7 @@
           "section_heading": null,
           "previous_element": "Kharif 2026",
           "next_element": "DAP \n59.17 \n6.93 \n27.00 \n8.45 \n18.55",
-          "position": 180
+          "position": 182
         },
         {
           "type": "text",
@@ -5456,7 +5500,7 @@
           "section_heading": null,
           "previous_element": "UREA \n194.02 \n27.96 \n101.49 \n33.53 \n67.96",
           "next_element": "MOP \n17.57 \n2.00 \n10.48 \n2.37 \n8.11",
-          "position": 181
+          "position": 183
         },
         {
           "type": "text",
@@ -5471,7 +5515,7 @@
           "section_heading": null,
           "previous_element": "DAP \n59.17 \n6.93 \n27.00 \n8.45 \n18.55",
           "next_element": "NPK \n84.99 \n11.61 \n63.07 \n15.01 \n48.06",
-          "position": 182
+          "position": 184
         },
         {
           "type": "text",
@@ -5486,7 +5530,7 @@
           "section_heading": null,
           "previous_element": "MOP \n17.57 \n2.00 \n10.48 \n2.37 \n8.11",
           "next_element": "SSP \n34.81 \n4.72 \n30.32 \n6.02 \n24.30",
-          "position": 183
+          "position": 185
         },
         {
           "type": "text",
@@ -5501,7 +5545,7 @@
           "section_heading": null,
           "previous_element": "NPK \n84.99 \n11.61 \n63.07 \n15.01 \n48.06",
           "next_element": "TOTAL \n390.56 \n53.23 \n232.36 \n65.37 \n166.99",
-          "position": 184
+          "position": 186
         },
         {
           "type": "text",
@@ -5516,7 +5560,7 @@
           "section_heading": null,
           "previous_element": "SSP \n34.81 \n4.72 \n30.32 \n6.02 \n24.30",
           "next_element": "· \nIn case of DAP, The opening stock of Kharif 2026 as compared to the opening stock of Kharif \n2025 is more by 11.78 LMT \n· \nAs on 29th May, 2026 the availability of DAP is 27.00 LMT against the requirement of 8.75 LMT \nduring the ongoing Kharif 2026 season. \n· \nAs on 29th May 2026, adequate stock of Urea (101.49 LMT), DAP (27.00 LMT), MOP (10.48 \nLMT), NPK (63.07 LMT) and SSP (30.32 LMT) is available.",
-          "position": 185
+          "position": 187
         },
         {
           "type": "text",
@@ -5531,7 +5575,7 @@
           "section_heading": null,
           "previous_element": "TOTAL \n390.56 \n53.23 \n232.36 \n65.37 \n166.99",
           "next_element": "7.      PEST & DISEASE",
-          "position": 186
+          "position": 188
         },
         {
           "type": "text",
@@ -5546,7 +5590,7 @@
           "section_heading": "7.      PEST & DISEASE",
           "previous_element": "· \nIn case of DAP, The opening stock of Kharif 2026 as compared to the opening stock of Kharif \n2025 is more by 11.78 LMT \n· \nAs on 29th May, 2026 the availability of DAP is 27.00 LMT against the requirement of 8.75 LMT \nduring the ongoing Kharif 2026 season. \n· \nAs on 29th May 2026, adequate stock of Urea (101.49 LMT), DAP (27.00 LMT), MOP (10.48 \nLMT), NPK (63.07 LMT) and SSP (30.32 LMT) is available.",
           "next_element": " The overall intensity of pests and diseases remained below the Economic Threshold Level.",
-          "position": 187
+          "position": 189
         },
         {
           "type": "text",
@@ -5561,7 +5605,7 @@
           "section_heading": null,
           "previous_element": "7.      PEST & DISEASE",
           "next_element": null,
-          "position": 188
+          "position": 190
         }
       ],
       "metadata": {
@@ -5887,7 +5931,7 @@
           "section_heading": "8.    PRICES:",
           "previous_element": null,
           "next_element": "Mandi Wholesale prices (In Rs./Quintal)",
-          "position": 189
+          "position": 191
         },
         {
           "type": "text",
@@ -5901,24 +5945,24 @@
           ],
           "section_heading": null,
           "previous_element": "8.    PRICES:",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_1.csv",
-          "position": 190
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_1.csv",
+          "position": 192
         },
         {
           "type": "table",
           "page": 12,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_1.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_1.csv",
           "bbox": [
-            14.315999999999999,
+            14.315999999999997,
             81.73076923076913,
-            582.1898029032259,
+            582.1898029032258,
             617.2299949999999
           ],
           "section_heading": null,
           "caption": "Table 1 on page 12",
           "previous_element": "Mandi Wholesale prices (In Rs./Quintal)",
           "next_element": "Arrival",
-          "position": 191
+          "position": 193
         },
         {
           "type": "text",
@@ -5931,9 +5975,9 @@
             93.43156433105469
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_1.csv",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_1.csv",
           "next_element": "(In \nMetric \nTonnes)",
-          "position": 192
+          "position": 194
         },
         {
           "type": "text",
@@ -5948,7 +5992,7 @@
           "section_heading": null,
           "previous_element": "Arrival",
           "next_element": "All India Weekly Average Mandi Prices (In Rs./Quintal) \n% Variation Over",
-          "position": 193
+          "position": 195
         },
         {
           "type": "text",
@@ -5963,7 +6007,7 @@
           "section_heading": null,
           "previous_element": "(In \nMetric \nTonnes)",
           "next_element": "Commodities",
-          "position": 194
+          "position": 196
         },
         {
           "type": "text",
@@ -5978,7 +6022,7 @@
           "section_heading": null,
           "previous_element": "All India Weekly Average Mandi Prices (In Rs./Quintal) \n% Variation Over",
           "next_element": "One \nWeek",
-          "position": 195
+          "position": 197
         },
         {
           "type": "text",
@@ -5992,13 +6036,13 @@
           ],
           "section_heading": null,
           "previous_element": "Commodities",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_2.csv",
-          "position": 196
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_2.csv",
+          "position": 198
         },
         {
           "type": "table",
           "page": 12,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_2.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_2.csv",
           "bbox": [
             159.02,
             134.68399999999997,
@@ -6008,13 +6052,13 @@
           "section_heading": null,
           "caption": "Table 2 on page 12",
           "previous_element": "One \nWeek",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_3.csv",
-          "position": 197
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_3.csv",
+          "position": 199
         },
         {
           "type": "table",
           "page": 12,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_3.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_3.csv",
           "bbox": [
             267.77,
             134.68399999999997,
@@ -6023,41 +6067,41 @@
           ],
           "section_heading": null,
           "caption": "Table 3 on page 12",
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_2.csv",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_4.csv",
-          "position": 198
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_2.csv",
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_4.csv",
+          "position": 200
         },
         {
           "type": "table",
           "page": 12,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_4.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_4.csv",
           "bbox": [
             322.15,
             134.68399999999997,
-            368.22999999999996,
+            368.23,
             169.33999999999992
           ],
           "section_heading": null,
           "caption": "Table 4 on page 12",
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_3.csv",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_5.csv",
-          "position": 199
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_3.csv",
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_5.csv",
+          "position": 201
         },
         {
           "type": "table",
           "page": 12,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_5.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_5.csv",
           "bbox": [
-            536.76,
+            536.7600000000001,
             134.68399999999997,
-            576.9599999999999,
+            576.96,
             169.33999999999992
           ],
           "section_heading": null,
           "caption": "Table 5 on page 12",
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_4.csv",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_4.csv",
           "next_element": "Prices",
-          "position": 200
+          "position": 202
         },
         {
           "type": "text",
@@ -6070,39 +6114,39 @@
             146.1116180419922
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_5.csv",
-          "next_element": "1 Month \nAgo \n29.04.26",
-          "position": 201
-        },
-        {
-          "type": "text",
-          "page": 12,
-          "content": "1 Month \nAgo \n29.04.26",
-          "bbox": [
-            270.04998779296875,
-            135.0062255859375,
-            311.7189025878906,
-            169.15159606933594
-          ],
-          "section_heading": null,
-          "previous_element": "Prices",
-          "next_element": "1 Year \nAgo \n29.05.25",
-          "position": 202
-        },
-        {
-          "type": "text",
-          "page": 12,
-          "content": "1 Year \nAgo \n29.05.25",
-          "bbox": [
-            325.75,
-            135.0062255859375,
-            367.3988952636719,
-            169.15159606933594
-          ],
-          "section_heading": null,
-          "previous_element": "1 Month \nAgo \n29.04.26",
-          "next_element": "Arrivals",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_5.csv",
+          "next_element": "1 Month",
           "position": 203
+        },
+        {
+          "type": "text",
+          "page": 12,
+          "content": "1 Month",
+          "bbox": [
+            270.2900085449219,
+            135.0062255859375,
+            311.40496826171875,
+            146.1116180419922
+          ],
+          "section_heading": "1 Month",
+          "previous_element": "Prices",
+          "next_element": "1 Year",
+          "position": 204
+        },
+        {
+          "type": "text",
+          "page": 12,
+          "content": "1 Year",
+          "bbox": [
+            330.30999755859375,
+            135.0062255859375,
+            362.94891357421875,
+            146.1116180419922
+          ],
+          "section_heading": "1 Year",
+          "previous_element": "1 Month",
+          "next_element": "Arrivals",
+          "position": 205
         },
         {
           "type": "text",
@@ -6115,46 +6159,46 @@
             146.1116180419922
           ],
           "section_heading": null,
-          "previous_element": "1 Year \nAgo \n29.05.25",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_6.csv",
-          "position": 204
-        },
-        {
-          "type": "table",
-          "page": 12,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_6.csv",
-          "bbox": [
-            107.77999999999999,
-            140.53999999999996,
-            148.22,
-            163.57999999999993
-          ],
-          "section_heading": null,
-          "caption": "Table 6 on page 12",
-          "previous_element": "Arrivals",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_7.csv",
-          "position": 205
-        },
-        {
-          "type": "table",
-          "page": 12,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_7.csv",
-          "bbox": [
-            379.03,
-            140.53999999999996,
-            420.81399999999996,
-            163.57999999999993
-          ],
-          "section_heading": null,
-          "caption": "Table 7 on page 12",
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_6.csv",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_8.csv",
+          "previous_element": "1 Year",
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_6.csv",
           "position": 206
         },
         {
           "type": "table",
           "page": 12,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_8.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_6.csv",
+          "bbox": [
+            107.78000000000002,
+            140.53999999999996,
+            148.21999999999994,
+            163.57999999999993
+          ],
+          "section_heading": null,
+          "caption": "Table 6 on page 12",
+          "previous_element": "Arrivals",
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_7.csv",
+          "position": 207
+        },
+        {
+          "type": "table",
+          "page": 12,
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_7.csv",
+          "bbox": [
+            379.0299999999998,
+            140.53999999999996,
+            420.81400000000014,
+            163.57999999999993
+          ],
+          "section_heading": null,
+          "caption": "Table 7 on page 12",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_6.csv",
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_8.csv",
+          "position": 208
+        },
+        {
+          "type": "table",
+          "page": 12,
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_8.csv",
           "bbox": [
             431.62,
             140.53999999999996,
@@ -6163,25 +6207,25 @@
           ],
           "section_heading": null,
           "caption": "Table 8 on page 12",
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_7.csv",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_9.csv",
-          "position": 207
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_7.csv",
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_9.csv",
+          "position": 209
         },
         {
           "type": "table",
           "page": 12,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_9.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_9.csv",
           "bbox": [
-            480.94,
+            480.9399999999999,
             140.53999999999996,
-            526.0540909090909,
+            526.0540909090906,
             163.57999999999993
           ],
           "section_heading": null,
           "caption": "Table 9 on page 12",
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_8.csv",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_8.csv",
           "next_element": "Current",
-          "position": 208
+          "position": 210
         },
         {
           "type": "text",
@@ -6194,9 +6238,9 @@
             151.87156677246094
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_9.csv",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_12_table_9.csv",
           "next_element": "Last \nWeek",
-          "position": 209
+          "position": 211
         },
         {
           "type": "text",
@@ -6211,7 +6255,7 @@
           "section_heading": null,
           "previous_element": "Current",
           "next_element": "Last \nMonth",
-          "position": 210
+          "position": 212
         },
         {
           "type": "text",
@@ -6225,23 +6269,23 @@
           ],
           "section_heading": null,
           "previous_element": "Last \nWeek",
-          "next_element": "1 Year \nAgo",
-          "position": 211
+          "next_element": "1 Year",
+          "position": 213
         },
         {
           "type": "text",
           "page": 12,
-          "content": "1 Year \nAgo",
+          "content": "1 Year",
           "bbox": [
             488.5,
             140.76617431640625,
-            521.5088500976562,
-            163.39158630371094
+            521.1388549804688,
+            151.87156677246094
           ],
-          "section_heading": "1 Year \nAgo",
+          "section_heading": "1 Year",
           "previous_element": "Last \nMonth",
           "next_element": "as on \n29.05.26",
-          "position": 212
+          "position": 214
         },
         {
           "type": "text",
@@ -6254,9 +6298,39 @@
             169.15159606933594
           ],
           "section_heading": null,
-          "previous_element": "1 Year \nAgo",
+          "previous_element": "1 Year",
+          "next_element": "Ago \n29.04.26",
+          "position": 215
+        },
+        {
+          "type": "text",
+          "page": 12,
+          "content": "Ago \n29.04.26",
+          "bbox": [
+            270.04998779296875,
+            146.52618408203125,
+            311.7189025878906,
+            169.15159606933594
+          ],
+          "section_heading": null,
+          "previous_element": "as on \n29.05.26",
+          "next_element": "Ago \n29.05.25",
+          "position": 216
+        },
+        {
+          "type": "text",
+          "page": 12,
+          "content": "Ago \n29.05.25",
+          "bbox": [
+            325.75,
+            146.52618408203125,
+            367.3988952636719,
+            169.15159606933594
+          ],
+          "section_heading": null,
+          "previous_element": "Ago \n29.04.26",
           "next_element": "as on \n29.05.26",
-          "position": 213
+          "position": 217
         },
         {
           "type": "text",
@@ -6269,9 +6343,9 @@
             169.15159606933594
           ],
           "section_heading": null,
-          "previous_element": "as on \n29.05.26",
+          "previous_element": "Ago \n29.05.25",
           "next_element": "MSP",
-          "position": 214
+          "position": 218
         },
         {
           "type": "text",
@@ -6286,7 +6360,7 @@
           "section_heading": "MSP",
           "previous_element": "as on \n29.05.26",
           "next_element": "Ago \n22.05.26",
-          "position": 215
+          "position": 219
         },
         {
           "type": "text",
@@ -6300,8 +6374,23 @@
           ],
           "section_heading": null,
           "previous_element": "MSP",
+          "next_element": "Ago",
+          "position": 220
+        },
+        {
+          "type": "text",
+          "page": 12,
+          "content": "Ago",
+          "bbox": [
+            493.7799987792969,
+            152.28619384765625,
+            521.5088500976562,
+            163.39158630371094
+          ],
+          "section_heading": null,
+          "previous_element": "Ago \n22.05.26",
           "next_element": "Cereals",
-          "position": 216
+          "position": 221
         },
         {
           "type": "text",
@@ -6314,9 +6403,9 @@
             189.4315643310547
           ],
           "section_heading": null,
-          "previous_element": "Ago \n22.05.26",
+          "previous_element": "Ago",
           "next_element": "Paddy(Common) \n2369 \n2088 \n2229 \n2252 \n2138 \n-6.29 \n-7.25 \n-2.30 \n59904",
-          "position": 217
+          "position": 222
         },
         {
           "type": "text",
@@ -6331,7 +6420,7 @@
           "section_heading": null,
           "previous_element": "Cereals",
           "next_element": "Wheat  \n2585 \n2442 \n2456 \n2515 \n2500 \n-0.57 \n-2.91 \n-2.31 \n138826",
-          "position": 218
+          "position": 223
         },
         {
           "type": "text",
@@ -6346,7 +6435,7 @@
           "section_heading": null,
           "previous_element": "Paddy(Common) \n2369 \n2088 \n2229 \n2252 \n2138 \n-6.29 \n-7.25 \n-2.30 \n59904",
           "next_element": "Maize \n2400 \n1900 \n1901 \n1770 \n2057 \n-0.03 \n7.35 \n-7.62 \n45616",
-          "position": 219
+          "position": 224
         },
         {
           "type": "text",
@@ -6361,7 +6450,7 @@
           "section_heading": null,
           "previous_element": "Wheat  \n2585 \n2442 \n2456 \n2515 \n2500 \n-0.57 \n-2.91 \n-2.31 \n138826",
           "next_element": "Pulses",
-          "position": 220
+          "position": 225
         },
         {
           "type": "text",
@@ -6376,7 +6465,7 @@
           "section_heading": null,
           "previous_element": "Maize \n2400 \n1900 \n1901 \n1770 \n2057 \n-0.03 \n7.35 \n-7.62 \n45616",
           "next_element": "Arhar whole \n8000 \n7491 \n7693 \n7261 \n6519 \n-2.62 \n3.17 \n14.92 \n5769",
-          "position": 221
+          "position": 226
         },
         {
           "type": "text",
@@ -6391,7 +6480,7 @@
           "section_heading": null,
           "previous_element": "Pulses",
           "next_element": "Gram whole \n5875 \n5715 \n5655 \n5271 \n5560 \n1.05 \n8.43 \n2.79 \n16273",
-          "position": 222
+          "position": 227
         },
         {
           "type": "text",
@@ -6406,7 +6495,7 @@
           "section_heading": null,
           "previous_element": "Arhar whole \n8000 \n7491 \n7693 \n7261 \n6519 \n-2.62 \n3.17 \n14.92 \n5769",
           "next_element": "Masur Whole \n7000 \n6604 \n7030 \n7110 \n6443 \n-6.07 \n-7.11 \n2.50 \n1474",
-          "position": 223
+          "position": 228
         },
         {
           "type": "text",
@@ -6421,7 +6510,7 @@
           "section_heading": null,
           "previous_element": "Gram whole \n5875 \n5715 \n5655 \n5271 \n5560 \n1.05 \n8.43 \n2.79 \n16273",
           "next_element": "Moong Whole \n8768 \n7006 \n7502 \n7859 \n7049 \n-6.61 \n-10.86 \n-0.61 \n6557",
-          "position": 224
+          "position": 229
         },
         {
           "type": "text",
@@ -6436,7 +6525,7 @@
           "section_heading": null,
           "previous_element": "Masur Whole \n7000 \n6604 \n7030 \n7110 \n6443 \n-6.07 \n-7.11 \n2.50 \n1474",
           "next_element": "Urad Whole \n7800 \n7542 \n7689 \n5945 \n7167 \n-1.90 \n26.86 \n5.24 \n3783",
-          "position": 225
+          "position": 230
         },
         {
           "type": "text",
@@ -6451,7 +6540,7 @@
           "section_heading": null,
           "previous_element": "Moong Whole \n8768 \n7006 \n7502 \n7859 \n7049 \n-6.61 \n-10.86 \n-0.61 \n6557",
           "next_element": "Millets",
-          "position": 226
+          "position": 231
         },
         {
           "type": "text",
@@ -6466,7 +6555,7 @@
           "section_heading": null,
           "previous_element": "Urad Whole \n7800 \n7542 \n7689 \n5945 \n7167 \n-1.90 \n26.86 \n5.24 \n3783",
           "next_element": "Jowar \n3699 \n3603 \n3823 \n3321 \n2981 \n-5.76 \n8.49 \n20.84 \n2786",
-          "position": 227
+          "position": 232
         },
         {
           "type": "text",
@@ -6481,7 +6570,7 @@
           "section_heading": null,
           "previous_element": "Millets",
           "next_element": "Bajra \n2775 \n2288 \n2313 \n2056 \n2396 \n-1.05 \n11.30 \n-4.49 \n3988",
-          "position": 228
+          "position": 233
         },
         {
           "type": "text",
@@ -6496,7 +6585,7 @@
           "section_heading": null,
           "previous_element": "Jowar \n3699 \n3603 \n3823 \n3321 \n2981 \n-5.76 \n8.49 \n20.84 \n2786",
           "next_element": "Ragi \n4886 \n3406 \n3489 \n3457 \n3368 \n-2.40 \n-1.49 \n1.10 \n315",
-          "position": 229
+          "position": 234
         },
         {
           "type": "text",
@@ -6511,7 +6600,7 @@
           "section_heading": null,
           "previous_element": "Bajra \n2775 \n2288 \n2313 \n2056 \n2396 \n-1.05 \n11.30 \n-4.49 \n3988",
           "next_element": "Oil Seeds",
-          "position": 230
+          "position": 235
         },
         {
           "type": "text",
@@ -6526,7 +6615,7 @@
           "section_heading": null,
           "previous_element": "Ragi \n4886 \n3406 \n3489 \n3457 \n3368 \n-2.40 \n-1.49 \n1.10 \n315",
           "next_element": "Groundnut \n7263 \n6961 \n7255 \n6414 \n5086 \n-4.05 \n8.53 \n36.85 \n4785",
-          "position": 231
+          "position": 236
         },
         {
           "type": "text",
@@ -6541,7 +6630,7 @@
           "section_heading": null,
           "previous_element": "Oil Seeds",
           "next_element": "Mustard \n6200 \n7275 \n7093 \n6381 \n6168 \n2.56 \n14.00 \n17.95 \n10048",
-          "position": 232
+          "position": 237
         },
         {
           "type": "text",
@@ -6556,7 +6645,7 @@
           "section_heading": null,
           "previous_element": "Groundnut \n7263 \n6961 \n7255 \n6414 \n5086 \n-4.05 \n8.53 \n36.85 \n4785",
           "next_element": "Soyabean \n5328 \n7122 \n7128 \n5924 \n4181 \n-0.08 \n20.23 \n70.34 \n17398",
-          "position": 233
+          "position": 238
         },
         {
           "type": "text",
@@ -6571,7 +6660,7 @@
           "section_heading": null,
           "previous_element": "Mustard \n6200 \n7275 \n7093 \n6381 \n6168 \n2.56 \n14.00 \n17.95 \n10048",
           "next_element": "Sesamum \n9846 \n11283 \n11321 \n12620 \n9870 \n-0.33 \n-10.59 \n14.32 \n3288",
-          "position": 234
+          "position": 239
         },
         {
           "type": "text",
@@ -6586,7 +6675,7 @@
           "section_heading": null,
           "previous_element": "Soyabean \n5328 \n7122 \n7128 \n5924 \n4181 \n-0.08 \n20.23 \n70.34 \n17398",
           "next_element": "Sunflower \n7721 \n7678 \n7348 \n6498 \n5121 \n4.50 \n18.16 \n49.94 \n1095",
-          "position": 235
+          "position": 240
         },
         {
           "type": "text",
@@ -6601,7 +6690,7 @@
           "section_heading": null,
           "previous_element": "Sesamum \n9846 \n11283 \n11321 \n12620 \n9870 \n-0.33 \n-10.59 \n14.32 \n3288",
           "next_element": "Horticulture",
-          "position": 236
+          "position": 241
         },
         {
           "type": "text",
@@ -6616,7 +6705,7 @@
           "section_heading": null,
           "previous_element": "Sunflower \n7721 \n7678 \n7348 \n6498 \n5121 \n4.50 \n18.16 \n49.94 \n1095",
           "next_element": "Onion \n  \n1162 \n1042 \n1099 \n1158 \n11.53 \n5.76 \n0.34 \n52142",
-          "position": 237
+          "position": 242
         },
         {
           "type": "text",
@@ -6631,7 +6720,7 @@
           "section_heading": null,
           "previous_element": "Horticulture",
           "next_element": "Potato \n  \n737 \n729 \n657 \n1192 \n1.05 \n12.05 \n-38.20 \n37209",
-          "position": 238
+          "position": 243
         },
         {
           "type": "text",
@@ -6646,7 +6735,7 @@
           "section_heading": null,
           "previous_element": "Onion \n  \n1162 \n1042 \n1099 \n1158 \n11.53 \n5.76 \n0.34 \n52142",
           "next_element": "Tomato \n  \n1915 \n2143 \n2045 \n1072 \n-10.64 \n-6.37 \n78.64 \n13968",
-          "position": 239
+          "position": 244
         },
         {
           "type": "text",
@@ -6661,7 +6750,7 @@
           "section_heading": null,
           "previous_element": "Potato \n  \n737 \n729 \n657 \n1192 \n1.05 \n12.05 \n-38.20 \n37209",
           "next_element": "Source: Agmarknet",
-          "position": 240
+          "position": 245
         },
         {
           "type": "text",
@@ -6676,7 +6765,7 @@
           "section_heading": null,
           "previous_element": "Tomato \n  \n1915 \n2143 \n2045 \n1072 \n-10.64 \n-6.37 \n78.64 \n13968",
           "next_element": "Mandi wholesale prices of all crops during this week are running below the MSP, except for Mustard, \nSoyabean  and Sesamum. Prices of tomato has gone higher during this week compared to last week.",
-          "position": 241
+          "position": 246
         },
         {
           "type": "text",
@@ -6691,7 +6780,7 @@
           "section_heading": null,
           "previous_element": "Source: Agmarknet",
           "next_element": null,
-          "position": 242
+          "position": 247
         }
       ],
       "metadata": {
@@ -6859,12 +6948,12 @@
             "block_index": 13,
             "page": 12,
             "bbox": [
-              270.04998779296875,
+              270.2900085449219,
               135.0062255859375,
-              311.7189025878906,
-              169.15159606933594
+              311.40496826171875,
+              146.1116180419922
             ],
-            "text": "1 Month \nAgo \n29.04.26 \n",
+            "text": "1 Month \n",
             "type": "text",
             "source_type": "pdfblock"
           },
@@ -6872,17 +6961,43 @@
             "block_index": 14,
             "page": 12,
             "bbox": [
-              325.75,
-              135.0062255859375,
-              367.3988952636719,
+              270.04998779296875,
+              146.52618408203125,
+              311.7189025878906,
               169.15159606933594
             ],
-            "text": "1 Year \nAgo \n29.05.25 \n",
+            "text": "Ago \n29.04.26 \n",
             "type": "text",
             "source_type": "pdfblock"
           },
           {
             "block_index": 15,
+            "page": 12,
+            "bbox": [
+              330.30999755859375,
+              135.0062255859375,
+              362.94891357421875,
+              146.1116180419922
+            ],
+            "text": "1 Year \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 16,
+            "page": 12,
+            "bbox": [
+              325.75,
+              146.52618408203125,
+              367.3988952636719,
+              169.15159606933594
+            ],
+            "text": "Ago \n29.05.25 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 17,
             "page": 12,
             "bbox": [
               386.7099914550781,
@@ -6895,7 +7010,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 16,
+            "block_index": 18,
             "page": 12,
             "bbox": [
               435.82000732421875,
@@ -6908,20 +7023,33 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 17,
+            "block_index": 19,
             "page": 12,
             "bbox": [
               488.5,
               140.76617431640625,
-              521.5088500976562,
-              163.39158630371094
+              521.1388549804688,
+              151.87156677246094
             ],
-            "text": "1 Year \nAgo   \n",
+            "text": "1 Year \n",
             "type": "text",
             "source_type": "pdfblock"
           },
           {
-            "block_index": 18,
+            "block_index": 20,
+            "page": 12,
+            "bbox": [
+              493.7799987792969,
+              152.28619384765625,
+              521.5088500976562,
+              163.39158630371094
+            ],
+            "text": "Ago   \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 21,
             "page": 12,
             "bbox": [
               538.2000122070312,
@@ -6934,7 +7062,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 19,
+            "block_index": 22,
             "page": 12,
             "bbox": [
               537.3599853515625,
@@ -6947,7 +7075,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 20,
+            "block_index": 23,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -6960,7 +7088,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 21,
+            "block_index": 24,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -6973,7 +7101,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 22,
+            "block_index": 25,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -6986,7 +7114,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 23,
+            "block_index": 26,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -6999,7 +7127,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 24,
+            "block_index": 27,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7012,7 +7140,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 25,
+            "block_index": 28,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7025,7 +7153,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 26,
+            "block_index": 29,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7038,7 +7166,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 27,
+            "block_index": 30,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7051,7 +7179,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 28,
+            "block_index": 31,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7064,7 +7192,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 29,
+            "block_index": 32,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7077,7 +7205,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 30,
+            "block_index": 33,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7090,7 +7218,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 31,
+            "block_index": 34,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7103,7 +7231,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 32,
+            "block_index": 35,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7116,7 +7244,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 33,
+            "block_index": 36,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7129,7 +7257,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 34,
+            "block_index": 37,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7142,7 +7270,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 35,
+            "block_index": 38,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7155,7 +7283,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 36,
+            "block_index": 39,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7168,7 +7296,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 37,
+            "block_index": 40,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7181,7 +7309,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 38,
+            "block_index": 41,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7194,7 +7322,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 39,
+            "block_index": 42,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7207,7 +7335,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 40,
+            "block_index": 43,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7220,7 +7348,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 41,
+            "block_index": 44,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7233,7 +7361,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 42,
+            "block_index": 45,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7246,7 +7374,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 43,
+            "block_index": 46,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7259,7 +7387,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 44,
+            "block_index": 47,
             "page": 12,
             "bbox": [
               19.559999465942383,
@@ -7272,7 +7400,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 45,
+            "block_index": 48,
             "page": 12,
             "bbox": [
               49.560001373291016,
@@ -7285,7 +7413,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 46,
+            "block_index": 49,
             "page": 12,
             "bbox": [
               49.560001373291016,
@@ -7315,24 +7443,24 @@
           ],
           "section_heading": null,
           "previous_element": null,
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_1.csv",
-          "position": 243
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_1.csv",
+          "position": 248
         },
         {
           "type": "table",
           "page": 13,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_1.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_1.csv",
           "bbox": [
-            28.394117647058824,
+            28.394117647058827,
             105.21999999999997,
-            567.0809342028986,
+            567.0809342028987,
             672.3799933333333
           ],
           "section_heading": null,
           "caption": "Table 1 on page 13",
           "previous_element": "Retail Prices (In Rs./Kg.)",
           "next_element": "All India Weekly Average Retail Prices (In Rs./Kg) \n% Variation Over",
-          "position": 244
+          "position": 249
         },
         {
           "type": "text",
@@ -7345,9 +7473,9 @@
             120.19157409667969
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_1.csv",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_1.csv",
           "next_element": "One Week",
-          "position": 245
+          "position": 250
         },
         {
           "type": "text",
@@ -7361,55 +7489,55 @@
           ],
           "section_heading": null,
           "previous_element": "All India Weekly Average Retail Prices (In Rs./Kg) \n% Variation Over",
-          "next_element": "1 Month \nAgo \n29.04.26",
-          "position": 246
+          "next_element": "1 Month",
+          "position": 251
         },
         {
           "type": "text",
           "page": 13,
-          "content": "1 Month \nAgo \n29.04.26",
+          "content": "1 Month",
           "bbox": [
-            297.19000244140625,
+            297.42999267578125,
             135.0062255859375,
-            338.8388977050781,
-            169.15159606933594
+            338.5449523925781,
+            146.1116180419922
           ],
-          "section_heading": null,
+          "section_heading": "1 Month",
           "previous_element": "One Week",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_2.csv",
-          "position": 247
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_2.csv",
+          "position": 252
         },
         {
           "type": "table",
           "page": 13,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_2.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_2.csv",
           "bbox": [
             220.73,
             135.53999999999996,
-            277.49,
+            277.4899999999999,
             169.33999999999992
           ],
           "section_heading": null,
           "caption": "Table 2 on page 13",
-          "previous_element": "1 Month \nAgo \n29.04.26",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_3.csv",
-          "position": 248
+          "previous_element": "1 Month",
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_3.csv",
+          "position": 253
         },
         {
           "type": "table",
           "page": 13,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_3.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_3.csv",
           "bbox": [
             288.29,
             135.53999999999996,
-            344.954,
+            344.95399999999995,
             169.33999999999992
           ],
           "section_heading": null,
           "caption": "Table 3 on page 13",
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_2.csv",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_2.csv",
           "next_element": "Commodities",
-          "position": 249
+          "position": 254
         },
         {
           "type": "text",
@@ -7422,14 +7550,14 @@
             148.03160095214844
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_3.csv",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_4.csv",
-          "position": 250
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_3.csv",
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_4.csv",
+          "position": 255
         },
         {
           "type": "table",
           "page": 13,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_4.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_4.csv",
           "bbox": [
             153.26,
             140.65999999999997,
@@ -7439,13 +7567,13 @@
           "section_heading": null,
           "caption": "Table 4 on page 13",
           "previous_element": "Commodities",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_5.csv",
-          "position": 251
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_5.csv",
+          "position": 256
         },
         {
           "type": "table",
           "page": 13,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_5.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_5.csv",
           "bbox": [
             355.75,
             140.65999999999997,
@@ -7454,57 +7582,57 @@
           ],
           "section_heading": null,
           "caption": "Table 5 on page 13",
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_4.csv",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_6.csv",
-          "position": 252
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_4.csv",
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_6.csv",
+          "position": 257
         },
         {
           "type": "table",
           "page": 13,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_6.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_6.csv",
           "bbox": [
             423.58,
             140.65999999999997,
-            462.09999999999997,
+            462.10000000000014,
             163.57999999999993
           ],
           "section_heading": null,
           "caption": "Table 6 on page 13",
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_5.csv",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_7.csv",
-          "position": 253
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_5.csv",
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_7.csv",
+          "position": 258
         },
         {
           "type": "table",
           "page": 13,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_7.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_7.csv",
           "bbox": [
-            472.9,
+            472.89999999999986,
             140.65999999999997,
-            516.8199999999999,
+            516.8199999999998,
             163.57999999999993
           ],
           "section_heading": null,
           "caption": "Table 7 on page 13",
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_6.csv",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_8.csv",
-          "position": 254
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_6.csv",
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_8.csv",
+          "position": 259
         },
         {
           "type": "table",
           "page": 13,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_8.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_8.csv",
           "bbox": [
             527.62,
             140.65999999999997,
-            561.8428333333334,
+            561.8428333333336,
             163.57999999999993
           ],
           "section_heading": null,
           "caption": "Table 8 on page 13",
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_7.csv",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_7.csv",
           "next_element": "Prices as \non 29.05.26",
-          "position": 255
+          "position": 260
         },
         {
           "type": "text",
@@ -7517,24 +7645,39 @@
             163.39158630371094
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_8.csv",
-          "next_element": "1 Year Ago \n29.05.25 \nLast \nWeek",
-          "position": 256
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_13_table_8.csv",
+          "next_element": "1 Year Ago",
+          "position": 261
         },
         {
           "type": "text",
           "page": 13,
-          "content": "1 Year Ago \n29.05.25 \nLast \nWeek",
+          "content": "1 Year Ago",
           "bbox": [
             358.1499938964844,
+            140.76617431640625,
+            413.0794677734375,
+            151.87156677246094
+          ],
+          "section_heading": "1 Year Ago",
+          "previous_element": "Prices as \non 29.05.26",
+          "next_element": "Last \nWeek",
+          "position": 262
+        },
+        {
+          "type": "text",
+          "page": 13,
+          "content": "Last \nWeek",
+          "bbox": [
+            429.70001220703125,
             140.76617431640625,
             458.6288757324219,
             163.39158630371094
           ],
           "section_heading": null,
-          "previous_element": "Prices as \non 29.05.26",
+          "previous_element": "1 Year Ago",
           "next_element": "Last \nMonth",
-          "position": 257
+          "position": 263
         },
         {
           "type": "text",
@@ -7547,24 +7690,24 @@
             163.39158630371094
           ],
           "section_heading": null,
-          "previous_element": "1 Year Ago \n29.05.25 \nLast \nWeek",
-          "next_element": "1 Year \nAgo",
-          "position": 258
+          "previous_element": "Last \nWeek",
+          "next_element": "1 Year",
+          "position": 264
         },
         {
           "type": "text",
           "page": 13,
-          "content": "1 Year \nAgo",
+          "content": "1 Year",
           "bbox": [
             529.780029296875,
             140.76617431640625,
-            562.808837890625,
-            163.39158630371094
+            562.4189453125,
+            151.87156677246094
           ],
-          "section_heading": "1 Year \nAgo",
+          "section_heading": "1 Year",
           "previous_element": "Last \nMonth",
           "next_element": "Ago \n22.05.26",
-          "position": 259
+          "position": 265
         },
         {
           "type": "text",
@@ -7577,9 +7720,54 @@
             169.15159606933594
           ],
           "section_heading": null,
-          "previous_element": "1 Year \nAgo",
+          "previous_element": "1 Year",
+          "next_element": "Ago \n29.04.26",
+          "position": 266
+        },
+        {
+          "type": "text",
+          "page": 13,
+          "content": "Ago \n29.04.26",
+          "bbox": [
+            297.19000244140625,
+            146.52618408203125,
+            338.8388977050781,
+            169.15159606933594
+          ],
+          "section_heading": null,
+          "previous_element": "Ago \n22.05.26",
+          "next_element": "29.05.25",
+          "position": 267
+        },
+        {
+          "type": "text",
+          "page": 13,
+          "content": "29.05.25",
+          "bbox": [
+            364.75,
+            152.28619384765625,
+            406.3988952636719,
+            163.39158630371094
+          ],
+          "section_heading": "29.05.25",
+          "previous_element": "Ago \n29.04.26",
+          "next_element": "Ago",
+          "position": 268
+        },
+        {
+          "type": "text",
+          "page": 13,
+          "content": "Ago",
+          "bbox": [
+            535.0800170898438,
+            152.28619384765625,
+            562.808837890625,
+            163.39158630371094
+          ],
+          "section_heading": null,
+          "previous_element": "29.05.25",
           "next_element": "Cereals",
-          "position": 260
+          "position": 269
         },
         {
           "type": "text",
@@ -7592,9 +7780,9 @@
             196.99156188964844
           ],
           "section_heading": null,
-          "previous_element": "Ago \n22.05.26",
+          "previous_element": "Ago",
           "next_element": "Rice  \n  \n43.23 \n43.17 \n42.93 \n42.67 \n0.14 \n0.70 \n1.31",
-          "position": 261
+          "position": 270
         },
         {
           "type": "text",
@@ -7609,7 +7797,7 @@
           "section_heading": null,
           "previous_element": "Cereals",
           "next_element": "Wheat  \n  \n31.05 \n30.93 \n30.97 \n31.46 \n0.39 \n0.26 \n-1.30",
-          "position": 262
+          "position": 271
         },
         {
           "type": "text",
@@ -7624,7 +7812,7 @@
           "section_heading": null,
           "previous_element": "Rice  \n  \n43.23 \n43.17 \n42.93 \n42.67 \n0.14 \n0.70 \n1.31",
           "next_element": "Pulses",
-          "position": 263
+          "position": 272
         },
         {
           "type": "text",
@@ -7639,7 +7827,7 @@
           "section_heading": null,
           "previous_element": "Wheat  \n  \n31.05 \n30.93 \n30.97 \n31.46 \n0.39 \n0.26 \n-1.30",
           "next_element": "Arhar/Tur Dal \n  \n122.47 \n122.48 \n122.39 \n124.54 \n-0.01 \n0.07 \n-1.66",
-          "position": 264
+          "position": 273
         },
         {
           "type": "text",
@@ -7654,7 +7842,7 @@
           "section_heading": null,
           "previous_element": "Pulses",
           "next_element": "Gram Dal \n  \n85.34 \n85.21 \n84.89 \n86.52 \n0.15 \n0.53 \n-1.36",
-          "position": 265
+          "position": 274
         },
         {
           "type": "text",
@@ -7669,7 +7857,7 @@
           "section_heading": null,
           "previous_element": "Arhar/Tur Dal \n  \n122.47 \n122.48 \n122.39 \n124.54 \n-0.01 \n0.07 \n-1.66",
           "next_element": "Masur Dal \n  \n90.04 \n90.00 \n89.50 \n88.12 \n0.04 \n0.60 \n2.18",
-          "position": 266
+          "position": 275
         },
         {
           "type": "text",
@@ -7684,7 +7872,7 @@
           "section_heading": null,
           "previous_element": "Gram Dal \n  \n85.34 \n85.21 \n84.89 \n86.52 \n0.15 \n0.53 \n-1.36",
           "next_element": "Moong Dal \n  \n111.44 \n111.55 \n111.51 \n111.83 \n-0.10 \n-0.06 \n-0.35",
-          "position": 267
+          "position": 276
         },
         {
           "type": "text",
@@ -7699,7 +7887,7 @@
           "section_heading": null,
           "previous_element": "Masur Dal \n  \n90.04 \n90.00 \n89.50 \n88.12 \n0.04 \n0.60 \n2.18",
           "next_element": "Urad Dal \n  \n118.38 \n118.20 \n117.80 \n116.73 \n0.15 \n0.49 \n1.41",
-          "position": 268
+          "position": 277
         },
         {
           "type": "text",
@@ -7714,7 +7902,7 @@
           "section_heading": null,
           "previous_element": "Moong Dal \n  \n111.44 \n111.55 \n111.51 \n111.83 \n-0.10 \n-0.06 \n-0.35",
           "next_element": "Millets",
-          "position": 269
+          "position": 278
         },
         {
           "type": "text",
@@ -7729,7 +7917,7 @@
           "section_heading": null,
           "previous_element": "Urad Dal \n  \n118.38 \n118.20 \n117.80 \n116.73 \n0.15 \n0.49 \n1.41",
           "next_element": "Jowar \n  \n43.95 \n43.85 \n43.80 \n43.60 \n0.23 \n0.34 \n0.80",
-          "position": 270
+          "position": 279
         },
         {
           "type": "text",
@@ -7744,7 +7932,7 @@
           "section_heading": null,
           "previous_element": "Millets",
           "next_element": "Bajra \n  \n37.94 \n37.80 \n37.52 \n38.27 \n0.37 \n1.12 \n-0.86",
-          "position": 271
+          "position": 280
         },
         {
           "type": "text",
@@ -7759,7 +7947,7 @@
           "section_heading": null,
           "previous_element": "Jowar \n  \n43.95 \n43.85 \n43.80 \n43.60 \n0.23 \n0.34 \n0.80",
           "next_element": "Ragi \n  \n54.97 \n54.73 \n54.44 \n53.56 \n0.44 \n0.97 \n2.63",
-          "position": 272
+          "position": 281
         },
         {
           "type": "text",
@@ -7774,7 +7962,7 @@
           "section_heading": null,
           "previous_element": "Bajra \n  \n37.94 \n37.80 \n37.52 \n38.27 \n0.37 \n1.12 \n-0.86",
           "next_element": "Edible Oils",
-          "position": 273
+          "position": 282
         },
         {
           "type": "text",
@@ -7789,7 +7977,7 @@
           "section_heading": null,
           "previous_element": "Ragi \n  \n54.97 \n54.73 \n54.44 \n53.56 \n0.44 \n0.97 \n2.63",
           "next_element": "Mustard Oil \n  \n190.23 \n189.86 \n189.14 \n170.72 \n0.19 \n0.58 \n11.43",
-          "position": 274
+          "position": 283
         },
         {
           "type": "text",
@@ -7804,7 +7992,7 @@
           "section_heading": null,
           "previous_element": "Edible Oils",
           "next_element": "Soyabean Oil \n  \n160.79 \n159.92 \n158.45 \n147.46 \n0.54 \n1.48 \n9.04",
-          "position": 275
+          "position": 284
         },
         {
           "type": "text",
@@ -7819,7 +8007,7 @@
           "section_heading": null,
           "previous_element": "Mustard Oil \n  \n190.23 \n189.86 \n189.14 \n170.72 \n0.19 \n0.58 \n11.43",
           "next_element": "Horticulture",
-          "position": 276
+          "position": 285
         },
         {
           "type": "text",
@@ -7834,7 +8022,7 @@
           "section_heading": null,
           "previous_element": "Soyabean Oil \n  \n160.79 \n159.92 \n158.45 \n147.46 \n0.54 \n1.48 \n9.04",
           "next_element": "Onion \n  \n25.67 \n25.72 \n25.03 \n26.09 \n-0.19 \n2.56 \n-1.61",
-          "position": 277
+          "position": 286
         },
         {
           "type": "text",
@@ -7849,7 +8037,7 @@
           "section_heading": null,
           "previous_element": "Horticulture",
           "next_element": "Potato \n  \n21.25 \n21.07 \n20.55 \n24.56 \n0.85 \n3.41 \n-13.48",
-          "position": 278
+          "position": 287
         },
         {
           "type": "text",
@@ -7864,7 +8052,7 @@
           "section_heading": null,
           "previous_element": "Onion \n  \n25.67 \n25.72 \n25.03 \n26.09 \n-0.19 \n2.56 \n-1.61",
           "next_element": "Tomato \n  \n37.26 \n37.32 \n34.18 \n25.48 \n-0.16 \n9.01 \n46.23",
-          "position": 279
+          "position": 288
         },
         {
           "type": "text",
@@ -7879,7 +8067,7 @@
           "section_heading": null,
           "previous_element": "Potato \n  \n21.25 \n21.07 \n20.55 \n24.56 \n0.85 \n3.41 \n-13.48",
           "next_element": "Source: Department of Consumer Affairs (DOCA)",
-          "position": 280
+          "position": 289
         },
         {
           "type": "text",
@@ -7894,7 +8082,7 @@
           "section_heading": null,
           "previous_element": "Tomato \n  \n37.26 \n37.32 \n34.18 \n25.48 \n-0.16 \n9.01 \n46.23",
           "next_element": null,
-          "position": 281
+          "position": 290
         }
       ],
       "metadata": {
@@ -8010,12 +8198,12 @@
             "block_index": 9,
             "page": 13,
             "bbox": [
-              297.19000244140625,
+              297.42999267578125,
               135.0062255859375,
-              338.8388977050781,
-              169.15159606933594
+              338.5449523925781,
+              146.1116180419922
             ],
-            "text": "1 Month \nAgo \n29.04.26 \n",
+            "text": "1 Month \n",
             "type": "text",
             "source_type": "pdfblock"
           },
@@ -8023,17 +8211,56 @@
             "block_index": 10,
             "page": 13,
             "bbox": [
-              358.1499938964844,
-              140.76617431640625,
-              458.6288757324219,
-              163.39158630371094
+              297.19000244140625,
+              146.52618408203125,
+              338.8388977050781,
+              169.15159606933594
             ],
-            "text": "1 Year Ago \n29.05.25 \nLast \nWeek \n",
+            "text": "Ago \n29.04.26 \n",
             "type": "text",
             "source_type": "pdfblock"
           },
           {
             "block_index": 11,
+            "page": 13,
+            "bbox": [
+              358.1499938964844,
+              140.76617431640625,
+              413.0794677734375,
+              151.87156677246094
+            ],
+            "text": "1 Year Ago \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 12,
+            "page": 13,
+            "bbox": [
+              364.75,
+              152.28619384765625,
+              406.3988952636719,
+              163.39158630371094
+            ],
+            "text": "29.05.25 \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 13,
+            "page": 13,
+            "bbox": [
+              429.70001220703125,
+              140.76617431640625,
+              458.6288757324219,
+              163.39158630371094
+            ],
+            "text": "Last \nWeek \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 14,
             "page": 13,
             "bbox": [
               479.8599853515625,
@@ -8046,20 +8273,33 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 12,
+            "block_index": 15,
             "page": 13,
             "bbox": [
               529.780029296875,
               140.76617431640625,
-              562.808837890625,
-              163.39158630371094
+              562.4189453125,
+              151.87156677246094
             ],
-            "text": "1 Year \nAgo   \n",
+            "text": "1 Year \n",
             "type": "text",
             "source_type": "pdfblock"
           },
           {
-            "block_index": 13,
+            "block_index": 16,
+            "page": 13,
+            "bbox": [
+              535.0800170898438,
+              152.28619384765625,
+              562.808837890625,
+              163.39158630371094
+            ],
+            "text": "Ago   \n",
+            "type": "text",
+            "source_type": "pdfblock"
+          },
+          {
+            "block_index": 17,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8072,7 +8312,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 14,
+            "block_index": 18,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8085,7 +8325,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 15,
+            "block_index": 19,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8098,7 +8338,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 16,
+            "block_index": 20,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8111,7 +8351,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 17,
+            "block_index": 21,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8124,7 +8364,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 18,
+            "block_index": 22,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8137,7 +8377,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 19,
+            "block_index": 23,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8150,7 +8390,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 20,
+            "block_index": 24,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8163,7 +8403,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 21,
+            "block_index": 25,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8176,7 +8416,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 22,
+            "block_index": 26,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8189,7 +8429,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 23,
+            "block_index": 27,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8202,7 +8442,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 24,
+            "block_index": 28,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8215,7 +8455,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 25,
+            "block_index": 29,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8228,7 +8468,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 26,
+            "block_index": 30,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8241,7 +8481,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 27,
+            "block_index": 31,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8254,7 +8494,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 28,
+            "block_index": 32,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8267,7 +8507,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 29,
+            "block_index": 33,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8280,7 +8520,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 30,
+            "block_index": 34,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8293,7 +8533,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 31,
+            "block_index": 35,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8306,7 +8546,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 32,
+            "block_index": 36,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8319,7 +8559,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 33,
+            "block_index": 37,
             "page": 13,
             "bbox": [
               33.720001220703125,
@@ -8332,7 +8572,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 34,
+            "block_index": 38,
             "page": 13,
             "bbox": [
               49.560001373291016,
@@ -8345,7 +8585,7 @@
             "source_type": "pdfblock"
           },
           {
-            "block_index": 35,
+            "block_index": 39,
             "page": 13,
             "bbox": [
               49.560001373291016,
@@ -8376,7 +8616,7 @@
           "section_heading": "9.   PROCUREMENT",
           "previous_element": null,
           "next_element": "Central Pool Stock (As on 16.05.2026): Actual stock of Rice was 397.05 LMT against Buffer norm of \n135.80 LMT.  Actual stock of wheat was 465.10 LMT against Buffer Norm of 74.60 LMT. Therefore, \nActual stock of Rice & Wheat together was 862.15 LMT against buffer norm of 210.40 LMT.",
-          "position": 282
+          "position": 291
         },
         {
           "type": "text",
@@ -8391,7 +8631,7 @@
           "section_heading": null,
           "previous_element": "9.   PROCUREMENT",
           "next_element": "o Buffer norm changes quarterly, above-mentioned norm is as on 1st April, it changes next on",
-          "position": 283
+          "position": 292
         },
         {
           "type": "text",
@@ -8406,7 +8646,7 @@
           "section_heading": null,
           "previous_element": "Central Pool Stock (As on 16.05.2026): Actual stock of Rice was 397.05 LMT against Buffer norm of \n135.80 LMT.  Actual stock of wheat was 465.10 LMT against Buffer Norm of 74.60 LMT. Therefore, \nActual stock of Rice & Wheat together was 862.15 LMT against buffer norm of 210.40 LMT.",
           "next_element": "1st July and so on.",
-          "position": 284
+          "position": 293
         },
         {
           "type": "text",
@@ -8420,24 +8660,24 @@
           ],
           "section_heading": "1st July and so on.",
           "previous_element": "o Buffer norm changes quarterly, above-mentioned norm is as on 1st April, it changes next on",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_14_table_1.csv",
-          "position": 285
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_14_table_1.csv",
+          "position": 294
         },
         {
           "type": "table",
           "page": 14,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_14_table_1.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_14_table_1.csv",
           "bbox": [
             36.027692307692305,
             195.02149999999995,
             570.3415292307692,
-            491.349995
+            491.34999500000004
           ],
           "section_heading": null,
           "caption": "Table 1 on page 14",
           "previous_element": "1st July and so on.",
           "next_element": "All India Procurement of Paddy/Rice during KMS 2024-25",
-          "position": 286
+          "position": 295
         },
         {
           "type": "text",
@@ -8450,9 +8690,9 @@
             213.9319610595703
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_14_table_1.csv",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_14_table_1.csv",
           "next_element": "As on 28.05.2026 (Figures in LMT)",
-          "position": 287
+          "position": 296
         },
         {
           "type": "text",
@@ -8467,7 +8707,7 @@
           "section_heading": null,
           "previous_element": "All India Procurement of Paddy/Rice during KMS 2024-25",
           "next_element": "Rice \nProcurement",
-          "position": 288
+          "position": 297
         },
         {
           "type": "text",
@@ -8482,7 +8722,7 @@
           "section_heading": null,
           "previous_element": "As on 28.05.2026 (Figures in LMT)",
           "next_element": "KMS 2025-26 \nKMS 2024-25",
-          "position": 289
+          "position": 298
         },
         {
           "type": "text",
@@ -8497,7 +8737,7 @@
           "section_heading": "KMS 2025-26 \nKMS 2024-25",
           "previous_element": "Rice \nProcurement",
           "next_element": "Estimates \nduring KMS",
-          "position": 290
+          "position": 299
         },
         {
           "type": "text",
@@ -8512,7 +8752,7 @@
           "section_heading": null,
           "previous_element": "KMS 2025-26 \nKMS 2024-25",
           "next_element": "Progressive \nPaddy \nprocurement",
-          "position": 291
+          "position": 300
         },
         {
           "type": "text",
@@ -8527,7 +8767,7 @@
           "section_heading": null,
           "previous_element": "Estimates \nduring KMS",
           "next_element": "Progressive \nprocurement in \nterms of Rice \n(Percentage of \ntarget achieved)",
-          "position": 292
+          "position": 301
         },
         {
           "type": "text",
@@ -8542,7 +8782,7 @@
           "section_heading": null,
           "previous_element": "Progressive \nPaddy \nprocurement",
           "next_element": "Progressive \nCorresponding \npaddy \nProcurement",
-          "position": 293
+          "position": 302
         },
         {
           "type": "text",
@@ -8557,7 +8797,7 @@
           "section_heading": null,
           "previous_element": "Progressive \nprocurement in \nterms of Rice \n(Percentage of \ntarget achieved)",
           "next_element": "Progressive \nCorresponding \nProcurement  in \nterms of Rice",
-          "position": 294
+          "position": 303
         },
         {
           "type": "text",
@@ -8572,7 +8812,7 @@
           "section_heading": null,
           "previous_element": "Progressive \nCorresponding \npaddy \nProcurement",
           "next_element": "Crop",
-          "position": 295
+          "position": 304
         },
         {
           "type": "text",
@@ -8587,7 +8827,7 @@
           "section_heading": null,
           "previous_element": "Progressive \nCorresponding \nProcurement  in \nterms of Rice",
           "next_element": "2025-26",
-          "position": 296
+          "position": 305
         },
         {
           "type": "text",
@@ -8602,7 +8842,7 @@
           "section_heading": "2025-26",
           "previous_element": "Crop",
           "next_element": "(Estimates in \nterms of Paddy)",
-          "position": 297
+          "position": 306
         },
         {
           "type": "text",
@@ -8617,7 +8857,7 @@
           "section_heading": null,
           "previous_element": "2025-26",
           "next_element": "Kharif \n486.59",
-          "position": 298
+          "position": 307
         },
         {
           "type": "text",
@@ -8632,7 +8872,7 @@
           "section_heading": null,
           "previous_element": "(Estimates in \nterms of Paddy)",
           "next_element": "(719.31) \n713.44 \n479.56",
-          "position": 299
+          "position": 308
         },
         {
           "type": "text",
@@ -8647,7 +8887,7 @@
           "section_heading": null,
           "previous_element": "Kharif \n486.59",
           "next_element": "(98.56%) \n685.35 \n460.34",
-          "position": 300
+          "position": 309
         },
         {
           "type": "text",
@@ -8662,7 +8902,7 @@
           "section_heading": null,
           "previous_element": "(719.31) \n713.44 \n479.56",
           "next_element": "Rabi \n79.57",
-          "position": 301
+          "position": 310
         },
         {
           "type": "text",
@@ -8677,7 +8917,7 @@
           "section_heading": null,
           "previous_element": "(98.56%) \n685.35 \n460.34",
           "next_element": "(118.12) \n74.18 \n49.85",
-          "position": 302
+          "position": 311
         },
         {
           "type": "text",
@@ -8692,7 +8932,7 @@
           "section_heading": null,
           "previous_element": "Rabi \n79.57",
           "next_element": "(62.65%) \n71.72 \n48.16",
-          "position": 303
+          "position": 312
         },
         {
           "type": "text",
@@ -8707,7 +8947,7 @@
           "section_heading": null,
           "previous_element": "(118.12) \n74.18 \n49.85",
           "next_element": "Kharif +",
-          "position": 304
+          "position": 313
         },
         {
           "type": "text",
@@ -8722,7 +8962,7 @@
           "section_heading": null,
           "previous_element": "(62.65%) \n71.72 \n48.16",
           "next_element": "(837.43) \n787.62 \n529.41",
-          "position": 305
+          "position": 314
         },
         {
           "type": "text",
@@ -8737,7 +8977,7 @@
           "section_heading": null,
           "previous_element": "Kharif +",
           "next_element": "566.16",
-          "position": 306
+          "position": 315
         },
         {
           "type": "text",
@@ -8752,7 +8992,7 @@
           "section_heading": "566.16",
           "previous_element": "(837.43) \n787.62 \n529.41",
           "next_element": "(93.51 %) \n757.07 \n508.5",
-          "position": 307
+          "position": 316
         },
         {
           "type": "text",
@@ -8767,7 +9007,7 @@
           "section_heading": null,
           "previous_element": "566.16",
           "next_element": "Rabi",
-          "position": 308
+          "position": 317
         },
         {
           "type": "text",
@@ -8782,7 +9022,7 @@
           "section_heading": null,
           "previous_element": "(93.51 %) \n757.07 \n508.5",
           "next_element": "(Source: FCI Portal)",
-          "position": 309
+          "position": 318
         },
         {
           "type": "text",
@@ -8796,24 +9036,24 @@
           ],
           "section_heading": null,
           "previous_element": "Rabi",
-          "next_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_14_table_2.csv",
-          "position": 310
+          "next_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_14_table_2.csv",
+          "position": 319
         },
         {
           "type": "table",
           "page": 14,
-          "path": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_14_table_2.csv",
+          "path": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_14_table_2.csv",
           "bbox": [
             43.599999999999994,
             546.93999,
-            552.9257057142858,
-            697.54001
+            552.9257057142856,
+            697.5400099999998
           ],
           "section_heading": null,
           "caption": "Table 2 on page 14",
           "previous_element": "(Source: FCI Portal)",
           "next_element": "All India Procurement of Wheat during RMS 2025-26 & RMS 2024-25",
-          "position": 311
+          "position": 320
         },
         {
           "type": "text",
@@ -8826,9 +9066,9 @@
             566.8119506835938
           ],
           "section_heading": null,
-          "previous_element": "C:\\Web scraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_14_table_2.csv",
+          "previous_element": "D:\\Webscraping\\Crop_Weather_Watch\\data\\tables\\range_01062026_08062026\\page_14_table_2.csv",
           "next_element": "As on 28.052026  (Figures in LMT)",
-          "position": 312
+          "position": 321
         },
         {
           "type": "text",
@@ -8843,7 +9083,7 @@
           "section_heading": null,
           "previous_element": "All India Procurement of Wheat during RMS 2025-26 & RMS 2024-25",
           "next_element": "Wheat Procurement Estimates \nduring RMS 2026-27 ( LMTs)",
-          "position": 313
+          "position": 322
         },
         {
           "type": "text",
@@ -8858,7 +9098,7 @@
           "section_heading": null,
           "previous_element": "As on 28.052026  (Figures in LMT)",
           "next_element": "Progressive Wheat \nProcurement during RMS",
-          "position": 314
+          "position": 323
         },
         {
           "type": "text",
@@ -8873,7 +9113,7 @@
           "section_heading": null,
           "previous_element": "Wheat Procurement Estimates \nduring RMS 2026-27 ( LMTs)",
           "next_element": "Progressive Corresponding Wheat",
-          "position": 315
+          "position": 324
         },
         {
           "type": "text",
@@ -8888,7 +9128,7 @@
           "section_heading": null,
           "previous_element": "Progressive Wheat \nProcurement during RMS",
           "next_element": "Procurement during RMS 2025-",
-          "position": 316
+          "position": 325
         },
         {
           "type": "text",
@@ -8903,7 +9143,7 @@
           "section_heading": null,
           "previous_element": "Progressive Corresponding Wheat",
           "next_element": "2026-27",
-          "position": 317
+          "position": 326
         },
         {
           "type": "text",
@@ -8918,7 +9158,7 @@
           "section_heading": "2026-27",
           "previous_element": "Procurement during RMS 2025-",
           "next_element": "26",
-          "position": 318
+          "position": 327
         },
         {
           "type": "text",
@@ -8933,7 +9173,7 @@
           "section_heading": "26",
           "previous_element": "2026-27",
           "next_element": "345.99 \n347.79 \n297.75",
-          "position": 319
+          "position": 328
         },
         {
           "type": "text",
@@ -8948,7 +9188,7 @@
           "section_heading": null,
           "previous_element": "26",
           "next_element": "(Source: FCI Portal)",
-          "position": 320
+          "position": 329
         },
         {
           "type": "text",
@@ -8963,7 +9203,7 @@
           "section_heading": null,
           "previous_element": "345.99 \n347.79 \n297.75",
           "next_element": "**********************",
-          "position": 321
+          "position": 330
         },
         {
           "type": "text",
@@ -8978,7 +9218,7 @@
           "section_heading": null,
           "previous_element": "(Source: FCI Portal)",
           "next_element": null,
-          "position": 322
+          "position": 331
         }
       ],
       "metadata": {

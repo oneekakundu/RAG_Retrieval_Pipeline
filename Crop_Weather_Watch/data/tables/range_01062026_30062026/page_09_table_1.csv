@@ -1,8 +1,7 @@
-0,1,2,3
-The status for 166 major reservoirs of the country,,,
-Period,"Storage as % of
-FRL","Storage as % of Last
+0,1,2,3,4,5
+,The status for 166 major reservoirs of the country,,,,
+Period,,Storage as % of FRL,"Storage as % of Last
 Year","Storage as % of 10 Year’s
-Average Level"
-Current Week,28,92,116
-Last Week,30,94,119
+Average Level",
+Current Week,,31,111,119,
+Last Week,,33,113,124,

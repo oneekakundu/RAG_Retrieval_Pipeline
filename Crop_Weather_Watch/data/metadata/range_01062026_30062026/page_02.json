@@ -1,16 +1,16 @@
 {
   "page": 2,
-  "width": 612.0,
-  "height": 792.0,
+  "width": 595.4400024414062,
+  "height": 841.6799926757812,
   "blocks": [
     {
       "block_index": 1,
       "page": 2,
       "bbox": [
-        46.19999694824219,
-        33.65910339355469,
-        48.540313720703125,
-        44.02203369140625
+        21.600000381469727,
+        35.885650634765625,
+        24.09000015258789,
+        46.91136932373047
       ],
       "text": " \n",
       "type": "empty",
@@ -20,10 +20,10 @@
       "block_index": 2,
       "page": 2,
       "bbox": [
-        253.32000732421875,
-        55.96615219116211,
-        346.9796447753906,
-        74.69426727294922
+        241.61000061035156,
+        59.342002868652344,
+        341.1099853515625,
+        79.26800537109375
       ],
       "text": "Key Insights \n",
       "type": "text",
@@ -33,12 +33,12 @@
       "block_index": 3,
       "page": 2,
       "bbox": [
-        63.12000274658203,
-        87.39079284667969,
-        228.6603240966797,
-        99.87617492675781
+        39.599998474121094,
+        92.88801574707031,
+        354.1600036621094,
+        106.1720199584961
       ],
-      "text": "1. Kharif Season Sowing Status:  \n",
+      "text": "1. Rabi Season harvest and Summer Season Sowing Status:  \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -46,12 +46,12 @@
       "block_index": 4,
       "page": 2,
       "bbox": [
-        80.04000091552734,
-        111.4250259399414,
-        553.8107299804688,
-        125.2300033569336
+        39.599998474121094,
+        117.91998291015625,
+        560.8700561523438,
+        132.5719757080078
       ],
-      "text": "\uf0b7 Kharif sowing data collection has started from 05th June, 2026 and the sowing is in preliminary \n",
+      "text": "\uf0b7 As per 3rd Advance Estimates 2025-26, the area sown under the summer crops is 87.26 lakh ha as \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -59,12 +59,12 @@
       "block_index": 5,
       "page": 2,
       "bbox": [
-        96.95999908447266,
-        127.47079467773438,
-        553.6110229492188,
-        154.9561767578125
+        39.599998474121094,
+        135.1280059814453,
+        561.0521240234375,
+        212.8520050048828
       ],
-      "text": "stage. As on 12 June 2026, the area sown under Kharif crops is 84.60 lakh ha (including 54.08 lakh \nha in Sugarcane) as compared to 88.04 lakh ha during the corresponding period of last year.   \n",
+      "text": "compared to 83.91 lakh ha during the corresponding period of last year. As compared to previous year, \nRice area declined by 0.65 lakh ha whereas, Maize area increased by 2.08 lakh ha, Groundnut by 1.03 \nlakh ha, Urad by 0.76 lakh ha and Shree Anna by 0.70 lakh ha.  \n \n\uf0b7 As on 01.06.2026, rabi crops harvesting has been completed in all states. \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -72,10 +72,10 @@
       "block_index": 6,
       "page": 2,
       "bbox": [
-        80.04000091552734,
-        161.9314422607422,
-        81.67539978027344,
-        169.1729736328125
+        57.624000549316406,
+        225.32861328125,
+        59.3640022277832,
+        233.0333251953125
       ],
       "text": " \n",
       "type": "empty",
@@ -85,10 +85,10 @@
       "block_index": 7,
       "page": 2,
       "bbox": [
-        63.12000274658203,
-        180.11288452148438,
-        169.38926696777344,
-        192.75616455078125
+        39.599998474121094,
+        244.5499725341797,
+        152.66000366210938,
+        258.0019836425781
       ],
       "text": "2. Weather Update:  \n",
       "type": "text",
@@ -98,12 +98,12 @@
       "block_index": 8,
       "page": 2,
       "bbox": [
-        88.55999755859375,
-        200.6328887939453,
-        553.7412719726562,
-        226.2361602783203
+        62.183998107910156,
+        266.1500244140625,
+        561.0640869140625,
+        279.6020202636719
       ],
-      "text": "a) \nTemperature: Maximum temperature is likely to be above normal in Madhya Maharashtra, East \nIndia, Rajasthan and many parts of Northeast India. \n",
+      "text": "a) Temperature: Maximum temperature is likely to be below normal in most of country except in \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -111,12 +111,12 @@
       "block_index": 9,
       "page": 2,
       "bbox": [
-        92.76000213623047,
-        232.31288146972656,
-        553.6194458007812,
-        244.95616149902344
+        80.18399810791016,
+        280.1180114746094,
+        160.4600067138672,
+        307.3699645996094
       ],
-      "text": "b) Rainfall Distribution: From June 01\u2013 14 June 2026, the All-India cumulative rainfall is 8% lower \n",
+      "text": "Northeast India. \n \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -124,12 +124,12 @@
       "block_index": 10,
       "page": 2,
       "bbox": [
-        109.79999542236328,
-        247.35081481933594,
-        582.0462646484375,
-        274.7161560058594
+        62.183998107910156,
+        313.54998779296875,
+        561.1200561523438,
+        327.0019836425781
       ],
-      "text": "than its Long Period Average (LPA), with regional variations: (i) East & Northeast India:           \n(-) 40%; (ii) Northwest India: 13%; (iii) Central India: (-) 55%; and South Peninsula: (-) 4%. \n",
+      "text": "b) Rainfall Distribution: From March 01\u2013 May 31 2026, the All-India cumulative rainfall is 1% \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -137,12 +137,12 @@
       "block_index": 11,
       "page": 2,
       "bbox": [
-        96.95999908447266,
-        284.34503173828125,
-        553.7285766601562,
-        298.1499938964844
+        80.18399810791016,
+        329.5580139160156,
+        560.8699340820312,
+        358.6820068359375
       ],
-      "text": "\uf0b7 The seasonal trough at mean sea level from West Rajasthan to Gangetic West Bengal across \n",
+      "text": "higher than its Long Period Average (LPA), with regional variations: (i) East & Northeast India: \n1%; (ii) Northwest India: (-) 6%; (iii) Central India: 17%; and South Peninsula: 0%. \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -150,12 +150,12 @@
       "block_index": 12,
       "page": 2,
       "bbox": [
-        96.95999908447266,
-        300.51080322265625,
-        553.6882934570312,
-        328.989990234375
+        62.183998107910156,
+        368.75,
+        560.7239379882812,
+        383.4020080566406
       ],
-      "text": "northeast Rajasthan, north Madhya Pradesh, south Uttar Pradesh, Bihar and Jharkhand persists. \n\uf0b7 Isolated heavy to very heavy rainfall likely over Sub-Himalayan West Bengal & Sikkim, \n",
+      "text": "\uf0b7 The Western Disturbance as a cyclonic circulation over northwest Uttar Pradesh & neighbourhood \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -163,12 +163,12 @@
       "block_index": 13,
       "page": 2,
       "bbox": [
-        96.95999908447266,
-        331.23077392578125,
-        553.7696533203125,
-        359.5899963378906
+        62.183998107910156,
+        386.0979919433594,
+        560.8159790039062,
+        464.5419921875
       ],
-      "text": "Arunachal Pradesh and Assam & Meghalaya during next 6-7 days.  \n\uf0b7 Rainfall activity is likely in South India, some parts of Maharashtra, NE India, some parts of \n",
+      "text": "between 3.1 & 7.6 km above mean sea level with a trough aloft in middle & upper tropospheric \nwesterlies with its axis at 5.8 km above mean sea level roughly along Long 78\u00b0E to the north of \nLat 20\u00b0N persists.  \n\uf0b7 Isolated heavy rainfall likely over Northeast India and South Peninsular India during the week. \n\uf0b7 Moderate to Severe Thunderstorm activity with squally wind speed upto 90kmph and isolated \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -176,12 +176,12 @@
       "block_index": 14,
       "page": 2,
       "bbox": [
-        96.95999908447266,
-        361.9508056640625,
-        553.7467651367188,
-        405.1900329589844
+        62.183998107910156,
+        467.0979919433594,
+        560.7359008789062,
+        529.7019653320312
       ],
-      "text": "Central India, J&K, and isolated places of Punjab, Haryana, Himachal Pradesh, and \nUttarakhand. \n\uf0b7 Rainfall is likely to be above normal in Kerala, some parts of South Interior Karnataka, \n",
+      "text": "hailstorm likely over Northwest, Central & adjoining East India on 31st May. Isolated Hailstorm \nactivity likely over Odisha, West Madhya Pradesh and Madhya Maharashtra on 01st June. \n\uf0b7 Normal to above normal rainfall is expected over central and northwest India. \n\uf0b7 Heat wave condition likely to prevail over Bihar during 04th\u201306th June.  \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -189,25 +189,25 @@
       "block_index": 15,
       "page": 2,
       "bbox": [
-        96.95999908447266,
-        407.55078125,
-        553.7530517578125,
-        450.9100036621094
+        80.18399810791016,
+        532.2579345703125,
+        96.6240005493164,
+        561.531982421875
       ],
-      "text": "Arunachal Pradesh, while it is below normal in coastal Karnataka, Konkan-Goa, Gujarat, \nOdisha and East & Northeast India.  \n\uf0b7 Isolated to Scattered rainfall likely over many parts of Northwest India and some parts of \n",
-      "type": "text",
+      "text": " \n \n",
+      "type": "empty",
       "source_type": "pdfblock"
     },
     {
       "block_index": 16,
       "page": 2,
       "bbox": [
-        96.95999908447266,
-        452.2670593261719,
-        553.65380859375,
-        481.6300048828125
+        21.600000381469727,
+        569.2000122070312,
+        146.66000366210938,
+        596.2119750976562
       ],
-      "text": "Central India during 14th - 20th June. \n\uf0b7 Heat wave conditions very likely in isolated pockets over Marathawada and Vidarbha during \n",
+      "text": "3.  Inputs Situation \n \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -215,12 +215,12 @@
       "block_index": 17,
       "page": 2,
       "bbox": [
-        112.91999816894531,
-        483.87078857421875,
-        180.41424560546875,
-        511.2361755371094
+        57.624000549316406,
+        596.5599975585938,
+        556.3099975585938,
+        610.011962890625
       ],
-      "text": "next 3-4 days. \n \n",
+      "text": "a) Water Reservoir Status: As on 29 May 2026, the total live water storage in 166 important \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -228,25 +228,25 @@
       "block_index": 18,
       "page": 2,
       "bbox": [
-        114.0,
-        513.8707885742188,
-        116.81964111328125,
-        526.3561401367188
+        75.6240005493164,
+        612.5679931640625,
+        556.5599975585938,
+        705.1919555664062
       ],
-      "text": " \n",
-      "type": "empty",
+      "text": "reservoirs across the country (monitored by CWC) is 56.300 billion cubic meter, which is 30.67% \nof total live storage capacity (183.565 BCM). The current year's storage is nearly 100.73 percent of \nlast year's storage and 119.11 percent of the average storage of the last ten years during the \ncorresponding period. The overall storage position is better than the corresponding period of last \nyear in the country as a whole and is also better than the Normal storage during the corresponding \nperiod.   \n",
+      "type": "text",
       "source_type": "pdfblock"
     },
     {
       "block_index": 19,
       "page": 2,
       "bbox": [
-        46.19999694824219,
-        533.2728881835938,
-        163.70965576171875,
-        558.9961547851562
+        57.624000549316406,
+        715.6199951171875,
+        560.8340454101562,
+        729.0719604492188
       ],
-      "text": "3.  Inputs Situation \n \n",
+      "text": "b) Groundwater Levels: In January, 2026, around 75.8% of the country's monitoring stations \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -254,49 +254,10 @@
       "block_index": 20,
       "page": 2,
       "bbox": [
-        80.04000091552734,
-        559.3129272460938,
-        549.3923950195312,
-        571.9561767578125
-      ],
-      "text": "a) Water Reservoir Status: As on 11 June 2026, the total live water storage in 166 important \n",
-      "type": "text",
-      "source_type": "pdfblock"
-    },
-    {
-      "block_index": 21,
-      "page": 2,
-      "bbox": [
-        96.95999908447266,
-        574.350830078125,
-        549.3800659179688,
-        646.59619140625
-      ],
-      "text": "reservoirs across the country (monitored by CWC) is 51.917 billion cubic meter, which is 28.28% \nof total live storage capacity (183.565 BCM). The current year's storage is nearly 91.83 percent of \nlast year's storage and 115.80 percent of the average storage of the last ten years during the \ncorresponding period. The overall storage position is less than the corresponding period of last year \nin the country as a whole but is better than the Normal storage during the corresponding period. \n",
-      "type": "text",
-      "source_type": "pdfblock"
-    },
-    {
-      "block_index": 22,
-      "page": 2,
-      "bbox": [
-        80.04000091552734,
-        656.512939453125,
-        553.7323608398438,
-        669.1561889648438
-      ],
-      "text": "b) Groundwater Levels: In January, 2026, around 75.8% of the country's monitoring stations \n",
-      "type": "text",
-      "source_type": "pdfblock"
-    },
-    {
-      "block_index": 23,
-      "page": 2,
-      "bbox": [
-        96.95999908447266,
-        671.55078125,
-        553.7136840820312,
-        713.9161376953125
+        75.6240005493164,
+        731.6279907226562,
+        560.833984375,
+        776.7119750976562
       ],
       "text": "exhibited a depth to water level within 10 meters below ground level. Deeper water levels of more \nthan 20 m are observed in around 13.5% of stations of the country covering mainly the western \nstates, especially Western Rajasthan, Punjab, Haryana and Chandigarh. \n",
       "type": "text",

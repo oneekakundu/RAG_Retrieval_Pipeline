@@ -163,12 +163,12 @@
       "block_index": 13,
       "page": 12,
       "bbox": [
-        270.04998779296875,
+        270.2900085449219,
         135.0062255859375,
-        311.7189025878906,
-        169.15159606933594
+        311.40496826171875,
+        146.1116180419922
       ],
-      "text": "1 Month \nAgo \n29.04.26 \n",
+      "text": "1 Month \n",
       "type": "text",
       "source_type": "pdfblock"
     },
@@ -176,17 +176,43 @@
       "block_index": 14,
       "page": 12,
       "bbox": [
-        325.75,
-        135.0062255859375,
-        367.3988952636719,
+        270.04998779296875,
+        146.52618408203125,
+        311.7189025878906,
         169.15159606933594
       ],
-      "text": "1 Year \nAgo \n29.05.25 \n",
+      "text": "Ago \n29.04.26 \n",
       "type": "text",
       "source_type": "pdfblock"
     },
     {
       "block_index": 15,
+      "page": 12,
+      "bbox": [
+        330.30999755859375,
+        135.0062255859375,
+        362.94891357421875,
+        146.1116180419922
+      ],
+      "text": "1 Year \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 16,
+      "page": 12,
+      "bbox": [
+        325.75,
+        146.52618408203125,
+        367.3988952636719,
+        169.15159606933594
+      ],
+      "text": "Ago \n29.05.25 \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 17,
       "page": 12,
       "bbox": [
         386.7099914550781,
@@ -199,7 +225,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 16,
+      "block_index": 18,
       "page": 12,
       "bbox": [
         435.82000732421875,
@@ -212,20 +238,33 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 17,
+      "block_index": 19,
       "page": 12,
       "bbox": [
         488.5,
         140.76617431640625,
-        521.5088500976562,
-        163.39158630371094
+        521.1388549804688,
+        151.87156677246094
       ],
-      "text": "1 Year \nAgo   \n",
+      "text": "1 Year \n",
       "type": "text",
       "source_type": "pdfblock"
     },
     {
-      "block_index": 18,
+      "block_index": 20,
+      "page": 12,
+      "bbox": [
+        493.7799987792969,
+        152.28619384765625,
+        521.5088500976562,
+        163.39158630371094
+      ],
+      "text": "Ago   \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 21,
       "page": 12,
       "bbox": [
         538.2000122070312,
@@ -238,7 +277,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 19,
+      "block_index": 22,
       "page": 12,
       "bbox": [
         537.3599853515625,
@@ -251,7 +290,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 20,
+      "block_index": 23,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -264,7 +303,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 21,
+      "block_index": 24,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -277,7 +316,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 22,
+      "block_index": 25,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -290,7 +329,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 23,
+      "block_index": 26,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -303,7 +342,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 24,
+      "block_index": 27,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -316,7 +355,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 25,
+      "block_index": 28,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -329,7 +368,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 26,
+      "block_index": 29,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -342,7 +381,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 27,
+      "block_index": 30,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -355,7 +394,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 28,
+      "block_index": 31,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -368,7 +407,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 29,
+      "block_index": 32,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -381,7 +420,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 30,
+      "block_index": 33,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -394,7 +433,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 31,
+      "block_index": 34,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -407,7 +446,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 32,
+      "block_index": 35,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -420,7 +459,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 33,
+      "block_index": 36,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -433,7 +472,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 34,
+      "block_index": 37,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -446,7 +485,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 35,
+      "block_index": 38,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -459,7 +498,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 36,
+      "block_index": 39,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -472,7 +511,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 37,
+      "block_index": 40,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -485,7 +524,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 38,
+      "block_index": 41,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -498,7 +537,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 39,
+      "block_index": 42,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -511,7 +550,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 40,
+      "block_index": 43,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -524,7 +563,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 41,
+      "block_index": 44,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -537,7 +576,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 42,
+      "block_index": 45,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -550,7 +589,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 43,
+      "block_index": 46,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -563,7 +602,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 44,
+      "block_index": 47,
       "page": 12,
       "bbox": [
         19.559999465942383,
@@ -576,7 +615,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 45,
+      "block_index": 48,
       "page": 12,
       "bbox": [
         49.560001373291016,
@@ -589,7 +628,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 46,
+      "block_index": 49,
       "page": 12,
       "bbox": [
         49.560001373291016,

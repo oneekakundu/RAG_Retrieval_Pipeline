@@ -30,7 +30,14 @@ class SemanticSearchEngine:
             if idx < 0 or idx >= len(self.metadata):
                 continue
             chunk = self.metadata[idx]
-            results.append({"score": float(score), "chunk_id": chunk.get("chunk_id"), "page_number": chunk.get("metadata", {}).get("page_numbers", [None])[0], "text": chunk.get("text", "")})
+            results.append({
+                "score": float(score),
+                "chunk_id": chunk.get("chunk_id"),
+                "page_number": chunk.get("metadata", {}).get("page_numbers", [None])[0],
+                "text": chunk.get("text", ""),
+                "linked_tables": chunk.get("linked_tables", []),
+                "linked_images": chunk.get("linked_images", []),
+            })
         return results
 
     def search_hierarchical(self, query: str, top_k: int = 5, expand_to_parent: bool = False) -> List[Dict[str, Any]]:

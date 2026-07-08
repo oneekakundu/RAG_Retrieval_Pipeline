@@ -97,8 +97,10 @@ class ImageExtractor(BaseExtractor):
                 try:
                     if pix.alpha or pix.colorspace.name != "DeviceRGB":
                         pix = fitz.Pixmap(fitz.csRGB, pix)
+                        if pix.alpha:
+                            pix = fitz.Pixmap(pix, 0)
                     image_path = image_dir / f"page_{page_number:02d}_img_{img_index}.jpg"
-                    pix.save(image_path)
+                    pix.save(str(image_path))
                 except Exception as exc:
                     self.logger.warning("Could not save image %s for page %s: %s", img_index, page_number, exc)
                     continue

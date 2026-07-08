@@ -114,14 +114,27 @@
         39.599998474121094,
         568.3599853515625,
         560.8699951171875,
-        597.6519775390625
+        581.8119506835938
       ],
-      "text": "4. Pests & Diseases: The overall incidence of pests and diseases remained below the Economic Threshold \nLevel. The monitoring of Cotton crop for Pink Ball Worm is progressing as per the protocol.  \n",
+      "text": "4. Pests & Diseases: The overall incidence of pests and diseases remained below the Economic Threshold \n",
       "type": "text",
       "source_type": "pdfblock"
     },
     {
       "block_index": 10,
+      "page": 3,
+      "bbox": [
+        57.624000549316406,
+        584.3679809570312,
+        508.6600036621094,
+        597.6519775390625
+      ],
+      "text": "Level. The monitoring of Cotton crop for Pink Ball Worm is progressing as per the protocol.  \n",
+      "type": "text",
+      "source_type": "pdfblock"
+    },
+    {
+      "block_index": 11,
       "page": 3,
       "bbox": [
         21.600000381469727,
@@ -134,7 +147,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 11,
+      "block_index": 12,
       "page": 3,
       "bbox": [
         21.600000381469727,
@@ -147,7 +160,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 12,
+      "block_index": 13,
       "page": 3,
       "bbox": [
         21.600000381469727,
@@ -160,7 +173,7 @@
       "source_type": "pdfblock"
     },
     {
-      "block_index": 13,
+      "block_index": 14,
       "page": 3,
       "bbox": [
         21.600000381469727,
