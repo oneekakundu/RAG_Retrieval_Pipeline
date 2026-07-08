@@ -5,3 +5,4 @@ description.txt
 __pycache__/
 *.py[cod]
 description.txt
+Crop_Weather_Watch/data/logs
