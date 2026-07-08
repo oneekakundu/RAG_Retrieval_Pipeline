@@ -35,6 +35,9 @@ class WeatherWatchRAGPipeline:
         """Process one week of reports and save all intermediate artifacts."""
         downloaded = self.downloader.download_reports(records, week_name=week_name, limit=limit)
         results = []
+        all_parent_chunks = []
+        all_child_chunks = []
+
         for report in downloaded:
             try:
                 pdf_path = Path(report["pdf_path"])
@@ -73,54 +76,37 @@ class WeatherWatchRAGPipeline:
 
                     page_structures.append(build_page_structure(page_number, text_blocks, page_tables.get(page_number, []), page_images.get(page_number, []), page_meta))
 
-# Initialize lists to accumulate chunks before processing reports
-+        all_parent_chunks = []
-+        all_child_chunks = []
-+        # Process each report and collect chunks
-+        for report in downloaded:
-+            try:
-+                pdf_path = report.get("pdf_path")
-+                if not pdf_path:
-+                    continue
-+                # Existing processing steps
-+                page_structures = self.parser.parse(pdf_path)
-+                document = build_document_representation(pdf_path.name, page_structures)
-+                merged_path = self.output_dir / "merged" / f"{week_name}.json"
-+                safe_json_dump(document, merged_path)
-+
-+                from .hierarchical_chunker import (
-+                    build_parent_chunks,
-+                    build_child_chunks,
-+                    link_parent_child,
-+                    prepare_chunks_for_embedding,
-+                )
-+
-+                parent_chunks = build_parent_chunks(document, week_name)
-+                child_chunks = build_child_chunks(parent_chunks, document)
-+                link_parent_child(parent_chunks, child_chunks)
-+
-+                # Accumulate chunks
-+                all_parent_chunks.extend(parent_chunks)
-+                all_child_chunks.extend(child_chunks)
-+
-+                # Prepare child chunks for embedding (adds chunk_id key matching child_chunk_id)
-+                prepared_chunks = prepare_chunks_for_embedding(child_chunks)
-+                embedded_chunks = self.embedding_indexer.embed_chunks(prepared_chunks)
-+                results.append({"pdf_path": str(pdf_path), "chunks": embedded_chunks})
-+            except Exception as exc:
-+                self.logger.exception("Failed to process report %s: %s", report.get("pdf_path"), exc)
-+
-+        # After processing all reports, write accumulated chunks to disk
-+        if all_parent_chunks:
-+            parent_chunks_path = self.output_dir / "chunks" / f"{week_name}_parent.json"
-+            ensure_directory(parent_chunks_path.parent)
-+            parent_chunks_path.write_text(json.dumps(all_parent_chunks, indent=2), encoding="utf-8")
-+
-+        if all_child_chunks:
-+            chunks_path = self.output_dir / "chunks" / f"{week_name}.json"
-+            ensure_directory(chunks_path.parent)
-+            chunks_path.write_text(json.dumps(all_child_chunks, indent=2), encoding="utf-8")
+                document = build_document_representation(pdf_path.name, page_structures)
+                merged_path = self.output_dir / "merged" / f"{week_name}.json"
+                safe_json_dump(document, merged_path)
 
+                from .hierarchical_chunker import build_parent_chunks, build_child_chunks, link_parent_child, prepare_chunks_for_embedding
+
+                parent_chunks = build_parent_chunks(document, week_name)
+                child_chunks = build_child_chunks(parent_chunks, document)
+                link_parent_child(parent_chunks, child_chunks)
+
+                # Accumulate chunks
+                all_parent_chunks.extend(parent_chunks)
+                all_child_chunks.extend(child_chunks)
+
+                # Prepare child chunks for embedding (adds chunk_id key matching child_chunk_id)
+                prepared_chunks = prepare_chunks_for_embedding(child_chunks)
+                embedded_chunks = self.embedding_indexer.embed_chunks(prepared_chunks)
+                results.append({"pdf_path": str(pdf_path), "chunks": embedded_chunks})
+            except Exception as exc:
+                self.logger.exception("Failed to process report %s: %s", report.get("pdf_path"), exc)
+
+        # After processing all reports, write accumulated chunks to disk
+        if all_parent_chunks:
+            parent_chunks_path = self.output_dir / "chunks" / f"{week_name}_parent.json"
+            ensure_directory(parent_chunks_path.parent)
+            parent_chunks_path.write_text(json.dumps(all_parent_chunks, indent=2), encoding="utf-8")
+
+        if all_child_chunks:
+            chunks_path = self.output_dir / "chunks" / f"{week_name}.json"
+            ensure_directory(chunks_path.parent)
+            chunks_path.write_text(json.dumps(all_child_chunks, indent=2), encoding="utf-8")
 
         all_embedded_chunks = []
         for result in results:
