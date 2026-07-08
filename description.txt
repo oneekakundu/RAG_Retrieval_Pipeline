@@ -1,0 +1,593 @@
+================================================================================
+   CROP WEATHER WATCH RAG PIPELINE — FULL ALGORITHMIC DESCRIPTION
+================================================================================
+   Project : Crop Weather Watch (Retrieval-Augmented Generation Pipeline)
+   File    : description.txt
+   Location: d:\Webscraping\description.txt
+================================================================================
+
+
+OVERVIEW
+--------
+This pipeline ingests weekly "Weather Watch" crop advisory PDFs published by the
+Government of India (agriwelfare.gov.in), extracts all content from them
+(text, tables, images), links every element spatially according to its position
+in the PDF, builds a two-level hierarchical chunk structure, encodes every chunk
+as a dense vector embedding, stores it in a FAISS index, and finally enables
+semantic retrieval from that index at query time.
+
+The pipeline is implemented across the following Python modules inside:
+  Crop_Weather_Watch/rag_pipeline/
+    downloader.py            — Phase 1: PDF Download
+    extractors.py            — Phase 2: Multi-modal Extraction
+    linking.py               — Phase 3: Spatial Linking & Merging
+    chunking.py              — Phase 4a: Page-wise (Parent) Chunking
+    hierarchical_chunker.py  — Phase 4b: Semantic (Child) Chunking
+    embeddings.py            — Phase 5: Embedding Generation
+    faiss_index.py           — Phase 6: FAISS Index Storage
+    search.py                — Phase 7: Semantic Retrieval
+    pipeline.py              — Orchestrator (calls all phases in order)
+
+
+================================================================================
+PHASE 1 — PDF DOWNLOAD  (downloader.py :: WeatherWatchDownloader)
+================================================================================
+
+Algorithm:
+----------
+1. METADATA FETCH
+   - An HTTP POST request is sent to:
+       https://agriwelfare.gov.in/en/getMOMDetail
+     with payload {"Category": "Minutes Of Meeting", "Status": "Y"}.
+   - The JSON response contains a "data" list of records, each holding:
+       Title, PublishDate, document_path (relative PDF URL).
+
+2. DATE FILTERING (optional)
+   - Records are filtered by a user-supplied date range (start_date, end_date).
+   - Dates are parsed with pandas.to_datetime() using dayfirst=True format.
+   - Only records whose PublishDate falls within [start_date, end_date] are kept.
+
+3. PDF DOWNLOAD
+   - For each selected record, a safe filesystem filename is derived from the
+     title by sanitising non-ASCII and special characters (clean_filename()).
+   - The full PDF URL is constructed as:
+       "https://agriwelfare.gov.in" + document_path
+   - An HTTP GET request with a browser-like User-Agent header downloads the
+     binary PDF to:
+       data/pdfs/<week_name>/pdf/<safe_title>.pdf
+   - If the file already exists on disk, the download is skipped (idempotent).
+   - Returns a list of dicts: {title, pdf_path, pdf_url} for each download.
+
+
+================================================================================
+PHASE 2 — MULTI-MODAL EXTRACTION  (extractors.py)
+================================================================================
+
+All three extractors run independently and in parallel on the same PDF file.
+Their outputs are later combined in Phase 3 (Linking).
+
+────────────────────────────────────────────────────────────────────────────────
+2A. TEXT EXTRACTION  (TextExtractor)
+     Library: PyMuPDF (fitz)
+────────────────────────────────────────────────────────────────────────────────
+Algorithm:
+  For each page in the PDF:
+    a. page.get_text("text") extracts all machine-readable Unicode text as a
+       single string. This includes paragraphs, headers, bullet points, etc.
+    b. page.get_images(full=True) retrieves a list of all embedded image XREFs
+       on the page. For each image, a placeholder marker is generated:
+           [IMAGE page_<NN>_img_<M>]
+       These markers are appended at the end of the page text so that the final
+       full-document text has inline anchors indicating where images exist.
+    c. The combined text + image markers for each page are wrapped:
+           [PAGE <N>]
+           <text content>
+           [IMAGE page_<NN>_img_<M>]
+           ...
+    d. All pages are concatenated and written to:
+           data/text/<week_name>/full_document.txt
+  Returns: {"full_text_path", "content", "page_texts":[{page, content}]}
+
+────────────────────────────────────────────────────────────────────────────────
+2B. TABLE EXTRACTION  (TableExtractor)
+     Library: pdfplumber
+────────────────────────────────────────────────────────────────────────────────
+Algorithm:
+  pdfplumber uses computer-vision–based table detection:
+    a. For each page, page.find_tables() detects table boundaries using line
+       intersection analysis and whitespace clustering.
+    b. table_obj.extract() converts each detected table to a list-of-lists
+       (rows × columns), filtering out entirely empty rows.
+    c. Each table is saved in two formats:
+         • CSV  → data/tables/<week_name>/page_<NN>_table_<M>.csv
+         • JSON → data/tables/<week_name>/page_<NN>_table_<M>.json
+       using pandas DataFrame serialisation.
+    d. A record is created per table containing:
+         page, table_index, csv_path, json_path, bbox [x0,y0,x1,y1], caption.
+  Returns: list of table records across all pages.
+
+────────────────────────────────────────────────────────────────────────────────
+2C. IMAGE EXTRACTION  (ImageExtractor)
+     Library: PyMuPDF (fitz)
+────────────────────────────────────────────────────────────────────────────────
+Algorithm:
+  For each page in the PDF:
+    a. page.get_images(full=True) returns a list of (xref, ...) tuples for
+       every embedded image on the page.
+    b. fitz.Pixmap(doc, xref) decodes the raw image data into a pixel buffer.
+    c. page.get_image_rects(xref) provides the bounding box [x0,y0,x1,y1] of
+       the image within the page coordinate system.
+    d. Color-space and alpha-channel normalisation:
+         • If the image has an alpha channel (RGBA), the alpha is removed by
+           compositing onto a white background using:
+               fitz.Pixmap(pix, 0)   # drop alpha
+         • If the color space is not DeviceRGB (e.g., CMYK, grayscale), it is
+           converted:
+               fitz.Pixmap(fitz.csRGB, pix)
+       This guarantees a clean RGB JPEG can always be saved.
+    e. The normalised pixel map is saved as:
+           data/images/<week_name>/page_<NN>_img_<M>.jpg
+    f. A record is created per image: page, image_index, path, bbox, caption.
+  Returns: list of image records across all pages.
+
+────────────────────────────────────────────────────────────────────────────────
+2D. METADATA / LAYOUT EXTRACTION  (MetadataExtractor)
+     Library: PyMuPDF (fitz)
+────────────────────────────────────────────────────────────────────────────────
+Algorithm:
+  For each page:
+    a. page.rect gives the page dimensions (width, height) in PDF user units.
+    b. page.get_text("blocks") returns a list of text blocks, each with:
+           (x0, y0, x1, y1, text, block_no, block_type)
+       Each block represents a spatially coherent region of text (a paragraph,
+       a heading, a caption, etc.).
+    c. Each block is stored as:
+           {block_index, page, bbox, text, type ("text"/"empty")}
+    d. A per-page JSON file is written:
+           data/metadata/<week_name>/page_<NN>.json
+    e. All page metadata is accumulated in a {"week", "pages":[...]} dict.
+  Returns: {"week", "pages": [{page, width, height, blocks:[...]}]}
+
+  Purpose: The metadata blocks are used in Phase 3 to provide fine-grained
+  spatial bounding boxes and paragraph segmentation that plain text extraction
+  does not preserve.
+
+
+================================================================================
+PHASE 3 — SPATIAL LINKING & DOCUMENT MERGING  (linking.py)
+================================================================================
+
+After all three extractors finish independently, Phase 3 brings everything
+together per page and then merges all pages into one unified document object.
+
+────────────────────────────────────────────────────────────────────────────────
+3A. PAGE STRUCTURE BUILDING  (build_page_structure)
+────────────────────────────────────────────────────────────────────────────────
+Algorithm (per page):
+  Input: page_number, text_blocks, tables[], images[], metadata{}
+
+  1. SECTION HEADING DETECTION (detect_heading)
+     Each text block is examined to determine if it is a section heading:
+       • The block must be ≤ 2 lines and < 120 characters.
+       • It qualifies as a heading if:
+           – ALL alphabetic characters are UPPERCASE, OR
+           – The first word starts with a digit or Roman numeral prefix
+             (I, V, X) or the word "Annex".
+     If detected, the heading text is stored on the element's section_heading
+     field for downstream chunk labelling.
+
+  2. UNIFIED ELEMENT LIST CREATION
+     Three typed element lists are created:
+       • text  → {type:"text",  page, content, bbox, section_heading, ...}
+       • table → {type:"table", page, path (csv_path), bbox, caption, ...}
+       • image → {type:"image", page, path (jpg_path), bbox, caption, ...}
+     All three lists are merged into one flat list called 'elements'.
+
+  3. SPATIAL SORT — Reading Order Reconstruction
+     elements.sort(key = (bbox.y0, bbox.x0))
+     Every element is sorted first by its vertical position (top-to-bottom)
+     and then by horizontal position (left-to-right). This reproduces the
+     natural reading order of the PDF page regardless of the extraction order
+     in which PyMuPDF / pdfplumber returned them.
+
+  4. DOUBLY-LINKED LIST CONSTRUCTION
+     After sorting, each element is given previous_element and next_element
+     pointers (the path/content of the adjacent element in reading order).
+     This creates a linked chain: text → table → image → text → ...
+     matching the original document layout.
+
+  Output: {"page": N, "elements": [...sorted, linked...], "metadata": {...}}
+
+────────────────────────────────────────────────────────────────────────────────
+3B. DOCUMENT MERGING  (build_document_representation)
+────────────────────────────────────────────────────────────────────────────────
+Algorithm:
+  All per-page structures are assembled into one document dict:
+    {"document_name": "<pdf_filename>", "pages": [page_struct_1, page_struct_2, ...]}
+
+  A monotonically increasing global 'position' counter is assigned to every
+  element across all pages (1, 2, 3, …). This absolute position is critical
+  later for proximity-based table/image assignment during child chunking.
+
+  The merged document is serialised to:
+    data/merged/<week_name>.json
+
+  At this point every text block, table, and image in the entire PDF is
+  unified in a single JSON object, spatially ordered and cross-linked.
+
+
+================================================================================
+PHASE 4 — HIERARCHICAL CHUNKING  (chunking.py + hierarchical_chunker.py)
+================================================================================
+
+Chunking is done in two levels:
+  Level 1 (Parent Chunks) — coarse, page-wise grouping
+  Level 2 (Child Chunks)  — fine, semantically coherent sub-page groupings
+
+────────────────────────────────────────────────────────────────────────────────
+4A. LEVEL 1: PAGE-WISE PARENT CHUNKING
+     (chunk_document in chunking.py → build_parent_chunks in hierarchical_chunker.py)
+────────────────────────────────────────────────────────────────────────────────
+Algorithm:
+  Step 1 — Basic Page-Level Chunking (chunk_document):
+    For every page in the merged document:
+      a. All elements on the page (text, tables, images) are collected.
+      b. build_chunk_from_elements() processes the element list:
+           • Text elements  → their content is collected into text_parts[].
+           • Table elements → their csv_path is collected into linked_tables[]
+                              AND a placeholder "[TABLE <stem>]" is appended
+                              to text_parts so the table is textually referenced.
+           • Image elements → their jpg_path is collected into linked_images[]
+                              AND a placeholder "[IMAGE <stem>]" is appended
+                              to text_parts.
+           • Page numbers and section headings are extracted from each element.
+      c. A chunk dict is returned:
+           {chunk_id, text (joined parts), linked_tables[], linked_images[],
+            metadata:{page_numbers, headings, source_pdf},
+            previous_chunk (ID), next_chunk (ID)}
+      d. chunk_id format: "<week>_<doc_stem>_page_<NN>"
+    Returns: list of one chunk per non-empty page.
+
+  Step 2 — Parent Chunk Enrichment (build_parent_chunks):
+    Each basic chunk is upgraded to a rich parent chunk:
+      a. The page structure is looked up in the merged document by page number.
+      b. linked_tables and linked_images are replaced with full rich element
+         dicts (including bbox, caption, position) instead of just paths.
+      c. A 'children' field (initially empty list) is added for later population.
+      d. previous_chunk / next_chunk pointers are set to the adjacent page's
+         chunk_id, forming a doubly-linked page chain across the document.
+
+  Result: One parent chunk per page. Parent chunks are broad, context-rich and
+  contain ALL content from a page, including tables and images by reference.
+
+────────────────────────────────────────────────────────────────────────────────
+4B. LEVEL 2: SEMANTIC CHILD CHUNKING
+     (build_child_chunks + semantic_split_parent in hierarchical_chunker.py)
+────────────────────────────────────────────────────────────────────────────────
+Each parent chunk is split into multiple smaller child chunks using semantic
+similarity. This is the most algorithmically sophisticated phase.
+
+  Step 1 — Text Element Extraction:
+    Only 'text' type elements from the page are used as splitting units.
+    Tables and images are handled separately (they are not split further).
+
+  Step 2 — Semantic Splitting (semantic_split_parent):
+    Target word range: 200–500 words per child chunk.
+
+    PRIMARY PATH — Embedding-based semantic splitting:
+      a. All text element contents are encoded by the SentenceTransformer model
+           "sentence-transformers/all-MiniLM-L6-v2"
+         producing a 384-dimensional L2-normalised vector per element.
+         (The model is cached on first call to avoid reloading overhead.)
+      b. Consecutive cosine similarities are computed:
+           sim[i] = dot(embedding[i], embedding[i+1])
+         (valid because embeddings are L2-normalised).
+      c. A split boundary is inserted between elements i and i+1 if ANY of
+         these three conditions is satisfied:
+           CONDITION A — Word count overflow:
+               current_word_count + next_words > 500
+               AND current_word_count >= 200
+           CONDITION B — Semantic gap:
+               sim[i] < 0.35   (cosine similarity below threshold)
+               AND current_word_count >= 200
+           CONDITION C — Local similarity minimum:
+               sim[i] < sim[i-1]  AND  sim[i] < sim[i+1]
+               (valley in similarity curve = topic transition)
+               AND current_word_count >= 200
+         The minimum word guard (>= 200) prevents creating micro-chunks.
+      d. The result is a list of groups, each group being a list of
+         semantically coherent text elements.
+
+    FALLBACK PATH — Paragraph-aware word-count splitter:
+      If SentenceTransformer is unavailable or raises any exception, a simple
+      greedy splitter is used: accumulate elements until adding the next one
+      would exceed 500 words AND at least 200 words are already accumulated,
+      then start a new group.
+
+  Step 3 — Child Chunk Object Creation:
+    For each semantic group on a page:
+      a. All text content in the group is joined with double newlines.
+      b. Section headings within the group are extracted (deduped, ordered).
+      c. A child chunk is created:
+           {child_chunk_id: "<parent_id>_child_<NNN>",
+            parent_chunk_id: "<parent_id>",
+            text, linked_tables:[], linked_images:[],
+            metadata:{page_numbers, headings, source_pdf},
+            previous_child: None, next_child: None,
+            _text_positions: [position integers for elements in this group]}
+
+  Step 4 — Proximity-based Table/Image Assignment (assign_linked_elements):
+    Tables and images from the parent page are assigned to exactly ONE child
+    chunk — the one whose text elements are spatially closest to the table/image.
+    Algorithm:
+      For each table/image on the page:
+        a. Its global document 'position' integer is known (from Phase 3B).
+        b. For each child chunk, the minimum absolute distance between the
+           table/image's position and any of the child's text element positions
+           is computed:
+               dist = min(|table_pos - text_pos| for text_pos in child._text_positions)
+        c. The child chunk with the smallest distance is selected and the
+           table/image element is appended to that child's linked_tables /
+           linked_images list.
+    This prevents duplicating visual elements across multiple child chunks.
+
+  Step 5 — Text Marker Injection & Cleanup:
+    After assignment, each child chunk's text is extended with [IMAGE ...] and
+    [TABLE ...] markers for any linked assets, so downstream LLMs see explicit
+    references inline in the text.
+    The temporary _text_positions helper field is deleted from each child.
+
+  Step 6 — Cross-document Child Linking:
+    After all child chunks for all parent chunks are created, a single pass
+    over the full list sets:
+        child.previous_child → child_chunk_id of preceding child (or None)
+        child.next_child     → child_chunk_id of following child (or None)
+    This creates a global sequential chain of fine-grained chunks across the
+    entire document, enabling context window expansion at retrieval time.
+
+────────────────────────────────────────────────────────────────────────────────
+4C. PARENT ↔ CHILD BIDIRECTIONAL LINKING  (link_parent_child)
+────────────────────────────────────────────────────────────────────────────────
+    A parent_map {chunk_id → parent_chunk} is built.
+    For each child chunk, its parent_chunk_id is looked up and the child's
+    child_chunk_id is appended to parent["children"].
+    Result: every parent chunk carries a complete list of its child IDs,
+    enabling parent expansion during retrieval.
+
+────────────────────────────────────────────────────────────────────────────────
+4D. CHUNK PERSISTENCE
+────────────────────────────────────────────────────────────────────────────────
+    Parent chunks → data/chunks/<week_name>_parent.json
+    Child chunks  → data/chunks/<week_name>.json
+
+    Before embedding, prepare_chunks_for_embedding() copies the child_chunk_id
+    value into a 'chunk_id' key so that downstream modules (EmbeddingIndexer,
+    FaissIndexer) can use a uniform 'chunk_id' key.
+
+
+================================================================================
+PHASE 5 — EMBEDDING GENERATION  (embeddings.py :: EmbeddingIndexer)
+================================================================================
+
+Model: sentence-transformers/all-MiniLM-L6-v2
+       (384-dimensional, free, no API key required)
+
+Algorithm:
+  1. All child chunk texts are collected into a list of strings.
+  2. SentenceTransformer.encode() is called in a single batch:
+       embeddings = model.encode(texts,
+                                 convert_to_numpy=True,
+                                 normalize_embeddings=True)
+     normalize_embeddings=True applies L2 normalisation so that cosine
+     similarity equals dot product, enabling efficient FAISS inner-product
+     search.
+  3. Each resulting 384-dimensional numpy array is attached to its chunk dict:
+       chunk["embedding"] = embedding.tolist()
+  4. Each chunk's embedding is also written individually to disk:
+       data/embeddings/<chunk_id>.json
+     for later inspection or reuse without rebuilding the index.
+  Returns: the list of chunks, now each containing an "embedding" field.
+
+
+================================================================================
+PHASE 6 — FAISS INDEX STORAGE  (faiss_index.py :: FaissIndexer)
+================================================================================
+
+Index type: IndexFlatL2 (exact brute-force Euclidean distance search)
+
+Algorithm:
+  1. All chunk embeddings are stacked into a float32 numpy matrix:
+       shape = (num_chunks, 384)
+  2. faiss.IndexFlatL2(384) is initialised — a flat index that stores
+     embeddings as-is and performs exhaustive L2 distance computation.
+  3. index.add(embeddings) loads all vectors.
+  4. The populated index is serialised to disk:
+       data/faiss/chunks.index
+  5. The full list of chunk metadata dicts (with text, linked_tables,
+     linked_images, chunk_id, etc.) is written to:
+       data/faiss/chunks_metadata.json
+     This JSON file acts as the lookup table that maps a FAISS integer
+     index position to the full chunk object.
+
+  Note: IndexFlatL2 stores vectors in insertion order, so position i in the
+  FAISS index corresponds directly to position i in chunks_metadata.json.
+
+
+================================================================================
+PHASE 7 — SEMANTIC RETRIEVAL  (search.py :: SemanticSearchEngine)
+================================================================================
+
+The search engine is entirely query-time; no retraining is required.
+
+────────────────────────────────────────────────────────────────────────────────
+7A. BASIC SEARCH  (search)
+────────────────────────────────────────────────────────────────────────────────
+Algorithm:
+  1. At initialisation, the FAISS index and chunks_metadata.json are loaded
+     into memory.
+  2. At query time:
+       a. The user query string is encoded by the same SentenceTransformer
+          model used during indexing (L2-normalised, 384-dim float32 vector).
+       b. faiss.index.search(query_vector, top_k) computes L2 distances
+          between the query and ALL stored chunk vectors and returns the
+          top_k closest matches (scores[], indices[]).
+       c. Each returned index is used to look up the full chunk from
+          chunks_metadata.json.
+       d. Results are returned as a list of dicts:
+            {score, chunk_id, page_number, text, linked_tables, linked_images}
+          sorted by ascending L2 distance (lower = more similar).
+
+────────────────────────────────────────────────────────────────────────────────
+7B. HIERARCHICAL SEARCH  (search_hierarchical)
+────────────────────────────────────────────────────────────────────────────────
+Algorithm (extends basic search):
+  1. The same FAISS search as above is performed to retrieve top_k child chunks.
+  2. For each matched child chunk, the result dict is augmented with:
+       child_chunk_id  — the fine-grained chunk ID
+       parent_chunk_id — the ID of the page-level parent chunk
+       metadata        — headings, page_numbers, source_pdf
+  3. OPTIONAL PARENT EXPANSION (expand_to_parent=True):
+       If the caller requests parent expansion:
+         a. load_parent_chunks_map() loads all *_parent.json files from
+            data/chunks/ into a {chunk_id → parent_chunk} dictionary.
+         b. For each matched child, its parent_chunk_id is looked up in
+            this map and the full parent chunk (with all sibling children,
+            full page text, all tables, all images) is attached to the
+            result as "parent_chunk".
+       This "small-to-big" retrieval strategy:
+         • Searches on fine-grained child embeddings (precise matching).
+         • Returns broad parent context (full page) to the LLM, giving it
+           surrounding context without inflating the indexed vector size.
+  4. Returns top_k result dicts, each optionally carrying a parent_chunk
+     with the complete page context.
+
+
+================================================================================
+FULL PIPELINE DATA FLOW SUMMARY
+================================================================================
+
+PDF File
+  │
+  ▼
+[Phase 1] WeatherWatchDownloader
+  HTTP POST → fetch metadata list
+  HTTP GET  → download PDF bytes → disk
+  │
+  ▼
+[Phase 2] Parallel Extractors (all read the same PDF)
+  ├─► TextExtractor     (PyMuPDF)   → full_document.txt  + image markers
+  ├─► TableExtractor    (pdfplumber) → page_XX_table_Y.csv / .json
+  ├─► ImageExtractor    (PyMuPDF)   → page_XX_img_Y.jpg
+  └─► MetadataExtractor (PyMuPDF)   → page_XX.json (blocks + bboxes)
+  │
+  ▼
+[Phase 3] Spatial Linking (linking.py)
+  Per page:
+    text blocks + tables + images
+      │ detect_heading()
+      │ create typed element dicts
+      │ SORT by (bbox.y0, bbox.x0)    ← reading order reconstruction
+      │ link previous_element / next_element
+      └─► page_structure { page, elements[], metadata }
+  All pages:
+      assign global position integers
+      └─► unified document JSON { document_name, pages[] }
+              saved → data/merged/<week>.json
+  │
+  ▼
+[Phase 4a] Page-wise Parent Chunking (chunking.py)
+  One chunk per non-empty page:
+    collect all elements → build_chunk_from_elements()
+    text joined, tables/images linked by path + [PLACEHOLDER] in text
+    previous_chunk / next_chunk page pointers set
+    └─► parent_chunks[]   saved → data/chunks/<week>_parent.json
+  │
+  ▼
+[Phase 4b] Semantic Child Chunking (hierarchical_chunker.py)
+  Per parent chunk:
+    ① extract text elements only
+    ② semantic_split_parent():
+         encode with all-MiniLM-L6-v2
+         compute consecutive cosine similarities
+         split on: word overflow | sim < 0.35 | local sim valley
+         fallback: greedy word-count split
+    ③ create child_chunk per group
+    ④ assign_linked_elements():
+         for each table/image → find closest child by position distance
+    ⑤ inject [IMAGE]/[TABLE] markers into child text
+  Global pass: link previous_child / next_child across all children
+  Bidirectional: parent.children[] ← child.parent_chunk_id
+  └─► child_chunks[]   saved → data/chunks/<week>.json
+  │
+  ▼
+[Phase 5] Embedding (embeddings.py)
+  Batch encode all child chunk texts
+  all-MiniLM-L6-v2 → 384-dim L2-normalised numpy vectors
+  chunk["embedding"] = vector.tolist()
+  individual embeddings saved → data/embeddings/<chunk_id>.json
+  │
+  ▼
+[Phase 6] FAISS Indexing (faiss_index.py)
+  Stack all embedding vectors → float32 matrix (N × 384)
+  faiss.IndexFlatL2(384).add(matrix)
+  Serialise index → data/faiss/chunks.index
+  Serialise metadata → data/faiss/chunks_metadata.json
+  │
+  ▼
+[Phase 7] Retrieval (search.py)  ← QUERY TIME
+  User query string
+    │ encode with same all-MiniLM-L6-v2 model
+    ▼
+  384-dim query vector
+    │ faiss.index.search(query_vec, top_k)
+    ▼
+  top_k (score, position) pairs
+    │ lookup chunks_metadata.json[position]
+    ▼
+  Matched child chunks { text, linked_tables, linked_images, metadata }
+    │ (optional) load parent → attach full page context
+    ▼
+  Final results passed to LLM for answer generation
+
+
+================================================================================
+KEY ALGORITHMIC DECISIONS & RATIONALE
+================================================================================
+
+1. TWO-STAGE CHUNKING (Parent + Child):
+   • Searching on child chunks gives precise, focused vector matching.
+   • Expanding to parent at retrieval time gives the LLM wider context.
+   • This "small-to-big" design avoids both precision loss (large chunks) and
+     context loss (tiny chunks).
+
+2. SEMANTIC SIMILARITY-BASED CHILD SPLITS:
+   • Simple fixed-size splits break sentences and topics arbitrarily.
+   • Embedding-based cosine similarity detects natural topic transitions.
+   • Local-minimum detection finds the "valley" in semantic coherence — the
+     natural boundary where one topic ends and another begins.
+
+3. POSITION-BASED TABLE/IMAGE PROXIMITY ASSIGNMENT:
+   • Tables and images are NOT duplicated across all child chunks of a page.
+   • Each visual asset is assigned to exactly one child — the one whose text
+     is structurally closest in the document reading order.
+   • This keeps visual context accurate and avoids noise in retrieval results.
+
+4. IMAGE MARKERS IN TEXT:
+   • [IMAGE page_NN_img_M] markers are embedded in the text stream at the
+     point where the image appears. This allows the LLM to know an image
+     exists and reference it, even though the image itself is stored as a
+     separate JPEG file.
+
+5. READING ORDER RECONSTRUCTION VIA BBOX SORT:
+   • PDF internal storage order is not guaranteed to match visual reading order.
+   • Sorting by (y0, x0) reconstructs the top-to-bottom, left-to-right order
+     that a human reader would follow.
+
+6. FAISS IndexFlatL2:
+   • Chosen for correctness and simplicity on a corpus that fits in RAM.
+   • For larger corpora, this can be upgraded to IndexIVFFlat or IndexHNSW
+     for approximate nearest-neighbour search with sub-linear query time.
+
+================================================================================
+END OF DESCRIPTION
+================================================================================

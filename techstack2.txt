@@ -1,0 +1,269 @@
+================================================================================
+   CROP WEATHER WATCH RAG PIPELINE — COMPLETE TECH STACK
+================================================================================
+   Project : Crop Weather Watch (Retrieval-Augmented Generation Pipeline)
+   File    : techstack2.txt
+   Location: d:\Webscraping\techstack2.txt
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 1. PROGRAMMING LANGUAGE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ • Python 3.10+
+   - Core language for all pipeline modules, data processing, and ML inference.
+   - Uses modern features: from __future__ import annotations, pathlib, typing,
+     dataclasses, match-case style conditionals, f-strings.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 2. WEB SCRAPING & HTTP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ • requests  (v2.34.2)
+   - Sends HTTP POST to the government portal API endpoint
+     (https://agriwelfare.gov.in/en/getMOMDetail) to fetch PDF metadata.
+   - Sends HTTP GET requests with browser-like User-Agent headers to download
+     binary PDF files from the portal.
+   - Used in: downloader.py, agri_website.py
+
+ • BeautifulSoup4  (v4.15.0)
+   - Parses the HTML "Details" field returned in the API JSON response.
+   - Strips HTML tags to extract clean plain-text descriptions for each report.
+   - Used in: agri_website.py
+
+   Parser backend:
+ • html.parser  (Python standard library)
+   - Built-in HTML parser used by BeautifulSoup to process the Details field.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 3. PDF PROCESSING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ • PyMuPDF  (fitz)  (v1.26.0)
+   - PRIMARY PDF processing engine.
+   - Text Extraction   : page.get_text("text") — extracts Unicode text per page.
+   - Block Layout      : page.get_text("blocks") — extracts text with bounding
+                         box coordinates (x0, y0, x1, y1) per paragraph block.
+   - Image Extraction  : page.get_images(full=True) + fitz.Pixmap() — decodes
+                         embedded images from PDF XRef streams.
+   - Image Positioning : page.get_image_rects(xref) — gives the spatial bbox of
+                         an image within the page coordinate system.
+   - Color Normalisation: fitz.Pixmap(fitz.csRGB, pix) converts CMYK/grayscale
+                          to RGB; pix.alpha removal composites onto white.
+   - Page Metadata     : page.rect gives page width and height.
+   - Used in: extractors.py (TextExtractor, ImageExtractor, MetadataExtractor)
+
+ • pdfplumber  (v0.11.5)
+   - SECONDARY PDF engine, specialized for table detection.
+   - Uses computer-vision line-intersection analysis and whitespace clustering
+     to detect table boundaries within a PDF page.
+   - page.find_tables() + table_obj.extract() → list-of-lists (rows × columns).
+   - Provides table bounding boxes (bbox).
+   - Used in: extractors.py (TableExtractor)
+
+ • Pillow  (PIL)  (v11.2.1)
+   - Image processing library used alongside PyMuPDF.
+   - Handles image format conversion and safe JPEG saving for images that
+     PyMuPDF cannot save directly (e.g., alpha-bearing or palette images).
+   - Used in: extractors.py (ImageExtractor)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 4. DATA HANDLING & MANIPULATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ • pandas  (v3.0.3)
+   - Converts extracted table data (list-of-lists) into DataFrames.
+   - Serialises tables to CSV (df.to_csv) and JSON (df.to_json, orient="records").
+   - Date parsing and filtering: pd.to_datetime() with dayfirst=True, used to
+     filter PDF records within a user-specified date range.
+   - Used in: extractors.py (TableExtractor), downloader.py, agri_website.py
+
+ • NumPy  (>=1.23, <2.0)
+   - Provides the float32 numpy array infrastructure for embedding vectors.
+   - Used for stacking embedding arrays into 2-D matrices for FAISS input.
+   - Cosine similarity computed as dot product of L2-normalised vectors:
+       sim = np.dot(emb_i, emb_{i+1})
+   - Used in: hierarchical_chunker.py, embeddings.py, faiss_index.py, search.py
+
+ • json  (Python standard library)
+   - Serialises and deserialises all intermediate pipeline artifacts:
+     metadata JSON, merged document JSON, chunk JSON, embedding JSON,
+     FAISS metadata JSON.
+   - Used in: all pipeline modules
+
+ • pathlib.Path  (Python standard library)
+   - All file path construction and directory creation uses pathlib for
+     cross-platform compatibility and clean path operations.
+   - Used in: all pipeline modules
+
+ • logging  (Python standard library)
+   - Structured logging across all pipeline phases via setup_logger() in utils.py.
+   - Log files written to: data/logs/pipeline.log
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 5. MACHINE LEARNING & EMBEDDINGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ • sentence-transformers  (v3.3.1)
+   - HIGH-LEVEL wrapper around Hugging Face Transformers for sentence embeddings.
+   - Model used: sentence-transformers/all-MiniLM-L6-v2
+       Architecture : MiniLM (6-layer distilled BERT)
+       Output dims  : 384 dimensions per text input
+       Normalisation: L2-normalised (normalize_embeddings=True), enabling
+                      cosine similarity via simple dot product.
+   - Two roles in the pipeline:
+       (a) Semantic Child Chunking — encodes text elements during splitting to
+           detect natural topic boundaries via cosine similarity valleys.
+       (b) Embedding Indexing — encodes all final child chunks for FAISS storage.
+   - Model is cached in-process (function attribute) to avoid reloading cost.
+   - Used in: hierarchical_chunker.py, embeddings.py, search.py
+
+ • transformers  (v4.46.1)   [Hugging Face]
+   - BACKEND framework underlying sentence-transformers.
+   - Provides the tokenizer, attention mechanism, and transformer model weights.
+   - Not called directly in the pipeline; used internally by sentence-transformers.
+
+ • torch  (PyTorch)  (v2.5.1)
+   - DEEP LEARNING FRAMEWORK underlying both transformers and sentence-transformers.
+   - Runs model inference (forward passes) during encoding.
+   - Not called directly; used internally by sentence-transformers for
+     GPU/CPU tensor computation.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 6. VECTOR SEARCH & INDEXING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ • faiss-cpu  (v1.8.0.post1)   [Facebook AI Similarity Search]
+   - Stores all 384-dim child chunk embedding vectors in a flat binary index.
+   - Index type: IndexFlatL2
+       • Exact brute-force L2 (Euclidean) distance search.
+       • Every query vector is compared against all stored vectors.
+       • Guarantees exact nearest-neighbour results (no approximation).
+   - index.add(float32 matrix) — bulk loads all chunk vectors.
+   - index.search(query_vector, top_k) — returns top_k closest chunk indices
+     and their L2 distances in one vectorised call.
+   - Index serialised to disk: data/faiss/chunks.index (binary format).
+   - Metadata (chunk dicts) stored alongside: data/faiss/chunks_metadata.json
+   - Used in: faiss_index.py, search.py
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 7. FILE FORMATS USED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ Format   | Purpose
+ ─────────────────────────────────────────────────────────────────────────────
+ PDF      | Source documents downloaded from the government portal.
+ TXT      | Full-document text extraction output (full_document.txt).
+ CSV      | Table extraction output (one CSV per detected table per page).
+ JSON     | Table extraction, page metadata, merged document, chunks,
+           | embeddings, FAISS metadata — all stored as JSON.
+ JPEG     | Extracted embedded images saved as RGB JPEG files.
+ .index   | Binary FAISS index file (faiss-cpu proprietary format).
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 8. COMMAND-LINE INTERFACE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ • argparse  (Python standard library)
+   - Provides the CLI interface for run_rag_pipeline.py.
+   - Arguments:
+       --start-date   Start of the PDF date range (dd-mm-yyyy)
+       --end-date     End of the PDF date range (dd-mm-yyyy)
+       --limit        Max number of PDFs to download per run
+       --query        Optional one-shot search query after indexing
+   - Used in: run_rag_pipeline.py
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 9. ENVIRONMENT & DEPENDENCY MANAGEMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ • pip + requirements.txt
+   - All dependencies are pinned in requirements.txt for reproducible installs.
+   - Install command: pip install -r requirements.txt
+
+ • venv  (Python standard library)
+   - A virtual environment (venv/) is used to isolate project dependencies
+     from the system Python installation.
+
+ • pytest  (via .pytest_cache)
+   - Test runner present in the project (tests/ directory).
+   - Used for unit testing individual pipeline modules.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 10. VERSION CONTROL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ • Git
+   - Repository tracked with Git (.git/ directory present).
+   - .gitignore configured to exclude venv/, __pycache__, data outputs, etc.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 11. COMPLETE TECH STACK AT A GLANCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ Layer                   | Technology / Library              | Version
+ ────────────────────────┼───────────────────────────────────┼──────────────────
+ Language                | Python                            | 3.10+
+ ────────────────────────┼───────────────────────────────────┼──────────────────
+ HTTP / Web Scraping     | requests                          | 2.34.2
+                         | BeautifulSoup4                    | 4.15.0
+                         | html.parser (stdlib)              | built-in
+ ────────────────────────┼───────────────────────────────────┼──────────────────
+ PDF — Text & Images     | PyMuPDF (fitz)                    | 1.26.0
+ PDF — Tables            | pdfplumber                        | 0.11.5
+ Image Processing        | Pillow (PIL)                      | 11.2.1
+ ────────────────────────┼───────────────────────────────────┼──────────────────
+ Data Handling           | pandas                            | 3.0.3
+                         | NumPy                             | >=1.23, <2.0
+                         | json (stdlib)                     | built-in
+                         | pathlib (stdlib)                  | built-in
+ ────────────────────────┼───────────────────────────────────┼──────────────────
+ ML / Embeddings         | sentence-transformers             | 3.3.1
+                         |   Model: all-MiniLM-L6-v2 (384d) |
+                         | Hugging Face transformers         | 4.46.1
+                         | PyTorch                           | 2.5.1
+ ────────────────────────┼───────────────────────────────────┼──────────────────
+ Vector Search           | FAISS (faiss-cpu)                 | 1.8.0.post1
+                         |   Index: IndexFlatL2              |
+ ────────────────────────┼───────────────────────────────────┼──────────────────
+ CLI                     | argparse (stdlib)                 | built-in
+ Logging                 | logging (stdlib)                  | built-in
+ Testing                 | pytest                            | latest
+ Version Control         | Git                               | —
+ Environment             | venv + pip + requirements.txt     | —
+ ────────────────────────┴───────────────────────────────────┴──────────────────
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 12. WHICH LIBRARY IS USED IN WHICH PIPELINE PHASE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ Pipeline Phase                      | Primary Libraries Used
+ ────────────────────────────────────┼────────────────────────────────────────
+ Phase 1 — PDF Download              | requests, pandas, BeautifulSoup4
+ Phase 2A — Text Extraction          | PyMuPDF (fitz)
+ Phase 2B — Table Extraction         | pdfplumber, pandas
+ Phase 2C — Image Extraction         | PyMuPDF (fitz), Pillow
+ Phase 2D — Metadata Extraction      | PyMuPDF (fitz), json
+ Phase 3 — Spatial Linking & Merge   | json, pathlib (pure Python logic)
+ Phase 4A — Parent Chunking          | json, pathlib (pure Python logic)
+ Phase 4B — Semantic Child Chunking  | sentence-transformers, NumPy
+ Phase 5 — Embedding Generation      | sentence-transformers, NumPy, json
+ Phase 6 — FAISS Indexing            | faiss-cpu, NumPy, json
+ Phase 7 — Semantic Retrieval        | faiss-cpu, sentence-transformers, NumPy
+ ────────────────────────────────────┴────────────────────────────────────────
+
+================================================================================
+END OF TECH STACK
+================================================================================
