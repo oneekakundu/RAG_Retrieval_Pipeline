@@ -1,0 +1,11 @@
+AI Models Used:
+- GPT-OSS 120B (Medium) – version 1.0.0
+
+Prompts Used:
+- "Generate a summary of web scraping results."
+- "Create a Python script for extracting crop weather data."
+- "Explain AI usage details for documentation."
+
+Notes:
+- All prompts were crafted to be concise and task‑specific.
+- Model responses were reviewed and edited for clarity before inclusion in code.
