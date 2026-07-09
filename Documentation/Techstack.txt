@@ -1,11 +1,63 @@
 ================================================================================
-   CROP WEATHER WATCH RAG PIPELINE — COMPLETE TECH STACK
+  COMPLETE TECH STACK
 ================================================================================
    Project : Crop Weather Watch (Retrieval-Augmented Generation Pipeline)
-   File    : techstack2.txt
-   Location: d:\Webscraping\techstack2.txt
-================================================================================
+   File    : Techstack.txt
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+COMPLETE TECH STACK AT A GLANCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ Layer                   | Technology / Library              | Version
+ ────────────────────────┼───────────────────────────────────┼──────────────────
+ Language                | Python                            | 3.10+
+ ────────────────────────┼───────────────────────────────────┼──────────────────
+ HTTP / Web Scraping     | requests                          | 2.34.2
+                         | BeautifulSoup4                    | 4.15.0
+                         | html.parser (stdlib)              | built-in
+ ────────────────────────┼───────────────────────────────────┼──────────────────
+ PDF — Text & Images     | PyMuPDF (fitz)                    | 1.26.0
+ PDF — Tables            | pdfplumber                        | 0.11.5
+ Image Processing        | Pillow (PIL)                      | 11.2.1
+ ────────────────────────┼───────────────────────────────────┼──────────────────
+ Data Handling           | pandas                            | 3.0.3
+                         | NumPy                             | >=1.23, <2.0
+                         | json (stdlib)                     | built-in
+                         | pathlib (stdlib)                  | built-in
+ ────────────────────────┼───────────────────────────────────┼──────────────────
+ ML / Embeddings         | sentence-transformers             | 3.3.1
+                         |   Model: all-MiniLM-L6-v2 (384d) |
+                         | Hugging Face transformers         | 4.46.1
+                         | PyTorch                           | 2.5.1
+ ────────────────────────┼───────────────────────────────────┼──────────────────
+ Vector Search           | FAISS (faiss-cpu)                 | 1.8.0.post1
+                         |   Index: IndexFlatL2              |
+ ────────────────────────┼───────────────────────────────────┼──────────────────
+ CLI                     | argparse (stdlib)                 | built-in
+ Logging                 | logging (stdlib)                  | built-in
+ Testing                 | pytest                            | latest
+ Version Control         | Git                               | —
+ Environment             | venv + pip + requirements.txt     | —
+ ────────────────────────┴───────────────────────────────────┴──────────────────
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ WHICH LIBRARY IS USED IN WHICH PIPELINE PHASE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ Pipeline Phase                      | Primary Libraries Used
+ ────────────────────────────────────┼────────────────────────────────────────
+ Phase 1 — PDF Download              | requests, pandas, BeautifulSoup4
+ Phase 2A — Text Extraction          | PyMuPDF (fitz)
+ Phase 2B — Table Extraction         | pdfplumber, pandas
+ Phase 2C — Image Extraction         | PyMuPDF (fitz), Pillow
+ Phase 2D — Metadata Extraction      | PyMuPDF (fitz), json
+ Phase 3 — Spatial Linking & Merge   | json, pathlib (pure Python logic)
+ Phase 4A — Parent Chunking          | json, pathlib (pure Python logic)
+ Phase 4B — Semantic Child Chunking  | sentence-transformers, NumPy
+ Phase 5 — Embedding Generation      | sentence-transformers, NumPy, json
+ Phase 6 — FAISS Indexing            | faiss-cpu, NumPy, json
+ Phase 7 — Semantic Retrieval        | faiss-cpu, sentence-transformers, NumPy
+ ────────────────────────────────────┴────────────────────────────────────────
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  1. PROGRAMMING LANGUAGE
@@ -205,64 +257,7 @@
 
  • Git
    - Repository tracked with Git (.git/ directory present).
-   - .gitignore configured to exclude venv/, __pycache__, data outputs, etc.
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- 11. COMPLETE TECH STACK AT A GLANCE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
- Layer                   | Technology / Library              | Version
- ────────────────────────┼───────────────────────────────────┼──────────────────
- Language                | Python                            | 3.10+
- ────────────────────────┼───────────────────────────────────┼──────────────────
- HTTP / Web Scraping     | requests                          | 2.34.2
-                         | BeautifulSoup4                    | 4.15.0
-                         | html.parser (stdlib)              | built-in
- ────────────────────────┼───────────────────────────────────┼──────────────────
- PDF — Text & Images     | PyMuPDF (fitz)                    | 1.26.0
- PDF — Tables            | pdfplumber                        | 0.11.5
- Image Processing        | Pillow (PIL)                      | 11.2.1
- ────────────────────────┼───────────────────────────────────┼──────────────────
- Data Handling           | pandas                            | 3.0.3
-                         | NumPy                             | >=1.23, <2.0
-                         | json (stdlib)                     | built-in
-                         | pathlib (stdlib)                  | built-in
- ────────────────────────┼───────────────────────────────────┼──────────────────
- ML / Embeddings         | sentence-transformers             | 3.3.1
-                         |   Model: all-MiniLM-L6-v2 (384d) |
-                         | Hugging Face transformers         | 4.46.1
-                         | PyTorch                           | 2.5.1
- ────────────────────────┼───────────────────────────────────┼──────────────────
- Vector Search           | FAISS (faiss-cpu)                 | 1.8.0.post1
-                         |   Index: IndexFlatL2              |
- ────────────────────────┼───────────────────────────────────┼──────────────────
- CLI                     | argparse (stdlib)                 | built-in
- Logging                 | logging (stdlib)                  | built-in
- Testing                 | pytest                            | latest
- Version Control         | Git                               | —
- Environment             | venv + pip + requirements.txt     | —
- ────────────────────────┴───────────────────────────────────┴──────────────────
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- 12. WHICH LIBRARY IS USED IN WHICH PIPELINE PHASE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
- Pipeline Phase                      | Primary Libraries Used
- ────────────────────────────────────┼────────────────────────────────────────
- Phase 1 — PDF Download              | requests, pandas, BeautifulSoup4
- Phase 2A — Text Extraction          | PyMuPDF (fitz)
- Phase 2B — Table Extraction         | pdfplumber, pandas
- Phase 2C — Image Extraction         | PyMuPDF (fitz), Pillow
- Phase 2D — Metadata Extraction      | PyMuPDF (fitz), json
- Phase 3 — Spatial Linking & Merge   | json, pathlib (pure Python logic)
- Phase 4A — Parent Chunking          | json, pathlib (pure Python logic)
- Phase 4B — Semantic Child Chunking  | sentence-transformers, NumPy
- Phase 5 — Embedding Generation      | sentence-transformers, NumPy, json
- Phase 6 — FAISS Indexing            | faiss-cpu, NumPy, json
- Phase 7 — Semantic Retrieval        | faiss-cpu, sentence-transformers, NumPy
- ────────────────────────────────────┴────────────────────────────────────────
+   - .gitignore configured to exclude venv/, __pycache__, data outputs, etc
 
 ================================================================================
 END OF TECH STACK
