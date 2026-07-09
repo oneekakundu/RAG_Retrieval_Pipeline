@@ -1,0 +1,255 @@
+AI USAGE DOCUMENTATION
+Project Title: RAG Pipeline for Crop Weather Watch Reports
+________________________________________
+AI Models Used
+The following AI models were used during different stages of development:
+•	ChatGPT (GPT-5.5)
+•	GPT-OSS 120B
+•	Claude Haiku
+•	Claude Sonnet
+•	Claude Opus
+•	Gemini 3.5 Flash
+•	Gemini Pro
+•	Codex
+________________________________________
+Primary Development Tasks
+AI assistance was used for:
+• Improving the PDF extraction workflow.
+• Designing modular project architecture.
+• Developing and refining parent-child hierarchical chunking.
+• Preserving parent-child relationships.
+• Improving document linking between text, tables, and images.
+• Building and refining the FAISS indexing workflow.
+• Improving semantic retrieval logic.
+• Debugging Python runtime errors.
+• Fixing chunk accumulation issues.
+• Preventing JSON overwrite problems during multi-report processing.
+• Improving image and table linkage.
+• Explaining retrieval architecture.
+• Generating project documentation.
+• Preparing AI usage documentation.
+________________________________________
+Representative Prompts Used During Development
+Some of the Prompts used include:
+• Extend the existing page-wise chunking pipeline into a hierarchical parent-child chunking architecture while preserving backward compatibility.
+• Modify only the process_reports() function to accumulate parent and child chunks across multiple reports without overwriting JSON files.
+• Build semantic child chunks from parent page chunks while preserving tables, images, metadata, and document order.
+• Assign tables and images only to the nearest semantic child chunk based on element position.
+• Explain the complete retrieval workflow, including embedding generation, FAISS indexing, similarity search, and parent-child retrieval logic.
+• Diagnose why retrieved child chunks contain empty text and identify the root cause without changing the overall chunking strategy.
+• Fix image retrieval so that image-related queries retrieve image chunks instead of unrelated text chunks while preserving the existing retrieval architecture.
+• Review the hierarchical chunking implementation and identify possible edge cases without rewriting the project.
+• Generate project documentation including workflow, process description, and AI usage details.
+You are modifying an existing Python RAG pipeline.
+•	This is NOT a refactoring task and NOT a rewrite. This project is already working. Only make the minimum changes required.
+
+Your task is to modify ONLY the process_reports() method in pipeline.py.
+
+STRICT REQUIREMENTS
+
+1. Do NOT rename any class.
+2. Do NOT rename any function.
+3. Do NOT rename any variable.
+4. Do NOT change any import.
+5. Do NOT change any package names.
+6. Do NOT change any function signatures.
+7. Do NOT introduce new helper functions.
+8. Do NOT introduce new classes.
+9. Do NOT introduce new parser objects (for example, do NOT use self.parser).
+10. Do NOT replace any existing logic with a different implementation.
+11. Preserve compatibility with every other module in the project.
+
+The existing implementation already correctly performs:
+- downloading PDFs
+- extracting text
+- extracting tables
+- extracting images
+- extracting metadata
+- building page structures
+- building the document representation
+- building parent chunks
+- building child chunks
+- linking parent and child chunks
+- embedding generation
+- FAISS indexing
+
+All of the above must remain exactly as it is.
+Only fix the chunk accumulation logic.CURRENT PROBLEM Currently, for every report inside: for report in downloaded: the code writes week_name_parent.json and week_name.json immediately.
+Therefore, if a week contains multiple reports, every iteration overwrites the previous JSON file and only the last report remains.
+REQUIRED FIX
+
+1. Before entering the existing for report in downloaded: loop, initialize
+all_parent_chunks = []
+all_child_chunks = []
+2. Keep the existing for-loop.
+DO NOT create another for report in downloaded loop.
+3. Keep the existing try/except block.
+DO NOT create another try block.
+4. Keep all extraction logic exactly as it currently exists.
+5. Keep build_document_representation() exactly where it already is.
+6. Keep
+build_parent_chunks()
+build_child_chunks()
+link_parent_child()
+exactly where they already are.
+
+7. Remove ONLY these lines:
+parent_chunks_path.write_text(...)
+chunks_path.write_text(...)
+from inside the report loop.
+
+8. Replace them with
+all_parent_chunks.extend(parent_chunks)
+all_child_chunks.extend(child_chunks)
+
+9. Leave embedding generation exactly as it currently is.
+
+10. Leave results.append(...) exactly where it currently is.
+
+11. After the entire for report in downloaded loop finishes (before FAISS indexing), write week_name_parent.json using all_parent_chunks
+and write
+week_name.json
+using
+all_child_chunks.
+
+12. Do NOT overwrite JSON files inside the report loop.
+
+13. Preserve all logging.
+
+14. Preserve all exception handling.
+
+15. Preserve all indentation except where required for the accumulation logic.
+
+16. Do NOT add self.parser, report.get(), duplicate loops, duplicate try blocks, duplicate document creation, or duplicate embedding logic.
+
+EXPECTED OUTPUT
+
+Return ONLY the complete corrected process_reports() function.
+
+Do not modify any other part of the file.
+
+Do not explain the changes.
+
+Do not rewrite the architecture.
+
+Make the minimum possible changes required to implement accumulation instead of overwriting.
+
+________________________________________
+AI-Assisted Code Review
+AI was also used to:
+• Review existing implementations.
+• Suggest improvements.
+• Explain algorithms.
+• Verify architectural consistency.
+• Identify potential edge cases.
+• Recommend debugging strategies.
+Suggested changes were manually reviewed before being incorporated into the project.
+________________________________________
+AI Libraries and Models Used in the Project
+The project itself uses the following open-source AI/ML models and libraries:
+Embedding Models:
+• sentence-transformers/all-MiniLM-L6-v2
+• (Evaluation considered other free embedding models such as BAAI/bge-small-en-v1.5, intfloat/e5-base-v2, and nomic-embed-text.)
+Libraries:
+• sentence-transformers
+• FAISS
+• transformers
+• torch
+• Hugging Face Hub
+________________________________________
+AI MODELWISE CONTRIBUTIONS
+1. ChatGPT (GPT-5.5)
+Role:
+Primary development assistant throughout the project.
+Major Contributions:
+•	Assisted in designing the extraction → chunking → embedding → retrieval workflow.
+•	Helped implement and refine parent-child hierarchical chunking.
+•	Debugged runtime errors and Python exceptions.
+•	Assisted in fixing JSON overwrite issues during chunk generation.
+•	Improved metadata handling and parent-child relationships.
+•	Explained retrieval logic and FAISS indexing.
+•	Assisted in preparing project documentation (workflow, process, AI usage).
+________________________________________
+2. GPT-OSS 120B
+Role:
+Code generation and debugging assistant.
+Major Contributions:
+•	Generated Python code for utility modules.
+•	Suggested fixes for pipeline logic.
+•	Helped improve logging and modularization..
+________________________________________
+3. Claude Haiku
+Role:
+Quick coding assistant.
+Major Contributions:
+•	Suggested lightweight code improvements.
+•	Explained Python functions and algorithms.
+•	Assisted with small debugging tasks.
+________________________________________
+4. Claude Sonnet
+Role:
+Primary architecture review and implementation assistant.
+Major Contributions:
+•	Review hierarchical chunking implementation.
+•	Assisted in extending page-wise chunking into parent-child chunking.
+•	Suggested metadata organization.
+•	Helped improve retrieval architecture.
+•	Reviewed implementation for logical consistency.
+•	Code review.
+________________________________________
+5. Claude Opus
+Role:
+Complex reasoning and architecture validation.
+Major Contributions:
+•	Analysed retrieval edge cases.
+•	Reviewed hierarchical chunk relationships.
+•	Suggested improvements for semantic chunking.
+•	Verified overall pipeline design.
+________________________________________
+6. Gemini 3.5 Flash
+Role:
+Rapid implementation support.
+Major Contributions:
+•	Assisted in debugging pipeline execution.
+•	Suggested corrections for Python implementation.
+•	Helped improve documentation.
+•	Assisted in reviewing extraction and retrieval flow.
+________________________________________
+7. Gemini Pro
+Role:
+Technical reference and concept explanation.
+Major Contributions:
+•	Explained Retrieval-Augmented Generation concepts.
+•	Discussed chunking strategies.
+•	Compared embedding models.
+•	Assisted in selecting retrieval approaches.
+________________________________________
+8. Codex
+Role:
+Code completion assistant.
+Major Contributions:
+•	Suggested function implementations.
+•	Assisted with repetitive coding tasks.
+•	Utility code suggestions.
+________________________________________
+MODELS USED FOR THE MOST CRITICAL TASKS
+The majority of the debugging, and documentation were developed with assistance from ChatGPT (GPT-5.5).
+Claude Sonnet was primarily used for reviewing and refining the hierarchical chunking architecture and metadata relationships.
+Claude Opus was mainly used for analysing retrieval logic and identifying architectural edge cases.
+GPT-OSS 120B and Codex were primarily used for Python code generation and implementation support.
+Gemini models were mainly used for concept clarification, implementation discussions, and documentation assistance.
+________________________________________
+Developer Responsibility
+AI was used solely as a software development assistant.
+I was responsible for:
+• System design decisions.
+• Integration of all project modules.
+• Reviewing AI-generated code.
+• Debugging and modifying implementations.
+• Testing pipeline components.
+• Final validation before submission.
+•	Boilerplate generation.
+
+AI-generated suggestions were reviewed and adapted as required before inclusion in the project.
+
+
