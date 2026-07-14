@@ -1,0 +1,639 @@
+[
+  {
+    "text": "Sugarcane",
+    "label": "crop",
+    "score": 0.475666,
+    "start": 478,
+    "end": 487
+  },
+  {
+    "text": "Temperature",
+    "label": "temperature",
+    "score": 0.67873,
+    "start": 593,
+    "end": 604
+  },
+  {
+    "text": "Maximum temperature",
+    "label": "temperature",
+    "score": 0.908377,
+    "start": 606,
+    "end": 625
+  },
+  {
+    "text": "Rainfall",
+    "label": "rainfall",
+    "score": 0.602883,
+    "start": 709,
+    "end": 717
+  },
+  {
+    "text": "All-India  cumulative  rainfall",
+    "label": "rainfall",
+    "score": 0.595626,
+    "start": 773,
+    "end": 804
+  },
+  {
+    "text": "Maharashtra",
+    "label": "state",
+    "score": 0.896293,
+    "start": 1156,
+    "end": 1167
+  },
+  {
+    "text": "J&amp;K",
+    "label": "state",
+    "score": 0.64023,
+    "start": 1208,
+    "end": 1215
+  },
+  {
+    "text": "Punjab",
+    "label": "state",
+    "score": 0.616964,
+    "start": 1231,
+    "end": 1237
+  },
+  {
+    "text": "Himachal Pradesh",
+    "label": "state",
+    "score": 0.803253,
+    "start": 1253,
+    "end": 1269
+  },
+  {
+    "text": "Uttarakhand",
+    "label": "state",
+    "score": 0.835704,
+    "start": 1294,
+    "end": 1305
+  },
+  {
+    "text": "Kerala",
+    "label": "state",
+    "score": 0.964386,
+    "start": 1361,
+    "end": 1367
+  },
+  {
+    "text": "Karnataka",
+    "label": "state",
+    "score": 0.87537,
+    "start": 1404,
+    "end": 1413
+  },
+  {
+    "text": "Arunachal  Pradesh",
+    "label": "state",
+    "score": 0.834051,
+    "start": 1415,
+    "end": 1433
+  },
+  {
+    "text": "Karnataka",
+    "label": "state",
+    "score": 0.940091,
+    "start": 1479,
+    "end": 1488
+  },
+  {
+    "text": "Konkan-Goa",
+    "label": "state",
+    "score": 0.784215,
+    "start": 1491,
+    "end": 1501
+  },
+  {
+    "text": "Gujarat",
+    "label": "state",
+    "score": 0.937966,
+    "start": 1504,
+    "end": 1511
+  },
+  {
+    "text": "Odisha",
+    "label": "state",
+    "score": 0.876913,
+    "start": 1513,
+    "end": 1519
+  },
+  {
+    "text": "Kerala",
+    "label": "state",
+    "score": 0.965877,
+    "start": 1622,
+    "end": 1628
+  },
+  {
+    "text": "Karnataka",
+    "label": "state",
+    "score": 0.962915,
+    "start": 1630,
+    "end": 1639
+  },
+  {
+    "text": "Tamil Nadu",
+    "label": "state",
+    "score": 0.95812,
+    "start": 1641,
+    "end": 1651
+  },
+  {
+    "text": "Karnataka",
+    "label": "state",
+    "score": 0.97173,
+    "start": 1747,
+    "end": 1756
+  },
+  {
+    "text": "Arunachal Pradesh",
+    "label": "state",
+    "score": 0.979619,
+    "start": 3818,
+    "end": 3835
+  },
+  {
+    "text": "Himachal Pradesh",
+    "label": "state",
+    "score": 0.98013,
+    "start": 3837,
+    "end": 3853
+  },
+  {
+    "text": "Meghalaya",
+    "label": "state",
+    "score": 0.916246,
+    "start": 3855,
+    "end": 3864
+  },
+  {
+    "text": "Nagaland",
+    "label": "state",
+    "score": 0.921786,
+    "start": 3870,
+    "end": 3878
+  },
+  {
+    "text": "Pests",
+    "label": "pest",
+    "score": 0.544672,
+    "start": 4007,
+    "end": 4012
+  },
+  {
+    "text": "pests",
+    "label": "pest",
+    "score": 0.536527,
+    "start": 4055,
+    "end": 4060
+  },
+  {
+    "text": "Paddy",
+    "label": "crop",
+    "score": 0.685806,
+    "start": 4629,
+    "end": 4634
+  },
+  {
+    "text": "Wheat",
+    "label": "crop",
+    "score": 0.907206,
+    "start": 4779,
+    "end": 4784
+  },
+  {
+    "text": "Maize",
+    "label": "crop",
+    "score": 0.877528,
+    "start": 4929,
+    "end": 4934
+  },
+  {
+    "text": "rainfall",
+    "label": "rainfall",
+    "score": 0.670918,
+    "start": 6863,
+    "end": 6871
+  },
+  {
+    "text": "Rainfall",
+    "label": "rainfall",
+    "score": 0.641675,
+    "start": 6899,
+    "end": 6907
+  },
+  {
+    "text": "rainfall",
+    "label": "rainfall",
+    "score": 0.715532,
+    "start": 6932,
+    "end": 6940
+  },
+  {
+    "text": "Madhya Maharashtra",
+    "label": "state",
+    "score": 0.897777,
+    "start": 7019,
+    "end": 7037
+  },
+  {
+    "text": "Marathwada",
+    "label": "state",
+    "score": 0.819871,
+    "start": 7039,
+    "end": 7049
+  },
+  {
+    "text": "Karnataka",
+    "label": "state",
+    "score": 0.933751,
+    "start": 7051,
+    "end": 7060
+  },
+  {
+    "text": "Telangana",
+    "label": "state",
+    "score": 0.940957,
+    "start": 7062,
+    "end": 7071
+  },
+  {
+    "text": "Andhra Pradesh",
+    "label": "state",
+    "score": 0.967994,
+    "start": 7073,
+    "end": 7087
+  },
+  {
+    "text": "maximum temperatures",
+    "label": "temperature",
+    "score": 0.857593,
+    "start": 7250,
+    "end": 7270
+  },
+  {
+    "text": "maximum  temperatures",
+    "label": "temperature",
+    "score": 0.842115,
+    "start": 7423,
+    "end": 7444
+  },
+  {
+    "text": "Bihar",
+    "label": "state",
+    "score": 0.93014,
+    "start": 7499,
+    "end": 7504
+  },
+  {
+    "text": "maximum temperature",
+    "label": "temperature",
+    "score": 0.478986,
+    "start": 7519,
+    "end": 7538
+  },
+  {
+    "text": "Maximum temperatures",
+    "label": "temperature",
+    "score": 0.846538,
+    "start": 7696,
+    "end": 7716
+  },
+  {
+    "text": "Gujarat",
+    "label": "state",
+    "score": 0.868025,
+    "start": 7801,
+    "end": 7808
+  },
+  {
+    "text": "Uttar Pradesh",
+    "label": "state",
+    "score": 0.933001,
+    "start": 7891,
+    "end": 7904
+  },
+  {
+    "text": "Bihar",
+    "label": "state",
+    "score": 0.869539,
+    "start": 7931,
+    "end": 7936
+  },
+  {
+    "text": "Jharkhand",
+    "label": "state",
+    "score": 0.758079,
+    "start": 7938,
+    "end": 7947
+  },
+  {
+    "text": "Odisha",
+    "label": "state",
+    "score": 0.824639,
+    "start": 7949,
+    "end": 7955
+  },
+  {
+    "text": "Chhattisgarh",
+    "label": "state",
+    "score": 0.674778,
+    "start": 7984,
+    "end": 7996
+  },
+  {
+    "text": "Madhya Pradesh",
+    "label": "state",
+    "score": 0.949131,
+    "start": 8027,
+    "end": 8041
+  },
+  {
+    "text": "maximum temperatures",
+    "label": "temperature",
+    "score": 0.782305,
+    "start": 8149,
+    "end": 8169
+  },
+  {
+    "text": "maximum temperatures",
+    "label": "temperature",
+    "score": 0.835052,
+    "start": 8258,
+    "end": 8278
+  },
+  {
+    "text": "maximum temperatures",
+    "label": "temperature",
+    "score": 0.841595,
+    "start": 8357,
+    "end": 8377
+  },
+  {
+    "text": "Kharif crops",
+    "label": "crop",
+    "score": 0.981265,
+    "start": 9830,
+    "end": 9842
+  },
+  {
+    "text": "Kharif crops",
+    "label": "crop",
+    "score": 0.982605,
+    "start": 9918,
+    "end": 9930
+  },
+  {
+    "text": "Kharif crops",
+    "label": "crop",
+    "score": 0.982613,
+    "start": 10006,
+    "end": 10018
+  },
+  {
+    "text": "Kharif crops",
+    "label": "crop",
+    "score": 0.982663,
+    "start": 10094,
+    "end": 10106
+  },
+  {
+    "text": "Kharif crops",
+    "label": "crop",
+    "score": 0.982466,
+    "start": 10182,
+    "end": 10194
+  },
+  {
+    "text": "Kharif crops",
+    "label": "crop",
+    "score": 0.982428,
+    "start": 10270,
+    "end": 10282
+  },
+  {
+    "text": "Kharif crops",
+    "label": "crop",
+    "score": 0.982543,
+    "start": 10358,
+    "end": 10370
+  },
+  {
+    "text": "Pulses",
+    "label": "crop",
+    "score": 0.803566,
+    "start": 12976,
+    "end": 12982
+  },
+  {
+    "text": "Arhar",
+    "label": "crop",
+    "score": 0.872746,
+    "start": 13594,
+    "end": 13599
+  },
+  {
+    "text": "Urdbean",
+    "label": "crop",
+    "score": 0.901903,
+    "start": 14212,
+    "end": 14219
+  },
+  {
+    "text": "Moongbean",
+    "label": "crop",
+    "score": 0.926368,
+    "start": 14830,
+    "end": 14839
+  },
+  {
+    "text": "Kulthi",
+    "label": "crop",
+    "score": 0.875064,
+    "start": 15448,
+    "end": 15454
+  },
+  {
+    "text": "Mothbean",
+    "label": "crop",
+    "score": 0.768427,
+    "start": 16066,
+    "end": 16074
+  },
+  {
+    "text": "Other pulses",
+    "label": "crop",
+    "score": 0.70606,
+    "start": 16684,
+    "end": 16696
+  },
+  {
+    "text": "Shri Anna",
+    "label": "crop",
+    "score": 0.609379,
+    "start": 17302,
+    "end": 17311
+  },
+  {
+    "text": "Coarse cereals",
+    "label": "crop",
+    "score": 0.657466,
+    "start": 17316,
+    "end": 17330
+  },
+  {
+    "text": "Jowar",
+    "label": "crop",
+    "score": 0.813206,
+    "start": 17920,
+    "end": 17925
+  },
+  {
+    "text": "Bajra",
+    "label": "crop",
+    "score": 0.885096,
+    "start": 18538,
+    "end": 18543
+  },
+  {
+    "text": "Ragi",
+    "label": "crop",
+    "score": 0.767051,
+    "start": 19156,
+    "end": 19160
+  },
+  {
+    "text": "Small millets",
+    "label": "crop",
+    "score": 0.803404,
+    "start": 19774,
+    "end": 19787
+  },
+  {
+    "text": "Maize",
+    "label": "crop",
+    "score": 0.945832,
+    "start": 20392,
+    "end": 20397
+  },
+  {
+    "text": "Oilseeds",
+    "label": "crop",
+    "score": 0.866547,
+    "start": 21010,
+    "end": 21018
+  },
+  {
+    "text": "Groundnut",
+    "label": "crop",
+    "score": 0.876445,
+    "start": 21628,
+    "end": 21637
+  },
+  {
+    "text": "Soybean",
+    "label": "crop",
+    "score": 0.952086,
+    "start": 22246,
+    "end": 22253
+  },
+  {
+    "text": "Sunflower",
+    "label": "crop",
+    "score": 0.957042,
+    "start": 22864,
+    "end": 22873
+  },
+  {
+    "text": "Sesamum",
+    "label": "crop",
+    "score": 0.867703,
+    "start": 23482,
+    "end": 23489
+  },
+  {
+    "text": "Niger",
+    "label": "crop",
+    "score": 0.893808,
+    "start": 24100,
+    "end": 24105
+  },
+  {
+    "text": "Castor",
+    "label": "crop",
+    "score": 0.923607,
+    "start": 24718,
+    "end": 24724
+  },
+  {
+    "text": "Other Oilseeds",
+    "label": "crop",
+    "score": 0.612441,
+    "start": 25336,
+    "end": 25350
+  },
+  {
+    "text": "Sugarcane",
+    "label": "crop",
+    "score": 0.96482,
+    "start": 25954,
+    "end": 25963
+  },
+  {
+    "text": "Jute & Mesta",
+    "label": "crop",
+    "score": 0.880501,
+    "start": 26572,
+    "end": 26584
+  },
+  {
+    "text": "Cotton",
+    "label": "crop",
+    "score": 0.961884,
+    "start": 27190,
+    "end": 27196
+  },
+  {
+    "text": "Rajasthan",
+    "label": "state",
+    "score": 0.974049,
+    "start": 30001,
+    "end": 30010
+  },
+  {
+    "text": "Gujarat",
+    "label": "state",
+    "score": 0.966492,
+    "start": 30013,
+    "end": 30020
+  },
+  {
+    "text": "Madhya  Pradesh",
+    "label": "state",
+    "score": 0.977942,
+    "start": 30023,
+    "end": 30038
+  },
+  {
+    "text": "Maharashtra",
+    "label": "state",
+    "score": 0.951295,
+    "start": 30041,
+    "end": 30052
+  },
+  {
+    "text": "Telangana",
+    "label": "state",
+    "score": 0.967936,
+    "start": 30055,
+    "end": 30064
+  },
+  {
+    "text": "Northern  and Central Karnataka",
+    "label": "state",
+    "score": 0.662658,
+    "start": 30067,
+    "end": 30098
+  }
+]

@@ -1,0 +1,92 @@
+text,label,score,start,end
+Sugarcane,crop,0.475666,478,487
+Temperature,temperature,0.67873,593,604
+Maximum temperature,temperature,0.908377,606,625
+Rainfall,rainfall,0.602883,709,717
+All-India  cumulative  rainfall,rainfall,0.595626,773,804
+Maharashtra,state,0.896293,1156,1167
+J&amp;K,state,0.64023,1208,1215
+Punjab,state,0.616964,1231,1237
+Himachal Pradesh,state,0.803253,1253,1269
+Uttarakhand,state,0.835704,1294,1305
+Kerala,state,0.964386,1361,1367
+Karnataka,state,0.87537,1404,1413
+Arunachal  Pradesh,state,0.834051,1415,1433
+Karnataka,state,0.940091,1479,1488
+Konkan-Goa,state,0.784215,1491,1501
+Gujarat,state,0.937966,1504,1511
+Odisha,state,0.876913,1513,1519
+Kerala,state,0.965877,1622,1628
+Karnataka,state,0.962915,1630,1639
+Tamil Nadu,state,0.95812,1641,1651
+Karnataka,state,0.97173,1747,1756
+Arunachal Pradesh,state,0.979619,3818,3835
+Himachal Pradesh,state,0.98013,3837,3853
+Meghalaya,state,0.916246,3855,3864
+Nagaland,state,0.921786,3870,3878
+Pests,pest,0.544672,4007,4012
+pests,pest,0.536527,4055,4060
+Paddy,crop,0.685806,4629,4634
+Wheat,crop,0.907206,4779,4784
+Maize,crop,0.877528,4929,4934
+rainfall,rainfall,0.670918,6863,6871
+Rainfall,rainfall,0.641675,6899,6907
+rainfall,rainfall,0.715532,6932,6940
+Madhya Maharashtra,state,0.897777,7019,7037
+Marathwada,state,0.819871,7039,7049
+Karnataka,state,0.933751,7051,7060
+Telangana,state,0.940957,7062,7071
+Andhra Pradesh,state,0.967994,7073,7087
+maximum temperatures,temperature,0.857593,7250,7270
+maximum  temperatures,temperature,0.842115,7423,7444
+Bihar,state,0.93014,7499,7504
+maximum temperature,temperature,0.478986,7519,7538
+Maximum temperatures,temperature,0.846538,7696,7716
+Gujarat,state,0.868025,7801,7808
+Uttar Pradesh,state,0.933001,7891,7904
+Bihar,state,0.869539,7931,7936
+Jharkhand,state,0.758079,7938,7947
+Odisha,state,0.824639,7949,7955
+Chhattisgarh,state,0.674778,7984,7996
+Madhya Pradesh,state,0.949131,8027,8041
+maximum temperatures,temperature,0.782305,8149,8169
+maximum temperatures,temperature,0.835052,8258,8278
+maximum temperatures,temperature,0.841595,8357,8377
+Kharif crops,crop,0.981265,9830,9842
+Kharif crops,crop,0.982605,9918,9930
+Kharif crops,crop,0.982613,10006,10018
+Kharif crops,crop,0.982663,10094,10106
+Kharif crops,crop,0.982466,10182,10194
+Kharif crops,crop,0.982428,10270,10282
+Kharif crops,crop,0.982543,10358,10370
+Pulses,crop,0.803566,12976,12982
+Arhar,crop,0.872746,13594,13599
+Urdbean,crop,0.901903,14212,14219
+Moongbean,crop,0.926368,14830,14839
+Kulthi,crop,0.875064,15448,15454
+Mothbean,crop,0.768427,16066,16074
+Other pulses,crop,0.70606,16684,16696
+Shri Anna,crop,0.609379,17302,17311
+Coarse cereals,crop,0.657466,17316,17330
+Jowar,crop,0.813206,17920,17925
+Bajra,crop,0.885096,18538,18543
+Ragi,crop,0.767051,19156,19160
+Small millets,crop,0.803404,19774,19787
+Maize,crop,0.945832,20392,20397
+Oilseeds,crop,0.866547,21010,21018
+Groundnut,crop,0.876445,21628,21637
+Soybean,crop,0.952086,22246,22253
+Sunflower,crop,0.957042,22864,22873
+Sesamum,crop,0.867703,23482,23489
+Niger,crop,0.893808,24100,24105
+Castor,crop,0.923607,24718,24724
+Other Oilseeds,crop,0.612441,25336,25350
+Sugarcane,crop,0.96482,25954,25963
+Jute & Mesta,crop,0.880501,26572,26584
+Cotton,crop,0.961884,27190,27196
+Rajasthan,state,0.974049,30001,30010
+Gujarat,state,0.966492,30013,30020
+Madhya  Pradesh,state,0.977942,30023,30038
+Maharashtra,state,0.951295,30041,30052
+Telangana,state,0.967936,30055,30064
+Northern  and Central Karnataka,state,0.662658,30067,30098

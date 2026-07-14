@@ -1,0 +1,25 @@
+
+GLiNER extraction completed
+Total entities: 91
+Entities grouped by label:
+  crop: 36
+  crop variety: 0
+  growth stage: 0
+  disease: 0
+  pest: 2
+  insect: 0
+  state: 39
+  district: 0
+  rainfall: 5
+  temperature: 9
+  irrigation: 0
+  fertilizer: 0
+  nutrient: 0
+  weather parameter: 0
+Unique entity values:
+  crop: Arhar, Bajra, Castor, Coarse cereals, Cotton, Groundnut, Jowar, Jute & Mesta, Kharif crops, Kulthi, Maize, Moongbean, Mothbean, Niger, Oilseeds, Other Oilseeds, Other pulses, Paddy, Pulses, Ragi, Sesamum, Shri Anna, Small millets, Soybean, Sugarcane, Sunflower, Urdbean, Wheat
+  pest: Pests, pests
+  state: Andhra Pradesh, Arunachal  Pradesh, Arunachal Pradesh, Bihar, Chhattisgarh, Gujarat, Himachal Pradesh, J&amp;K, Jharkhand, Karnataka, Kerala, Konkan-Goa, Madhya  Pradesh, Madhya Maharashtra, Madhya Pradesh, Maharashtra, Marathwada, Meghalaya, Nagaland, Northern  and Central Karnataka, Odisha, Punjab, Rajasthan, Tamil Nadu, Telangana, Uttar Pradesh, Uttarakhand
+  rainfall: All-India  cumulative  rainfall, rainfall, Rainfall
+  temperature: maximum  temperatures, Maximum temperature, maximum temperature, maximum temperatures, Maximum temperatures, Temperature
+Output directory: C:\Web scraping\Webscraping_Methods\gliner_output
