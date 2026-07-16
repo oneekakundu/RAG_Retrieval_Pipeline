@@ -1,20 +1,0 @@
-C:\Web scraping\venv\Lib\site-packages\huggingface_hub\utils\_validators.py:189: UserWarning: The `resume_download` argument is deprecated and ignored in `snapshot_download`. Downloads always resume whenever possible.
-  warnings.warn(
-Fetching 5 files:   0%|          | 0/5 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-C:\Web scraping\venv\Lib\site-packages\huggingface_hub\file_download.py:139: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\Abhi Olina Oneeka\.cache\huggingface\hub\models--urchade--gliner_medium-v2.1. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
-To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
-  warnings.warn(message)
-Fetching 5 files:  20%|##        | 1/5 [00:00<00:01,  3.39it/s]Fetching 5 files:  80%|########  | 4/5 [07:14<01:57, 117.44s/it]Fetching 5 files: 100%|##########| 5/5 [08:06<00:00, 99.21s/it] Fetching 5 files: 100%|##########| 5/5 [08:06<00:00, 97.32s/it]
-C:\Web scraping\venv\Lib\site-packages\huggingface_hub\file_download.py:139: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\Abhi Olina Oneeka\.cache\huggingface\hub\models--microsoft--deberta-v3-base. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
-To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
-  warnings.warn(message)
-C:\Web scraping\venv\Lib\site-packages\gliner\data_processing\processor.py:417: UserWarning: Sentence of length 681 has been truncated to 384
-  batch = [self.preprocess_example(b["tokenized_text"], b[key], class_to_ids) for b in batch_list]
-C:\Web scraping\venv\Lib\site-packages\gliner\data_processing\processor.py:417: UserWarning: Sentence of length 629 has been truncated to 384
-  batch = [self.preprocess_example(b["tokenized_text"], b[key], class_to_ids) for b in batch_list]
-C:\Web scraping\venv\Lib\site-packages\gliner\data_processing\processor.py:417: UserWarning: Sentence of length 689 has been truncated to 384
-  batch = [self.preprocess_example(b["tokenized_text"], b[key], class_to_ids) for b in batch_list]
-C:\Web scraping\venv\Lib\site-packages\gliner\data_processing\processor.py:417: UserWarning: Sentence of length 832 has been truncated to 384
-  batch = [self.preprocess_example(b["tokenized_text"], b[key], class_to_ids) for b in batch_list]
-C:\Web scraping\venv\Lib\site-packages\gliner\data_processing\processor.py:417: UserWarning: Sentence of length 486 has been truncated to 384
-  batch = [self.preprocess_example(b["tokenized_text"], b[key], class_to_ids) for b in batch_list]

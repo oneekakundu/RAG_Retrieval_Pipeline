@@ -1,20 +1,0 @@
-[32m[INFO] 2026-07-14 09:35:02,826 [RapidOCR] base.py:23: Using engine_name: onnxruntime[0m
-[32m[INFO] 2026-07-14 09:35:03,021 [RapidOCR] download_file.py:60: File exists and is valid: C:\Web scraping\venv\Lib\site-packages\rapidocr\models\PP-OCRv6_det_small.onnx[0m
-[32m[INFO] 2026-07-14 09:35:03,025 [RapidOCR] main.py:63: Using C:\Web scraping\venv\Lib\site-packages\rapidocr\models\PP-OCRv6_det_small.onnx[0m
-[32m[INFO] 2026-07-14 09:35:03,161 [RapidOCR] base.py:23: Using engine_name: onnxruntime[0m
-[32m[INFO] 2026-07-14 09:35:03,167 [RapidOCR] download_file.py:60: File exists and is valid: C:\Web scraping\venv\Lib\site-packages\rapidocr\models\ch_ppocr_mobile_v2.0_cls_mobile.onnx[0m
-[32m[INFO] 2026-07-14 09:35:03,176 [RapidOCR] main.py:63: Using C:\Web scraping\venv\Lib\site-packages\rapidocr\models\ch_ppocr_mobile_v2.0_cls_mobile.onnx[0m
-[32m[INFO] 2026-07-14 09:35:03,276 [RapidOCR] base.py:23: Using engine_name: onnxruntime[0m
-[32m[INFO] 2026-07-14 09:35:03,497 [RapidOCR] download_file.py:60: File exists and is valid: C:\Web scraping\venv\Lib\site-packages\rapidocr\models\PP-OCRv6_rec_small.onnx[0m
-[32m[INFO] 2026-07-14 09:35:03,498 [RapidOCR] main.py:63: Using C:\Web scraping\venv\Lib\site-packages\rapidocr\models\PP-OCRv6_rec_small.onnx[0m
-Loading weights:   0%|          | 0/770 [00:00<?, ?it/s]Loading weights:  36%|###5      | 274/770 [00:00<00:00, 2501.04it/s]Loading weights:  68%|######8   | 525/770 [00:00<00:00, 1871.93it/s]Loading weights: 100%|##########| 770/770 [00:00<00:00, 2140.99it/s]
-C:\Web scraping\venv\Lib\site-packages\huggingface_hub\file_download.py:139: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\Abhi Olina Oneeka\.cache\huggingface\hub\models--docling-project--docling-models. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
-To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
-  warnings.warn(message)
-Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-Stage preprocess failed for run 1, pages [11]: std::bad_alloc
-Stage preprocess failed for run 1, pages [12]: std::bad_alloc
-Stage preprocess failed for run 1, pages [13]: std::bad_alloc
-Stage preprocess failed for run 1, pages [14]: std::bad_alloc
-[33m[WARNING] 2026-07-14 09:37:08,980 [RapidOCR] main.py:132: The text detection result is empty[0m
-RapidOCR returned empty result!
