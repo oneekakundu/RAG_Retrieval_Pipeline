@@ -1,0 +1,30 @@
+{
+  "crop": "Rice",
+  "state": "Telangana",
+  "week": "2026-04-20",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Rice in Telangana has 25% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Rice in Telangana has 25% harvested.",
+    "evidence": "Rice in Telangana has 25% harvested."
+  },
+  "pests": [
+    {
+      "value": "Rice In Telangana Has 25% Harvested",
+      "evidence": "Rice in Telangana has 25% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Rice in Telangana has 25% harvested."
+  ],
+  "confidence": 0.9
+}

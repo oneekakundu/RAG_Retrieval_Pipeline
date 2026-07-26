@@ -1,0 +1,24 @@
+{
+  "crop": "Maize",
+  "state": "Maharashtra",
+  "week": "2025-09-22",
+  "observation_type": "Area Coverage",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [
+    {
+      "value": "- Soybean : About 120.44 lakh ha (94.7% of Normal) area coverage under Soyabean has been reported  as  compared  to  126.26  lakh  ha  during  the  corresponding  period  of  last  year. Soyabean area diverted in Maize in MP and Maharashtra.",
+      "evidence": "- Soybean : About 120.44 lakh ha (94.7% of Normal) area coverage under Soyabean has been reported  as  compared  to  126.26  lakh  ha  during  the  corresponding  period  of  last  year. Soyabean area diverted in Maize in MP and Maharashtra."
+    }
+  ],
+  "evidence": [
+    "- Soybean : About 120.44 lakh ha (94.7% of Normal) area coverage under Soyabean has been reported  as  compared  to  126.26  lakh  ha  during  the  corresponding  period  of  last  year. Soyabean area diverted in Maize in MP and Maharashtra."
+  ],
+  "confidence": 0.7
+}

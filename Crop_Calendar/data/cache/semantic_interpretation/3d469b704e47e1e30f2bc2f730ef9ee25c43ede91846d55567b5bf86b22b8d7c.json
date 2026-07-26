@@ -1,0 +1,30 @@
+{
+  "crop": "Lentil (Masur)",
+  "state": "Jharkhand",
+  "week": "2026-04-06",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Lentil (Masur) in Jharkhand has 60% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Lentil (Masur) in Jharkhand has 60% harvested.",
+    "evidence": "Lentil (Masur) in Jharkhand has 60% harvested."
+  },
+  "pests": [
+    {
+      "value": "Lentil (Masur) In Jharkhand Has 60% Harvested",
+      "evidence": "Lentil (Masur) in Jharkhand has 60% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Lentil (Masur) in Jharkhand has 60% harvested."
+  ],
+  "confidence": 0.9
+}

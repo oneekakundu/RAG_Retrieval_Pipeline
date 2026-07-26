@@ -1,0 +1,181 @@
+{
+  "crop": "Cotton",
+  "year": "2026",
+  "metadata": {
+    "generated_at": "2026-07-26T23:23:54.923640",
+    "total_observations": 6,
+    "pipeline_version": "2.1"
+  },
+  "statistics": {
+    "states_observed": [
+      "All India",
+      "Odisha",
+      "Punjab"
+    ],
+    "growth_stages": [
+      "Sowing"
+    ],
+    "common_pests": [],
+    "common_diseases": [],
+    "first_appearance": "2026-06-01",
+    "latest_appearance": "2026-07-13"
+  },
+  "observations": [
+    {
+      "id": 1092,
+      "date": "2026-07-13",
+      "report_week": "2026-07-13",
+      "state": "All India",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": " Sugarcane : About 57.58 lakh ha area coverage (106% of Normal area) has been reported compared to 56.72 lakh ha during the corresponding period of last year.\n-\nCotton : About 79.54 lakh ha area coverage has been reported compared to 93.95 lakh ha during the corresponding period of last year.\n-\nJute : About 6.28 lakh ha area coverage has been reported compared to 6.16 lakh ha during the corresponding period of last year. Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- S. No. Normal Area (2020-21 to 2024- 25) Final Area Coverage 2025 Area covered as on date Area covered as on date Increase(+)/ Decrease(-) over 2025 S. No. Normal Area (2020-21 to 2024- 25) Final Area Coverage 2025 2026 2025 Increase(+)/ Decrease(-) over 2025 1 Rice 412.00 446.70 114.69 125.53 10.84 2 Pulses 123.64 118.97 56.63 73.85 17.22 a Arhar 44.32 44.60 19.54 28.03 8.49 b Urdbean 29.60 21.26 9.34 13.29 3.95 c Moongbean 35.48 37.45 21.52 24.08 2.56 d Kulthi 1.48 0.14 0.13 0.01 e Mothbean 9.69 4.40 6.12 1.72 f Other pulses* 3.07 15.66 1.69 2.20 0.52 3 Shri Anna cum Coarse cereals 182.63 192.12 98.69 127.30 28.61 a Jowar 14.44 12.10 6.88 9.01 2.13 b Bajra** 70.94 63.80 33.76 45.98 12.22 c Ragi 12.01 13.46 0.93 1.11 0.18 d Small millets 4.47 4.15 1.16 1.64 0.48 e Maize 80.77 98.61 55.97 69.56 13.59 4 Oilseeds 200.08 196.38 117.83 149.18 31.34 a Groundnut 46.79 50.29 23.40 35.45 12.05 b Soybean 128.71 123.86 90.51 107.72 17.21 c Sunflower 1.20 0.88 0.86 0.53 0.33 d Sesamum** 12.88 9.63 2.79 5.17 2.38 e Niger 1.01 0.83 0.06 0.01 0.05 f Castor 9.49 10.89 0.14 0.24 0.10 g Other Oilseeds 0.00 0.07 0.05 0.03 5 Sugarcane 54.20 58.84 57.58 56.72 0.86 6 Jute & Mesta 6.40 6.06 6.28 6.16 0.12 7 Cotton 125.51 115.20 79.54 93.95 14.41 Total Total 1104.46 1134.27 531.25 632.69 101.44",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 13.07.2026.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.7,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 1093,
+      "date": "2026-07-13",
+      "report_week": "2026-07-13",
+      "state": "Odisha",
+      "district": "State-wide",
+      "growth_stage": "Sowing",
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha) Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha) Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha) Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha) Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha) Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha) Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha) ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ 1 Andhra Pradesh 5.38 4.99 2.401 1.625 0.78 2 Telangana 19.70 21.04 15.962 13.997 1.96 3 Gujarat 24.19 21.00 9.319 17.106 7.79 4 Haryana 5.85 4.00 3.107 4.010 0.90 5 Karnataka 7.73 8.00 6.080 6.670 0.59 6 Madhya Pradesh 5.82 5.68 5.406 5.460 0.05 7 Maharashtra 42.99 38.75 30.072 35.464 5.39 8 Odisha 2.07 2.43 0.943 1.601 0.66 9 Punjab 2.25 1.25 0.851 1.279 0.43 10 Rajasthan 8.02 7.20 5.153 6.437 1.28 11 Tamil Nadu 1.33 1.47 0.040 0.040 0.00 12 Others 0.18 0.31 0.210 0.260 0.05 All India All India 125.51 116.12 79.545 93.950 14.41",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 13.07.2026.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 933,
+      "date": "2026-07-06",
+      "report_week": "2026-07-06",
+      "state": "Odisha",
+      "district": "State-wide",
+      "growth_stage": "Sowing",
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha) Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha) Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha) Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha) Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha) Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha) Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha) ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ 1 Andhra Pradesh 5.38 4.99 1.86 0.72 0.03 2 Telangana 19.70 21.04 12.27 12.28 0.00 3 Gujarat 24.19 21.00 9.32 17.11 0.55 4 Haryana 5.85 4.00 3.11 3.92 0.05 5 Karnataka 7.73 8.00 5.46 6.12 0.03 6 Madhya Pradesh 5.82 5.68 4.19 4.26 0.00 7 Maharashtra 42.99 38.75 20.61 32.93 0.12 8 Odisha 2.07 2.43 0.38 1.22 0.84 9 Punjab 2.25 1.25 0.79 1.19 0.00 10 Rajasthan 8.02 7.20 4.94 6.02 0.09 11 Tamil Nadu 1.33 1.47 0.04 0.04 0.00 12 Others 0.18 0.31 0.21 0.26 0.05 All India All India 125.51 116.12 63.18 82.00 22.88",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 06.07.2026.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 1377,
+      "date": "2026-06-29",
+      "report_week": "2026-06-29",
+      "state": "Punjab",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": " Sugarcane : About 57.31 lakh ha area coverage (106% of Normal area) has been reported compared to 56.64 lakh ha during the corresponding period of last year.\n-\nCotton : About 29.66 lakh ha area coverage has been reported compared to 45.36 lakh ha during the corresponding period of last year.\n-\nJute : About 6.25 lakh ha area coverage has been reported compared to 6.13 lakh ha during the corresponding period of last year. Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- S. Normal Area (2020-21 to 2024- 25) Final Area Coverage 2025 Area covered as on date Area covered as on date Increase(+)/ Decrease(-) over 2025 No. Crop 2026 2025 1 Rice 412.00 446.70 25.75 34.41 8.65 2 Pulses 123.64 118.97 14.92 21.46 6.53 a Arhar 44.32 44.60 3.56 8.45 4.89 b Urdbean 29.60 21.26 1.07 2.51 1.44 c Moongbean 35.48 37.45 8.37 8.63 0.26 d Kulthi 1.48 0.13 0.10 0.03 e Mothbean 9.69 0.82 0.56 0.26 f Other pulses* 3.07 15.66 0.98 1.21 0.23 3 Shri Anna cum Coarse cereals 182.63 192.12 31.84 36.07 4.23 a Jowar 14.44 12.10 3.38 2.70 0.68 b Bajra** 70.94 63.80 11.34 13.06 1.72 c Ragi 12.01 13.46 0.66 0.73 0.07 d Small millets 4.47 4.15 0.75 0.97 0.22 e Maize 80.77 98.61 15.71 18.61 2.90 4 Oilseeds 200.08 196.38 16.99 36.41 19.42 a Groundnut 46.79 50.29 8.87 15.29 6.42 b Soybean 128.71 123.86 6.92 19.97 13.05 c Sunflower 1.20 0.88 0.73 0.44 0.29 d Sesamum** 12.88 9.63 0.36 0.63 0.27 e Niger 1.01 0.83 0.02 0.00 0.02 f Castor 9.49 10.89 0.04 0.03 0.01 g Other Oilseeds 0.00 0.04 0.04 0.00 5 Sugarcane 54.20 58.84 57.31 56.64 0.67 6 Jute & Mesta 6.40 6.06 6.25 6.13 0.12 7 Cotton 125.51 115.20 29.66 45.36 15.70 Total Total 1104.46 1134.27 182.72 236.46 53.74",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 29.06.2026.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.7,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 943,
+      "date": "2026-06-08",
+      "report_week": "2026-06-08",
+      "state": "Odisha",
+      "district": "State-wide",
+      "growth_stage": "Sowing",
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": " Sugarcane: About 54.08 lakh ha area coverage under Sugarcane has been reported, which is the same as the area reported during the corresponding period of last year (54.08 lakh ha).\n-\nCotton: About 7.51 lakh ha area coverage has been reported compared to 9.72 lakh ha during the corresponding period of last year.\n-\nJute : About 6.18 lakh ha area coverage has been reported compared to 6.08 lakh ha during the corresponding period of last year. Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- S. Normal Area (2020-21 to Final Area Coverage 2025 Area Sown Area Sown Increase(+)/ Decrease(-) over 2025 No. Crop 2024-25) 2026 2025 1 Rice 412.00 446.70 2.85 2.65 0.20 2 Pulses 123.64 118.97 0.52 0.35 0.17 a Arhar 44.32 44.60 0.05 0.03 0.02 b Urdbean 29.60 21.26 0.10 0.06 0.04 c Moongbean 35.48 37.45 0.15 0.17 0.01 d Kulthi 1.48 0.04 0.06 0.02 e Mothbean 9.69 0.00 0.00 0.00 f Other pulses* 3.07 15.66 0.18 0.04 0.14 3 Shri Anna cum Coarse cereals 182.63 192.12 1.01 1.22 0.21 a Jowar 14.44 12.10 0.03 0.26 0.23 b Bajra** 70.94 63.80 0.02 0.01 0.01 c Ragi 12.01 13.46 0.30 0.29 0.01 d Small millets 4.47 4.15 0.28 0.39 0.11 e Maize 80.77 98.61 0.38 0.27 0.11 4 Oilseeds 200.08 196.38 0.42 0.52 0.10 a Groundnut 46.79 50.29 0.05 0.09 0.04 b Soybean 128.71 123.86 0.19 0.17 0.02 c Sunflower 1.20 0.88 0.11 0.13 0.02 d Sesamum** 12.88 9.63 0.04 0.10 0.06 e Niger 1.01 0.83 0.00 0.00 0.00 f Castor 9.49 10.89 0.00 0.00 0.00 g Other Oilseeds 0.00 0.03 0.03 0.00 5 Sugarcane 54.20 58.84 54.08 54.08 0.00 6 Jute & Mesta 6.40 6.06 6.18 6.08 0.10 7 Cotton 125.51 115.20 7.51 9.72 2.20 Total Total 1104.46 1134.27 72.57 74.61 2.04",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 08.06.2026.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 746,
+      "date": "2026-06-01",
+      "report_week": "2026-06-01",
+      "state": "All India",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "c) Fertilizers: The fertilizer supply remains stable across all products.\n4. Pests &amp; Diseases : The overall incidence of pests and diseases remained below the Economic Threshold Level. The monitoring of Cotton crop for Pink Ball Worm is progressing as per the protocol.",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    }
+  ]
+}

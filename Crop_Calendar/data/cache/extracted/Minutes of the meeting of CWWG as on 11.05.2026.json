@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-21T22:08:52.347461"
+  },
+  "data": [
+    {
+      "crop": "Wheat",
+      "state": "Punjab",
+      "growth_stage": "Harvesting",
+      "pest_or_disease": "Area in lakh ha.)\n| s. no.   | crop                       |   normal area (des) |   area 2025- 26 (as per 2nd ae) |   % area harvested | crop condition/remark                                                                                                                                   |\n|----------|----------------------------|---------------------|---------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|\n| 1        | wheat                      |              312.35 |                          334.17 |              98.00 | 100% harvested in all states except up (98%), punjab (98",
+      "weather_condition": null,
+      "advisory": null,
+      "report_week": "2026-05-11",
+      "district": "State-wide",
+      "source_pdf": "Minutes of the meeting of CWWG as on 11.05.2026.pdf",
+      "page_number": 1,
+      "raw_text": "(Area in lakh ha.)\n| S. No.   | Crop                       |   Normal Area (DES) |   Area 2025- 26 (As per 2nd AE) |   % Area Harvested | Crop condition/Remark                                                                                                                                   |\n|----------|----------------------------|---------------------|---------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|\n| 1        | Wheat                      |              312.35 |                          334.17 |              98.00 | 100% harvested in all states except UP (98%), Punjab (98%),                                                                                             |"
+    },
+    {
+      "crop": "Rice",
+      "state": "Kerala",
+      "growth_stage": "Harvesting",
+      "pest_or_disease": "2        | rice *                     |               42.93 |                           45.00 |              65.70 | tamil nadu (89%), kerala (97%), andhra pradesh (70%), telangana (50%) etc has already been harvested",
+      "weather_condition": null,
+      "advisory": null,
+      "report_week": "2026-05-11",
+      "district": "State-wide",
+      "source_pdf": "Minutes of the meeting of CWWG as on 11.05.2026.pdf",
+      "page_number": 1,
+      "raw_text": "| 2        | Rice *                     |               42.93 |                           45.00 |              65.70 | Tamil Nadu (89%), Kerala (97%), Andhra Pradesh (70%), Telangana (50%) etc has already been harvested.                                                   |"
+    },
+    {
+      "crop": "Sorghum (Jowar)",
+      "state": "Maharashtra",
+      "growth_stage": "Harvesting",
+      "pest_or_disease": "A        | jowar *                    |               24.62 |                           23.13 |              99.66 | 100% harvested in gujarat, maharashtra , karnataka &tamil nadu. , telangana (98%), ap (96%), etc has already been harvested",
+      "weather_condition": null,
+      "advisory": null,
+      "report_week": "2026-05-11",
+      "district": "State-wide",
+      "source_pdf": "Minutes of the meeting of CWWG as on 11.05.2026.pdf",
+      "page_number": 1,
+      "raw_text": "| a        | Jowar *                    |               24.62 |                           23.13 |              99.66 | 100% Harvested in Gujarat, Maharashtra , Karnataka &Tamil Nadu. , Telangana (98%), AP (96%), etc has already been harvested.                            |"
+    },
+    {
+      "crop": "Maize",
+      "state": "Madhya Pradesh",
+      "growth_stage": "Harvesting",
+      "pest_or_disease": "B        | maize *                    |               23.61 |                           29.16 |              96.34 | 100% harvested in gujarat, maharashtra, tamil nadu, karnataka % uttar pradesh. ap (85%), bihar (95%),chhattisgarh (95%) etc has already been harvested. |\n| c        | barley                     |                5.63 |                            7.38 |              99.63 | 100% harvested in bihar, haryana, madhya pradesh, maharashtra, rajasthan &chhattisgarh. punjab (97%), up (95%) etc has already been harvested",
+      "weather_condition": null,
+      "advisory": null,
+      "report_week": "2026-05-11",
+      "district": "State-wide",
+      "source_pdf": "Minutes of the meeting of CWWG as on 11.05.2026.pdf",
+      "page_number": 1,
+      "raw_text": "| b        | Maize *                    |               23.61 |                           29.16 |              96.34 | 100% Harvested in Gujarat, Maharashtra, Tamil Nadu, Karnataka % Uttar Pradesh. AP (85%), Bihar (95%),Chhattisgarh (95%) etc has already been harvested. |\n| c        | Barley                     |                5.63 |                            7.38 |              99.63 | 100% harvested in Bihar, Haryana, Madhya Pradesh, Maharashtra, Rajasthan &Chhattisgarh. Punjab (97%), UP (95%) etc has already been harvested.          |"
+    },
+    {
+      "crop": "Groundnut",
+      "state": "Kerala",
+      "growth_stage": "Harvesting",
+      "pest_or_disease": "B        | groundnut *                |                3.69 |                            3.52 |              98.00 | 100% harvested in bihar &andhra pradesh, kerala, karnataka, odisha, telangana& west bengal. tamil nadu (90%) has already been                           |\n|    |                |        |        |        | harvested.                                            |\n|----|----------------|--------|--------|--------|-------------------------------------------------------|\n| c  | safflower      |   0.72 |   0.89 | 100.00 | 100% harvested in all states except telangana (80",
+      "weather_condition": null,
+      "advisory": null,
+      "report_week": "2026-05-11",
+      "district": "State-wide",
+      "source_pdf": "Minutes of the meeting of CWWG as on 11.05.2026.pdf",
+      "page_number": 1,
+      "raw_text": "| b        | Groundnut *                |                3.69 |                            3.52 |              98.00 | 100% harvested in Bihar &Andhra Pradesh, Kerala, Karnataka, Odisha, Telangana& West Bengal. Tamil Nadu (90%) has already been                           |\n|    |                |        |        |        | harvested.                                            |\n|----|----------------|--------|--------|--------|-------------------------------------------------------|\n| c  | Safflower      |   0.72 |   0.89 | 100.00 | 100% harvested in all states except Telangana (80%).  |"
+    },
+    {
+      "crop": "Sesame (Sesamum)",
+      "state": "Tamil Nadu",
+      "growth_stage": "Harvesting",
+      "pest_or_disease": "E  | sesamum *      |   0.48 |   0.33 |  93.68 | 100% harvested in all states except tamil nadu (62%). |\n| f  | linseed        |   1.93 |   1.99 | 100.00 | 100% harvested in all states",
+      "weather_condition": null,
+      "advisory": null,
+      "report_week": "2026-05-11",
+      "district": "State-wide",
+      "source_pdf": "Minutes of the meeting of CWWG as on 11.05.2026.pdf",
+      "page_number": 1,
+      "raw_text": "| e  | Sesamum *      |   0.48 |   0.33 |  93.68 | 100% harvested in all states except Tamil Nadu (62%). |\n| f  | Linseed        |   1.93 |   1.99 | 100.00 | 100% harvested in all states.                         |"
+    }
+  ]
+}

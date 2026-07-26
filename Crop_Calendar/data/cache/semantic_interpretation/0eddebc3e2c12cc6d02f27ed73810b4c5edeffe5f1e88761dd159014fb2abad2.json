@@ -1,0 +1,24 @@
+{
+  "crop": "Maize",
+  "state": "All India",
+  "week": "2025-09-15",
+  "observation_type": "Area Coverage",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [
+    {
+      "value": "Rice :  About  438.51  lakh  ha  (108.0%  of  Normal)  area  coverage  under  Kharif  Rice  as compared to 430.06 lakh ha during the corresponding period of last year.\n- Maize :  About  94.84  lakh  ha  (120.1%  of  Normal)  area  coverage  under  Maize  has  been reported as compared to 84.30 lakh ha during the corresponding period of last year.\n- Moong : About 34.54 lakh ha (96.8% of Normal) area coverage under Moong as compared to 34.86 lakh ha during the corresponding period of last year.",
+      "evidence": "Rice :  About  438.51  lakh  ha  (108.0%  of  Normal)  area  coverage  under  Kharif  Rice  as compared to 430.06 lakh ha during the corresponding period of last year.\n- Maize :  About  94.84  lakh  ha  (120.1%  of  Normal)  area  coverage  under  Maize  has  been reported as compared to 84.30 lakh ha during the corresponding period of last year.\n- Moong : About 34.54 lakh ha (96.8% of Normal) area coverage under Moong as compared to 34.86 lakh ha during the corresponding period of last year."
+    }
+  ],
+  "evidence": [
+    "Rice :  About  438.51  lakh  ha  (108.0%  of  Normal)  area  coverage  under  Kharif  Rice  as compared to 430.06 lakh ha during the corresponding period of last year.\n- Maize :  About  94.84  lakh  ha  (120.1%  of  Normal)  area  coverage  under  Maize  has  been reported as compared to 84.30 lakh ha during the corresponding period of last year.\n- Moong : About 34.54 lakh ha (96.8% of Normal) area coverage under Moong as compared to 34.86 lakh ha during the corresponding period of last year."
+  ],
+  "confidence": 0.7
+}

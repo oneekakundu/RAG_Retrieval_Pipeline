@@ -1,0 +1,274 @@
+================================================================================
+          INDIA CROP CALENDAR & MASTER KNOWLEDGE BASE MODULE EXPLANATION
+================================================================================
+
+1. CROP KNOWLEDGE BASE PIPELINE OVERVIEW
+--------------------------------------------------------------------------------
+This module extracts structured agricultural intelligence from weekly Crop Weather 
+Watch Group (CWWG) meeting minutes published by the Ministry of Agriculture & 
+Farmers Welfare, Government of India.
+
+Primary Objectives:
+1. Construct a comprehensive, continuously growing Master Crop Knowledge Base from 
+   weekly CWWG reports.
+2. Parse every extracted observation into a canonical `CropObservation` object 
+   capturing rich agricultural fields alongside complete sentence evidence provenance.
+3. Treat SQLite (`crop_calendar.db`) as the Single Source of Truth for storage, 
+   indexing, querying, and 4-tuple deduplication.
+4. Export structured, year-partitioned Crop Knowledge Views 
+   (`data/crop_knowledge/<CropName>/<Year>.json`) with pre-computed statistics.
+
+
+2. KEY DESIGN DECISIONS
+--------------------------------------------------------------------------------
+A. SQLite as the Master Operational Datastore:
+   SQLite serves as the Single Source of Truth for the pipeline. It handles 
+   relational indexing, transaction safety, fast multi-attribute filtering, and 
+   strict deduplication. Crop-wise JSON files are derived views exported from 
+   SQLite, maintaining a clean one-way data flow (PDF → SQLite → JSON Views).
+
+B. Canonical `CropObservation` Schema:
+   All extracted data passes through a single, unified `CropObservation` object 
+   before validation and storage. This canonical model captures:
+   - Core Entities: `crop`, `state`, `district`, `report_date`, `report_week`
+   - Operations & Stages: `growth_stage`, `crop_operation`
+   - Protection & Health: `pest`, `disease`, `pest_or_disease`, `severity`
+   - Impacts & Management: `affected_area`, `recommendation`/`advisory`, `irrigation`, `nutrient_management`, `expected_impact`
+   - Provenance: `evidence` (exact sentence text), `source_pdf`, `page_number`, `section_heading`, `confidence`, `source_method`
+
+C. Year-Partitioned Crop Knowledge Views:
+   Instead of accumulating observations into a single unpartitioned JSON file that 
+   becomes unwieldy over time, knowledge files are partitioned by crop and year 
+   (`data/crop_knowledge/Rice/2026.json`). Each file contains metadata, 
+   pre-aggregated statistics, and structured event records.
+
+D. Strict 4-Tuple Deduplication:
+   Duplicate records are detected using `(report_date, crop, state, evidence_text)`. 
+   If an observation with matching signature exists in SQLite, insertion is skipped.
+
+E. Docling for Structural Layout Retention:
+   Docling parses PDF layouts into structured Markdown and JSON trees, preserving 
+   headings, table structures, and page references needed for evidence tracking.
+
+F. Rule-Based Primary Engine with LLM Fallback:
+   Deterministic rule parsing handles standard CWWG formatting fast and cost-free. 
+   An LLM (Gemini, OpenAI, or Claude) is triggered only when text is ambiguous.
+
+
+3. ARCHITECTURE & ONE-WAY DATA FLOW DIAGRAMS
+--------------------------------------------------------------------------------
+
+A. Module Architecture Diagram:
+
+                        ┌───────────────────────────────┐
+                        │      Streamlit Web Portal     │
+                        │     (streamlit/app.py)        │
+                        └───────────────┬───────────────┘
+                                        │
+                                        ▼
+                        ┌───────────────────────────────┐
+                        │        Pipeline Manager       │
+                        │    (pipeline_manager.py)      │
+                        └───────────────┬───────────────┘
+                                        │
+      ┌─────────────────────────────────┼─────────────────────────────────┐
+      │                                 │                                 │
+      ▼                                 ▼                                 ▼
+┌──────────────┐              ┌──────────────────┐              ┌──────────────────┐
+│Docling Parser│              │ Section Detector │              │  Cache Manager   │
+│(Docling API) │              │(section_detector)│              │(SHA256 Registry) │
+└──────┬───────┘              └────────┬─────────┘              └────────┬─────────┘
+       │                               │                                 │
+       └───────────────────────┬───────┴─────────────────────────────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │     Crop Chunker    │
+                    │   (crop_chunker.py) │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   Context Resolver  │
+                    │(context_resolver.py)│
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Information Extractor│
+                    │ (Deterministic / AI)│
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │  CropObservation    │
+                    │  Canonical Model    │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Validator & Clean   │
+                    │ (Pydantic / CSV Dict)│
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ SQLite Master DB    │
+                    │ (Deduplication & DB)│
+                    └──────────┬──────────┘
+                               │
+            ┌──────────────────┴──────────────────┐
+            ▼                                     ▼
+┌───────────────────────────┐         ┌───────────────────────────┐
+│Master Crop Knowledge Views│         │   Crop Calendar Matrix    │
+│(data/crop_knowledge/...)  │         │   (data/calendar/...)     │
+└───────────────────────────┘         └───────────────────────────┘
+
+B. Text Data Flow Diagram:
+
+   [User / CLI Trigger]
+            │
+            ▼
+   [Check SHA-256 Hash]
+      ├── Already Processed? ──► [Skip or Load Cache]
+      └── New / Modified?    ──► [Read PDF from raw_pdfs/]
+                                       │
+                                       ▼
+                             [Docling PDF Parsing]
+                                       │
+                                       ▼
+                          [Section Noise Detection]
+                           (Remove Mandi & Weather)
+                                       │
+                                       ▼
+                          [Crop Micro-Paragraph Chunker]
+                                       │
+                                       ▼
+                           [Context Resolution]
+                          (Propagate Crop & State tags)
+                                       │
+                                       ▼
+                          [Information Extraction]
+                         ├── Deterministic Rule Engine
+                         └── LLM Fallback (if Ambiguous)
+                                       │
+                                       ▼
+                       [CropObservation Canonical Object]
+                                       │
+                                       ▼
+                       [Pydantic Validation & Normalizer]
+                                       │
+                                       ▼
+                     [SQLite 4-Tuple Deduplication & DB]
+                        (report_date, crop, state, text)
+                                       │
+                                       ▼
+                     [Export Crop Knowledge JSON Views]
+                      (data/crop_knowledge/Rice/2026.json)
+                                       │
+                                       ▼
+                      [Streamlit Dashboard Display]
+
+
+4. FOLDER STRUCTURE & COMPONENT RESPONSIBILITIES
+--------------------------------------------------------------------------------
+- Crop_Calendar/
+  ├── config.py
+  │     Central configuration defining paths (including CROP_KNOWLEDGE_DIR), 
+  │     pipeline versioning, cache settings, and environment constants.
+  │
+  ├── pipeline_manager.py
+  │     Primary orchestrator controlling PDF scanning, SHA-256 validation, 
+  │     multi-stage execution, database insertion, and export triggers.
+  │
+  ├── run_pipeline.py
+  │     Command-line entry point to trigger the pipeline with optional flags.
+  │
+  ├── pipeline.py
+  │     Backward-compatible class wrapper around PipelineManager.
+  │
+  ├── database/
+  │     - sqlite_manager.py: SQLite database interface with 4-tuple deduplication.
+  │     - models.py: Canonical `CropObservation` dataclass model.
+  │     - crop_knowledge_exporter.py: Exporter class generating year-partitioned 
+  │       crop knowledge views (`data/crop_knowledge/<CropName>/<Year>.json`).
+  │     - export.py: DataExporter class triggering CSV/JSON and knowledge base exports.
+  │
+  ├── extractor/
+  │     - docling_parser.py: Docling PDF parser wrapper.
+  │     - section_detector.py: Filters non-crop sections and header/footer noise.
+  │     - crop_chunker.py: Segments text into crop-focused paragraphs.
+  │     - context_resolver.py: Fills in implicit crop and state context.
+  │     - rule_based_extractor.py: Deterministic rule extraction engine.
+  │     - llm_extractor.py: Pluggable AI fallback extractors (Gemini/OpenAI/Claude).
+  │     - normalizer.py: Standardizes entity names via controlled CSV maps.
+  │     - validators.py: Pydantic schema validation (`CropExtractionRecord`).
+  │     - duplicate_detector.py: Computes signature tuples for deduplication.
+  │
+  ├── prompts/
+  │     Template prompt (`extraction_prompt.txt`) used during LLM fallback.
+  │
+  ├── resources/
+  │     Controlled CSV files (`crops.csv`, `states.csv`, `growth_stages.csv`, 
+  │     `pests.csv`, `diseases.csv`) for entity normalization.
+  │
+  ├── streamlit/
+  │     Multi-page Streamlit portal (`app.py`, `Dashboard.py`, `Crop_Calendar.py`, 
+  │     `Evidence.py`, `Analytics.py`).
+  │
+  └── data/
+        Contains raw PDFs, Docling JSON models, cache folders, SQLite DB, 
+        Master Crop Knowledge Base views (`data/crop_knowledge/`), and export directories.
+
+
+5. KNOWLEDGE VIEW STRUCTURE (`data/crop_knowledge/Rice/2026.json`)
+--------------------------------------------------------------------------------
+Each year-partitioned crop knowledge JSON file follows a standardized schema:
+
+{
+  "crop": "Rice",
+  "year": "2026",
+  "metadata": {
+    "generated_at": "2026-07-22T08:16:50",
+    "total_observations": 42,
+    "pipeline_version": "2.1"
+  },
+  "statistics": {
+    "states_observed": ["Kerala", "West Bengal"],
+    "growth_stages": ["Harvesting", "Vegetative"],
+    "common_pests": ["Brown Plant Hopper"],
+    "common_diseases": ["Blast"],
+    "first_appearance": "2026-04-06",
+    "latest_appearance": "2026-06-08"
+  },
+  "observations": [
+    {
+      "id": 465,
+      "date": "2026-05-18",
+      "report_week": "2026-05-18",
+      "state": "Kerala",
+      "district": "State-wide",
+      "growth_stage": "Harvesting",
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "severity": null,
+      "affected_area": null,
+      "recommendation": null,
+      "advisory": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "Tamil Nadu (90%), Kerala (98%), Andhra Pradesh (75%) etc has already been harvested.",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.95,
+        "source_method": "rule_based"
+      }
+    }
+  ]
+}
+================================================================================

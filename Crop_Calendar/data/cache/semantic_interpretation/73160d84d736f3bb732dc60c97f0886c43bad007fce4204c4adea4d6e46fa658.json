@@ -1,0 +1,25 @@
+{
+  "crop": "Sesame (Sesamum)",
+  "state": "Telangana",
+  "week": "2026-05-11",
+  "observation_type": "Harvest Progress",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "| d  | Sunflower *    |   0.79 |   0.70 | 100.00 | 100% harvested in all states.                         |"
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "| d  | Sunflower *    |   0.79 |   0.70 | 100.00 | 100% harvested in all states.                         |",
+    "evidence": "| d  | Sunflower *    |   0.79 |   0.70 | 100.00 | 100% harvested in all states.                         |"
+  },
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "| d  | Sunflower *    |   0.79 |   0.70 | 100.00 | 100% harvested in all states.                         |"
+  ],
+  "confidence": 0.9
+}

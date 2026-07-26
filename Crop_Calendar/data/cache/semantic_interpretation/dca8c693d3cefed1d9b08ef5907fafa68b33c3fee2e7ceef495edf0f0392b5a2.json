@@ -1,0 +1,30 @@
+{
+  "crop": "Sorghum (Jowar)",
+  "state": "Gujarat",
+  "week": "2026-04-20",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Sorghum (Jowar) is 100% harvested in Gujarat."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Sorghum (Jowar) is 100% harvested in Gujarat.",
+    "evidence": "Sorghum (Jowar) is 100% harvested in Gujarat."
+  },
+  "pests": [
+    {
+      "value": "Sorghum (Jowar) Is 100% Harvested In Gujarat",
+      "evidence": "Sorghum (Jowar) is 100% harvested in Gujarat."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Sorghum (Jowar) is 100% harvested in Gujarat."
+  ],
+  "confidence": 0.9
+}

@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Odisha",
+  "week": "2025-12-29",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Dense  Fog  Conditions  Are  Likely  To  Prevail  During  Night-Morning  Hours  At  A  Few  Pockets Across  North  And  Isolated  Over  Adjoin  Central  India,  Isolated  Over  Odisha,  Northeastern States And West Bengal And Sikkim On Some Days Of The Week",
+      "evidence": "Dense  fog  conditions  are  likely  to  prevail  during  night-morning  hours  at  a  few  pockets across  north  and  isolated  over  adjoin  central  India,  isolated  over  Odisha,  Northeastern states and West Bengal and Sikkim on some days of the week."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Dense  fog  conditions  are  likely  to  prevail  during  night-morning  hours  at  a  few  pockets across  north  and  isolated  over  adjoin  central  India,  isolated  over  Odisha,  Northeastern states and West Bengal and Sikkim on some days of the week."
+  ],
+  "confidence": 0.9
+}

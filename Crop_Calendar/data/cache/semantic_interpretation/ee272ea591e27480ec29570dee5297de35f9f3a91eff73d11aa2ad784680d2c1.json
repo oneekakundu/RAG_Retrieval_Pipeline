@@ -1,0 +1,30 @@
+{
+  "crop": "Rice",
+  "state": "Andhra Pradesh",
+  "week": "2026-04-20",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Rice in Andhra Pradesh has 45% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Rice in Andhra Pradesh has 45% harvested.",
+    "evidence": "Rice in Andhra Pradesh has 45% harvested."
+  },
+  "pests": [
+    {
+      "value": "Rice In Andhra Pradesh Has 45% Harvested",
+      "evidence": "Rice in Andhra Pradesh has 45% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Rice in Andhra Pradesh has 45% harvested."
+  ],
+  "confidence": 0.9
+}

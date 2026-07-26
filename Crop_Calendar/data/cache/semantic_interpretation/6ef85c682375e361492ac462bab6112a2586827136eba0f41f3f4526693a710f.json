@@ -1,0 +1,30 @@
+{
+  "crop": "Lentil (Masur)",
+  "state": "Assam",
+  "week": "2026-03-30",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Lentil (Masur) is 100% harvested in Assam."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Lentil (Masur) is 100% harvested in Assam.",
+    "evidence": "Lentil (Masur) is 100% harvested in Assam."
+  },
+  "pests": [
+    {
+      "value": "Lentil (Masur) Is 100% Harvested In Assam",
+      "evidence": "Lentil (Masur) is 100% harvested in Assam."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Lentil (Masur) is 100% harvested in Assam."
+  ],
+  "confidence": 0.9
+}

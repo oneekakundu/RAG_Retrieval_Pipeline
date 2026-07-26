@@ -1,0 +1,30 @@
+{
+  "crop": "Sorghum (Jowar)",
+  "state": "Telangana",
+  "week": "2026-05-04",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Sorghum (Jowar) in Telangana has 89% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Sorghum (Jowar) in Telangana has 89% harvested.",
+    "evidence": "Sorghum (Jowar) in Telangana has 89% harvested."
+  },
+  "pests": [
+    {
+      "value": "Sorghum (Jowar) In Telangana Has 89% Harvested",
+      "evidence": "Sorghum (Jowar) in Telangana has 89% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Sorghum (Jowar) in Telangana has 89% harvested."
+  ],
+  "confidence": 0.9
+}

@@ -1,0 +1,30 @@
+{
+  "crop": "Mustard",
+  "state": "Haryana",
+  "week": "2026-04-06",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Mustard is 100% harvested in Haryana."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Mustard is 100% harvested in Haryana.",
+    "evidence": "Mustard is 100% harvested in Haryana."
+  },
+  "pests": [
+    {
+      "value": "Mustard Is 100% Harvested In Haryana",
+      "evidence": "Mustard is 100% harvested in Haryana."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Mustard is 100% harvested in Haryana."
+  ],
+  "confidence": 0.9
+}

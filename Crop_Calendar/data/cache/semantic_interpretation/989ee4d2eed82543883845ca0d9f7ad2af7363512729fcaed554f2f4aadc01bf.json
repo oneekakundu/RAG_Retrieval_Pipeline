@@ -1,0 +1,30 @@
+{
+  "crop": "Mustard",
+  "state": "Telangana",
+  "week": "2026-03-30",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Mustard is 100% harvested in Telangana."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Mustard is 100% harvested in Telangana.",
+    "evidence": "Mustard is 100% harvested in Telangana."
+  },
+  "pests": [
+    {
+      "value": "Mustard Is 100% Harvested In Telangana",
+      "evidence": "Mustard is 100% harvested in Telangana."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Mustard is 100% harvested in Telangana."
+  ],
+  "confidence": 0.9
+}

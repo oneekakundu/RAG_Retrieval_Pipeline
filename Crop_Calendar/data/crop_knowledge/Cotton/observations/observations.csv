@@ -1,0 +1,830 @@
+Date,Week,Crop,State,Observation Type,Growth Stage,Crop Operation,Sowing Status,Harvest Status,Pest,Disease,Weather,Irrigation,Nutrient Management,Statistics,Evidence,PDF Name,Page,Chunk ID,Confidence,Verification Status,Source Method
+2025-07-21,,Cotton,All India,Area Coverage,,,,,,,,,,"Rice : About 176.68 lakh ha area coverage under Kharif Rice as compared to 157.21 lakh ha during the corresponding period of last year.
+- Soybean : About 111.67 lakh ha area coverage under Soyabean has been reported as compared to 118.96 lakh ha during the corresponding period of last year.
+- Sugarcane : About 55.16 lakh ha area coverage under Sugarcane has been reported as compared to 54.88 lakh ha during the corresponding period of last year.
+- Cotton : About 98.55 lakh ha area coverage has been reported compared to 102.05 lakh ha during the corresponding period of last year;","Rice : About 176.68 lakh ha area coverage under Kharif Rice as compared to 157.21 lakh ha during the corresponding period of last year.
+- Soybean : About 111.67 lakh ha area coverage under Soyabean has been reported as compared to 118.96 lakh ha during the corresponding period of last year.
+- Sugarcane : About 55.16 lakh ha area coverage under Sugarcane has been reported as compared to 54.88 lakh ha during the corresponding period of last year.
+- Cotton : About 98.55 lakh ha area coverage has been reported compared to 102.05 lakh ha during the corresponding period of last year;",Minutes of the meeting of CWWG as on 21.07.2025.pdf,1,Minutes of the meeting of CWWG as on 21.07.2025_p1_c1,0.7,VERIFIED,rule_based
+2025-07-21,,Cotton,All India,Sowing Progress,Sowing,,"|     | Progress of area coverage under Kharif crops as on 18.07.2025   | Progress of area coverage under Kharif crops as on 18.07.2025   | Progress of area coverage under Kharif crops as on 18.07.2025   | Progress of area coverage under Kharif crops as on 18.07.2025   | Progress of area coverage under Kharif crops as on 18.07.2025   |
+|-----|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
+|     |                                                                 |                                                                 |                                                                 | Area: In lakh hectare                                           | Area: In lakh hectare                                           |
+| S.  | Crop                                                            | Normal Area                                                     | Area Sown                                                       | Area Sown                                                       | Increase (+)/                                                   |
+| No. |                                                                 | (DES)                                                           | 2025                                                            | 2024                                                            | Decrease (-) over 2024-25                                       |
+| 1   | Rice                                                            | 403.09                                                          | 176.68                                                          | 157.21                                                          | 19.47                                                           |
+| 2   | Pulses                                                          | 129.61                                                          | 81.98                                                           | 80.13                                                           | 1.84                                                            |
+| A   | Arhar                                                           | 44.71                                                           | 30.09                                                           | 31.70                                                           |
+1.61                                                           |
+| B   | Urdbean                                                         | 32.64                                                           | 14.45                                                           | 16.51                                                           |
+2.06                                                           |
+| C   | Moongbean                                                       | 35.69                                                           | 27.31                                                           | 24.52                                                           | 2.79                                                            |
+| D   | Kulthi                                                          | 1.72                                                            | 0.14                                                            | 0.12                                                            | 0.01                                                            |
+| E   | Mothbean                                                        | 9.70                                                            | 7.56                                                            | 4.95                                                            | 2.61                                                            |
+| F   | Other pulses                                                    | 5.15                                                            | 2.43                                                            | 2.33                                                            | 0.10                                                            |
+| 3   | Shri Anna cum Coarse cereals                                    | 180.71                                                          | 133.65                                                          | 117.66                                                          | 15.99                                                           |
+| A   | Jowar                                                           | 15.07                                                           | 9.99                                                            | 9.81                                                            | 0.18                                                            |
+| B   | Bajra                                                           | 70.69                                                           | 48.94                                                           | 42.09                                                           | 6.85                                                            |
+| C   | Ragi                                                            | 11.52                                                           | 1.42                                                            | 1.70                                                            |
+0.28                                                           |
+| D   | Small millets                                                   | 4.48                                                            | 2.09                                                            | 2.34                                                            |
+0.25                                                           |
+| E   | Maize                                                           | 78.95                                                           | 71.21                                                           | 61.73                                                           | 9.48                                                            |
+| 4   | Oilseeds                                                        | 194.63                                                          | 156.76                                                          | 162.80                                                          |
+6.04                                                           |
+| A   | Groundnut                                                       | 45.10                                                           | 38.01                                                           | 37.16                                                           | 0.86                                                            |
+| B   | Soybean                                                         | 127.19                                                          | 111.67                                                          | 118.96                                                          |
+7.29                                                           |
+| C   | Sunflower                                                       | 1.29                                                            | 0.54                                                            | 0.55                                                            |
+0.02                                                           |
+| D   | Sesamum                                                         | 10.32                                                           | 6.04                                                            | 5.58                                                            | 0.46                                                            |
+| E   | Niger                                                           | 1.08                                                            | 0.02                                                            | 0.22                                                            |
+0.20                                                           |
+| F   | Castor                                                          | 9.65                                                            | 0.43                                                            | 0.28                                                            | 0.15                                                            |
+| G   | Other Oilseeds                                                  | 0.00                                                            | 0.05                                                            | 0.05                                                            | 0.00                                                            |
+| 5   | Sugarcane                                                       | 52.51                                                           | 55.16                                                           | 54.88                                                           | 0.29                                                            |
+| 6   | Jute & Mesta                                                    | 6.60                                                            | 5.53                                                            | 5.65                                                            |
+0.12                                                           |
+| 7   | Cotton                                                          | 129.50                                                          | 98.55                                                           | 102.05                                                          |
+3.49                                                           |
+|     | Total                                                           | 1096.65                                                         | 708.31                                                          | 680.38                                                          | 27.93                                                           |",,,,,,,,Progress of area coverage under Kharif crops as on 18.07.2025 Progress of area coverage under Kharif crops as on 18.07.2025 Progress of area coverage under Kharif crops as on 18.07.2025 Progress of area coverage under Kharif crops as on 18.07.2025 Progress of area coverage under Kharif crops as on 18.07.2025 ----- ----------------------------------------------------------------- ----------------------------------------------------------------- ----------------------------------------------------------------- ----------------------------------------------------------------- ----------------------------------------------------------------- Area: In lakh hectare Area: In lakh hectare S. Crop Normal Area Area Sown Area Sown Increase (+)/ No. (DES) 2025 2024 Decrease (-) over 2024-25 1 Rice 403.09 176.68 157.21 19.47 2 Pulses 129.61 81.98 80.13 1.84 A Arhar 44.71 30.09 31.70 1.61 B Urdbean 32.64 14.45 16.51 2.06 C Moongbean 35.69 27.31 24.52 2.79 D Kulthi 1.72 0.14 0.12 0.01 E Mothbean 9.70 7.56 4.95 2.61 F Other pulses 5.15 2.43 2.33 0.10 3 Shri Anna cum Coarse cereals 180.71 133.65 117.66 15.99 A Jowar 15.07 9.99 9.81 0.18 B Bajra 70.69 48.94 42.09 6.85 C Ragi 11.52 1.42 1.70 0.28 D Small millets 4.48 2.09 2.34 0.25 E Maize 78.95 71.21 61.73 9.48 4 Oilseeds 194.63 156.76 162.80 6.04 A Groundnut 45.10 38.01 37.16 0.86 B Soybean 127.19 111.67 118.96 7.29 C Sunflower 1.29 0.54 0.55 0.02 D Sesamum 10.32 6.04 5.58 0.46 E Niger 1.08 0.02 0.22 0.20 F Castor 9.65 0.43 0.28 0.15 G Other Oilseeds 0.00 0.05 0.05 0.00 5 Sugarcane 52.51 55.16 54.88 0.29 6 Jute & Mesta 6.60 5.53 5.65 0.12 7 Cotton 129.50 98.55 102.05 3.49 Total 1096.65 708.31 680.38 27.93,Minutes of the meeting of CWWG as on 21.07.2025.pdf,1,Minutes of the meeting of CWWG as on 21.07.2025_p1_c2,0.9,VERIFIED,rule_based
+2025-07-28,,Cotton,All India,Sowing Progress,Sowing,," Rice : About 245.13 lakh ha (60.8% of Normal) area coverage under Kharif Rice as compared to 216.16 lakh ha during the corresponding period of last year.
+-
+Soybean : About 116.71 lakh ha (91.8 % of Normal) area coverage under Soyabean has been reported as compared to 121.38 lakh ha during the corresponding period of last year.
+-
+Sugarcane :  About  55.16  lakh  ha  area  coverage  under  Sugarcane  has  been  reported  as compared to 54.88 lakh ha during the corresponding period of last year.
+Cotton : About 103.15 lakh ha (79.6% of Normal) area coverage has been reported compared to 105.52 lakh ha during the corresponding period of last year.
+All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 2025-07-25
+Source: CWWG (via API)
+Area in Lakh Ha
+|                      |   Normal (DA&FW) | Area Sown   | Area Sown   | Difference In Area Coverage Over   | % of Increase (+)/Decrease (-) Over   |
+|----------------------|------------------|-------------|-------------|------------------------------------|---------------------------------------|
+| Crop                 |                  | 2025-26     | 2024-25     | 2024-25                            | 2024-25                               |
+| Rice                 |           403.09 | 245.13      | 216.16      | 28.97                              | 13.40                                 |
+| Total Pulses         |           129.61 | 93.05       | 89.94       | 3.11                               | 3.45                                  |
+| Tur                  |            44.71 | 34.90       | 37.99       |
+3.10                              |
+8.15                                 |
+| Kulthi               |             1.72 | 0.15        | 0.13        | 0.02                               | 13.24                                 |
+| Urad                 |            32.64 | 16.59       | 17.79       |
+1.20                              |
+6.75                                 |
+| Moong                |            35.69 | 30.60       | 26.36       | 4.24                               | 16.08                                 |
+| Other Pulses         |             5.15 | 2.67        | 2.60        | 0.07                               | 2.72                                  |
+| Moth Bean            |             9.70 | 8.14        | 5.06        | 3.08                               | 60.83                                 |
+| Total Coarse Cereals |           180.71 | 160.72      | 154.97      | 5.75                               | 3.71                                  |
+| Jowar                |            15.07 | 12.45       | 12.34       | 0.11                               | 0.92                                  |
+| Bajra                |            70.69 | 58.02       | 57.99       | 0.02                               | 0.04                                  |
+| Ragi                 |            11.52 | 2.03        | 2.62        |
+0.58                              |
+22.32                                |
+| Maize                |            78.95 | 85.58       | 78.92       | 6.66                               | 8.44                                  |
+| Other Small Millets  |             4.48 | 2.64        | 3.10        |
+0.46                              |
+14.81                                |
+| Total Oilseeds       |           194.63 | 166.89      | 170.73      |
+3.83                              |
+2.25                                 |
+| Groundnut            |            45.10 | 41.17       | 40.77       | 0.40                               | 0.99                                  |
+| Sesamum              |            10.32 | 7.44        | 7.14        | 0.31                               | 4.28                                  |
+| Sunflower            |             1.29 | 0.56        | 0.59        |
+0.03                              |
+5.24                                 |
+| Soybean              |           127.19 | 116.71      | 121.38      |
+4.68                              |
+3.85                                 |
+| Nigerseed            |             1.08 | 0.03        | 0.22        |
+0.19                              |
+87.17                                |
+| Castorseed           |             9.65 | 0.94        | 0.57        | 0.36                               | 63.20                                 |
+| Other Oilseeds       |                  | 0.05        | 0.05        | 0.00                               |
+7.86                                 |
+| Sugarcane            |            52.51 | 55.16       | 54.88       | 0.29                               | 0.52                                  |
+| Total Jute and Mesta |             6.60 | 5.54        | 5.71        |
+0.18                              |
+3.07                                 |
+| Jute                 |             6.19 | 5.33        | 5.50        |
+0.16                              |
+2.99                                 |
+| Mesta                |             0.40 | 0.20        | 0.22        |
+0.01                              |
+5.23                                 |
+| Cotton               |           129.50 | 103.15      | 105.52      |
+2.37                              |
+2.25                                 |
+| Grand Total          |          1096.65 | 829.64      | 797.91      | 31.73                              | 3.98                                  |",,,,,,,," Rice : About 245.13 lakh ha (60.8% of Normal) area coverage under Kharif Rice as compared to 216.16 lakh ha during the corresponding period of last year.
+-
+Soybean : About 116.71 lakh ha (91.8 % of Normal) area coverage under Soyabean has been reported as compared to 121.38 lakh ha during the corresponding period of last year.
+-
+Sugarcane : About 55.16 lakh ha area coverage under Sugarcane has been reported as compared to 54.88 lakh ha during the corresponding period of last year.
+Cotton : About 103.15 lakh ha (79.6% of Normal) area coverage has been reported compared to 105.52 lakh ha during the corresponding period of last year.
+All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 2025-07-25
+Source: CWWG (via API)
+Area in Lakh Ha Normal (DA&FW) Area Sown Area Sown Difference In Area Coverage Over % of Increase (+)/Decrease (-) Over ---------------------- ------------------ ------------- ------------- ------------------------------------ --------------------------------------- Crop 2025-26 2024-25 2024-25 2024-25 Rice 403.09 245.13 216.16 28.97 13.40 Total Pulses 129.61 93.05 89.94 3.11 3.45 Tur 44.71 34.90 37.99 3.10 8.15 Kulthi 1.72 0.15 0.13 0.02 13.24 Urad 32.64 16.59 17.79 1.20 6.75 Moong 35.69 30.60 26.36 4.24 16.08 Other Pulses 5.15 2.67 2.60 0.07 2.72 Moth Bean 9.70 8.14 5.06 3.08 60.83 Total Coarse Cereals 180.71 160.72 154.97 5.75 3.71 Jowar 15.07 12.45 12.34 0.11 0.92 Bajra 70.69 58.02 57.99 0.02 0.04 Ragi 11.52 2.03 2.62 0.58 22.32 Maize 78.95 85.58 78.92 6.66 8.44 Other Small Millets 4.48 2.64 3.10 0.46 14.81 Total Oilseeds 194.63 166.89 170.73 3.83 2.25 Groundnut 45.10 41.17 40.77 0.40 0.99 Sesamum 10.32 7.44 7.14 0.31 4.28 Sunflower 1.29 0.56 0.59 0.03 5.24 Soybean 127.19 116.71 121.38 4.68 3.85 Nigerseed 1.08 0.03 0.22 0.19 87.17 Castorseed 9.65 0.94 0.57 0.36 63.20 Other Oilseeds 0.05 0.05 0.00 7.86 Sugarcane 52.51 55.16 54.88 0.29 0.52 Total Jute and Mesta 6.60 5.54 5.71 0.18 3.07 Jute 6.19 5.33 5.50 0.16 2.99 Mesta 0.40 0.20 0.22 0.01 5.23 Cotton 129.50 103.15 105.52 2.37 2.25 Grand Total 1096.65 829.64 797.91 31.73 3.98",Minutes of the meeting of CWWG as on 28.07.2025.pdf,1,Minutes of the meeting of CWWG as on 28.07.2025_p1_c1,0.9,VERIFIED,rule_based
+2025-08-04,,Cotton,Odisha,Area Coverage,,,,,,,,,,"Rice : About 319.40 lakh ha (79.2% of Normal) area coverage under Kharif Rice as compared to 273.72 lakh ha during the corresponding period of last year.
+- Soybean : About 118.54 lakh ha (93.2 % of Normal) area coverage under Soyabean has been reported as compared to 123.45 lakh ha during the corresponding period of last year.
+- Sugarcane : About 57.31 lakh ha area coverage under Sugarcane has been reported as compared to 55.68 lakh ha during the corresponding period of last year.
+- Cotton : About 105.87 lakh ha (81.7% of Normal) area coverage has been reported compared to 108.43 lakh ha during the corresponding period of last year.","Rice : About 319.40 lakh ha (79.2% of Normal) area coverage under Kharif Rice as compared to 273.72 lakh ha during the corresponding period of last year.
+- Soybean : About 118.54 lakh ha (93.2 % of Normal) area coverage under Soyabean has been reported as compared to 123.45 lakh ha during the corresponding period of last year.
+- Sugarcane : About 57.31 lakh ha area coverage under Sugarcane has been reported as compared to 55.68 lakh ha during the corresponding period of last year.
+- Cotton : About 105.87 lakh ha (81.7% of Normal) area coverage has been reported compared to 108.43 lakh ha during the corresponding period of last year.",Minutes of the meeting of CWWG as on 04.08.2025.pdf,1,Minutes of the meeting of CWWG as on 04.08.2025_p1_c2,0.7,VERIFIED,rule_based
+2025-08-04,,Cotton,Odisha,Sowing Progress,Sowing,,"All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 01.08.2025
+Source: CWWG (via API)
+Area in Lakh Ha
+|                      |   Normal (DA&FW) | Area Sown   | Area Sown   | Difference In Area Coverage Over   |
+|----------------------|------------------|-------------|-------------|------------------------------------|
+| Crop                 |                  | 2025-26     | 2024-25     | 2024-25                            |
+| Rice                 |           403.09 | 319.40      | 273.72      | 45.68                              |
+| Total Pulses         |           129.61 | 101.22      | 101.54      |
+0.32                              |
+| Tur                  |            44.71 | 38.32       | 41.06       |
+2.74                              |
+| Kulthi               |             1.72 | 0.15        | 0.16        |
+0.01                              |
+| Urad                 |            32.64 | 18.62       | 19.09       |
+0.46                              |
+| Moong                |            35.69 | 32.18       | 31.13       | 1.06                               |
+| Other Pulses         |             5.15 | 2.99        | 2.94        | 0.05                               |
+| Moth Bean            |             9.70 | 8.95        | 7.16        | 1.80                               |
+| Total Coarse Cereals |           180.71 | 172.57      | 164.76      | 7.81                               |
+| Jowar                |            15.07 | 13.17       | 13.53       |
+0.36                              |
+| Bajra                |            70.69 | 61.58       | 62.36       |
+0.79                              |
+| Ragi                 |            11.52 | 2.80        | 3.18        |
+0.38                              |
+| Maize                |            78.95 | 91.62       | 81.99       | 9.63                               |
+| Other Small Millets  |             4.48 | 3.40        | 3.69        |
+0.29                              |
+| Total Oilseeds       |           194.63 | 171.03      | 178.14      |
+7.11                              |
+| Groundnut            |            45.10 | 41.56       | 43.45       |
+1.88                              |
+| Sesamum              |            10.32 | 8.38        | 9.00        |
+0.61                              |
+| Sunflower            |             1.29 | 0.58        | 0.66        |
+0.08                              |
+| Soybean              |           127.19 | 118.54      | 123.45      |
+4.91                              |
+| Nigerseed            |             1.08 | 0.12        | 0.24        |
+0.12                              |
+| Castorseed           |             9.65 | 1.79        | 1.29        | 0.50                               |
+| Other Oilseeds       |                  | 0.05        | 0.06        |
+0.01                              |
+| Sugarcane            |            52.51 | 57.31       | 55.68       | 1.64                               |
+| Jute and Mesta       |             6.60 | 5.54        | 5.71        |
+0.18                              |
+| Cotton               |           129.50 | 105.87      | 108.43      |
+2.56                              |
+| Grand Total          |          1096.65 | 932.93      | 887.97      | 44.96                              |",,,,,,,,"All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 01.08.2025
+Source: CWWG (via API)
+Area in Lakh Ha Normal (DA&FW) Area Sown Area Sown Difference In Area Coverage Over ---------------------- ------------------ ------------- ------------- ------------------------------------ Crop 2025-26 2024-25 2024-25 Rice 403.09 319.40 273.72 45.68 Total Pulses 129.61 101.22 101.54 0.32 Tur 44.71 38.32 41.06 2.74 Kulthi 1.72 0.15 0.16 0.01 Urad 32.64 18.62 19.09 0.46 Moong 35.69 32.18 31.13 1.06 Other Pulses 5.15 2.99 2.94 0.05 Moth Bean 9.70 8.95 7.16 1.80 Total Coarse Cereals 180.71 172.57 164.76 7.81 Jowar 15.07 13.17 13.53 0.36 Bajra 70.69 61.58 62.36 0.79 Ragi 11.52 2.80 3.18 0.38 Maize 78.95 91.62 81.99 9.63 Other Small Millets 4.48 3.40 3.69 0.29 Total Oilseeds 194.63 171.03 178.14 7.11 Groundnut 45.10 41.56 43.45 1.88 Sesamum 10.32 8.38 9.00 0.61 Sunflower 1.29 0.58 0.66 0.08 Soybean 127.19 118.54 123.45 4.91 Nigerseed 1.08 0.12 0.24 0.12 Castorseed 9.65 1.79 1.29 0.50 Other Oilseeds 0.05 0.06 0.01 Sugarcane 52.51 57.31 55.68 1.64 Jute and Mesta 6.60 5.54 5.71 0.18 Cotton 129.50 105.87 108.43 2.56 Grand Total 1096.65 932.93 887.97 44.96",Minutes of the meeting of CWWG as on 04.08.2025.pdf,1,Minutes of the meeting of CWWG as on 04.08.2025_p1_c3,0.9,VERIFIED,rule_based
+2025-08-11,,Cotton,Odisha,Area Coverage,,,,,,,,,," Rice : About 364.80 lakh ha (90.5% of Normal) area coverage under Kharif Rice as compared to 325.36 lakh ha during the corresponding period of last year.
+-
+Soybean : About 119.51 lakh ha (93.7 % of Normal) area coverage under Soyabean has been reported as compared to 124.24 lakh ha during the corresponding period of last year.
+-
+Sugarcane : About 57.31 lakh ha area coverage under Sugarcane has been reported as compared to 55.68 lakh ha during the corresponding period of last year.
+-
+Cotton : About 106.96 lakh ha (82.6% of Normal) area coverage has been reported compared to 110.49 lakh ha during the corresponding period of last year."," Rice : About 364.80 lakh ha (90.5% of Normal) area coverage under Kharif Rice as compared to 325.36 lakh ha during the corresponding period of last year.
+-
+Soybean : About 119.51 lakh ha (93.7 % of Normal) area coverage under Soyabean has been reported as compared to 124.24 lakh ha during the corresponding period of last year.
+-
+Sugarcane : About 57.31 lakh ha area coverage under Sugarcane has been reported as compared to 55.68 lakh ha during the corresponding period of last year.
+-
+Cotton : About 106.96 lakh ha (82.6% of Normal) area coverage has been reported compared to 110.49 lakh ha during the corresponding period of last year.",Minutes of the meeting of CWWG as on 11.08.2025.pdf,1,Minutes of the meeting of CWWG as on 11.08.2025_p1_c2,0.7,VERIFIED,rule_based
+2025-08-11,,Cotton,Odisha,Sowing Progress,Sowing,,"All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 08.08.2025
+Source: CWWG (via API)
+Area in Lakh Ha
+|                      |   Normal (DA&FW) | Area Sown   | Area Sown   | Difference In Area Coverage Over   |
+|----------------------|------------------|-------------|-------------|------------------------------------|
+| Crop                 |                  | 2025-26     | 2024-25     | 2024-25                            |
+| Rice                 |           403.09 | 364.80      | 325.36      | 39.45                              |
+| Total Pulses         |           129.61 | 106.68      | 106.52      | 0.16                               |
+| Tur                  |            44.71 | 40.86       | 42.87       |
+2.02                              |
+| Kulthi               |             1.72 | 0.17        | 0.16        | 0.00                               |
+| Urad                 |            32.64 | 20.15       | 19.91       | 0.24                               |
+| Moong                |            35.69 | 33.21       | 32.33       | 0.88                               |
+| Other Pulses         |             5.15 | 3.24        | 3.21        | 0.03                               |
+| Moth Bean            |             9.70 | 9.06        | 8.04        | 1.02                               |
+| Total Coarse Cereals |           180.71 | 178.73      | 170.96      | 7.77                               |
+| Jowar                |            15.07 | 13.69       | 13.96       |
+0.27                              |
+| Bajra                |            70.69 | 64.86       | 65.76       |
+0.90                              |
+| Ragi                 |            11.52 | 4.41        | 4.15        | 0.26                               |
+| Maize                |            78.95 | 91.89       | 83.15       | 8.74                               |
+| Other Small Millets  |             4.48 | 3.88        | 3.93        |
+0.06                              |
+| Total Oilseeds       |           194.63 | 175.61      | 182.43      |
+6.82                              |
+| Groundnut            |            45.10 | 43.23       | 45.06       |
+1.84                              |
+| Sesamum              |            10.32 | 8.89        | 9.81        |
+0.92                              |
+| Sunflower            |             1.29 | 0.61        | 0.68        |
+0.07                              |
+| Soybean              |           127.19 | 119.51      | 124.24      |
+4.73                              |
+| Nigerseed            |             1.08 | 0.14        | 0.26        |
+0.12                              |
+| Castorseed           |             9.65 | 3.19        | 2.32        | 0.87                               |
+| Other Oilseeds       |                  | 0.05        | 0.06        |
+0.01                              |
+| Sugarcane            |            52.51 | 57.31       | 55.68       | 1.64                               |
+| Jute and Mesta       |             6.60 | 5.54        | 5.71        |
+0.18                              |
+| Cotton               |           129.50 | 106.96      | 110.49      |
+3.53                              |
+| Grand Total          |          1096.65 | 995.63      | 957.15      | 38.48                              |",,,,,,,,"All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 08.08.2025
+Source: CWWG (via API)
+Area in Lakh Ha Normal (DA&FW) Area Sown Area Sown Difference In Area Coverage Over ---------------------- ------------------ ------------- ------------- ------------------------------------ Crop 2025-26 2024-25 2024-25 Rice 403.09 364.80 325.36 39.45 Total Pulses 129.61 106.68 106.52 0.16 Tur 44.71 40.86 42.87 2.02 Kulthi 1.72 0.17 0.16 0.00 Urad 32.64 20.15 19.91 0.24 Moong 35.69 33.21 32.33 0.88 Other Pulses 5.15 3.24 3.21 0.03 Moth Bean 9.70 9.06 8.04 1.02 Total Coarse Cereals 180.71 178.73 170.96 7.77 Jowar 15.07 13.69 13.96 0.27 Bajra 70.69 64.86 65.76 0.90 Ragi 11.52 4.41 4.15 0.26 Maize 78.95 91.89 83.15 8.74 Other Small Millets 4.48 3.88 3.93 0.06 Total Oilseeds 194.63 175.61 182.43 6.82 Groundnut 45.10 43.23 45.06 1.84 Sesamum 10.32 8.89 9.81 0.92 Sunflower 1.29 0.61 0.68 0.07 Soybean 127.19 119.51 124.24 4.73 Nigerseed 1.08 0.14 0.26 0.12 Castorseed 9.65 3.19 2.32 0.87 Other Oilseeds 0.05 0.06 0.01 Sugarcane 52.51 57.31 55.68 1.64 Jute and Mesta 6.60 5.54 5.71 0.18 Cotton 129.50 106.96 110.49 3.53 Grand Total 1096.65 995.63 957.15 38.48",Minutes of the meeting of CWWG as on 11.08.2025.pdf,1,Minutes of the meeting of CWWG as on 11.08.2025_p1_c3,0.9,VERIFIED,rule_based
+2025-08-11,,Cotton,Odisha,Pest Incidence,,,,,Over All Intensity Of Pests And Disease Remained Below Economic Threshold Level (Etl) Except,,,,,, Over all intensity of pests and disease remained below Economic Threshold Level (ETL) except:,Minutes of the meeting of CWWG as on 11.08.2025.pdf,1,Minutes of the meeting of CWWG as on 11.08.2025_p1_c4,0.9,VERIFIED,rule_based
+2025-08-18,,Cotton,Uttarakhand,Area Coverage,,,,,,,,,,"Rice : About 398.59 lakh ha (98.9% of Normal) area coverage under Kharif Rice as compared to 362.92 lakh ha during the corresponding period of last year.
+- Moong : About 33.70 lakh ha (94.4% of Normal) area coverage under Moong as compared to 32.76 lakh ha during the corresponding period of last year.
+- Soybean : About 119.82 lakh ha (94.2% of Normal) area coverage under Soybean has been reported as compared to 124.59 lakh ha during the corresponding period of last year.
+- Sugarcane : About 57.31 lakh ha area coverage under Sugarcane has been reported as compared to 55.68 lakh ha during the corresponding period of last year.
+- Cotton : About 107.87 lakh ha (84.1% of Normal) area coverage has been reported compared to 111.11 lakh ha during the corresponding period of last year.","Rice : About 398.59 lakh ha (98.9% of Normal) area coverage under Kharif Rice as compared to 362.92 lakh ha during the corresponding period of last year.
+- Moong : About 33.70 lakh ha (94.4% of Normal) area coverage under Moong as compared to 32.76 lakh ha during the corresponding period of last year.
+- Soybean : About 119.82 lakh ha (94.2% of Normal) area coverage under Soybean has been reported as compared to 124.59 lakh ha during the corresponding period of last year.
+- Sugarcane : About 57.31 lakh ha area coverage under Sugarcane has been reported as compared to 55.68 lakh ha during the corresponding period of last year.
+- Cotton : About 107.87 lakh ha (84.1% of Normal) area coverage has been reported compared to 111.11 lakh ha during the corresponding period of last year.",Minutes of the meeting of CWWG as on 18.08.2025.pdf,1,Minutes of the meeting of CWWG as on 18.08.2025_p1_c3,0.7,VERIFIED,rule_based
+2025-08-18,,Cotton,Uttarakhand,Sowing Progress,Sowing,,"All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 15.08.2025
+Source: CWWG (via API)
+Area in Lakh Ha
+|                      |   Normal (DA&FW) | Area Sown   | Area Sown   | Difference In Area Coverage Over   |
+|----------------------|------------------|-------------|-------------|------------------------------------|
+| Crop                 |                  | 2025-26     | 2024-25     | 2024-25                            |
+| Rice                 |           403.09 | 398.59      | 362.92      | 35.67                              |
+| Total Pulses         |           129.61 | 109.52      | 108.39      | 1.14                               |
+| Tur                  |            44.71 | 42.20       | 43.54       |
+1.34                              |
+| Kulthi               |             1.72 | 0.20        | 0.17        | 0.03                               |
+| Urad                 |            32.64 | 20.82       | 19.90       | 0.92                               |
+| Moong                |            35.69 | 33.70       | 32.76       | 0.94                               |
+| Other Pulses         |             5.15 | 3.46        | 3.32        | 0.14                               |
+| Moth Bean            |             9.70 | 9.14        | 8.70        | 0.45                               |
+| Total Coarse Cereals |           180.71 | 182.34      | 173.22      | 9.12                               |
+| Jowar                |            15.07 | 13.74       | 13.96       |
+0.22                              |
+| Bajra                |            70.69 | 65.67       | 65.88       |
+0.21                              |
+| Ragi                 |            11.52 | 5.89        | 6.30        |
+0.41                              |
+| Maize                |            78.95 | 92.79       | 82.97       | 9.82                               |
+| Other Small Millets  |             4.48 | 4.25        | 4.12        | 0.13                               |
+| Total Oilseeds       |           194.63 | 178.64      | 185.38      |
+6.74                              |
+| Groundnut            |            45.10 | 43.98       | 46.07       |
+2.09                              |
+| Sesamum              |            10.32 | 9.22        | 10.12       |
+0.89                              |
+| Sunflower            |             1.29 | 0.61        | 0.68        |
+0.07                              |
+| Soybean              |           127.19 | 119.82      | 124.59      |
+4.77                              |
+| Nigerseed            |             1.08 | 0.16        | 0.27        |
+0.11                              |
+| Castorseed           |             9.65 | 4.79        | 3.58        | 1.21                               |
+| Other Oilseeds   |         |    0.06 |    0.07 |
+0.01 |
+|------------------|---------|---------|---------|---------|
+| Sugarcane        |   52.51 |   57.31 |   55.68 |    1.64 |
+| Jute and Mesta   |    6.60 |    5.54 |    5.72 |
+0.19 |
+| Cotton           |  129.50 |  107.87 |  111.11 |
+3.24 |
+| Grand Total      | 1096.65 | 1039.81 | 1002.41 |   37.39 |",,,,,,,,"All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 15.08.2025
+Source: CWWG (via API)
+Area in Lakh Ha Normal (DA&FW) Area Sown Area Sown Difference In Area Coverage Over ---------------------- ------------------ ------------- ------------- ------------------------------------ Crop 2025-26 2024-25 2024-25 Rice 403.09 398.59 362.92 35.67 Total Pulses 129.61 109.52 108.39 1.14 Tur 44.71 42.20 43.54 1.34 Kulthi 1.72 0.20 0.17 0.03 Urad 32.64 20.82 19.90 0.92 Moong 35.69 33.70 32.76 0.94 Other Pulses 5.15 3.46 3.32 0.14 Moth Bean 9.70 9.14 8.70 0.45 Total Coarse Cereals 180.71 182.34 173.22 9.12 Jowar 15.07 13.74 13.96 0.22 Bajra 70.69 65.67 65.88 0.21 Ragi 11.52 5.89 6.30 0.41 Maize 78.95 92.79 82.97 9.82 Other Small Millets 4.48 4.25 4.12 0.13 Total Oilseeds 194.63 178.64 185.38 6.74 Groundnut 45.10 43.98 46.07 2.09 Sesamum 10.32 9.22 10.12 0.89 Sunflower 1.29 0.61 0.68 0.07 Soybean 127.19 119.82 124.59 4.77 Nigerseed 1.08 0.16 0.27 0.11 Castorseed 9.65 4.79 3.58 1.21 Other Oilseeds 0.06 0.07 0.01 ------------------ --------- --------- --------- --------- Sugarcane 52.51 57.31 55.68 1.64 Jute and Mesta 6.60 5.54 5.72 0.19 Cotton 129.50 107.87 111.11 3.24 Grand Total 1096.65 1039.81 1002.41 37.39",Minutes of the meeting of CWWG as on 18.08.2025.pdf,1,Minutes of the meeting of CWWG as on 18.08.2025_p1_c4,0.9,VERIFIED,rule_based
+2025-08-25,,Cotton,All India,Area Coverage,,,,,,,,,,"Rice : About 420.41 lakh ha (104.3% of Normal) area coverage under Kharif Rice as compared to 390.80 lakh ha during the corresponding period of last year.
+- Moong : About 33.95 lakh ha (95.1% of Normal) area coverage under Moong as compared to 33.50 lakh ha during the corresponding period of last year.
+- Soybean : About 120.11 lakh ha (94.4% of Normal) area coverage under Soyabean has been reported as compared to 124.88 lakh ha during the corresponding period of last year.
+- Sugarcane : About 57.31 lakh ha area coverage under Sugarcane has been reported as compared to 55.68 lakh ha during the corresponding period of last year.
+- Cotton : About 108.47 lakh ha (83.8% of Normal) area coverage has been reported compared to 111.39 lakh ha during the corresponding period of last year.","Rice : About 420.41 lakh ha (104.3% of Normal) area coverage under Kharif Rice as compared to 390.80 lakh ha during the corresponding period of last year.
+- Moong : About 33.95 lakh ha (95.1% of Normal) area coverage under Moong as compared to 33.50 lakh ha during the corresponding period of last year.
+- Soybean : About 120.11 lakh ha (94.4% of Normal) area coverage under Soyabean has been reported as compared to 124.88 lakh ha during the corresponding period of last year.
+- Sugarcane : About 57.31 lakh ha area coverage under Sugarcane has been reported as compared to 55.68 lakh ha during the corresponding period of last year.
+- Cotton : About 108.47 lakh ha (83.8% of Normal) area coverage has been reported compared to 111.39 lakh ha during the corresponding period of last year.",Minutes of the meeting of CWWG as on 25.08.2025.pdf,1,Minutes of the meeting of CWWG as on 25.08.2025_p1_c1,0.7,VERIFIED,rule_based
+2025-08-25,,Cotton,All India,Sowing Progress,Sowing,,"All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 22.08.2025
+Source: CWWG (via API)
+Area in Lakh Ha
+|                      |   Normal (DA&FW) | Area Sown   | Area Sown   | Difference In Area Coverage Over   |
+|----------------------|------------------|-------------|-------------|------------------------------------|
+| Crop                 |                  | 2025-26     | 2024-25     | 2024-25                            |
+| Rice                 |           403.09 | 420.41      | 390.80      | 29.60                              |
+| Total Pulses         |           129.61 | 112.77      | 111.42      | 1.34                               |
+| Tur                  |            44.71 | 43.98       | 44.77       |
+0.78                              |
+| Kulthi               |             1.72 | 0.26        | 0.23        | 0.04                               |
+| Urad                 |            32.64 | 21.71       | 20.31       | 1.39                               |
+| Moong                |            35.69 | 33.95       | 33.50       | 0.45                               |
+| Other Pulses         |             5.15 | 3.70        | 3.50        | 0.19                               |
+| Moth Bean            |             9.70 | 9.17        | 9.11        | 0.05                               |
+| Total Coarse Cereals |           180.71 | 187.12      | 175.93      | 11.18                              |
+| Jowar                |            15.07 | 13.90       | 13.98       |
+0.08                              |
+| Bajra                |            70.69 | 67.20       | 66.90       | 0.30                               |
+| Ragi                 |            11.52 | 7.99        | 7.27        | 0.72                               |
+| Maize                |            78.95 | 93.34       | 83.58       | 9.76                               |
+| Other Small Millets  |             4.48 | 4.68        | 4.20        | 0.49                               |
+| Total Oilseeds       |           194.63 | 182.38      | 187.64      |
+5.26                              |
+| Groundnut            |            45.10 | 45.30       | 46.56       |
+1.25                              |
+| Sesamum              |            10.32 | 9.83        | 10.46       |
+0.63                              |
+| Sunflower            |             1.29 | 0.63        | 0.69        |
+0.06                              |
+| Soybean              |           127.19 | 120.11      | 124.88      |
+4.77                              |
+| Nigerseed      |    1.08 |    0.36 |    0.31 |   0.06 |
+|----------------|---------|---------|---------|--------|
+| Castorseed     |    9.65 |    6.09 |    4.68 |   1.41 |
+| Other Oilseeds |         |    0.06 |    0.07 |
+0.01 |
+| Sugarcane      |   52.51 |   57.31 |   55.68 |   1.64 |
+| Jute and Mesta |    6.60 |    5.54 |    5.72 |
+0.19 |
+| Cotton         |  129.50 |  108.47 |  111.39 |
+2.92 |
+| Grand Total    | 1096.65 | 1073.98 | 1038.58 |  35.40 |",,,,,,,,"All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 22.08.2025
+Source: CWWG (via API)
+Area in Lakh Ha Normal (DA&FW) Area Sown Area Sown Difference In Area Coverage Over ---------------------- ------------------ ------------- ------------- ------------------------------------ Crop 2025-26 2024-25 2024-25 Rice 403.09 420.41 390.80 29.60 Total Pulses 129.61 112.77 111.42 1.34 Tur 44.71 43.98 44.77 0.78 Kulthi 1.72 0.26 0.23 0.04 Urad 32.64 21.71 20.31 1.39 Moong 35.69 33.95 33.50 0.45 Other Pulses 5.15 3.70 3.50 0.19 Moth Bean 9.70 9.17 9.11 0.05 Total Coarse Cereals 180.71 187.12 175.93 11.18 Jowar 15.07 13.90 13.98 0.08 Bajra 70.69 67.20 66.90 0.30 Ragi 11.52 7.99 7.27 0.72 Maize 78.95 93.34 83.58 9.76 Other Small Millets 4.48 4.68 4.20 0.49 Total Oilseeds 194.63 182.38 187.64 5.26 Groundnut 45.10 45.30 46.56 1.25 Sesamum 10.32 9.83 10.46 0.63 Sunflower 1.29 0.63 0.69 0.06 Soybean 127.19 120.11 124.88 4.77 Nigerseed 1.08 0.36 0.31 0.06 ---------------- --------- --------- --------- -------- Castorseed 9.65 6.09 4.68 1.41 Other Oilseeds 0.06 0.07 0.01 Sugarcane 52.51 57.31 55.68 1.64 Jute and Mesta 6.60 5.54 5.72 0.19 Cotton 129.50 108.47 111.39 2.92 Grand Total 1096.65 1073.98 1038.58 35.40",Minutes of the meeting of CWWG as on 25.08.2025.pdf,1,Minutes of the meeting of CWWG as on 25.08.2025_p1_c2,0.9,VERIFIED,rule_based
+2025-09-01,,Cotton,All India,Sowing Progress,Sowing,,"Rice : About 431.96 lakh ha (107.2% of Normal) area coverage under Kharif Rice as compared to 405.34 lakh ha during the corresponding period of last year.
+- Moong :  About 34.11 lakh ha (95.6% of Normal) area coverage under Moong as compared to 33.96 lakh ha during the corresponding period of last year.
+- Soybean :  About  120.28  lakh  ha  (94.6%  of  Normal)  area  coverage  under  Soyabean  has  been reported as compared to 125.50 lakh ha during the corresponding period of last year.
+- Sugarcane : About 57.31 lakh ha area coverage under Sugarcane has been reported as compared to 55.68 lakh ha during the corresponding period of last year.
+- Cotton :  About 108.77 lakh ha (84% of Normal) area coverage has been reported compared to 111.39 lakh ha during the corresponding period of last year.
+All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 29.08.2025
+Source: CWWG (via API)
+Area in Lakh Ha
+|                      |   Normal (DA&FW) | Area Sown   | Area Sown   | Difference In Area Coverage Over   |
+|----------------------|------------------|-------------|-------------|------------------------------------|
+| Crop                 |                  | 2025-26     | 2024-25     | 2024-25                            |
+| Rice                 |           403.09 | 431.96      | 405.34      | 26.61                              |
+| Total Pulses         |           129.61 | 114.46      | 113.47      | 0.99                               |
+| Tur                  |            44.71 | 44.61       | 45.37       |
+0.76                              |
+| Kulthi               |             1.72 | 0.31        | 0.28        | 0.03                               |
+| Urad                 |            32.64 | 22.35       | 21.03       | 1.33                               |
+| Moong                |            35.69 | 34.11       | 33.96       | 0.14                               |
+| Other Pulses         |             5.15 | 3.88        | 3.71        | 0.18                               |
+| Moth Bean            |             9.70 | 9.19        | 9.12        | 0.07                               |
+| Total Coarse Cereals |           180.71 | 189.67      | 178.48      | 11.19                              |
+| Jowar                |            15.07 | 14.01       | 14.00       | 0.01                               |
+| Bajra                |            70.69 | 67.64       | 67.72       |
+0.08                              |
+| Ragi                 |            11.52 | 9.24        | 8.39        | 0.85                               |
+| Maize                |            78.95 | 94.00       | 84.07       | 9.93                               |
+| Other Small Millets  |             4.48 | 4.78        | 4.30        | 0.48                               |
+| Total Oilseeds       |           194.63 | 185.17      | 190.27      |
+5.10                              |
+| Groundnut      |   45.10 |   46.76 |   46.98 |
+0.22 |
+|----------------|---------|---------|---------|---------|
+| Sesamum        |   10.32 |    9.97 |   10.55 |
+0.58 |
+| Sunflower      |    1.29 |    0.64 |    0.70 |
+0.07 |
+| Soybean        |  127.19 |  120.28 |  125.50 |
+5.22 |
+| Nigerseed      |    1.08 |    0.43 |    0.40 |    0.03 |
+| Castorseed     |    9.65 |    7.04 |    6.07 |    0.97 |
+| Other Oilseeds |         |    0.06 |    0.07 |
+0.01 |
+| Sugarcane      |   52.51 |   57.31 |   55.68 |    1.64 |
+| Jute and Mesta |    6.60 |    5.54 |    5.73 |
+0.19 |
+| Cotton         |  129.50 |  108.77 |  111.39 |
+2.62 |
+| Grand Total    | 1096.65 | 1092.87 | 1060.36 |   32.51 |",,,,,,,,"Rice : About 431.96 lakh ha (107.2% of Normal) area coverage under Kharif Rice as compared to 405.34 lakh ha during the corresponding period of last year.
+- Moong : About 34.11 lakh ha (95.6% of Normal) area coverage under Moong as compared to 33.96 lakh ha during the corresponding period of last year.
+- Soybean : About 120.28 lakh ha (94.6% of Normal) area coverage under Soyabean has been reported as compared to 125.50 lakh ha during the corresponding period of last year.
+- Sugarcane : About 57.31 lakh ha area coverage under Sugarcane has been reported as compared to 55.68 lakh ha during the corresponding period of last year.
+- Cotton : About 108.77 lakh ha (84% of Normal) area coverage has been reported compared to 111.39 lakh ha during the corresponding period of last year.
+All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 29.08.2025
+Source: CWWG (via API)
+Area in Lakh Ha Normal (DA&FW) Area Sown Area Sown Difference In Area Coverage Over ---------------------- ------------------ ------------- ------------- ------------------------------------ Crop 2025-26 2024-25 2024-25 Rice 403.09 431.96 405.34 26.61 Total Pulses 129.61 114.46 113.47 0.99 Tur 44.71 44.61 45.37 0.76 Kulthi 1.72 0.31 0.28 0.03 Urad 32.64 22.35 21.03 1.33 Moong 35.69 34.11 33.96 0.14 Other Pulses 5.15 3.88 3.71 0.18 Moth Bean 9.70 9.19 9.12 0.07 Total Coarse Cereals 180.71 189.67 178.48 11.19 Jowar 15.07 14.01 14.00 0.01 Bajra 70.69 67.64 67.72 0.08 Ragi 11.52 9.24 8.39 0.85 Maize 78.95 94.00 84.07 9.93 Other Small Millets 4.48 4.78 4.30 0.48 Total Oilseeds 194.63 185.17 190.27 5.10 Groundnut 45.10 46.76 46.98 0.22 ---------------- --------- --------- --------- --------- Sesamum 10.32 9.97 10.55 0.58 Sunflower 1.29 0.64 0.70 0.07 Soybean 127.19 120.28 125.50 5.22 Nigerseed 1.08 0.43 0.40 0.03 Castorseed 9.65 7.04 6.07 0.97 Other Oilseeds 0.06 0.07 0.01 Sugarcane 52.51 57.31 55.68 1.64 Jute and Mesta 6.60 5.54 5.73 0.19 Cotton 129.50 108.77 111.39 2.62 Grand Total 1096.65 1092.87 1060.36 32.51",Minutes of the meeting of CWWG as on 01.09.2025.pdf,1,Minutes of the meeting of CWWG as on 01.09.2025_p1_c1,0.9,VERIFIED,rule_based
+2025-09-08,,Cotton,Karnataka,Area Coverage,,,,,,,,,,"Rice : About 438.28 lakh ha (108.7% of Normal) area coverage under Kharif Rice as compared to 418.66 lakh ha during the corresponding period of last year.
+- Maize : About 94.62 lakh ha (119.8% of Normal) area coverage under Maize has been reported as compared to 84.30 lakh ha during the corresponding period of last year.
+- Moong : About 34.22 lakh ha (95.9% of Normal) area coverage under Moong as compared to 34.09 lakh ha during the corresponding period of last year.
+- Soybean : About 120.32 lakh ha (94.6% of Normal) area coverage under Soyabean has been reported as compared to 126.05 lakh ha during the corresponding period of last year.
+- Sugarcane : About 57.31 lakh ha area coverage under Sugarcane has been reported as compared to 55.68 lakh ha during the corresponding period of last year.
+- Cotton : About 109.17 lakh ha (84.3% of Normal) area coverage has been reported compared to 112.13 lakh ha during the corresponding period of last year.","Rice : About 438.28 lakh ha (108.7% of Normal) area coverage under Kharif Rice as compared to 418.66 lakh ha during the corresponding period of last year.
+- Maize : About 94.62 lakh ha (119.8% of Normal) area coverage under Maize has been reported as compared to 84.30 lakh ha during the corresponding period of last year.
+- Moong : About 34.22 lakh ha (95.9% of Normal) area coverage under Moong as compared to 34.09 lakh ha during the corresponding period of last year.
+- Soybean : About 120.32 lakh ha (94.6% of Normal) area coverage under Soyabean has been reported as compared to 126.05 lakh ha during the corresponding period of last year.
+- Sugarcane : About 57.31 lakh ha area coverage under Sugarcane has been reported as compared to 55.68 lakh ha during the corresponding period of last year.
+- Cotton : About 109.17 lakh ha (84.3% of Normal) area coverage has been reported compared to 112.13 lakh ha during the corresponding period of last year.",Minutes of the meeting of CWWG as on 08.09.2025.pdf,1,Minutes of the meeting of CWWG as on 08.09.2025_p1_c2,0.7,VERIFIED,rule_based
+2025-09-08,,Cotton,Karnataka,Sowing Progress,Sowing,,"Source: CWWG (via API)
+Area in Lakh Ha
+|                      |   Normal (DA&FW) | Area Sown   | Area Sown   | Difference In Area Coverage Over   |
+|----------------------|------------------|-------------|-------------|------------------------------------|
+| Crop                 |                  | 2025-26     | 2024-25     | 2024-25                            |
+| Rice                 |           403.09 | 438.28      | 418.66      | 19.63                              |
+| Total Pulses         |           129.61 | 116.40      | 114.46      | 1.94                               |
+| Tur                  |            44.71 | 45.19       | 45.71       |
+0.52                              |
+| Urad                 |            32.64 | 23.35       | 21.33       | 2.01                               |
+| Moong                |            35.69 | 34.22       | 34.09       | 0.13                               |
+| Kulthi               |             1.72 | 0.38        | 0.31        | 0.06                               |
+| Moth Bean            |             9.70 | 9.19        | 9.12        | 0.07                               |
+| Other Pulses         |             5.15 | 4.08        | 3.89        | 0.19                               |
+| Total Coarse Cereals |           180.71 | 191.71      | 179.62      | 12.09                              |
+| Jowar                |            15.07 | 14.05       | 14.01       | 0.04                               |
+| Bajra                |            70.69 | 67.89       | 67.96       |
+0.07                              |
+| Ragi                 |            11.52 | 9.84        | 8.93        | 0.91                               |
+| Small Millets   |    4.48 |    5.31 |    4.42 |   0.89 |
+|-----------------|---------|---------|---------|--------|
+| Maize           |   78.95 |   94.62 |   84.30 |  10.32 |
+| Total Oilseeds  |  194.63 |  186.98 |  192.21 |
+5.23 |
+| Groundnut       |   45.10 |   47.53 |   47.49 |   0.04 |
+| Soybean         |  127.19 |  120.32 |  126.04 |
+5.72 |
+| Sunflower       |    1.29 |    0.64 |    0.71 |
+0.06 |
+| Sesamum         |   10.32 |   10.14 |   10.62 |
+0.48 |
+| Nigerseed       |    1.08 |    0.66 |    0.60 |   0.06 |
+| Castorseed      |    9.65 |    7.64 |    6.69 |   0.95 |
+| Other Oilseeds  |         |    0.06 |    0.07 |
+0.01 |
+| Sugarcane       |   52.51 |   57.31 |   55.68 |   1.64 |
+| Jute and Mesta  |    6.60 |    5.56 |    5.74 |
+0.18 |
+| Cotton          |  129.50 |  109.17 |  112.13 |
+2.96 |
+| Grand Total     | 1096.65 | 1105.42 | 1078.49 |  26.93 |",,,,,,,,"Source: CWWG (via API)
+Area in Lakh Ha Normal (DA&FW) Area Sown Area Sown Difference In Area Coverage Over ---------------------- ------------------ ------------- ------------- ------------------------------------ Crop 2025-26 2024-25 2024-25 Rice 403.09 438.28 418.66 19.63 Total Pulses 129.61 116.40 114.46 1.94 Tur 44.71 45.19 45.71 0.52 Urad 32.64 23.35 21.33 2.01 Moong 35.69 34.22 34.09 0.13 Kulthi 1.72 0.38 0.31 0.06 Moth Bean 9.70 9.19 9.12 0.07 Other Pulses 5.15 4.08 3.89 0.19 Total Coarse Cereals 180.71 191.71 179.62 12.09 Jowar 15.07 14.05 14.01 0.04 Bajra 70.69 67.89 67.96 0.07 Ragi 11.52 9.84 8.93 0.91 Small Millets 4.48 5.31 4.42 0.89 ----------------- --------- --------- --------- -------- Maize 78.95 94.62 84.30 10.32 Total Oilseeds 194.63 186.98 192.21 5.23 Groundnut 45.10 47.53 47.49 0.04 Soybean 127.19 120.32 126.04 5.72 Sunflower 1.29 0.64 0.71 0.06 Sesamum 10.32 10.14 10.62 0.48 Nigerseed 1.08 0.66 0.60 0.06 Castorseed 9.65 7.64 6.69 0.95 Other Oilseeds 0.06 0.07 0.01 Sugarcane 52.51 57.31 55.68 1.64 Jute and Mesta 6.60 5.56 5.74 0.18 Cotton 129.50 109.17 112.13 2.96 Grand Total 1096.65 1105.42 1078.49 26.93",Minutes of the meeting of CWWG as on 08.09.2025.pdf,1,Minutes of the meeting of CWWG as on 08.09.2025_p1_c3,0.9,VERIFIED,rule_based
+2025-09-15,,Cotton,Gujarat,Sowing Progress,Sowing,,"All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 12.09.2025
+Source: CWWG (via API)
+Area in Lakh Ha
+|                      |   Normal (DA&FW) | Area Sown   | Area Sown   | Difference In Area Coverage Over   |
+|----------------------|------------------|-------------|-------------|------------------------------------|
+| Crop                 |                  | 2025-26     | 2024-25     | 2024-25                            |
+| Rice                 |           403.09 | 438.51      | 430.06      | 8.45                               |
+| Total Pulses         |           129.61 | 118.06      | 117.25      | 0.81                               |
+| Tur                  |            44.71 | 45.81       | 46.26       |
+0.45                              |
+| Urad                 |            32.64 | 23.66       | 22.14       | 1.51                               |
+| Moong                |            35.69 | 34.54       | 34.86       |
+0.32                              |
+| Kulthi               |             1.72 | 0.52        | 0.38        | 0.15                               |
+| Moth Bean            |             9.70 | 9.23        | 9.63        |
+0.40                              |
+| Other Pulses         |             5.15 | 4.30        | 3.98        | 0.32                               |
+| Total Coarse Cereals |           180.71 | 192.91      | 180.75      | 12.17                              |
+| Jowar                |            15.07 | 14.07       | 14.14       |
+0.07                              |
+| Bajra                |            70.69 | 68.44       | 68.07       | 0.37                               |
+| Ragi                 |            11.52 | 10.24       | 9.82        | 0.42                               |
+| Maize                |            78.95 | 94.84       | 84.30       | 10.54                              |
+| Small Millets        |             4.48 | 5.31        | 4.42        | 0.90                               |
+| Total Oilseeds       |           194.63 | 188.81      | 193.93      |
+5.12                              |
+| Groundnut            |            45.10 | 47.99       | 47.65       | 0.34                               |
+| Soybean              |           127.19 | 120.43      | 126.24      |
+5.81                              |
+| Sunflower      |    1.29 |    0.68 |    0.71 |
+0.03 |
+|----------------|---------|---------|---------|---------|
+| Sesamum        |   10.32 |   10.27 |   10.86 |
+0.59 |
+| Nigerseed      |    1.08 |    0.87 |    0.76 |    0.11 |
+| Castorseed     |    9.65 |    8.52 |    7.64 |    0.87 |
+| Other Oilseeds |         |    0.06 |    0.07 |
+0.01 |
+| Sugarcane      |   52.51 |   57.31 |   55.68 |    1.64 |
+| Jute and Mesta |    6.60 |    5.56 |    5.74 |
+0.18 |
+| Cotton         |  129.50 |  109.64 |  112.48 |
+2.85 |
+| Grand Total    | 1096.65 | 1110.80 | 1095.88 |   14.92 |",,,,,,,,"All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 12.09.2025
+Source: CWWG (via API)
+Area in Lakh Ha Normal (DA&FW) Area Sown Area Sown Difference In Area Coverage Over ---------------------- ------------------ ------------- ------------- ------------------------------------ Crop 2025-26 2024-25 2024-25 Rice 403.09 438.51 430.06 8.45 Total Pulses 129.61 118.06 117.25 0.81 Tur 44.71 45.81 46.26 0.45 Urad 32.64 23.66 22.14 1.51 Moong 35.69 34.54 34.86 0.32 Kulthi 1.72 0.52 0.38 0.15 Moth Bean 9.70 9.23 9.63 0.40 Other Pulses 5.15 4.30 3.98 0.32 Total Coarse Cereals 180.71 192.91 180.75 12.17 Jowar 15.07 14.07 14.14 0.07 Bajra 70.69 68.44 68.07 0.37 Ragi 11.52 10.24 9.82 0.42 Maize 78.95 94.84 84.30 10.54 Small Millets 4.48 5.31 4.42 0.90 Total Oilseeds 194.63 188.81 193.93 5.12 Groundnut 45.10 47.99 47.65 0.34 Soybean 127.19 120.43 126.24 5.81 Sunflower 1.29 0.68 0.71 0.03 ---------------- --------- --------- --------- --------- Sesamum 10.32 10.27 10.86 0.59 Nigerseed 1.08 0.87 0.76 0.11 Castorseed 9.65 8.52 7.64 0.87 Other Oilseeds 0.06 0.07 0.01 Sugarcane 52.51 57.31 55.68 1.64 Jute and Mesta 6.60 5.56 5.74 0.18 Cotton 129.50 109.64 112.48 2.85 Grand Total 1096.65 1110.80 1095.88 14.92",Minutes of the meeting of CWWG as on 15.09.2025.pdf,1,Minutes of the meeting of CWWG as on 15.09.2025_p1_c5,0.9,VERIFIED,rule_based
+2025-09-22,,Cotton,Gujarat,Sowing Progress,Sowing,,"All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 19.09.2025
+Source: CWWG (via API)
+Area in Lakh Ha
+|                      |   Normal (DA&FW) | Area Sown   | Area Sown   | Difference In Area Coverage Over   |
+|----------------------|------------------|-------------|-------------|------------------------------------|
+| Crop                 |                  | 2025-26     | 2024-25     | 2024-25                            |
+| Rice                 |           403.09 | 438.51      | 430.06      | 8.45                               |
+| Total Pulses         |           129.61 | 119.29      | 118.40      | 0.89                               |
+| Tur                  |            44.71 | 46.10       | 46.34       |
+0.23                              |
+| Urad                 |            32.64 | 24.07       | 22.59       | 1.48                               |
+| Moong                |            35.69 | 34.79       | 34.96       |
+0.17                              |
+| Kulthi               |             1.72 | 0.63        | 0.50        | 0.12                               |
+| Moth Bean            |             9.70 | 9.24        | 9.63        |
+0.40                              |
+| Other Pulses         |             5.15 | 4.46        | 4.37        | 0.09                               |
+| Total Coarse Cereals |           180.71 | 194.01      | 181.59      | 12.43                              |
+| Jowar                |            15.07 | 14.07       | 14.14       |
+0.07                              |
+| Bajra                |            70.69 | 68.44       | 68.07       | 0.37                               |
+| Ragi                 |            11.52 | 11.21       | 10.52       | 0.69                               |
+| Maize                |            78.95 | 94.95       | 84.30       | 10.65                              |
+| Small Millets        |             4.48 | 5.34        | 4.56        | 0.79                               |
+| Total Oilseeds       |           194.63 | 189.51      | 194.67      |
+5.16                              |
+| Groundnut            |            45.10 | 48.14       | 47.79       | 0.35                               |
+| Soybean        |   127.19 |   120.44 |   126.26 |
+5.83 |
+|----------------|----------|----------|----------|---------|
+| Sunflower      |     1.29 |     0.70 |     0.72 |
+0.02 |
+| Sesamum        |    10.32 |    10.43 |    10.98 |
+0.56 |
+| Nigerseed      |     1.08 |     0.97 |     0.90 |    0.08 |
+| Castorseed     |     9.65 |     8.75 |     7.94 |    0.81 |
+| Other Oilseeds |          |     0.08 |     0.07 |    0.00 |
+| Sugarcane      |    52.51 |    59.07 |    57.22 |    1.86 |
+| Jute and Mesta |     6.60 |     5.56 |     5.74 |
+0.18 |
+| Cotton         |   129.50 |   109.90 |   112.76 |
+2.85 |
+| Grand Total    |  1096.65 |  1115.86 |  1100.42 |   15.43 |",,,,,,,,"All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 19.09.2025
+Source: CWWG (via API)
+Area in Lakh Ha Normal (DA&FW) Area Sown Area Sown Difference In Area Coverage Over ---------------------- ------------------ ------------- ------------- ------------------------------------ Crop 2025-26 2024-25 2024-25 Rice 403.09 438.51 430.06 8.45 Total Pulses 129.61 119.29 118.40 0.89 Tur 44.71 46.10 46.34 0.23 Urad 32.64 24.07 22.59 1.48 Moong 35.69 34.79 34.96 0.17 Kulthi 1.72 0.63 0.50 0.12 Moth Bean 9.70 9.24 9.63 0.40 Other Pulses 5.15 4.46 4.37 0.09 Total Coarse Cereals 180.71 194.01 181.59 12.43 Jowar 15.07 14.07 14.14 0.07 Bajra 70.69 68.44 68.07 0.37 Ragi 11.52 11.21 10.52 0.69 Maize 78.95 94.95 84.30 10.65 Small Millets 4.48 5.34 4.56 0.79 Total Oilseeds 194.63 189.51 194.67 5.16 Groundnut 45.10 48.14 47.79 0.35 Soybean 127.19 120.44 126.26 5.83 ---------------- ---------- ---------- ---------- --------- Sunflower 1.29 0.70 0.72 0.02 Sesamum 10.32 10.43 10.98 0.56 Nigerseed 1.08 0.97 0.90 0.08 Castorseed 9.65 8.75 7.94 0.81 Other Oilseeds 0.08 0.07 0.00 Sugarcane 52.51 59.07 57.22 1.86 Jute and Mesta 6.60 5.56 5.74 0.18 Cotton 129.50 109.90 112.76 2.85 Grand Total 1096.65 1115.86 1100.42 15.43",Minutes of the meeting of CWWG as on 22.09.2025.pdf,1,Minutes of the meeting of CWWG as on 22.09.2025_p1_c6,0.9,VERIFIED,rule_based
+2025-09-29,,Cotton,Gujarat,Sowing Progress,Sowing,,"All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 26.09.2025
+Source: CWWG (via API)
+Area in Lakh Ha
+|                      |   Normal (DA&FW) | Area Sown   | Area Sown   | Difference In Area Coverage Over   |
+|----------------------|------------------|-------------|-------------|------------------------------------|
+| Crop                 |                  | 2025-26     | 2024-25     | 2024-25                            |
+| Rice                 |           403.09 | 441.58      | 435.68      | 5.91                               |
+| Total Pulses         |           129.61 | 119.85      | 118.95      | 0.90                               |
+| Tur                  |            44.71 | 46.31       | 46.39       |
+0.08                              |
+| Urad                 |            32.64 | 24.29       | 22.87       | 1.42                               |
+| Moong                |            35.69 | 34.84       | 34.96       |
+0.12                              |
+| Kulthi               |             1.72 | 0.67        | 0.56        | 0.12                               |
+| Moth Bean            |             9.70 | 9.24        | 9.63        |
+0.40                              |
+| Other Pulses         |             5.15 | 4.51        | 4.55        |
+0.04                              |
+| Total Coarse Cereals |           180.71 | 194.67      | 182.66      | 12.01                              |
+| Jowar                |            15.07 | 14.07       | 14.15       |
+0.08                              |
+| Bajra                |            70.69 | 68.44       | 68.65       | 0.21                               |
+| Ragi                 |            11.52 | 11.81       | 11.00       | 0.81                               |
+| Maize                |            78.95 | 94.95       | 84.30       | 10.65                              |
+| Small Millets        |             4.48 | 5.39        | 4.56        | 0.84                               |
+| Total Oilseeds       |           194.63 | 190.01      | 200.52      |
+10.52                             |
+| Groundnut            |            45.10 | 48.31       | 49.96       |
+1.65                              |
+| Soybean              |           127.19 | 120.45      | 129.55      |
+9.10                              |
+| Sunflower            |             1.29 | 0.70        | 0.73        |
+0.02                              |
+| Sesamum              |            10.32 | 10.50       | 11.07       |
+0.56                              |
+| Nigerseed            |             1.08 | 1.02        | 0.98        | 0.05                               |
+| Castorseed           |             9.65 | 8.94        | 8.17        | 0.77                               |
+| Other Oilseeds       |                  | 0.08        | 0.07        | 0.01                               |
+| Sugarcane            |            52.51 | 59.07       | 57.22       | 1.86                               |
+| Jute and Mesta       |             6.60 | 5.56        | 5.75        |
+0.18                              |
+| Cotton               |           129.50 | 109.98      | 112.95      |
+2.97                              |
+| Grand Total          |          1096.65 | 1120.73     | 1113.72     | 7.01                               |",,,,,,,,"All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 26.09.2025
+Source: CWWG (via API)
+Area in Lakh Ha Normal (DA&FW) Area Sown Area Sown Difference In Area Coverage Over ---------------------- ------------------ ------------- ------------- ------------------------------------ Crop 2025-26 2024-25 2024-25 Rice 403.09 441.58 435.68 5.91 Total Pulses 129.61 119.85 118.95 0.90 Tur 44.71 46.31 46.39 0.08 Urad 32.64 24.29 22.87 1.42 Moong 35.69 34.84 34.96 0.12 Kulthi 1.72 0.67 0.56 0.12 Moth Bean 9.70 9.24 9.63 0.40 Other Pulses 5.15 4.51 4.55 0.04 Total Coarse Cereals 180.71 194.67 182.66 12.01 Jowar 15.07 14.07 14.15 0.08 Bajra 70.69 68.44 68.65 0.21 Ragi 11.52 11.81 11.00 0.81 Maize 78.95 94.95 84.30 10.65 Small Millets 4.48 5.39 4.56 0.84 Total Oilseeds 194.63 190.01 200.52 10.52 Groundnut 45.10 48.31 49.96 1.65 Soybean 127.19 120.45 129.55 9.10 Sunflower 1.29 0.70 0.73 0.02 Sesamum 10.32 10.50 11.07 0.56 Nigerseed 1.08 1.02 0.98 0.05 Castorseed 9.65 8.94 8.17 0.77 Other Oilseeds 0.08 0.07 0.01 Sugarcane 52.51 59.07 57.22 1.86 Jute and Mesta 6.60 5.56 5.75 0.18 Cotton 129.50 109.98 112.95 2.97 Grand Total 1096.65 1120.73 1113.72 7.01",Minutes of the meeting of CWWG as on 29.09.2025.pdf,1,Minutes of the meeting of CWWG as on 29.09.2025_p1_c7,0.9,VERIFIED,rule_based
+2025-09-29,,Cotton,Gujarat,Pest Incidence,,,,,Over All  Intensity  Of  Pests  And  Disease  Remained  Below  Economic  Threshold  Level  (Etl) Except,,,,,,Over all intensity of pests and disease remained below Economic Threshold Level (ETL) except:,Minutes of the meeting of CWWG as on 29.09.2025.pdf,1,Minutes of the meeting of CWWG as on 29.09.2025_p1_c8,0.9,VERIFIED,rule_based
+2025-10-06,,Cotton,Gujarat,Sowing Progress,Sowing,,"All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 03.10.2025
+Source: CWWG (via API)
+Area in Lakh Ha
+|                      |   Normal (DA&FW) | Area Sown   | Area Sown   | Difference In Area Coverage Over   |
+|----------------------|------------------|-------------|-------------|------------------------------------|
+| Crop                 |                  | 2025-26     | 2024-25     | 2024-25                            |
+| Rice                 |           403.09 | 441.58      | 435.68      | 5.91                               |
+| Total Pulses         |           129.61 | 120.41      | 119.04      | 1.37                               |
+| Tur                  |            44.71 | 46.60       | 46.45       | 0.15                               |
+| Urad                 |            32.64 | 24.37       | 22.87       | 1.50                               |
+| Moong                |            35.69 | 34.87       | 34.96       |
+0.09                              |
+| Kulthi               |             1.72 | 0.72        | 0.56        | 0.16                               |
+| Moth Bean            |             9.70 | 9.24        | 9.63        |
+0.39                              |
+| Other Pulses         |             5.15 | 4.62        | 4.58        | 0.05                               |
+| Total Coarse Cereals |           180.71 | 194.67      | 183.54      | 11.13                              |
+| Jowar                |            15.07 | 14.07       | 14.21       |
+0.14                              |
+| Bajra                |            70.69 | 68.44       | 68.65       |
+0.21                              |
+| Ragi                 |            11.52 | 11.81       | 11.96       |
+0.15                              |
+| Maize                |            78.95 | 94.95       | 84.30       | 10.65                              |
+| Small Millets        |             4.48 | 5.39        | 4.42        | 0.97                               |
+| Total Oilseeds       |           194.63 | 190.13      | 200.75      |
+10.62                             |
+| Groundnut            |            45.10 | 48.36       | 49.96       |
+1.60                              |
+| Soybean              |           127.19 | 120.45      | 129.55      |
+9.10                              |
+| Sunflower            |             1.29 | 0.71        | 0.73        |
+0.02                              |
+| Sesamum              |            10.32 | 10.51       | 11.07       |
+0.56                              |
+| Nigerseed            |             1.08 | 1.04        | 0.98        | 0.06                               |
+| Castorseed           |             9.65 | 8.98        | 8.39        | 0.60                               |
+| Other Oilseeds       |                  | 0.08        | 0.08        | 0.00                               |
+| Sugarcane            |            52.51 | 59.07       | 57.22       | 1.86                               |
+| Jute and Mesta       |             6.60 | 5.56        | 5.75        |
+0.18                              |
+| Cotton               |           129.50 | 110.03      | 112.97      |
+2.94                              |
+| Grand Total          |          1096.65 | 1121.46     | 1114.95     | 6.51                               |",,,,,,,,"All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 03.10.2025
+Source: CWWG (via API)
+Area in Lakh Ha Normal (DA&FW) Area Sown Area Sown Difference In Area Coverage Over ---------------------- ------------------ ------------- ------------- ------------------------------------ Crop 2025-26 2024-25 2024-25 Rice 403.09 441.58 435.68 5.91 Total Pulses 129.61 120.41 119.04 1.37 Tur 44.71 46.60 46.45 0.15 Urad 32.64 24.37 22.87 1.50 Moong 35.69 34.87 34.96 0.09 Kulthi 1.72 0.72 0.56 0.16 Moth Bean 9.70 9.24 9.63 0.39 Other Pulses 5.15 4.62 4.58 0.05 Total Coarse Cereals 180.71 194.67 183.54 11.13 Jowar 15.07 14.07 14.21 0.14 Bajra 70.69 68.44 68.65 0.21 Ragi 11.52 11.81 11.96 0.15 Maize 78.95 94.95 84.30 10.65 Small Millets 4.48 5.39 4.42 0.97 Total Oilseeds 194.63 190.13 200.75 10.62 Groundnut 45.10 48.36 49.96 1.60 Soybean 127.19 120.45 129.55 9.10 Sunflower 1.29 0.71 0.73 0.02 Sesamum 10.32 10.51 11.07 0.56 Nigerseed 1.08 1.04 0.98 0.06 Castorseed 9.65 8.98 8.39 0.60 Other Oilseeds 0.08 0.08 0.00 Sugarcane 52.51 59.07 57.22 1.86 Jute and Mesta 6.60 5.56 5.75 0.18 Cotton 129.50 110.03 112.97 2.94 Grand Total 1096.65 1121.46 1114.95 6.51",Minutes of the meeting of CWWG as on 06.10.2025 ..pdf,1,Minutes of the meeting of CWWG as on 06.10.2025 ._p1_c7,0.9,VERIFIED,rule_based
+2025-10-13,,Cotton,Gujarat,Sowing Progress,Sowing,,"All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 03.10.2025
+Source: CWWG (via API)
+Area in Lakh Ha
+|                      |   Normal (DA&FW) | Area Sown   | Area Sown   | Difference In Area Coverage Over   |
+|----------------------|------------------|-------------|-------------|------------------------------------|
+| Crop                 |                  | 2025-26     | 2024-25     | 2024-25                            |
+| Rice                 |           403.09 | 441.58      | 435.68      | 5.91                               |
+| Total Pulses         |           129.61 | 120.41      | 119.04      | 1.37                               |
+| Tur                  |            44.71 | 46.60       | 46.45       | 0.15                               |
+| Urad                 |            32.64 | 24.37       | 22.87       | 1.50                               |
+| Moong                |            35.69 | 34.87       | 34.96       |
+0.09                              |
+| Kulthi               |             1.72 | 0.72        | 0.56        | 0.16                               |
+| Moth Bean            |             9.70 | 9.24        | 9.63        |
+0.39                              |
+| Other Pulses         |             5.15 | 4.62        | 4.58        | 0.05                               |
+| Total Coarse Cereals |           180.71 | 194.67      | 183.54      | 11.13                              |
+| Jowar                |            15.07 | 14.07       | 14.21       |
+0.14                              |
+| Bajra                |            70.69 | 68.44       | 68.65       |
+0.21                              |
+| Ragi                 |            11.52 | 11.81       | 11.96       |
+0.15                              |
+| Maize                |            78.95 | 94.95       | 84.30       | 10.65                              |
+| Small Millets        |             4.48 | 5.39        | 4.42        | 0.97                               |
+| Total Oilseeds       |           194.63 | 190.13      | 200.75      |
+10.62                             |
+| Groundnut            |            45.10 | 48.36       | 49.96       |
+1.60                              |
+| Soybean              |           127.19 | 120.45      | 129.55      |
+9.10                              |
+| Sunflower            |             1.29 | 0.71        | 0.73        |
+0.02                              |
+| Sesamum              |            10.32 | 10.51       | 11.07       |
+0.56                              |
+| Nigerseed            |             1.08 | 1.04        | 0.98        | 0.06                               |
+| Castorseed           |             9.65 | 8.98        | 8.39        | 0.60                               |
+| Other Oilseeds       |                  | 0.08        | 0.08        | 0.00                               |
+| Sugarcane            |            52.51 | 59.07       | 57.22       | 1.86                               |
+| Jute and Mesta       |             6.60 | 5.56        | 5.75        |
+0.18                              |
+| Cotton               |           129.50 | 110.03      | 112.97      |
+2.94                              |
+| Grand Total          |          1096.65 | 1121.46     | 1114.95     | 6.51                               |",,,,,,,,"All India: Progressive Crop Area Sown Report
+Kharif Weekly area coverage as on 03.10.2025
+Source: CWWG (via API)
+Area in Lakh Ha Normal (DA&FW) Area Sown Area Sown Difference In Area Coverage Over ---------------------- ------------------ ------------- ------------- ------------------------------------ Crop 2025-26 2024-25 2024-25 Rice 403.09 441.58 435.68 5.91 Total Pulses 129.61 120.41 119.04 1.37 Tur 44.71 46.60 46.45 0.15 Urad 32.64 24.37 22.87 1.50 Moong 35.69 34.87 34.96 0.09 Kulthi 1.72 0.72 0.56 0.16 Moth Bean 9.70 9.24 9.63 0.39 Other Pulses 5.15 4.62 4.58 0.05 Total Coarse Cereals 180.71 194.67 183.54 11.13 Jowar 15.07 14.07 14.21 0.14 Bajra 70.69 68.44 68.65 0.21 Ragi 11.52 11.81 11.96 0.15 Maize 78.95 94.95 84.30 10.65 Small Millets 4.48 5.39 4.42 0.97 Total Oilseeds 194.63 190.13 200.75 10.62 Groundnut 45.10 48.36 49.96 1.60 Soybean 127.19 120.45 129.55 9.10 Sunflower 1.29 0.71 0.73 0.02 Sesamum 10.32 10.51 11.07 0.56 Nigerseed 1.08 1.04 0.98 0.06 Castorseed 9.65 8.98 8.39 0.60 Other Oilseeds 0.08 0.08 0.00 Sugarcane 52.51 59.07 57.22 1.86 Jute and Mesta 6.60 5.56 5.75 0.18 Cotton 129.50 110.03 112.97 2.94 Grand Total 1096.65 1121.46 1114.95 6.51",Minutes of the meeting of CWWG as on 13.10.2025.pdf,1,Minutes of the meeting of CWWG as on 13.10.2025_p1_c6,0.9,VERIFIED,rule_based
+2026-06-01,,Cotton,All India,Pest Incidence,,,,,,,,,,,"c) Fertilizers: The fertilizer supply remains stable across all products.
+4. Pests &amp; Diseases : The overall incidence of pests and diseases remained below the Economic Threshold Level. The monitoring of Cotton crop for Pink Ball Worm is progressing as per the protocol.",Minutes of the meeting of CWWG as on 01.06.2026.pdf,1,Minutes of the meeting of CWWG as on 01.06.2026_p1_c2,0.9,VERIFIED,rule_based
+2026-06-08,,Cotton,Odisha,Sowing Progress,Sowing,," Sugarcane: About 54.08 lakh ha area coverage under Sugarcane has been reported, which is the same as the area reported during the corresponding period of last year (54.08 lakh ha).
+-
+Cotton: About  7.51  lakh  ha  area  coverage  has  been  reported  compared  to  9.72  lakh  ha  during  the corresponding period of last year.
+-
+Jute :  About  6.18  lakh  ha  area  coverage  has  been  reported  compared  to  6.08  lakh  ha  during  the corresponding period of last year.
+| Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare   | Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare   | Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare   | Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare   | Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare   | Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare   | Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare   |
+|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| S.                                                                                    |                                                                                       | Normal Area (2020-21 to                                                               | Final Area Coverage 2025                                                              | Area Sown                                                                             | Area Sown                                                                             | Increase(+)/ Decrease(-) over 2025                                                    |
+| No.                                                                                   | Crop                                                                                  | 2024-25)                                                                              |                                                                                       | 2026                                                                                  | 2025                                                                                  |                                                                                       |
+| 1                                                                                     | Rice                                                                                  | 412.00                                                                                | 446.70                                                                                | 2.85                                                                                  | 2.65                                                                                  | 0.20                                                                                  |
+| 2                                                                                     | Pulses                                                                                | 123.64                                                                                | 118.97                                                                                | 0.52                                                                                  | 0.35                                                                                  | 0.17                                                                                  |
+| a                                                                                     | Arhar                                                                                 | 44.32                                                                                 | 44.60                                                                                 | 0.05                                                                                  | 0.03                                                                                  | 0.02                                                                                  |
+| b                                                                                     | Urdbean                                                                               | 29.60                                                                                 | 21.26                                                                                 | 0.10                                                                                  | 0.06                                                                                  | 0.04                                                                                  |
+| c                                                                                     | Moongbean                                                                             | 35.48                                                                                 | 37.45                                                                                 | 0.15                                                                                  | 0.17                                                                                  |
+0.01                                                                                 |
+| d                                                                                     | Kulthi                                                                                | 1.48                                                                                  |                                                                                       | 0.04                                                                                  | 0.06                                                                                  |
+0.02                                                                                 |
+| e                                                                                     | Mothbean                                                                              | 9.69                                                                                  |                                                                                       | 0.00                                                                                  | 0.00                                                                                  | 0.00                                                                                  |
+| f                                                                                     | Other pulses*                                                                         | 3.07                                                                                  | 15.66                                                                                 | 0.18                                                                                  | 0.04                                                                                  | 0.14                                                                                  |
+| 3                                                                                     | Shri Anna cum Coarse cereals                                                          | 182.63                                                                                | 192.12                                                                                | 1.01                                                                                  | 1.22                                                                                  |
+0.21                                                                                 |
+| a                                                                                     | Jowar                                                                                 | 14.44                                                                                 | 12.10                                                                                 | 0.03                                                                                  | 0.26                                                                                  |
+0.23                                                                                 |
+| b                                                                                     | Bajra**                                                                               | 70.94                                                                                 | 63.80                                                                                 | 0.02                                                                                  | 0.01                                                                                  | 0.01                                                                                  |
+| c                                                                                     | Ragi                                                                                  | 12.01                                                                                 | 13.46                                                                                 | 0.30                                                                                  | 0.29                                                                                  | 0.01                                                                                  |
+| d                                                                                     | Small millets                                                                         | 4.47                                                                                  | 4.15                                                                                  | 0.28                                                                                  | 0.39                                                                                  |
+0.11                                                                                 |
+| e                                                                                     | Maize                                                                                 | 80.77                                                                                 | 98.61                                                                                 | 0.38                                                                                  | 0.27                                                                                  | 0.11                                                                                  |
+| 4                                                                                     | Oilseeds                                                                              | 200.08                                                                                | 196.38                                                                                | 0.42                                                                                  | 0.52                                                                                  |
+0.10                                                                                 |
+| a                                                                                     | Groundnut                                                                             | 46.79                                                                                 | 50.29                                                                                 | 0.05                                                                                  | 0.09                                                                                  |
+0.04                                                                                 |
+| b                                                                                     | Soybean                                                                               | 128.71                                                                                | 123.86                                                                                | 0.19                                                                                  | 0.17                                                                                  | 0.02                                                                                  |
+| c                                                                                     | Sunflower                                                                             | 1.20                                                                                  | 0.88                                                                                  | 0.11                                                                                  | 0.13                                                                                  |
+0.02                                                                                 |
+| d                                                                                     | Sesamum**                                                                             | 12.88                                                                                 | 9.63                                                                                  | 0.04                                                                                  | 0.10                                                                                  |
+0.06                                                                                 |
+| e                                                                                     | Niger                                                                                 | 1.01                                                                                  | 0.83                                                                                  | 0.00                                                                                  | 0.00                                                                                  | 0.00                                                                                  |
+| f                                                                                     | Castor                                                                                | 9.49                                                                                  | 10.89                                                                                 | 0.00                                                                                  | 0.00                                                                                  | 0.00                                                                                  |
+| g                                                                                     | Other Oilseeds                                                                        | 0.00                                                                                  |                                                                                       | 0.03                                                                                  | 0.03                                                                                  | 0.00                                                                                  |
+| 5                                                                                     | Sugarcane                                                                             | 54.20                                                                                 | 58.84                                                                                 | 54.08                                                                                 | 54.08                                                                                 | 0.00                                                                                  |
+| 6                                                                                     | Jute & Mesta                                                                          | 6.40                                                                                  | 6.06                                                                                  | 6.18                                                                                  | 6.08                                                                                  | 0.10                                                                                  |
+| 7                                                                                     | Cotton                                                                                | 125.51                                                                                | 115.20                                                                                | 7.51                                                                                  | 9.72                                                                                  |
+2.20                                                                                 |
+| Total                                                                                 | Total                                                                                 | 1104.46                                                                               | 1134.27                                                                               | 72.57                                                                                 | 74.61                                                                                 |
+2.04                                                                                 |",,,,,,,," Sugarcane: About 54.08 lakh ha area coverage under Sugarcane has been reported, which is the same as the area reported during the corresponding period of last year (54.08 lakh ha).
+-
+Cotton: About 7.51 lakh ha area coverage has been reported compared to 9.72 lakh ha during the corresponding period of last year.
+-
+Jute : About 6.18 lakh ha area coverage has been reported compared to 6.08 lakh ha during the corresponding period of last year. Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 05.06.2026 Area: In lakh hactare --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- S. Normal Area (2020-21 to Final Area Coverage 2025 Area Sown Area Sown Increase(+)/ Decrease(-) over 2025 No. Crop 2024-25) 2026 2025 1 Rice 412.00 446.70 2.85 2.65 0.20 2 Pulses 123.64 118.97 0.52 0.35 0.17 a Arhar 44.32 44.60 0.05 0.03 0.02 b Urdbean 29.60 21.26 0.10 0.06 0.04 c Moongbean 35.48 37.45 0.15 0.17 0.01 d Kulthi 1.48 0.04 0.06 0.02 e Mothbean 9.69 0.00 0.00 0.00 f Other pulses* 3.07 15.66 0.18 0.04 0.14 3 Shri Anna cum Coarse cereals 182.63 192.12 1.01 1.22 0.21 a Jowar 14.44 12.10 0.03 0.26 0.23 b Bajra** 70.94 63.80 0.02 0.01 0.01 c Ragi 12.01 13.46 0.30 0.29 0.01 d Small millets 4.47 4.15 0.28 0.39 0.11 e Maize 80.77 98.61 0.38 0.27 0.11 4 Oilseeds 200.08 196.38 0.42 0.52 0.10 a Groundnut 46.79 50.29 0.05 0.09 0.04 b Soybean 128.71 123.86 0.19 0.17 0.02 c Sunflower 1.20 0.88 0.11 0.13 0.02 d Sesamum** 12.88 9.63 0.04 0.10 0.06 e Niger 1.01 0.83 0.00 0.00 0.00 f Castor 9.49 10.89 0.00 0.00 0.00 g Other Oilseeds 0.00 0.03 0.03 0.00 5 Sugarcane 54.20 58.84 54.08 54.08 0.00 6 Jute & Mesta 6.40 6.06 6.18 6.08 0.10 7 Cotton 125.51 115.20 7.51 9.72 2.20 Total Total 1104.46 1134.27 72.57 74.61 2.04",Minutes of the meeting of CWWG as on 08.06.2026.pdf,1,Minutes of the meeting of CWWG as on 08.06.2026_p1_c3,0.9,VERIFIED,rule_based
+2026-06-29,,Cotton,Punjab,Area Coverage,,,,,,,,,," Sugarcane : About 57.31 lakh ha area coverage (106% of Normal area) has been reported compared to 56.64 lakh ha during the corresponding period of last year.
+-
+Cotton : About 29.66 lakh ha area coverage has been reported compared to 45.36 lakh ha during the corresponding period of last year.
+-
+Jute : About 6.25 lakh ha area coverage has been reported compared to 6.13 lakh ha during the corresponding period of last year. Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- S. Normal Area (2020-21 to 2024- 25) Final Area Coverage 2025 Area covered as on date Area covered as on date Increase(+)/ Decrease(-) over 2025 No. Crop 2026 2025 1 Rice 412.00 446.70 25.75 34.41 8.65 2 Pulses 123.64 118.97 14.92 21.46 6.53 a Arhar 44.32 44.60 3.56 8.45 4.89 b Urdbean 29.60 21.26 1.07 2.51 1.44 c Moongbean 35.48 37.45 8.37 8.63 0.26 d Kulthi 1.48 0.13 0.10 0.03 e Mothbean 9.69 0.82 0.56 0.26 f Other pulses* 3.07 15.66 0.98 1.21 0.23 3 Shri Anna cum Coarse cereals 182.63 192.12 31.84 36.07 4.23 a Jowar 14.44 12.10 3.38 2.70 0.68 b Bajra** 70.94 63.80 11.34 13.06 1.72 c Ragi 12.01 13.46 0.66 0.73 0.07 d Small millets 4.47 4.15 0.75 0.97 0.22 e Maize 80.77 98.61 15.71 18.61 2.90 4 Oilseeds 200.08 196.38 16.99 36.41 19.42 a Groundnut 46.79 50.29 8.87 15.29 6.42 b Soybean 128.71 123.86 6.92 19.97 13.05 c Sunflower 1.20 0.88 0.73 0.44 0.29 d Sesamum** 12.88 9.63 0.36 0.63 0.27 e Niger 1.01 0.83 0.02 0.00 0.02 f Castor 9.49 10.89 0.04 0.03 0.01 g Other Oilseeds 0.00 0.04 0.04 0.00 5 Sugarcane 54.20 58.84 57.31 56.64 0.67 6 Jute & Mesta 6.40 6.06 6.25 6.13 0.12 7 Cotton 125.51 115.20 29.66 45.36 15.70 Total Total 1104.46 1134.27 182.72 236.46 53.74"," Sugarcane : About 57.31 lakh ha area coverage (106% of Normal area) has been reported compared to 56.64 lakh ha during the corresponding period of last year.
+-
+Cotton : About 29.66 lakh ha area coverage has been reported compared to 45.36 lakh ha during the corresponding period of last year.
+-
+Jute : About 6.25 lakh ha area coverage has been reported compared to 6.13 lakh ha during the corresponding period of last year. Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 25.06.2026 Area: In lakh hactare --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- S. Normal Area (2020-21 to 2024- 25) Final Area Coverage 2025 Area covered as on date Area covered as on date Increase(+)/ Decrease(-) over 2025 No. Crop 2026 2025 1 Rice 412.00 446.70 25.75 34.41 8.65 2 Pulses 123.64 118.97 14.92 21.46 6.53 a Arhar 44.32 44.60 3.56 8.45 4.89 b Urdbean 29.60 21.26 1.07 2.51 1.44 c Moongbean 35.48 37.45 8.37 8.63 0.26 d Kulthi 1.48 0.13 0.10 0.03 e Mothbean 9.69 0.82 0.56 0.26 f Other pulses* 3.07 15.66 0.98 1.21 0.23 3 Shri Anna cum Coarse cereals 182.63 192.12 31.84 36.07 4.23 a Jowar 14.44 12.10 3.38 2.70 0.68 b Bajra** 70.94 63.80 11.34 13.06 1.72 c Ragi 12.01 13.46 0.66 0.73 0.07 d Small millets 4.47 4.15 0.75 0.97 0.22 e Maize 80.77 98.61 15.71 18.61 2.90 4 Oilseeds 200.08 196.38 16.99 36.41 19.42 a Groundnut 46.79 50.29 8.87 15.29 6.42 b Soybean 128.71 123.86 6.92 19.97 13.05 c Sunflower 1.20 0.88 0.73 0.44 0.29 d Sesamum** 12.88 9.63 0.36 0.63 0.27 e Niger 1.01 0.83 0.02 0.00 0.02 f Castor 9.49 10.89 0.04 0.03 0.01 g Other Oilseeds 0.00 0.04 0.04 0.00 5 Sugarcane 54.20 58.84 57.31 56.64 0.67 6 Jute & Mesta 6.40 6.06 6.25 6.13 0.12 7 Cotton 125.51 115.20 29.66 45.36 15.70 Total Total 1104.46 1134.27 182.72 236.46 53.74",Minutes of the meeting of CWWG as on 29.06.2026.pdf,1,Minutes of the meeting of CWWG as on 29.06.2026_p1_c3,0.7,VERIFIED,rule_based
+2026-07-06,,Cotton,Odisha,Sowing Progress,Sowing,,"| Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha)   | Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha)   | Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha)   | Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha)   | Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha)   | Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha)   | Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha)   |
+|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 1                                                                            | Andhra Pradesh                                                               | 5.38                                                                         | 4.99                                                                         | 1.86                                                                         | 0.72                                                                         | 0.03                                                                         |
+| 2                                                                            | Telangana                                                                    | 19.70                                                                        | 21.04                                                                        | 12.27                                                                        | 12.28                                                                        | 0.00                                                                         |
+| 3                                                                            | Gujarat                                                                      | 24.19                                                                        | 21.00                                                                        | 9.32                                                                         | 17.11                                                                        |
+0.55                                                                        |
+| 4                                                                            | Haryana                                                                      | 5.85                                                                         | 4.00                                                                         | 3.11                                                                         | 3.92                                                                         |
+0.05                                                                        |
+| 5                                                                            | Karnataka                                                                    | 7.73                                                                         | 8.00                                                                         | 5.46                                                                         | 6.12                                                                         |
+0.03                                                                        |
+| 6                                                                            | Madhya Pradesh                                                               | 5.82                                                                         | 5.68                                                                         | 4.19                                                                         | 4.26                                                                         | 0.00                                                                         |
+| 7                                                                            | Maharashtra                                                                  | 42.99                                                                        | 38.75                                                                        | 20.61                                                                        | 32.93                                                                        |
+0.12                                                                        |
+| 8                                                                            | Odisha                                                                       | 2.07                                                                         | 2.43                                                                         | 0.38                                                                         | 1.22                                                                         |
+0.84                                                                        |
+| 9                                                                            | Punjab                                                                       | 2.25                                                                         | 1.25                                                                         | 0.79                                                                         | 1.19                                                                         | 0.00                                                                         |
+| 10                                                                           | Rajasthan                                                                    | 8.02                                                                         | 7.20                                                                         | 4.94                                                                         | 6.02                                                                         |
+0.09                                                                        |
+| 11                                                                           | Tamil Nadu                                                                   | 1.33                                                                         | 1.47                                                                         | 0.04                                                                         | 0.04                                                                         | 0.00                                                                         |
+| 12                                                                           | Others                                                                       | 0.18                                                                         | 0.31                                                                         | 0.21                                                                         | 0.26                                                                         |
+0.05                                                                        |
+| All India                                                                    | All India                                                                    | 125.51                                                                       | 116.12                                                                       | 63.18                                                                        | 82.00                                                                        |
+22.88                                                                       |",,,,,,,,Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha) Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha) Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha) Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha) Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha) Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha) Sowing progress of cotton area coverage as on 05.07.2026 Area (in lakh ha) ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ 1 Andhra Pradesh 5.38 4.99 1.86 0.72 0.03 2 Telangana 19.70 21.04 12.27 12.28 0.00 3 Gujarat 24.19 21.00 9.32 17.11 0.55 4 Haryana 5.85 4.00 3.11 3.92 0.05 5 Karnataka 7.73 8.00 5.46 6.12 0.03 6 Madhya Pradesh 5.82 5.68 4.19 4.26 0.00 7 Maharashtra 42.99 38.75 20.61 32.93 0.12 8 Odisha 2.07 2.43 0.38 1.22 0.84 9 Punjab 2.25 1.25 0.79 1.19 0.00 10 Rajasthan 8.02 7.20 4.94 6.02 0.09 11 Tamil Nadu 1.33 1.47 0.04 0.04 0.00 12 Others 0.18 0.31 0.21 0.26 0.05 All India All India 125.51 116.12 63.18 82.00 22.88,Minutes of the meeting of CWWG as on 06.07.2026.pdf,1,Minutes of the meeting of CWWG as on 06.07.2026_p1_c4,0.9,VERIFIED,rule_based
+2026-07-13,,Cotton,All India,Area Coverage,,,,,,,,,," Sugarcane : About 57.58 lakh ha area coverage (106% of Normal area) has been reported compared to 56.72 lakh ha during the corresponding period of last year.
+-
+Cotton : About 79.54 lakh ha area coverage has been reported compared to 93.95 lakh ha during the corresponding period of last year.
+-
+Jute : About 6.28 lakh ha area coverage has been reported compared to 6.16 lakh ha during the corresponding period of last year. Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- S. No. Normal Area (2020-21 to 2024- 25) Final Area Coverage 2025 Area covered as on date Area covered as on date Increase(+)/ Decrease(-) over 2025 S. No. Normal Area (2020-21 to 2024- 25) Final Area Coverage 2025 2026 2025 Increase(+)/ Decrease(-) over 2025 1 Rice 412.00 446.70 114.69 125.53 10.84 2 Pulses 123.64 118.97 56.63 73.85 17.22 a Arhar 44.32 44.60 19.54 28.03 8.49 b Urdbean 29.60 21.26 9.34 13.29 3.95 c Moongbean 35.48 37.45 21.52 24.08 2.56 d Kulthi 1.48 0.14 0.13 0.01 e Mothbean 9.69 4.40 6.12 1.72 f Other pulses* 3.07 15.66 1.69 2.20 0.52 3 Shri Anna cum Coarse cereals 182.63 192.12 98.69 127.30 28.61 a Jowar 14.44 12.10 6.88 9.01 2.13 b Bajra** 70.94 63.80 33.76 45.98 12.22 c Ragi 12.01 13.46 0.93 1.11 0.18 d Small millets 4.47 4.15 1.16 1.64 0.48 e Maize 80.77 98.61 55.97 69.56 13.59 4 Oilseeds 200.08 196.38 117.83 149.18 31.34 a Groundnut 46.79 50.29 23.40 35.45 12.05 b Soybean 128.71 123.86 90.51 107.72 17.21 c Sunflower 1.20 0.88 0.86 0.53 0.33 d Sesamum** 12.88 9.63 2.79 5.17 2.38 e Niger 1.01 0.83 0.06 0.01 0.05 f Castor 9.49 10.89 0.14 0.24 0.10 g Other Oilseeds 0.00 0.07 0.05 0.03 5 Sugarcane 54.20 58.84 57.58 56.72 0.86 6 Jute & Mesta 6.40 6.06 6.28 6.16 0.12 7 Cotton 125.51 115.20 79.54 93.95 14.41 Total Total 1104.46 1134.27 531.25 632.69 101.44"," Sugarcane : About 57.58 lakh ha area coverage (106% of Normal area) has been reported compared to 56.72 lakh ha during the corresponding period of last year.
+-
+Cotton : About 79.54 lakh ha area coverage has been reported compared to 93.95 lakh ha during the corresponding period of last year.
+-
+Jute : About 6.28 lakh ha area coverage has been reported compared to 6.16 lakh ha during the corresponding period of last year. Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 10.07.2026 Area: In lakh hactare --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- S. No. Normal Area (2020-21 to 2024- 25) Final Area Coverage 2025 Area covered as on date Area covered as on date Increase(+)/ Decrease(-) over 2025 S. No. Normal Area (2020-21 to 2024- 25) Final Area Coverage 2025 2026 2025 Increase(+)/ Decrease(-) over 2025 1 Rice 412.00 446.70 114.69 125.53 10.84 2 Pulses 123.64 118.97 56.63 73.85 17.22 a Arhar 44.32 44.60 19.54 28.03 8.49 b Urdbean 29.60 21.26 9.34 13.29 3.95 c Moongbean 35.48 37.45 21.52 24.08 2.56 d Kulthi 1.48 0.14 0.13 0.01 e Mothbean 9.69 4.40 6.12 1.72 f Other pulses* 3.07 15.66 1.69 2.20 0.52 3 Shri Anna cum Coarse cereals 182.63 192.12 98.69 127.30 28.61 a Jowar 14.44 12.10 6.88 9.01 2.13 b Bajra** 70.94 63.80 33.76 45.98 12.22 c Ragi 12.01 13.46 0.93 1.11 0.18 d Small millets 4.47 4.15 1.16 1.64 0.48 e Maize 80.77 98.61 55.97 69.56 13.59 4 Oilseeds 200.08 196.38 117.83 149.18 31.34 a Groundnut 46.79 50.29 23.40 35.45 12.05 b Soybean 128.71 123.86 90.51 107.72 17.21 c Sunflower 1.20 0.88 0.86 0.53 0.33 d Sesamum** 12.88 9.63 2.79 5.17 2.38 e Niger 1.01 0.83 0.06 0.01 0.05 f Castor 9.49 10.89 0.14 0.24 0.10 g Other Oilseeds 0.00 0.07 0.05 0.03 5 Sugarcane 54.20 58.84 57.58 56.72 0.86 6 Jute & Mesta 6.40 6.06 6.28 6.16 0.12 7 Cotton 125.51 115.20 79.54 93.95 14.41 Total Total 1104.46 1134.27 531.25 632.69 101.44",Minutes of the meeting of CWWG as on 13.07.2026.pdf,1,Minutes of the meeting of CWWG as on 13.07.2026_p1_c2,0.7,VERIFIED,rule_based
+2026-07-13,,Cotton,Odisha,Sowing Progress,Sowing,,"| Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha)   | Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha)   | Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha)   | Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha)   | Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha)   | Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha)   | Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha)   |
+|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 1                                                                            | Andhra Pradesh                                                               | 5.38                                                                         | 4.99                                                                         | 2.401                                                                        | 1.625                                                                        | 0.78                                                                         |
+| 2                                                                            | Telangana                                                                    | 19.70                                                                        | 21.04                                                                        | 15.962                                                                       | 13.997                                                                       | 1.96                                                                         |
+| 3                                                                            | Gujarat                                                                      | 24.19                                                                        | 21.00                                                                        | 9.319                                                                        | 17.106                                                                       |
+7.79                                                                        |
+| 4                                                                            | Haryana                                                                      | 5.85                                                                         | 4.00                                                                         | 3.107                                                                        | 4.010                                                                        |
+0.90                                                                        |
+| 5                                                                            | Karnataka                                                                    | 7.73                                                                         | 8.00                                                                         | 6.080                                                                        | 6.670                                                                        |
+0.59                                                                        |
+| 6                                                                            | Madhya Pradesh                                                               | 5.82                                                                         | 5.68                                                                         | 5.406                                                                        | 5.460                                                                        |
+0.05                                                                        |
+| 7                                                                            | Maharashtra                                                                  | 42.99                                                                        | 38.75                                                                        | 30.072                                                                       | 35.464                                                                       |
+5.39                                                                        |
+| 8                                                                            | Odisha                                                                       | 2.07                                                                         | 2.43                                                                         | 0.943                                                                        | 1.601                                                                        |
+0.66                                                                        |
+| 9                                                                            | Punjab                                                                       | 2.25                                                                         | 1.25                                                                         | 0.851                                                                        | 1.279                                                                        |
+0.43                                                                        |
+| 10                                                                           | Rajasthan                                                                    | 8.02                                                                         | 7.20                                                                         | 5.153                                                                        | 6.437                                                                        |
+1.28                                                                        |
+| 11                                                                           | Tamil Nadu                                                                   | 1.33                                                                         | 1.47                                                                         | 0.040                                                                        | 0.040                                                                        | 0.00                                                                         |
+| 12                                                                           | Others                                                                       | 0.18                                                                         | 0.31                                                                         | 0.210                                                                        | 0.260                                                                        |
+0.05                                                                        |
+| All India                                                                    | All India                                                                    | 125.51                                                                       | 116.12                                                                       | 79.545                                                                       | 93.950                                                                       |
+14.41                                                                       |",,,,,,,,Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha) Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha) Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha) Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha) Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha) Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha) Sowing progress of Cotton area coverage as on 10.07.2026 Area (in lakh ha) ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ ------------------------------------------------------------------------------ 1 Andhra Pradesh 5.38 4.99 2.401 1.625 0.78 2 Telangana 19.70 21.04 15.962 13.997 1.96 3 Gujarat 24.19 21.00 9.319 17.106 7.79 4 Haryana 5.85 4.00 3.107 4.010 0.90 5 Karnataka 7.73 8.00 6.080 6.670 0.59 6 Madhya Pradesh 5.82 5.68 5.406 5.460 0.05 7 Maharashtra 42.99 38.75 30.072 35.464 5.39 8 Odisha 2.07 2.43 0.943 1.601 0.66 9 Punjab 2.25 1.25 0.851 1.279 0.43 10 Rajasthan 8.02 7.20 5.153 6.437 1.28 11 Tamil Nadu 1.33 1.47 0.040 0.040 0.00 12 Others 0.18 0.31 0.210 0.260 0.05 All India All India 125.51 116.12 79.545 93.950 14.41,Minutes of the meeting of CWWG as on 13.07.2026.pdf,1,Minutes of the meeting of CWWG as on 13.07.2026_p1_c3,0.9,VERIFIED,rule_based

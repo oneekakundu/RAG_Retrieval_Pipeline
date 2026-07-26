@@ -1,0 +1,24 @@
+{
+  "crop": "Bengal Gram (Gram/Chickpea)",
+  "state": "Maharashtra",
+  "week": "2026-02-09",
+  "observation_type": "Area Coverage",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [
+    {
+      "value": " Wheat: About  334.17  lakh  ha  (107%  of  normal)  area  coverage  under  Wheat  has  been reported as compared to 328.04 lakh ha during the corresponding period of last year.\n-\nRapeseed &amp; Mustard : About 89.36 (113% of normal) lakh ha area coverage under Rapeseed &amp;  Mustard  has  been  reported  as  compared  to  86.57  lakh  ha  during  the  corresponding period of last year.\n-\nGram: About 96.20 (95.2% of normal) lakh ha area coverage under Gram has been reported as compared to 91.22 lakh ha during the corresponding period of last year.",
+      "evidence": " Wheat: About  334.17  lakh  ha  (107%  of  normal)  area  coverage  under  Wheat  has  been reported as compared to 328.04 lakh ha during the corresponding period of last year.\n-\nRapeseed &amp; Mustard : About 89.36 (113% of normal) lakh ha area coverage under Rapeseed &amp;  Mustard  has  been  reported  as  compared  to  86.57  lakh  ha  during  the  corresponding period of last year.\n-\nGram: About 96.20 (95.2% of normal) lakh ha area coverage under Gram has been reported as compared to 91.22 lakh ha during the corresponding period of last year."
+    }
+  ],
+  "evidence": [
+    " Wheat: About  334.17  lakh  ha  (107%  of  normal)  area  coverage  under  Wheat  has  been reported as compared to 328.04 lakh ha during the corresponding period of last year.\n-\nRapeseed &amp; Mustard : About 89.36 (113% of normal) lakh ha area coverage under Rapeseed &amp;  Mustard  has  been  reported  as  compared  to  86.57  lakh  ha  during  the  corresponding period of last year.\n-\nGram: About 96.20 (95.2% of normal) lakh ha area coverage under Gram has been reported as compared to 91.22 lakh ha during the corresponding period of last year."
+  ],
+  "confidence": 0.7
+}

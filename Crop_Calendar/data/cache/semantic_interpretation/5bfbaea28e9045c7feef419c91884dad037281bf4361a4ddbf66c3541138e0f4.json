@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Gujarat",
+  "week": "2025-08-18",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Maximum  Temperatures  Are  Likely  To  Be  Above  Normal  In  Many  Parts  Of  Central  India, Gujarat, Rajasthan, East Uttar Pradesh, Bihar And Ne India During The First Week",
+      "evidence": "Maximum  temperatures  are  likely  to  be  above  normal  in  many  parts  of  Central  India, Gujarat, Rajasthan, East Uttar Pradesh, Bihar and NE India during the first week."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Maximum  temperatures  are  likely  to  be  above  normal  in  many  parts  of  Central  India, Gujarat, Rajasthan, East Uttar Pradesh, Bihar and NE India during the first week."
+  ],
+  "confidence": 0.9
+}

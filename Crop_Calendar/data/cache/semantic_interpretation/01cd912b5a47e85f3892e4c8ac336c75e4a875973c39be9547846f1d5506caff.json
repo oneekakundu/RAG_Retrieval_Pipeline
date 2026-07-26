@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Chhattisgarh",
+  "week": "2026-06-22",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Heat Wave Conditions Very Likely In Isolated Pockets Over Chhattisgarh On 22Nd &Amp; 23Rd June; East Madhya  Pradesh,  Vidarbha  During  22Nd-25Th  June,  East  Uttar  Pradesh  During  22Nd-24Th  June; Telangana On 22Nd June; With Severe Heat Wave Conditions In Isolated Pockets During 22Nd-24Th June",
+      "evidence": " Heat wave conditions very likely in isolated pockets over Chhattisgarh on 22nd &amp; 23rd June; East Madhya  Pradesh,  Vidarbha  during  22nd-25th  June,  East  Uttar  Pradesh  during  22nd-24th  June; Telangana on 22nd June; with severe heat wave conditions in isolated pockets during 22nd-24th June."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Heat wave conditions very likely in isolated pockets over Chhattisgarh on 22nd &amp; 23rd June; East Madhya  Pradesh,  Vidarbha  during  22nd-25th  June,  East  Uttar  Pradesh  during  22nd-24th  June; Telangana on 22nd June; with severe heat wave conditions in isolated pockets during 22nd-24th June."
+  ],
+  "confidence": 0.9
+}

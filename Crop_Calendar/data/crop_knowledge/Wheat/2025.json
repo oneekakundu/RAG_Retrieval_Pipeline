@@ -1,0 +1,77 @@
+{
+  "crop": "Wheat",
+  "year": "2025",
+  "metadata": {
+    "generated_at": "2026-07-23T21:17:12.064080",
+    "total_observations": 2,
+    "pipeline_version": "2.1"
+  },
+  "statistics": {
+    "states_observed": [
+      "All India"
+    ],
+    "growth_stages": [],
+    "common_pests": [],
+    "common_diseases": [],
+    "first_appearance": "2025-12-08",
+    "latest_appearance": "2025-12-22"
+  },
+  "observations": [
+    {
+      "id": 586,
+      "date": "2025-12-22",
+      "report_week": "2025-12-22",
+      "state": "All India",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": "Normal",
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "recommendation": null,
+      "advisory": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "| All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   |\n|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|\n| Increasing Trend                        | Increasing Trend                        | Decreasing Trend                        | Decreasing Trend                        |\n| Commodities                             | % Variation over last Week              | Commodities                             | % Variation over last Week              |\n| Wheat                                   | Wheat                                   | 0.32                                    | Paddy (Rice un-                         |",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 22.12.2025.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 536,
+      "date": "2025-12-08",
+      "report_week": "2025-12-08",
+      "state": "All India",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": "Normal",
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "recommendation": null,
+      "advisory": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "| All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   |\n|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|\n| Increasing Trend                        | Increasing Trend                        | Decreasing Trend                        | Decreasing Trend                        |\n| Commodities                             | % Variation over last Week              | Commodities                             | % Variation over last Week              |\n| Paddy (Rice un-                         | 5.28                                    | Wheat                                   | 1.38                                    |",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 08.12.2025.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "seq_index": 6,
+  "pdf_name": "Minutes of the meeting of CWWG as on 03.11.2025.pdf",
+  "pdf_hash": "a24852e72a87406248f9225cb91ca3f950487ac09965dcf97fba3de2b4ea351d",
+  "report_week": "2025-11-03",
+  "processed_at": "2026-07-25 12:57:15",
+  "record_count": 1,
+  "records": [
+    {
+      "id": null,
+      "chunk_id": "Minutes of the meeting of CWWG as on 03.11.2025_p1_c1",
+      "crop": "Rice",
+      "state": "Jharkhand",
+      "week": "2025-11-03",
+      "source_pdf": "Minutes of the meeting of CWWG as on 03.11.2025.pdf",
+      "page_number": 1,
+      "observation_type": "Other",
+      "growth_stage": null,
+      "sowing_status": null,
+      "harvest_status": null,
+      "pests": null,
+      "diseases": null,
+      "weather_impacts": null,
+      "advisories": null,
+      "statistics": null,
+      "evidence_sentence": "Over all  intensity  of  pests  and  disease  remained  below  Economic  Threshold  Level  (ETL) except:\n| फसल Crop   | राज्य State   | जिला/उपजिला/गाांव District/ Sub District/ Village   | स्रोत / Source                                                                    | कीट / रोग Pest Disease            | राज्य में फसल क े अांतगगत क ु ल क्षेत्रफल ( हेक्टेयर ) Total area under the crop in the state (ha)   |   तीव्रता Intensity संक्रमित / प्रभावितक्षेत्र * ETL ( हेक्टेयर ) सेऊपर / Area infested/Infected above *ETL (ha) | की गई कारगवाई / जटप्पणी Action Taken/ Remark                 |\n|------------|---------------|-----------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|\n| Paddy      | Jharkhand     | Ranchi, Khunti, Lohardaga                           | CIPMC, Ranchi 1) Joint Survey was conducted with DAO, Lohardaga in field crops on | Bacterial leaf blight Brown plant |\n-                                                                                                   |                                                                                                               01 |\nAdvisories issued and follow up is going on with concerned |",
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_notes": "Verified 0 fields against source text",
+      "timestamp": ""
+    }
+  ]
+}

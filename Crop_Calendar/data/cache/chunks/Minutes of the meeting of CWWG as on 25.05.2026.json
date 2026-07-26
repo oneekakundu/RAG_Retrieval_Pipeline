@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-25T15:11:21.318709"
+  },
+  "data": [
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 25.05.2026.pdf_0",
+      "chunk_text": " As on May 22, 2026, the area sown under summer crops is 86.02 lakh ha as compared to 83.50 lakh ha during the corresponding period of last year.  Of this, area of 31.05 lakh ha has been sown under Rice this year. There is also an increase in the area sown under Maize by about 1.50 lakh ha so far from the last 5-years average.\n-\nAs on 22.05.2026, 97.92% of area  has  been  harvested  for  Rabi  crops  all  over  India.  The  harvest  of pulses,  oilseeds,  and  Shri  Anna-cum-coarse  cereals  has  been  completed;  79.71%  area  of  Rice  and 99.50% area of Wheat has been harvested for Rabi crops 2025-26.",
+      "detected_crop": "Rice",
+      "heading": "1. Rabi Season harvest and Summer Season Sowing Status:",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 25.05.2026.pdf",
+      "state_context": "All India"
+    },
+    {
+      "detected_crop": "Crop",
+      "state_context": "Punjab",
+      "chunk_text": " Low  to  moderate  probability  of  Heatwave  conditions  likely  over  some  parts  of  northwest  India (Punjab, Haryana, Rajasthan, Uttar Pradesh, Jammu &amp; Kashmir, southern parts of Himachal Pradesh &amp; Uttarakhand) during some/many days of the week.",
+      "heading": "Week 2 (29 May - 04 June 2026):",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 25.05.2026.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 25.05.2026.pdf_1"
+    },
+    {
+      "detected_crop": "Crop",
+      "state_context": "Punjab",
+      "chunk_text": "Low probability of warm night conditions is likely over Punjab, Haryana, and adjoining West Uttar Pradesh on some days of the week.",
+      "heading": "Week 2 (29 May - 04 June 2026):",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 25.05.2026.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 25.05.2026.pdf_2"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 25.05.2026.pdf_3",
+      "chunk_text": " Rice : About 31.05 lakh ha area coverage under Summer Rice has been reported as compared to 32.42 lakh ha during the corresponding period of last year.\n-\nPulses : About 27.91 lakh ha area coverage has been reported compared to 27.26 lakh ha during the corresponding period of last year.\n-\nOilseeds : About 11.04 lakh ha area coverage has been reported compared to 9.58 lakh ha during the corresponding period of last year.\n| Progress of Area coverage under Summer crops as on 22.05.2026 (In lakh hectare)   | Progress of Area coverage under Summer crops as on 22.05.2026 (In lakh hectare)   | Progress of Area coverage under Summer crops as on 22.05.2026 (In lakh hectare)   | Progress of Area coverage under Summer crops as on 22.05.2026 (In lakh hectare)   | Progress of Area coverage under Summer crops as on 22.05.2026 (In lakh hectare)   | Progress of Area coverage under Summer crops as on 22.05.2026 (In lakh hectare)   | Progress of Area coverage under Summer crops as on 22.05.2026 (In lakh hectare)   |\n|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|\n| Sl. No.                                                                           | Crops                                                                             | Normal Summer Area (DES)*                                                         | Final Summer                                                                      | Area Sown                                                                         | Area Sown                                                                         | Increase/ Decrease over corresponding period of Last year                         |\n| Sl. No.                                                                           | Crops                                                                             | Normal Summer Area (DES)*                                                         | Area 2025                                                                         | Current Year (2026)                                                               | Corresponding period of Last Year (2025)                                          | Increase/ Decrease over corresponding period of Last year                         |\n| 1                                                                                 | Rice                                                                              | 31.49                                                                             | 33.28                                                                             | 31.05                                                                             | 32.42                                                                             |\n1.36                                                                             |\n| 2                                                                                 | Pulses                                                                            | 23.40                                                                             | 27.07                                                                             | 27.91                                                                             | 27.26                                                                             | 0.65                                                                              |\n| a                                                                                 | Greengram                                                                         | 20.44                                                                             | 23.49                                                                             | 23.01                                                                             | 23.49                                                                             |\n0.49                                                                             |\n| b                                                                                 | Blackgram                                                                         | 2.96                                                                              | 3.26                                                                              | 4.60                                                                              | 3.58                                                                              | 1.02                                                                              |\n| c                                                                                 | Other Pulses                                                                      | 0.00                                                                              |\n| 0.30                                                                              | 0.19                                                                              | 0.11                                                                              |\n| 3                                                                                 | Shree Anna cum Coarse Cereals                                                     | 12.08                                                                             | 14.06                                                                             | 16.01                                                                             | 14.25                                                                             | 1.77                                                                              |\n| a                                                                                 | Jowar                                                                             | 0.34                                                                              | 0.36                                                                              | 0.37                                                                              | 0.36                                                                              | 0.01                                                                              |\n| b                                                                                 | Bajra                                                                             | 4.43                                                                              | 5.20                                                                              | 5.40                                                                              | 5.20                                                                              | 0.20                                                                              |\n| c                                                                                 | Ragi                                                                              | 0.31                                                                              |\n| 0.22                                                                              | 0.16                                                                              | 0.06                                                                              |\n| d                                                                                 | Small Millets                                                                     | 0.02                                                                              |\n| 0.03                                                                              | 0.03                                                                              | 0.00                                                                              |\n| e                                                                                 | Maize                                                                             | 6.98                                                                              | 8.50                                                                              | 10.00                                                                             | 8.50                                                                              | 1.50                                                                              |\n| 4                                                                                 | Oilseeds                                                                          | 8.40                                                                              | 9.51                                                                              | 11.04                                                                             | 9.58                                                                              | 1.47                                                                              |\n| a                                                                                 | Groundnut                                                                         | 3.40                                                                              | 4.20                                                                              | 5.51                                                                              | 4.20                                                                              | 1.31                                                                              |\n| b                                                                                 | Sunflower                                                                         | 0.34                                                                              | 0.35                                                                              | 0.39                                                                              | 0.35                                                                              | 0.04                                                                              |\n| c                                                                                 | Sesamum                                                                           | 4.66                                                                              | 4.96                                                                              | 5.07                                                                              | 4.96                                                                              | 0.11                                                                              |\n| d                                                                                 | Other Oilseeds                                                                    | 0.00                                                                              |\n| 0.07                                                                              | 0.06                                                                              | 0.00                                                                              |\n| Total                                                                             | Total                                                                             | 75.37                                                                             | 83.92                                                                             | 86.02                                                                             | 83.50                                                                             | 2.52                                                                              |\nSource: Crop Division, DoA&amp;FW, MoA&amp;FW\nSOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 22.05.2026\n(Area in lakh ha.)\n|----------|----------------------------|---------------------|---------------------------------|--------------------|-------------------------------------------------------------------------------------------------------|",
+      "detected_crop": "Wheat",
+      "heading": "Rabi Crops - Area coverage",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 25.05.2026.pdf",
+      "state_context": "Punjab"
+    },
+    {
+      "detected_crop": "Wheat",
+      "state_context": "Punjab",
+      "harvest_progress": "100%",
+      "chunk_text": "Wheat is 100% harvested in Punjab.",
+      "heading": "Rabi Crops - Area coverage",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 25.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 25.05.2026.pdf_4"
+    },
+    {
+      "detected_crop": "Wheat",
+      "state_context": "Uttar Pradesh",
+      "harvest_progress": "100%",
+      "chunk_text": "Wheat is 100% harvested in Uttar Pradesh.",
+      "heading": "Rabi Crops - Area coverage",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 25.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 25.05.2026.pdf_5"
+    },
+    {
+      "detected_crop": "Rice",
+      "state_context": "Tamil Nadu",
+      "harvest_progress": "90% Harvested",
+      "chunk_text": "Rice in Tamil Nadu has 90% harvested.",
+      "heading": "Rabi Crops - Area coverage",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 25.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 25.05.2026.pdf_6"
+    },
+    {
+      "detected_crop": "Rice",
+      "state_context": "Kerala",
+      "harvest_progress": "98% Harvested",
+      "chunk_text": "Rice in Kerala has 98% harvested.",
+      "heading": "Rabi Crops - Area coverage",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 25.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 25.05.2026.pdf_7"
+    },
+    {
+      "detected_crop": "Rice",
+      "state_context": "Andhra Pradesh",
+      "harvest_progress": "75% Harvested",
+      "chunk_text": "Rice in Andhra Pradesh has 75% harvested.",
+      "heading": "Rabi Crops - Area coverage",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 25.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 25.05.2026.pdf_8"
+    },
+    {
+      "detected_crop": "Rice",
+      "state_context": "Telangana",
+      "harvest_progress": "75% Harvested",
+      "chunk_text": "Rice in Telangana has 75% harvested.",
+      "heading": "Rabi Crops - Area coverage",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 25.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 25.05.2026.pdf_9"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 25.05.2026.pdf_10",
+      "chunk_text": "| 3        | Pulses                     |              140.42 |                          139.55 |             100.00 |                                                                                                       |\n| a        | Gram                       |              100.99 |                           96.20 |             100.00 | 100% Harvesting has been completed in all states.                                                     |\n| b        | Lentil                     |               15.13 |                           18.12 |             100.00 | 100% Harvesting has been completed in all states.                                                     |\n| e        | Urdbean *                  |                6.16 |                            6.06 |             100.00 | 100% Harvesting has been completed in all states.                                                     |\n| f        | Moongbean *                |                1.41 |                            0.99 |             100.00 | 100% Harvesting has been completed in all states.                                                     |\n| h        | Other Pulses $             |               16.73 |                           20.57 |             100.00 | 100% Harvesting has been completed in all states.                                                     |\n| 4        | Shri Anna & Coarse cereals |               55.33 |                           60.93 |             100.00 |                                                                                                       |\n| a        | Jowar *                    |               24.62 |                           23.13 |             100.00 | 100% Harvesting has been completed in all states.                                                     |\n| b        | Maize *                    |               23.61 |                           29.16 |             100.00 | 100% Harvesting has been completed in all states.                                                     |\n| c        | Barley                     |                5.63 |                            7.38 |             100.00 | 100% Harvesting has been completed in all states.                                                     |\n| 5        | Oilseeds                   |               86.78 |                           97.19 |             100.00 |                                                                                                       |\n| a        | Rapeseed & Mustard         |               79.17 |                           89.36 |             100.00 | 100% Harvesting has been completed in all states.                                                     |\n| b        | Groundnut *                |                3.69 |                            3.52 |             100.00 | 100% Harvesting has been completed in all states.                                                     |\n| c        | Safflower                  |                0.72 |                            0.89 |             100.00 | 100% Harvesting has been completed in all states.                                                     |\n| d        | Sunflower *                |                0.79 |                            0.70 |             100.00 | 100% Harvesting has been completed in all states.                                                     |\n| e        | Sesamum *                  |                0.48 |                            0.33 |             100.00 | 100% Harvesting has been completed in all states.                                                     |\n| f        | Linseed                    |                1.93 |                            1.99 |             100.00 | 100% harvested in all states.                                                                         |\n| g        | Other Oilseeds             |                0.00 |                            0.40 |             100.00 | 100% Harvesting has been completed in all states.                                                     |\n|          | Total Crops                |              637.81 |                          680.18 |              97.92 |                                                                                                       |\nSource: Crops Division, DoA&amp;FW.",
+      "detected_crop": "Oilseeds",
+      "heading": "Rabi Crops - Area coverage",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 25.05.2026.pdf",
+      "state_context": "Telangana"
+    }
+  ]
+}

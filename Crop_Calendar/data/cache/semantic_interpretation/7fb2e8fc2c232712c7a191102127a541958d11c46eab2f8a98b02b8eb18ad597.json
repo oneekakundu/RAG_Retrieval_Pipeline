@@ -1,0 +1,30 @@
+{
+  "crop": "Bengal Gram (Gram/Chickpea)",
+  "state": "Uttar Pradesh",
+  "week": "2026-03-30",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Bengal Gram (Gram/Chickpea) in Uttar Pradesh has 50% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Bengal Gram (Gram/Chickpea) in Uttar Pradesh has 50% harvested.",
+    "evidence": "Bengal Gram (Gram/Chickpea) in Uttar Pradesh has 50% harvested."
+  },
+  "pests": [
+    {
+      "value": "Bengal Gram (Gram/Chickpea) In Uttar Pradesh Has 50% Harvested",
+      "evidence": "Bengal Gram (Gram/Chickpea) in Uttar Pradesh has 50% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Bengal Gram (Gram/Chickpea) in Uttar Pradesh has 50% harvested."
+  ],
+  "confidence": 0.9
+}

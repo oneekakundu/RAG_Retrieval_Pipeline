@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Karnataka",
+  "week": "2026-01-12",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Minimum Temperature Is Likely To Be Below Normal In Most Of India Except J&Amp;K, Some Parts Of Himachal Pradesh, Saurashtra-Kutch, Some Parts Of South Karnataka And Ne India",
+      "evidence": " Minimum Temperature is likely to be below normal in most of India except J&amp;K, some parts of Himachal Pradesh, Saurashtra-Kutch, some parts of South Karnataka and NE India."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Minimum Temperature is likely to be below normal in most of India except J&amp;K, some parts of Himachal Pradesh, Saurashtra-Kutch, some parts of South Karnataka and NE India."
+  ],
+  "confidence": 0.9
+}

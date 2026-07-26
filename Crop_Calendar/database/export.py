@@ -23,26 +23,40 @@ class DataExporter:
         # 1. Export Evidence
         evidence_csv_path = config.EVIDENCE_DIR / "evidence.csv"
         evidence_json_path = config.EVIDENCE_DIR / "evidence.json"
+        proc_evidence_csv = config.PROCESSED_DIR / "evidence.csv"
+        proc_evidence_json = config.PROCESSED_DIR / "evidence.json"
         
         if evidence:
             df_evidence = pd.DataFrame(evidence)
             df_evidence.to_csv(evidence_csv_path, index=False, encoding="utf-8")
             df_evidence.to_json(evidence_json_path, orient="records", indent=2, force_ascii=False)
-            print(f"Exported {len(evidence)} evidence records to {config.EVIDENCE_DIR}")
+            df_evidence.to_csv(proc_evidence_csv, index=False, encoding="utf-8")
+            df_evidence.to_json(proc_evidence_json, orient="records", indent=2, force_ascii=False)
+            print(f"Exported {len(evidence)} evidence records to {config.EVIDENCE_DIR} and {config.PROCESSED_DIR}")
         else:
             print("No evidence to export.")
 
         # 2. Export Calendar
         calendar_csv_path = config.CALENDAR_DIR / "crop_calendar.csv"
         calendar_json_path = config.CALENDAR_DIR / "crop_calendar.json"
+        proc_calendar_csv = config.PROCESSED_DIR / "crop_calendar.csv"
+        proc_calendar_json = config.PROCESSED_DIR / "crop_calendar.json"
         
         if calendar:
             df_calendar = pd.DataFrame(calendar)
             df_calendar.to_csv(calendar_csv_path, index=False, encoding="utf-8")
             df_calendar.to_json(calendar_json_path, orient="records", indent=2, force_ascii=False)
-            print(f"Exported {len(calendar)} calendar entries to {config.CALENDAR_DIR}")
+            df_calendar.to_csv(proc_calendar_csv, index=False, encoding="utf-8")
+            df_calendar.to_json(proc_calendar_json, orient="records", indent=2, force_ascii=False)
+            print(f"Exported {len(calendar)} calendar entries to {config.CALENDAR_DIR} and {config.PROCESSED_DIR}")
         else:
             print("No crop calendar entries to export.")
+
+        # 3. Export Master Crop Knowledge Base Views
+        from database.crop_knowledge_exporter import CropKnowledgeExporter
+        ck_exporter = CropKnowledgeExporter(self.db)
+        ck_counts = ck_exporter.export_all()
+        print(f"Exported Master Crop Knowledge Base views for {len(ck_counts)} crops to {config.CROP_KNOWLEDGE_DIR}")
 
 if __name__ == "__main__":
     exporter = DataExporter()

@@ -1,0 +1,30 @@
+{
+  "crop": "Sorghum (Jowar)",
+  "state": "Andhra Pradesh",
+  "week": "2026-05-11",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Sorghum (Jowar) in Andhra Pradesh has 96% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Sorghum (Jowar) in Andhra Pradesh has 96% harvested.",
+    "evidence": "Sorghum (Jowar) in Andhra Pradesh has 96% harvested."
+  },
+  "pests": [
+    {
+      "value": "Sorghum (Jowar) In Andhra Pradesh Has 96% Harvested",
+      "evidence": "Sorghum (Jowar) in Andhra Pradesh has 96% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Sorghum (Jowar) in Andhra Pradesh has 96% harvested."
+  ],
+  "confidence": 0.9
+}

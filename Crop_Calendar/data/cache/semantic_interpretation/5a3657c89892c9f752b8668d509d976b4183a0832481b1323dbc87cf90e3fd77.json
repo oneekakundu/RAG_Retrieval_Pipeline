@@ -1,0 +1,25 @@
+{
+  "crop": "Rice",
+  "state": "All India",
+  "week": "2026-04-13",
+  "observation_type": "Sowing Progress",
+  "growth_stage": {
+    "value": "Sowing",
+    "evidence": " As on April 10, 2026, the area sown under summer crops is 64.10 lakh ha as compared to 63.33 lakh ha during the corresponding period of last year.  Of this, area of 30.59 lakh ha has been sown under Rice this year.\n-"
+  },
+  "sowing_status": {
+    "value": " As on April 10, 2026, the area sown under summer crops is 64.10 lakh ha as compared to 63.33 lakh ha during the corresponding period of last year.  Of this, area of 30.59 lakh ha has been sown under Rice this year.\n-",
+    "evidence": " As on April 10, 2026, the area sown under summer crops is 64.10 lakh ha as compared to 63.33 lakh ha during the corresponding period of last year.  Of this, area of 30.59 lakh ha has been sown under Rice this year.\n-"
+  },
+  "harvest_status": null,
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " As on April 10, 2026, the area sown under summer crops is 64.10 lakh ha as compared to 63.33 lakh ha during the corresponding period of last year.  Of this, area of 30.59 lakh ha has been sown under Rice this year.\n-"
+  ],
+  "confidence": 0.9
+}

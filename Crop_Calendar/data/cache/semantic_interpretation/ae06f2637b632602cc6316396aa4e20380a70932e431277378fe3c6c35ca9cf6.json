@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Gujarat",
+  "week": "2026-05-11",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Heat  Wave  Conditions  Likely  To  Prevail  In  Isolated  Pockets  Over  Gujarat  State  And  West  Rajasthan During 09Th",
+      "evidence": "Heat  wave  conditions  likely  to  prevail  in  isolated  pockets  over  Gujarat  state  and  West  Rajasthan during 09th"
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Heat  wave  conditions  likely  to  prevail  in  isolated  pockets  over  Gujarat  state  and  West  Rajasthan during 09th"
+  ],
+  "confidence": 0.9
+}

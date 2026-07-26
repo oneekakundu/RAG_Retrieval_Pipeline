@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-25T14:12:01.570953"
+  },
+  "data": [
+    {
+      "detected_crop": "Crop",
+      "state_context": "Karnataka",
+      "chunk_text": " Minimum Temperature is likely to be below normal in most of India except J&amp;K, some parts of Himachal Pradesh, Saurashtra-Kutch, some parts of South Karnataka and NE India.",
+      "heading": "Week 1 (09 Jan - 15 Jan 2026):",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 12.01.2026.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 12.01.2026.pdf_0"
+    },
+    {
+      "detected_crop": "Crop",
+      "state_context": "Odisha",
+      "chunk_text": "Cold  wave  conditions  likely  to  occur  at  isolated  pockets  of  Chhattisgarh,  Jharkhand  and Odisha during some days of the week.",
+      "heading": "Week 2 (16 Jan - 22 Jan 2026):",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 12.01.2026.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 12.01.2026.pdf_1"
+    },
+    {
+      "detected_crop": "Crop",
+      "state_context": "Punjab",
+      "chunk_text": "Dense fog conditions  likely  to  prevail  during  early  morning  hours  in  isolated  pockets  of Western  Himalayan  region,  Punjab,  Haryana  &amp;  Chandigarh  and  north  Rajasthan,  Uttar Pradesh, Bihar and northeastern states during some days of the week.",
+      "heading": "Week 2 (16 Jan - 22 Jan 2026):",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 12.01.2026.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 12.01.2026.pdf_2"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 12.01.2026.pdf_3",
+      "chunk_text": " Wheat: About  334.17  lakh  ha  (107%  of  normal)  area  coverage  under  Wheat  has  been reported as compared to 328.04 lakh ha during the corresponding period of last year.\n-\nRapeseed &amp; Mustard : About 89.36 (113% of normal) lakh ha area coverage under Rapeseed &amp;  Mustard  has  been  reported  as  compared  to  86.57  lakh  ha  during  the  corresponding period of last year.\n-\nGram: About 95.88 (95% of normal) lakh ha area coverage under Gram has been reported as compared to 91.22 lakh ha during the corresponding period of last year.\n|        |                            |                  |                          |                       |                              | (Area in lakh hactare)                                        |\n|--------|----------------------------|------------------|--------------------------|-----------------------|------------------------------|---------------------------------------------------------------|\n|        |                            | (DES)            |                          | 2025-26               | Corrosponding period 2024-25 |                                                               |\n| 1      | Wheat                      | 312.35           | 328.04                   | 334.17                | 328.04                       | 6.13                                                          |\n| 2      | Rice *                     | 42.93            | 44.73                    | 21.71                 | 19.49                        | 2.22                                                          |\n| 3      | Pulses                     | 140.42           | 134.08                   | 136.36                | 132.61                       | 3.74                                                          |\n| a      | Gram                       | 100.99           | 91.22                    | 95.88                 | 91.22                        | 4.66                                                          |\n| b      | Lentil                     | 15.13            | 16.99                    | 18.12                 | 17.66                        | 0.45                                                          |\n| c      | Fieldpea $                 | 6.50             |\n| 7.92                  | 8.27                         |\n0.35                                                         |\n| d      | Kulthi $                   | 1.98             |\n| 1.98                  | 2.41                         |\n0.43                                                         |\n| e      | Urdbean *                  | 6.16             | 6.18                     | 4.37                  | 4.70                         |\n0.33                                                         |\n| f      | Moongbean *                | 1.41             | 1.36                     | 0.74                  | 0.76                         |\n0.02                                                         |\n| g      | Lathyrus $                 | 2.79             |\n| 2.98                  | 2.92                         | 0.06                                                          |\n| h      | Other Pulses $             | 5.46             | 18.33                    | 4.37                  | 4.67                         |\n0.30                                                         |\n| 4      | Shri Anna & Coarse cereals | 55.33            | 59.05                    | 55.20                 | 53.17                        | 2.03                                                          |\n| a      | Jowar *                    | 24.62            | 25.17                    | 21.36                 | 22.66                        |\n1.30                                                         |\n| b      | Bajra #                    | 0.59             |\n| 0.15                  | 0.14                         | 0.00                                                          |\n| c      | Ragi #                     | 0.72             |\n| 0.97                  | 0.70                         | 0.27                                                          |\n| d      | Small Millets #            | 0.16             |\n| 0.13                  | 0.10                         | 0.03                                                          |\n| e   | Maize *            |   23.61 | 27.80   |   25.24 |   23.49 |   1.75 |\n|-----|--------------------|---------|---------|---------|---------|--------|\n| f   | Barley             |    5.63 | 6.08    |    7.36 |    6.08 |   1.28 |\n| 5   | Oilseeds           |   86.78 | 93.49   |   96.86 |   93.33 |   3.53 |\n| a   | Rapeseed & Mustard |   79.17 | 86.57   |   89.36 |   86.57 |   2.79 |\n| b   | Groundnut *        |    3.69 | 3.37    |    3.52 |    3.37 |   0.15 |\n| c   | Safflower          |    0.72 | 0.64    |    0.89 |    0.67 |   0.22 |\n| d   | Sunflower *        |    0.79 | 0.81    |    0.55 |    0.42 |   0.14 |\n| e   | Sesamum *          |    0.48 | 0.41    |    0.14 |    0.19 |\n0.04 |\n| f   | Linseed            |    1.93 | 1.69    |    1.99 |    1.76 |   0.23 |\n| g   | Other Oilseeds     |    0.00 |\n|    0.40 |    0.35 |   0.05 |\n|     | Total Crops        |  637.81 | 659.39  |  644.29 |  626.64 |  17.65 |",
+      "detected_crop": "Oilseeds",
+      "heading": "Rabi Crops - Area coverage",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 12.01.2026.pdf",
+      "state_context": "Punjab"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 12.01.2026.pdf_4",
+      "chunk_text": " There is no major pest incidence that has been reported. The overall intensity of pests and diseases remained below the Economic Threshold Level.",
+      "detected_crop": "Oilseeds",
+      "heading": "7.      PEST &amp; DISEASE",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 12.01.2026.pdf",
+      "state_context": "Punjab"
+    }
+  ]
+}

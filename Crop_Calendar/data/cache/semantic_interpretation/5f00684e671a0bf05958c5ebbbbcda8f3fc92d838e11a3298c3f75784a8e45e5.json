@@ -1,0 +1,24 @@
+{
+  "crop": "Cotton",
+  "state": "All India",
+  "week": "2026-06-01",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Fertilizers: The Fertilizer Supply Remains Stable Across All Products.\n4. Pests &Amp; Diseases : The Overall Incidence Of Pests And Diseases Remained Below The Economic Threshold Level. The Monitoring Of Cotton Crop For Pink Ball Worm Is Progressing As Per The Protocol",
+      "evidence": "c) Fertilizers: The fertilizer supply remains stable across all products.\n4. Pests &amp; Diseases : The overall incidence of pests and diseases remained below the Economic Threshold Level. The monitoring of Cotton crop for Pink Ball Worm is progressing as per the protocol."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "c) Fertilizers: The fertilizer supply remains stable across all products.\n4. Pests &amp; Diseases : The overall incidence of pests and diseases remained below the Economic Threshold Level. The monitoring of Cotton crop for Pink Ball Worm is progressing as per the protocol."
+  ],
+  "confidence": 0.9
+}

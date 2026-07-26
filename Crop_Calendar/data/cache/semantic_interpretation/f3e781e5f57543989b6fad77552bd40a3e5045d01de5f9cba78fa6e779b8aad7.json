@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Maharashtra",
+  "week": "2026-02-09",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Minimum Temperature Is Likely To  Be  Below  Normal In Many Parts Of East  India,  Central India,  South India, Many Parts Of Maharashtra, Uttar Pradesh, Haryana, Punjab And Many Parts Of West Rajasthan",
+      "evidence": " Minimum Temperature is likely to  be  below  normal in many parts of East  India,  Central India,  South India, many parts of Maharashtra, Uttar Pradesh, Haryana, Punjab and many parts of West Rajasthan."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Minimum Temperature is likely to  be  below  normal in many parts of East  India,  Central India,  South India, many parts of Maharashtra, Uttar Pradesh, Haryana, Punjab and many parts of West Rajasthan."
+  ],
+  "confidence": 0.9
+}

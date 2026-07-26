@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Uttarakhand",
+  "week": "2025-08-18",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Maximum  Temperatures  Are  Likely  To  Be  Above  Normal  In  J&Amp;K,  Himachal  Pradesh, Uttarakhand, Arunachal Pradesh And Some Parts Of Assam During The Second Week",
+      "evidence": "Maximum  temperatures  are  likely  to  be  above  normal  in  J&amp;K,  Himachal  Pradesh, Uttarakhand, Arunachal Pradesh and some parts of Assam during the second week."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Maximum  temperatures  are  likely  to  be  above  normal  in  J&amp;K,  Himachal  Pradesh, Uttarakhand, Arunachal Pradesh and some parts of Assam during the second week."
+  ],
+  "confidence": 0.9
+}

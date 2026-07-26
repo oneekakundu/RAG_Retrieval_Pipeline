@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-25T14:32:58.205045"
+  },
+  "data": [
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 15.06.2026.pdf_0",
+      "chunk_text": " Kharif  sowing  data  collection  has  started  from  05 th June,  2026  and  the  sowing  is  in  preliminary stage. As on 12 June 2026, the area sown under Kharif crops is 84.60 lakh ha (including 54.08 lakh ha in Sugarcane) as compared to 88.04 lakh ha during the corresponding period of last year.",
+      "detected_crop": "Sugarcane",
+      "heading": "1. Kharif Season Sowing Status:",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 15.06.2026.pdf",
+      "state_context": "All India"
+    },
+    {
+      "detected_crop": "Crop",
+      "state_context": "Andhra Pradesh",
+      "chunk_text": "Low probability of Heatwave conditions very likely in isolated pockets over Coastal Andhra Pradesh &amp; Yanam during 11th-12th June; Telangana during 11th-13th June; Vidarbha during 11th-12th June.",
+      "heading": "Week 1 (12 June  - 18 June 2026):",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 15.06.2026.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 15.06.2026.pdf_1"
+    },
+    {
+      "detected_crop": "Crop",
+      "state_context": "Maharashtra",
+      "chunk_text": " Hot  and  humid  weather  conditions  likely  to  prevail  over  Konkan  &amp;  Goa  during  11th-13th  June; Madhya Maharashtra during 11th-12th June.",
+      "heading": "Details of each Segment",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 15.06.2026.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 15.06.2026.pdf_2"
+    },
+    {
+      "detected_crop": "Crop",
+      "state_context": "Punjab",
+      "chunk_text": "Low  probability  of  Heatwave  conditions  likely  over  parts  of  northwest  India  (Rajasthan,  Punjab, Haryana &amp; Uttar Pradesh) on some days of the week.",
+      "heading": "Week 2 (19 June - 25 June 2026):",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 15.06.2026.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 15.06.2026.pdf_3"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 15.06.2026.pdf_4",
+      "chunk_text": " The overall intensity of pests and diseases remained below the Economic Threshold Level.",
+      "detected_crop": "Crop",
+      "heading": "6.      PEST &amp; DISEASE",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 15.06.2026.pdf",
+      "state_context": "Punjab"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "crop": "Wheat",
+  "state": "Punjab",
+  "week": "2026-04-20",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Wheat in Punjab has 30% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Wheat in Punjab has 30% harvested.",
+    "evidence": "Wheat in Punjab has 30% harvested."
+  },
+  "pests": [
+    {
+      "value": "Wheat In Punjab Has 30% Harvested",
+      "evidence": "Wheat in Punjab has 30% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Wheat in Punjab has 30% harvested."
+  ],
+  "confidence": 0.9
+}

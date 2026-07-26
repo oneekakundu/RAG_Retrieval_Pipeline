@@ -1,0 +1,30 @@
+{
+  "crop": "Maize",
+  "state": "Gujarat",
+  "week": "2026-03-30",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Maize in Gujarat has 35% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Maize in Gujarat has 35% harvested.",
+    "evidence": "Maize in Gujarat has 35% harvested."
+  },
+  "pests": [
+    {
+      "value": "Maize In Gujarat Has 35% Harvested",
+      "evidence": "Maize in Gujarat has 35% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Maize in Gujarat has 35% harvested."
+  ],
+  "confidence": 0.9
+}

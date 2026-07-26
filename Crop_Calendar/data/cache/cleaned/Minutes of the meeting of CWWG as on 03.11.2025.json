@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-25T12:57:01.900813"
+  },
+  "data": [
+    {
+      "heading": "Week 1 (31 Oct -06 Nov 2025):",
+      "text": "- Minimum Temperature is likely to be above normal in NE India, East India, Central India, Gujarat and many parts of NW India.",
+      "page_number": 1
+    },
+    {
+      "heading": "Week 2 (07 Nov -13 Nov 2025):",
+      "text": "- Minimum Temperature is likely to be above normal in NE India, J&amp;K and Uttarakhand and it is likely to be below normal in the rest of India.",
+      "page_number": 1
+    },
+    {
+      "heading": "6.      PEST &amp; DISEASE",
+      "text": "- Over all  intensity  of  pests  and  disease  remained  below  Economic  Threshold  Level  (ETL) except:\n| फसल Crop   | राज्य State   | जिला/उपजिला/गाांव District/ Sub District/ Village   | स्रोत / Source                                                                    | कीट / रोग Pest Disease            | राज्य में फसल क े अांतगगत क ु ल क्षेत्रफल ( हेक्टेयर ) Total area under the crop in the state (ha)   |   तीव्रता Intensity संक्रमित / प्रभावितक्षेत्र * ETL ( हेक्टेयर ) सेऊपर / Area infested/Infected above *ETL (ha) | की गई कारगवाई / जटप्पणी Action Taken/ Remark                 |\n|------------|---------------|-----------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|\n| Paddy      | Jharkhand     | Ranchi, Khunti, Lohardaga                           | CIPMC, Ranchi 1) Joint Survey was conducted with DAO, Lohardaga in field crops on | Bacterial leaf blight Brown plant | --                                                                                                   |                                                                                                               01 | • Advisories issued and follow up is going on with concerned |",
+      "page_number": 1
+    }
+  ]
+}

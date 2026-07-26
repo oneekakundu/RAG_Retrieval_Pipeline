@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Odisha",
+  "week": "2026-04-27",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Appreciably Above Normal (+3.1 To +5.0°C) Maximum Temperatures Are Likely Over Parts Of Jammu &Amp; Kashmir,  Punjab,  Haryana,  Rajasthan,  Madhya  Pradesh,  Uttar  Pradesh,  Bihar,  Jharkhand,  Odisha, Gangetic West Bengal, Chhattisgarh, Vidarbha, Rayalaseema, Telangana &Amp; Kerala; Normal To Abovenormal Maximum Temperatures Are Likely Over Most Parts Of The Country During The Week",
+      "evidence": " Appreciably above normal (+3.1 to +5.0°C) maximum temperatures are likely over parts of Jammu &amp; Kashmir,  Punjab,  Haryana,  Rajasthan,  Madhya  Pradesh,  Uttar  Pradesh,  Bihar,  Jharkhand,  Odisha, Gangetic West Bengal, Chhattisgarh, Vidarbha, Rayalaseema, Telangana &amp; Kerala; normal to abovenormal maximum temperatures are likely over most parts of the country during the week."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Appreciably above normal (+3.1 to +5.0°C) maximum temperatures are likely over parts of Jammu &amp; Kashmir,  Punjab,  Haryana,  Rajasthan,  Madhya  Pradesh,  Uttar  Pradesh,  Bihar,  Jharkhand,  Odisha, Gangetic West Bengal, Chhattisgarh, Vidarbha, Rayalaseema, Telangana &amp; Kerala; normal to abovenormal maximum temperatures are likely over most parts of the country during the week."
+  ],
+  "confidence": 0.9
+}

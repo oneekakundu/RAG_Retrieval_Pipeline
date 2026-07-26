@@ -1,0 +1,137 @@
+{
+  "crop": "Soybean",
+  "year": "2025",
+  "metadata": {
+    "generated_at": "2026-07-23T21:17:12.064080",
+    "total_observations": 4,
+    "pipeline_version": "2.1"
+  },
+  "statistics": {
+    "states_observed": [
+      "Maharashtra"
+    ],
+    "growth_stages": [
+      "- Soybean : About 120.43 Lakh Ha (94.7% Of Normal) Area Coverage Under Soyabean Has Been Reported  As  Compared  To  126.24  Lakh  Ha  During  The  Corresponding  Period  Of  Last  Year. Soyabean Area Diverted In Maize In Mp And Maharashtra.",
+      "- Soybean : About 120.44 Lakh Ha (94.7% Of Normal) Area Coverage Under Soyabean Has Been Reported  As  Compared  To  126.26  Lakh  Ha  During  The  Corresponding  Period  Of  Last  Year. Soyabean Area Diverted In Maize In Mp And Maharashtra.",
+      "- Soybean : About 120.45 Lakh Ha (94.7% Of Normal) Area Coverage Under Soyabean Has Been Reported  As  Compared  To  129.55  Lakh  Ha  During  The  Corresponding  Period  Of  Last  Year. Soyabean Area Diverted In Maize In Mp And Maharashtra."
+    ],
+    "common_pests": [],
+    "common_diseases": [],
+    "first_appearance": "2025-09-15",
+    "latest_appearance": "2025-10-13"
+  },
+  "observations": [
+    {
+      "id": 560,
+      "date": "2025-10-13",
+      "report_week": "2025-10-13",
+      "state": "Maharashtra",
+      "district": "State-wide",
+      "growth_stage": "- Soybean : About 120.45 Lakh Ha (94.7% Of Normal) Area Coverage Under Soyabean Has Been Reported  As  Compared  To  129.55  Lakh  Ha  During  The  Corresponding  Period  Of  Last  Year. Soyabean Area Diverted In Maize In Mp And Maharashtra.",
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "recommendation": null,
+      "advisory": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "- Soybean : About 120.45 lakh ha (94.7% of Normal) area coverage under Soyabean has been reported  as  compared  to  129.55  lakh  ha  during  the  corresponding  period  of  last  year. Soyabean area diverted in Maize in MP and Maharashtra.",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 13.10.2025.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 532,
+      "date": "2025-10-06",
+      "report_week": "2025-10-06",
+      "state": "Maharashtra",
+      "district": "State-wide",
+      "growth_stage": "- Soybean : About 120.45 Lakh Ha (94.7% Of Normal) Area Coverage Under Soyabean Has Been Reported  As  Compared  To  129.55  Lakh  Ha  During  The  Corresponding  Period  Of  Last  Year. Soyabean Area Diverted In Maize In Mp And Maharashtra.",
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "recommendation": null,
+      "advisory": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "- Soybean : About 120.45 lakh ha (94.7% of Normal) area coverage under Soyabean has been reported  as  compared  to  129.55  lakh  ha  during  the  corresponding  period  of  last  year. Soyabean area diverted in Maize in MP and Maharashtra.",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 06.10.2025 ..pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 585,
+      "date": "2025-09-22",
+      "report_week": "2025-09-22",
+      "state": "Maharashtra",
+      "district": "State-wide",
+      "growth_stage": "- Soybean : About 120.44 Lakh Ha (94.7% Of Normal) Area Coverage Under Soyabean Has Been Reported  As  Compared  To  126.26  Lakh  Ha  During  The  Corresponding  Period  Of  Last  Year. Soyabean Area Diverted In Maize In Mp And Maharashtra.",
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "recommendation": null,
+      "advisory": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "- Soybean : About 120.44 lakh ha (94.7% of Normal) area coverage under Soyabean has been reported  as  compared  to  126.26  lakh  ha  during  the  corresponding  period  of  last  year. Soyabean area diverted in Maize in MP and Maharashtra.",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 22.09.2025.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 562,
+      "date": "2025-09-15",
+      "report_week": "2025-09-15",
+      "state": "Maharashtra",
+      "district": "State-wide",
+      "growth_stage": "- Soybean : About 120.43 Lakh Ha (94.7% Of Normal) Area Coverage Under Soyabean Has Been Reported  As  Compared  To  126.24  Lakh  Ha  During  The  Corresponding  Period  Of  Last  Year. Soyabean Area Diverted In Maize In Mp And Maharashtra.",
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "recommendation": null,
+      "advisory": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "- Soybean : About 120.43 lakh ha (94.7% of Normal) area coverage under Soyabean has been reported  as  compared  to  126.24  lakh  ha  during  the  corresponding  period  of  last  year. Soyabean area diverted in Maize in MP and Maharashtra.",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 15.09.2025.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    }
+  ]
+}

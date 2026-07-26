@@ -1,0 +1,30 @@
+{
+  "crop": "Maize",
+  "state": "Maharashtra",
+  "week": "2026-04-13",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Maize in Maharashtra has 87% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Maize in Maharashtra has 87% harvested.",
+    "evidence": "Maize in Maharashtra has 87% harvested."
+  },
+  "pests": [
+    {
+      "value": "Maize In Maharashtra Has 87% Harvested",
+      "evidence": "Maize in Maharashtra has 87% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Maize in Maharashtra has 87% harvested."
+  ],
+  "confidence": 0.9
+}

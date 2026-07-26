@@ -1,0 +1,30 @@
+{
+  "crop": "Rice",
+  "state": "All India",
+  "week": "2026-04-20",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "As on 17.04.2026, 81.69% of area has been harvested for Rabi crops all over India. Approximately 97% area  of  Pulses  mainly  in  Gram  (98%),  Urdbean  (98%)  &amp;  Moong  (82%);  98.41%  area  of  Oilseeds majorly  in  Rapeseed  &amp; Mustard  (100%); 81.58%  area of  Shri  Anna cum  Coarse Cereals  majorly in Jowar  (91.44%),  47.89%  area  of  Rice  and  75.00%  area  of  Wheat  has  been  harvested  for  rabi  crops 2025-26."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "As on 17.04.2026, 81.69% of area has been harvested for Rabi crops all over India. Approximately 97% area  of  Pulses  mainly  in  Gram  (98%),  Urdbean  (98%)  &amp;  Moong  (82%);  98.41%  area  of  Oilseeds majorly  in  Rapeseed  &amp; Mustard  (100%); 81.58%  area of  Shri  Anna cum  Coarse Cereals  majorly in Jowar  (91.44%),  47.89%  area  of  Rice  and  75.00%  area  of  Wheat  has  been  harvested  for  rabi  crops 2025-26.",
+    "evidence": "As on 17.04.2026, 81.69% of area has been harvested for Rabi crops all over India. Approximately 97% area  of  Pulses  mainly  in  Gram  (98%),  Urdbean  (98%)  &amp;  Moong  (82%);  98.41%  area  of  Oilseeds majorly  in  Rapeseed  &amp; Mustard  (100%); 81.58%  area of  Shri  Anna cum  Coarse Cereals  majorly in Jowar  (91.44%),  47.89%  area  of  Rice  and  75.00%  area  of  Wheat  has  been  harvested  for  rabi  crops 2025-26."
+  },
+  "pests": [
+    {
+      "value": "As On 17.04.2026, 81.69% Of Area Has Been Harvested For Rabi Crops All Over India. Approximately 97% Area  Of  Pulses  Mainly  In  Gram  (98%),  Urdbean  (98%)  &Amp;  Moong  (82%);  98.41%  Area  Of  Oilseeds Majorly  In  Rapeseed  &Amp; Mustard  (100%); 81.58%  Area Of  Shri  Anna Cum  Coarse Cereals  Majorly In Jowar  (91.44%),  47.89%  Area  Of  Rice  And  75.00%  Area  Of  Wheat  Has  Been  Harvested  For  Rabi  Crops 2025-26",
+      "evidence": "As on 17.04.2026, 81.69% of area has been harvested for Rabi crops all over India. Approximately 97% area  of  Pulses  mainly  in  Gram  (98%),  Urdbean  (98%)  &amp;  Moong  (82%);  98.41%  area  of  Oilseeds majorly  in  Rapeseed  &amp; Mustard  (100%); 81.58%  area of  Shri  Anna cum  Coarse Cereals  majorly in Jowar  (91.44%),  47.89%  area  of  Rice  and  75.00%  area  of  Wheat  has  been  harvested  for  rabi  crops 2025-26."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "As on 17.04.2026, 81.69% of area has been harvested for Rabi crops all over India. Approximately 97% area  of  Pulses  mainly  in  Gram  (98%),  Urdbean  (98%)  &amp;  Moong  (82%);  98.41%  area  of  Oilseeds majorly  in  Rapeseed  &amp; Mustard  (100%); 81.58%  area of  Shri  Anna cum  Coarse Cereals  majorly in Jowar  (91.44%),  47.89%  area  of  Rice  and  75.00%  area  of  Wheat  has  been  harvested  for  rabi  crops 2025-26."
+  ],
+  "confidence": 0.9
+}

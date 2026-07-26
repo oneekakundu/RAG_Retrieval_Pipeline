@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Odisha",
+  "week": "2026-06-01",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Maximum Temperatures Are Very Likely To Be 4-5 Deg Celsius Below Normal Over Most Parts Of The Country  During  Week  2 Except  Many  Parts  Of  Odisha,  West  Bengal,  Bihar,  And  Arunachal Pradesh, West Rajasthan, Punjab",
+      "evidence": "Maximum temperatures are very likely to be 4-5 Deg Celsius below normal over most parts of the country  during  week  2 except  many  parts  of  Odisha,  West  Bengal,  Bihar,  and  Arunachal Pradesh, West Rajasthan, Punjab."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Maximum temperatures are very likely to be 4-5 Deg Celsius below normal over most parts of the country  during  week  2 except  many  parts  of  Odisha,  West  Bengal,  Bihar,  and  Arunachal Pradesh, West Rajasthan, Punjab."
+  ],
+  "confidence": 0.9
+}

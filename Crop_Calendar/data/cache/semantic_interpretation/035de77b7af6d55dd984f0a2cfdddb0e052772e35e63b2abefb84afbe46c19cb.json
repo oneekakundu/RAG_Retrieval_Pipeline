@@ -1,0 +1,30 @@
+{
+  "crop": "Sesame (Sesamum)",
+  "state": "Chhattisgarh",
+  "week": "2026-04-06",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Sesame (Sesamum) in Chhattisgarh has 55% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Sesame (Sesamum) in Chhattisgarh has 55% harvested.",
+    "evidence": "Sesame (Sesamum) in Chhattisgarh has 55% harvested."
+  },
+  "pests": [
+    {
+      "value": "Sesame (Sesamum) In Chhattisgarh Has 55% Harvested",
+      "evidence": "Sesame (Sesamum) in Chhattisgarh has 55% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Sesame (Sesamum) in Chhattisgarh has 55% harvested."
+  ],
+  "confidence": 0.9
+}

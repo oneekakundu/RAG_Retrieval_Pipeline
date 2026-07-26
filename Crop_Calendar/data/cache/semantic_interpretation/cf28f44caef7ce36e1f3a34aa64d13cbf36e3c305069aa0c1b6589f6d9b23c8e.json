@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Gujarat",
+  "week": "2025-10-06",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Southwest  Monsoon  Has  Withdrawal  From  Many  Parts  Of  Gujarat  And  Rajasthan;  Entire Punjab And Haryana, Chandigarh &Amp; Delhi; Some Parts Of Madhya Pradesh, Up, Himachal Pradesh And Jammu &Amp; Kashmir Till Now",
+      "evidence": "Southwest  monsoon  has  withdrawal  from  many  parts  of  Gujarat  and  Rajasthan;  entire Punjab and Haryana, Chandigarh &amp; Delhi; some parts of Madhya Pradesh, UP, Himachal Pradesh and Jammu &amp; Kashmir till now."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Southwest  monsoon  has  withdrawal  from  many  parts  of  Gujarat  and  Rajasthan;  entire Punjab and Haryana, Chandigarh &amp; Delhi; some parts of Madhya Pradesh, UP, Himachal Pradesh and Jammu &amp; Kashmir till now."
+  ],
+  "confidence": 0.9
+}

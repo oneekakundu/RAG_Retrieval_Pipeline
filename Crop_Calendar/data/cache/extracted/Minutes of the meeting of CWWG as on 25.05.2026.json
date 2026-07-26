@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-21T22:12:53.505573"
+  },
+  "data": [
+    {
+      "crop": "Wheat",
+      "state": "Punjab",
+      "growth_stage": "Harvesting",
+      "pest_or_disease": "1        | wheat                      |              312.35 |                          334.17 |              99.50 | 100% harvested in all states except up (99%), punjab (99",
+      "weather_condition": null,
+      "advisory": null,
+      "report_week": "2026-05-25",
+      "district": "State-wide",
+      "source_pdf": "Minutes of the meeting of CWWG as on 25.05.2026.pdf",
+      "page_number": 1,
+      "raw_text": "| 1        | Wheat                      |              312.35 |                          334.17 |              99.50 | 100% harvested in all states except UP (99%), Punjab (99%),.                                          |"
+    },
+    {
+      "crop": "Rice",
+      "state": "Kerala",
+      "growth_stage": "Harvesting",
+      "pest_or_disease": "2        | rice *                     |               42.93 |                           45.00 |              79.71 | tamil nadu (90%), kerala (98%), andhra pradesh (75%), telangana (75%) etc has already been harvested",
+      "weather_condition": null,
+      "advisory": null,
+      "report_week": "2026-05-25",
+      "district": "State-wide",
+      "source_pdf": "Minutes of the meeting of CWWG as on 25.05.2026.pdf",
+      "page_number": 1,
+      "raw_text": "| 2        | Rice *                     |               42.93 |                           45.00 |              79.71 | Tamil Nadu (90%), Kerala (98%), Andhra Pradesh (75%), Telangana (75%) etc has already been harvested. |"
+    }
+  ]
+}

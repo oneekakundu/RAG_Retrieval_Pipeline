@@ -1,0 +1,30 @@
+{
+  "crop": "Maize",
+  "state": "Andhra Pradesh",
+  "week": "2026-03-30",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Maize in Andhra Pradesh has 13% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Maize in Andhra Pradesh has 13% harvested.",
+    "evidence": "Maize in Andhra Pradesh has 13% harvested."
+  },
+  "pests": [
+    {
+      "value": "Maize In Andhra Pradesh Has 13% Harvested",
+      "evidence": "Maize in Andhra Pradesh has 13% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Maize in Andhra Pradesh has 13% harvested."
+  ],
+  "confidence": 0.9
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-21T23:19:11.341984"
+  },
+  "data": [
+    {
+      "crop": "Cotton",
+      "state": "All India",
+      "growth_stage": "Sowing",
+      "pest_or_disease": null,
+      "weather_condition": null,
+      "advisory": null,
+      "report_week": "2025-09-01",
+      "district": "State-wide",
+      "confidence": 0.9,
+      "source_method": "rule_based",
+      "source_pdf": "Minutes of the meeting of CWWG as on 01.09.2025.pdf",
+      "page_number": 1,
+      "raw_text": "- Cotton :  About 108.77 lakh ha (84% of Normal) area coverage has been reported compared to 111.39 lakh ha during the corresponding period of last year.\nAll India: Progressive Crop Area Sown Report\nKharif Weekly area coverage as on 29.08.2025\nSource: CWWG (via API)\nArea in Lakh Ha\n|                      |   Normal (DA&FW) | Area Sown   | Area Sown   | Difference In Area Coverage Over   |\n|----------------------|------------------|-------------|-------------|------------------------------------|\n| Crop                 |                  | 2025-26     | 2024-25     | 2024-25                            |"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+Metric,Value
+Total Records,744
+Precision,0.2468
+Recall,0.95
+F1 Score,0.3918
+Duplicate Rate,0.371
+Invalid Entity Rate,0.0
+Method Breakdown,"{""rule_based"": 744}"
+Missing Field Rates,"{""crop"": 0.0013, ""state"": 0.0538, ""growth_stage"": 0.2083, ""pest_or_disease"": 0.2218}"

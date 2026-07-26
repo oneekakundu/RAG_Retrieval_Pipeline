@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Odisha",
+  "week": "2026-05-04",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Low  Probability  Of  Heatwave  Conditions  Likely  During  Some  Days  Of  Week  2  Over  Rajasthan  &Amp; Vidarbha,  And  Adjoining  Southern  Parts  Of  Madhya  Pradesh  And  Chhattisgarh.  Above-Normal Maximum Temperatures (+1.6 To +3.0°C) Are Likely Over Many Parts Of Rajasthan And Gujarat, Along The  West  Coast,  And  Over  Odisha  &Amp;  Coastal  Andhra  Pradesh  On  The  East  Coast.  Below-Normal Maximum Temperatures (-1.6 To",
+      "evidence": " Low  Probability  of  Heatwave  conditions  likely  during  some  days  of  week  2  over  Rajasthan  &amp; Vidarbha,  and  adjoining  southern  parts  of  Madhya  Pradesh  and  Chhattisgarh.  Above-normal maximum temperatures (+1.6 to +3.0°C) are likely over many parts of Rajasthan and Gujarat, along the  west  coast,  and  over  Odisha  &amp;  Coastal  Andhra  Pradesh  on  the  east  coast.  Below-normal maximum temperatures (-1.6 to"
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Low  Probability  of  Heatwave  conditions  likely  during  some  days  of  week  2  over  Rajasthan  &amp; Vidarbha,  and  adjoining  southern  parts  of  Madhya  Pradesh  and  Chhattisgarh.  Above-normal maximum temperatures (+1.6 to +3.0°C) are likely over many parts of Rajasthan and Gujarat, along the  west  coast,  and  over  Odisha  &amp;  Coastal  Andhra  Pradesh  on  the  east  coast.  Below-normal maximum temperatures (-1.6 to"
+  ],
+  "confidence": 0.9
+}

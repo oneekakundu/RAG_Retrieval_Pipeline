@@ -1,0 +1,30 @@
+{
+  "crop": "Mustard",
+  "state": "Bihar",
+  "week": "2026-04-06",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Mustard is 100% harvested in Bihar."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Mustard is 100% harvested in Bihar.",
+    "evidence": "Mustard is 100% harvested in Bihar."
+  },
+  "pests": [
+    {
+      "value": "Mustard Is 100% Harvested In Bihar",
+      "evidence": "Mustard is 100% harvested in Bihar."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Mustard is 100% harvested in Bihar."
+  ],
+  "confidence": 0.9
+}

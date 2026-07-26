@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-25T14:36:17.708620"
+  },
+  "data": [
+    {
+      "detected_crop": "Crop",
+      "state_context": "Karnataka",
+      "chunk_text": " No significant change in maximum temperatures likely over Karnataka, Kerala &amp; Mahe and Konkan &amp; Goa and gradual rise by about 2 ° C for subsequent days.",
+      "heading": "Details of each Segment",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 16.02.2026.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 16.02.2026.pdf_0"
+    },
+    {
+      "detected_crop": "Crop",
+      "state_context": "Karnataka",
+      "chunk_text": "Hot and Humid conditions likely over Coastal Karnataka and Konkan &amp; Goa.",
+      "heading": "Details of each Segment",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 16.02.2026.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 16.02.2026.pdf_1"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 16.02.2026.pdf_2",
+      "chunk_text": " Rice: About 12.80 lakh ha area coverage under Summer Rice has been reported as compared to 13.16 lakh ha during the corresponding period of last year.\n-\nPulses: About 0.58 lakh ha area coverage has been reported compared to 0.50 lakh ha during the corresponding period of last year.\n-\nOilseeds: About  0.99  lakh  ha  area  coverage  has  been  reported  compared  to  0.59  lakh  ha during the corresponding period of last year.",
+      "detected_crop": "Oilseeds",
+      "heading": "Rabi Crops - Area coverage",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 16.02.2026.pdf",
+      "state_context": "Karnataka"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 16.02.2026.pdf_3",
+      "chunk_text": " There is no major pest incidence that has been reported. The overall intensity of pests and diseases remained below the Economic Threshold Level.",
+      "detected_crop": "Oilseeds",
+      "heading": "7.      PEST &amp; DISEASE",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 16.02.2026.pdf",
+      "state_context": "Karnataka"
+    }
+  ]
+}

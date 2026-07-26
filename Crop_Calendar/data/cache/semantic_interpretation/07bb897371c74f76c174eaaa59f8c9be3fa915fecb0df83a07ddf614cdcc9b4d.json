@@ -1,0 +1,30 @@
+{
+  "crop": "Mustard",
+  "state": "Uttar Pradesh",
+  "week": "2026-03-30",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Mustard in Uttar Pradesh has 60% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Mustard in Uttar Pradesh has 60% harvested.",
+    "evidence": "Mustard in Uttar Pradesh has 60% harvested."
+  },
+  "pests": [
+    {
+      "value": "Mustard In Uttar Pradesh Has 60% Harvested",
+      "evidence": "Mustard in Uttar Pradesh has 60% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Mustard in Uttar Pradesh has 60% harvested."
+  ],
+  "confidence": 0.9
+}

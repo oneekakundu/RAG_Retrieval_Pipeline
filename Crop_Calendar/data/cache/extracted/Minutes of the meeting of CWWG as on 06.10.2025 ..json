@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-21T22:07:31.861894"
+  },
+  "data": [
+    {
+      "crop": "Soybean",
+      "state": "Maharashtra",
+      "growth_stage": "- Soybean : About 120.45 Lakh Ha (94.7% Of Normal) Area Coverage Under Soyabean Has Been Reported  As  Compared  To  129.55  Lakh  Ha  During  The  Corresponding  Period  Of  Last  Year. Soyabean Area Diverted In Maize In Mp And Maharashtra.",
+      "pest_or_disease": "Soybean : about 120.45 lakh ha (94.7% of normal) area coverage under soyabean has been reported  as  compared  to  129.55  lakh  ha  during  the  corresponding  period  of  last  year. soyabean area diverted in maize in mp and maharashtra",
+      "weather_condition": null,
+      "advisory": null,
+      "report_week": "2025-10-06",
+      "district": "State-wide",
+      "source_pdf": "Minutes of the meeting of CWWG as on 06.10.2025 ..pdf",
+      "page_number": 1,
+      "raw_text": "- Soybean : About 120.45 lakh ha (94.7% of Normal) area coverage under Soyabean has been reported  as  compared  to  129.55  lakh  ha  during  the  corresponding  period  of  last  year. Soyabean area diverted in Maize in MP and Maharashtra."
+    },
+    {
+      "crop": "Groundnut",
+      "state": "Haryana",
+      "growth_stage": "- Cotton : About 110.03 Lakh Ha (85% Of Normal) Area Coverage Has Been Reported Compared To  112.97  Lakh  Ha  During  The  Corresponding  Period  Of  Last  Year.  Cotton  Area  Diverted  In Paddy And Groundnut Respectively In Punjab &Amp; Haryana And Gujarat.",
+      "pest_or_disease": "Cotton : about 110.03 lakh ha (85% of normal) area coverage has been reported compared to  112.97  lakh  ha  during  the  corresponding  period  of  last  year.  cotton  area  diverted  in paddy and groundnut respectively in punjab &amp; haryana and gujarat",
+      "weather_condition": null,
+      "advisory": null,
+      "report_week": "2025-10-06",
+      "district": "State-wide",
+      "source_pdf": "Minutes of the meeting of CWWG as on 06.10.2025 ..pdf",
+      "page_number": 1,
+      "raw_text": "- Cotton : About 110.03 lakh ha (85% of Normal) area coverage has been reported compared to  112.97  lakh  ha  during  the  corresponding  period  of  last  year.  Cotton  area  diverted  in Paddy and Groundnut respectively in Punjab &amp; Haryana and Gujarat."
+    },
+    {
+      "crop": "Rice",
+      "state": "All India",
+      "growth_stage": "Sowing",
+      "pest_or_disease": "All india: progressive crop area sown report\nkharif weekly area coverage as on 03.10.2025\nsource: cwwg (via api)\narea in lakh ha\n|                      |   normal (da&fw) | area sown   | area sown   | difference in area coverage over   |\n|----------------------|------------------|-------------|-------------|------------------------------------|\n| crop                 |                  | 2025-26     | 2024-25     | 2024-25                            |\n| rice                 |           403.09 | 441.58      | 435.68      | 5.91",
+      "weather_condition": null,
+      "advisory": null,
+      "report_week": "2025-10-06",
+      "district": "State-wide",
+      "source_pdf": "Minutes of the meeting of CWWG as on 06.10.2025 ..pdf",
+      "page_number": 1,
+      "raw_text": "All India: Progressive Crop Area Sown Report\nKharif Weekly area coverage as on 03.10.2025\nSource: CWWG (via API)\nArea in Lakh Ha\n|                      |   Normal (DA&FW) | Area Sown   | Area Sown   | Difference In Area Coverage Over   |\n|----------------------|------------------|-------------|-------------|------------------------------------|\n| Crop                 |                  | 2025-26     | 2024-25     | 2024-25                            |\n| Rice                 |           403.09 | 441.58      | 435.68      | 5.91                               |"
+    }
+  ]
+}

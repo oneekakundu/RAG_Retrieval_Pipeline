@@ -1,0 +1,25 @@
+{
+  "crop": "Groundnut",
+  "state": "Madhya Pradesh",
+  "week": "2026-03-30",
+  "observation_type": "Harvest Progress",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "| 5   | Oilseeds           |   86.78 |   97.19 |   71.56 | Overall around 72% area has been harvested mainly in Rapeseed & Mustard (76%), Groundnut (30%), Safflower (53%), Sunflower (67%), Linseed (48%), etc has already been harvested.               |"
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "| 5   | Oilseeds           |   86.78 |   97.19 |   71.56 | Overall around 72% area has been harvested mainly in Rapeseed & Mustard (76%), Groundnut (30%), Safflower (53%), Sunflower (67%), Linseed (48%), etc has already been harvested.               |",
+    "evidence": "| 5   | Oilseeds           |   86.78 |   97.19 |   71.56 | Overall around 72% area has been harvested mainly in Rapeseed & Mustard (76%), Groundnut (30%), Safflower (53%), Sunflower (67%), Linseed (48%), etc has already been harvested.               |"
+  },
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "| 5   | Oilseeds           |   86.78 |   97.19 |   71.56 | Overall around 72% area has been harvested mainly in Rapeseed & Mustard (76%), Groundnut (30%), Safflower (53%), Sunflower (67%), Linseed (48%), etc has already been harvested.               |"
+  ],
+  "confidence": 0.9
+}

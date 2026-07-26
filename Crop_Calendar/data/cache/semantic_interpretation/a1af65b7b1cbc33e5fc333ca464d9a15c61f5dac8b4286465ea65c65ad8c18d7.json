@@ -1,0 +1,30 @@
+{
+  "crop": "Lentil (Masur)",
+  "state": "Bihar",
+  "week": "2026-03-30",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Lentil (Masur) in Bihar has 25% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Lentil (Masur) in Bihar has 25% harvested.",
+    "evidence": "Lentil (Masur) in Bihar has 25% harvested."
+  },
+  "pests": [
+    {
+      "value": "Lentil (Masur) In Bihar Has 25% Harvested",
+      "evidence": "Lentil (Masur) in Bihar has 25% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Lentil (Masur) in Bihar has 25% harvested."
+  ],
+  "confidence": 0.9
+}

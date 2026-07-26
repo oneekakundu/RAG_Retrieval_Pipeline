@@ -1,0 +1,30 @@
+{
+  "crop": "Wheat",
+  "state": "Maharashtra",
+  "week": "2026-04-06",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Wheat in Maharashtra has 17% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Wheat in Maharashtra has 17% harvested.",
+    "evidence": "Wheat in Maharashtra has 17% harvested."
+  },
+  "pests": [
+    {
+      "value": "Wheat In Maharashtra Has 17% Harvested",
+      "evidence": "Wheat in Maharashtra has 17% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Wheat in Maharashtra has 17% harvested."
+  ],
+  "confidence": 0.9
+}

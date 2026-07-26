@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Maharashtra",
+  "week": "2026-03-16",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Maximum Temperatures Are Likely To Be Above Normal Over Most Parts Of The Country Except, Madhya  Pradesh,  Interior  Maharashtra,  Interior-Karnatak,  Telangana,  Rayalaseema,  And Kerala; Where They Are Below Normal By 2-3°C During The Week",
+      "evidence": " Maximum temperatures are likely to be above normal over most parts of the country except, Madhya  Pradesh,  interior  Maharashtra,  interior-Karnatak,  Telangana,  Rayalaseema,  and Kerala; where they are below normal by 2-3°C during the week."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Maximum temperatures are likely to be above normal over most parts of the country except, Madhya  Pradesh,  interior  Maharashtra,  interior-Karnatak,  Telangana,  Rayalaseema,  and Kerala; where they are below normal by 2-3°C during the week."
+  ],
+  "confidence": 0.9
+}

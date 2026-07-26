@@ -1,0 +1,24 @@
+{
+  "crop": "Unknown",
+  "state": "All India",
+  "week": "2025-10-27",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Over All  Intensity  Of  Pests  And  Disease  Remained  Below  Economic  Threshold  Level  (Etl) Except:\nफफफ\nCrop\nफफफफ\nState\nफफफफ/फफफफफफ\n/फफफफ\nDistrict/ Sub District/ Village\nफफफफ\nSource\nफफफ/\nफफफ\nPest\nDisease\nफफफफफ\nफफफ\nफफफ\nफफफफफ\nफफफ\nफफफफ\nफफफफफ\n(फफफफ\nफफफफ)\nTotal\nArea\nUnder The\nCrop   In\nThe State\n(Ha)\nफफफफफ\nIntensity\nकक  कक   कककककककक/ककककककक\nAction Taken/ Remark\nफफफफफ\nफफफ/\nफफफफफ\nफफफफफ\nफफफफफ\n- [ ] * Etl ( फफफफ फफफफ) फफफफफ\nArea\nInfested/I\nNfected\nAbove\n*Etl\n(Ha",
+      "evidence": " Over all  intensity  of  pests  and  disease  remained  below  Economic  Threshold  Level  (ETL) except:\nफफफ\nCrop\nफफफफ\nState\nफफफफ/फफफफफफ\n/फफफफ\nDistrict/ Sub District/ Village\nफफफफ\nSource\nफफफ/\nफफफ\nPest\nDisease\nफफफफफ\nफफफ\nफफफ\nफफफफफ\nफफफ\nफफफफ\nफफफफफ\n(फफफफ\nफफफफ)\nTotal\narea\nunder the\ncrop   in\nthe state\n(ha)\nफफफफफ\nIntensity\nकक  कक   कककककककक/ककककककक\nAction Taken/ Remark\nफफफफफ\nफफफ/\nफफफफफ\nफफफफफ\nफफफफफ\n- [ ] * ETL ( फफफफ फफफफ) फफफफफ\nArea\ninfested/I\nnfected\nabove\n*ETL\n(ha)"
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Over all  intensity  of  pests  and  disease  remained  below  Economic  Threshold  Level  (ETL) except:\nफफफ\nCrop\nफफफफ\nState\nफफफफ/फफफफफफ\n/फफफफ\nDistrict/ Sub District/ Village\nफफफफ\nSource\nफफफ/\nफफफ\nPest\nDisease\nफफफफफ\nफफफ\nफफफ\nफफफफफ\nफफफ\nफफफफ\nफफफफफ\n(फफफफ\nफफफफ)\nTotal\narea\nunder the\ncrop   in\nthe state\n(ha)\nफफफफफ\nIntensity\nकक  कक   कककककककक/ककककककक\nAction Taken/ Remark\nफफफफफ\nफफफ/\nफफफफफ\nफफफफफ\nफफफफफ\n- [ ] * ETL ( फफफफ फफफफ) फफफफफ\nArea\ninfested/I\nnfected\nabove\n*ETL\n(ha)"
+  ],
+  "confidence": 0.9
+}

@@ -1,0 +1,24 @@
+{
+  "crop": "Oilseeds",
+  "state": "Karnataka",
+  "week": "2026-02-16",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "There Is No Major Pest Incidence That Has Been Reported. The Overall Intensity Of Pests And Diseases Remained Below The Economic Threshold Level",
+      "evidence": " There is no major pest incidence that has been reported. The overall intensity of pests and diseases remained below the Economic Threshold Level."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " There is no major pest incidence that has been reported. The overall intensity of pests and diseases remained below the Economic Threshold Level."
+  ],
+  "confidence": 0.9
+}

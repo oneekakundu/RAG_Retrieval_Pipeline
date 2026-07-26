@@ -1,0 +1,30 @@
+{
+  "crop": "Lentil (Masur)",
+  "state": "Karnataka",
+  "week": "2026-04-06",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Lentil (Masur) is 100% harvested in Karnataka."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Lentil (Masur) is 100% harvested in Karnataka.",
+    "evidence": "Lentil (Masur) is 100% harvested in Karnataka."
+  },
+  "pests": [
+    {
+      "value": "Lentil (Masur) Is 100% Harvested In Karnataka",
+      "evidence": "Lentil (Masur) is 100% harvested in Karnataka."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Lentil (Masur) is 100% harvested in Karnataka."
+  ],
+  "confidence": 0.9
+}

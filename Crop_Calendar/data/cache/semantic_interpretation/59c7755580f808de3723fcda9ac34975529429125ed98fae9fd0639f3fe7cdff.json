@@ -1,0 +1,30 @@
+{
+  "crop": "Sesame (Sesamum)",
+  "state": "Telangana",
+  "week": "2026-04-27",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Sesame (Sesamum) in Telangana has 80% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Sesame (Sesamum) in Telangana has 80% harvested.",
+    "evidence": "Sesame (Sesamum) in Telangana has 80% harvested."
+  },
+  "pests": [
+    {
+      "value": "Sesame (Sesamum) In Telangana Has 80% Harvested",
+      "evidence": "Sesame (Sesamum) in Telangana has 80% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Sesame (Sesamum) in Telangana has 80% harvested."
+  ],
+  "confidence": 0.9
+}

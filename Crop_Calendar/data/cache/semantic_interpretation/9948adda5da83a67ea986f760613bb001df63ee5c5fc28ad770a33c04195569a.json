@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Punjab",
+  "week": "2026-05-25",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Low Probability Of Warm Night Conditions Is Likely Over Punjab, Haryana, And Adjoining West Uttar Pradesh On Some Days Of The Week",
+      "evidence": "Low probability of warm night conditions is likely over Punjab, Haryana, and adjoining West Uttar Pradesh on some days of the week."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Low probability of warm night conditions is likely over Punjab, Haryana, and adjoining West Uttar Pradesh on some days of the week."
+  ],
+  "confidence": 0.9
+}

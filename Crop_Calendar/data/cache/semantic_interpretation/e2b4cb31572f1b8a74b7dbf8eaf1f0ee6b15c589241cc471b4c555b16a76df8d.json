@@ -1,0 +1,25 @@
+{
+  "crop": "Groundnut",
+  "state": "Uttar Pradesh",
+  "week": "2026-05-11",
+  "observation_type": "Harvest Progress",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "| 5        | Oilseeds                   |               86.78 |                           97.19 |              99.87 |                                                                                                                                                         |\n| a        | Rapeseed & Mustard         |               79.17 |                           89.36 |             100.00 | 100% harvested in all states.                                                                                                                           |"
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "| 5        | Oilseeds                   |               86.78 |                           97.19 |              99.87 |                                                                                                                                                         |\n| a        | Rapeseed & Mustard         |               79.17 |                           89.36 |             100.00 | 100% harvested in all states.                                                                                                                           |",
+    "evidence": "| 5        | Oilseeds                   |               86.78 |                           97.19 |              99.87 |                                                                                                                                                         |\n| a        | Rapeseed & Mustard         |               79.17 |                           89.36 |             100.00 | 100% harvested in all states.                                                                                                                           |"
+  },
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "| 5        | Oilseeds                   |               86.78 |                           97.19 |              99.87 |                                                                                                                                                         |\n| a        | Rapeseed & Mustard         |               79.17 |                           89.36 |             100.00 | 100% harvested in all states.                                                                                                                           |"
+  ],
+  "confidence": 0.9
+}

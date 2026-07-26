@@ -1,0 +1,24 @@
+{
+  "crop": "Oilseeds",
+  "state": "Odisha",
+  "week": "2026-03-16",
+  "observation_type": "Area Coverage",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [
+    {
+      "value": " Rice: About 21.80 lakh ha area coverage under Summer Rice has been reported as compared to 23.45 lakh ha during the corresponding period of last year.\n-\nPulses: About 1.15 lakh ha area coverage has been reported compared to 1.03 lakh ha during the corresponding period of last year.\n-\nOilseeds: About  1.69  lakh  ha  area  coverage  has  been  reported  compared  to  1.26  lakh  ha during the corresponding period of last year.",
+      "evidence": " Rice: About 21.80 lakh ha area coverage under Summer Rice has been reported as compared to 23.45 lakh ha during the corresponding period of last year.\n-\nPulses: About 1.15 lakh ha area coverage has been reported compared to 1.03 lakh ha during the corresponding period of last year.\n-\nOilseeds: About  1.69  lakh  ha  area  coverage  has  been  reported  compared  to  1.26  lakh  ha during the corresponding period of last year."
+    }
+  ],
+  "evidence": [
+    " Rice: About 21.80 lakh ha area coverage under Summer Rice has been reported as compared to 23.45 lakh ha during the corresponding period of last year.\n-\nPulses: About 1.15 lakh ha area coverage has been reported compared to 1.03 lakh ha during the corresponding period of last year.\n-\nOilseeds: About  1.69  lakh  ha  area  coverage  has  been  reported  compared  to  1.26  lakh  ha during the corresponding period of last year."
+  ],
+  "confidence": 0.7
+}

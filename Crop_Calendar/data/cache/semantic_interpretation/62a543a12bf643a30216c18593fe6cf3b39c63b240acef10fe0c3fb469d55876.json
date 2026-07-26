@@ -1,0 +1,25 @@
+{
+  "crop": "Oilseeds",
+  "state": "Bihar",
+  "week": "2026-04-27",
+  "observation_type": "Harvest Progress",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "| g  | Other Oilseeds |   0.00 |   0.40 |  99.11 | Harvesting is going on in afull swing.                                                                                                                                                  |\n|    | Total Crops    | 637.81 | 680.18 |  92.62 |                                                                                                                                                                                         |\nSource: Crops Division, DoA&amp;FW."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "| g  | Other Oilseeds |   0.00 |   0.40 |  99.11 | Harvesting is going on in afull swing.                                                                                                                                                  |\n|    | Total Crops    | 637.81 | 680.18 |  92.62 |                                                                                                                                                                                         |\nSource: Crops Division, DoA&amp;FW.",
+    "evidence": "| g  | Other Oilseeds |   0.00 |   0.40 |  99.11 | Harvesting is going on in afull swing.                                                                                                                                                  |\n|    | Total Crops    | 637.81 | 680.18 |  92.62 |                                                                                                                                                                                         |\nSource: Crops Division, DoA&amp;FW."
+  },
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "| g  | Other Oilseeds |   0.00 |   0.40 |  99.11 | Harvesting is going on in afull swing.                                                                                                                                                  |\n|    | Total Crops    | 637.81 | 680.18 |  92.62 |                                                                                                                                                                                         |\nSource: Crops Division, DoA&amp;FW."
+  ],
+  "confidence": 0.9
+}

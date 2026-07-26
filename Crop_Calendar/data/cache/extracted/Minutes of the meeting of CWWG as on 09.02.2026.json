@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-21T22:08:32.759287"
+  },
+  "data": [
+    {
+      "crop": "Wheat",
+      "state": "All India",
+      "growth_stage": "| All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   |\n|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|\n| Increasing Trend                        | Increasing Trend                        | Decreasing Trend                        | Decreasing Trend                        |\n| Commodities                             | % Variation Over Last Week              | Commodities                             | % Variation Over Last Week              |\n| Wheat                                   | 0.24                                    | Paddy (Rice Un-Milled)                  |\n2.40                                   |",
+      "pest_or_disease": "All india weekly average mandi prices   | all india weekly average mandi prices   | all india weekly average mandi prices   | all india weekly average mandi prices   |\n|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|\n| increasing trend                        | increasing trend                        | decreasing trend                        | decreasing trend                        |\n| commodities                             | % variation over last week              | commodities                             | % variation over last week              |\n| wheat                                   | 0.24                                    | paddy (rice un-milled)                  |\n2.40",
+      "weather_condition": null,
+      "advisory": null,
+      "report_week": "2026-02-09",
+      "district": "State-wide",
+      "source_pdf": "Minutes of the meeting of CWWG as on 09.02.2026.pdf",
+      "page_number": 1,
+      "raw_text": "| All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   |\n|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|\n| Increasing Trend                        | Increasing Trend                        | Decreasing Trend                        | Decreasing Trend                        |\n| Commodities                             | % Variation over last Week              | Commodities                             | % Variation over last Week              |\n| Wheat                                   | 0.24                                    | Paddy (Rice un-milled)                  |\n2.40                                   |"
+    }
+  ]
+}

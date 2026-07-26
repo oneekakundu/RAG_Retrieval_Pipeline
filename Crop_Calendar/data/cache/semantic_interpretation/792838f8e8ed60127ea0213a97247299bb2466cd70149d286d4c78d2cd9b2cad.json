@@ -1,0 +1,30 @@
+{
+  "crop": "Rice",
+  "state": "Kerala",
+  "week": "2026-05-11",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Rice in Kerala has 97% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Rice in Kerala has 97% harvested.",
+    "evidence": "Rice in Kerala has 97% harvested."
+  },
+  "pests": [
+    {
+      "value": "Rice In Kerala Has 97% Harvested",
+      "evidence": "Rice in Kerala has 97% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Rice in Kerala has 97% harvested."
+  ],
+  "confidence": 0.9
+}

@@ -1,0 +1,30 @@
+{
+  "crop": "Mustard",
+  "state": "West Bengal",
+  "week": "2026-03-30",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Mustard in West Bengal has 92% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Mustard in West Bengal has 92% harvested.",
+    "evidence": "Mustard in West Bengal has 92% harvested."
+  },
+  "pests": [
+    {
+      "value": "Mustard In West Bengal Has 92% Harvested",
+      "evidence": "Mustard in West Bengal has 92% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Mustard in West Bengal has 92% harvested."
+  ],
+  "confidence": 0.9
+}

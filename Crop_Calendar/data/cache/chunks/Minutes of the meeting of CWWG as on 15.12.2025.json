@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-25T14:35:11.374161"
+  },
+  "data": [
+    {
+      "detected_crop": "Crop",
+      "state_context": "Odisha",
+      "chunk_text": "Cold  wave  conditions  are  likely  to  prevail  in  isolated  pockets  over  interior  Odisha, adjoining Chhattisgarh, East Madhya Pradesh, Vidarbha, and Telangana during some days of the week.",
+      "heading": "Week 2 (19 Dec - 25 Dec 2025):",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 15.12.2025.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 15.12.2025.pdf_0"
+    },
+    {
+      "detected_crop": "Crop",
+      "state_context": "Punjab",
+      "chunk_text": "Dense fog conditions  likely  to  prevail  during  early  morning  hours  in  isolated  pockets  of Himachal Pradesh, Punjab, Haryana Chandigarh &amp; Delhi and Rajasthan during some days of the week.",
+      "heading": "Week 2 (19 Dec - 25 Dec 2025):",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 15.12.2025.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 15.12.2025.pdf_1"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 15.12.2025.pdf_2",
+      "chunk_text": " Wheat: About 275.66 lakh ha (88% of normal) area coverage under Wheat has been reported as compared to 258.48 lakh ha during the corresponding period of last year.\n-\nRapeseed &amp; Mustard : About 84.67 (107% of normal) lakh ha area coverage under Rapeseed &amp;  Mustard  has  been  reported  as  compared  to  81.16  lakh  ha  during  the  corresponding period of last year.\n-\nGram: About 84.91 (84% of normal) lakh ha area coverage under Gram has been reported as compared to 81.67 lakh ha during the corresponding period of last year.",
+      "detected_crop": "Bengal Gram (Gram/Chickpea)",
+      "heading": "Rabi Crops - Area coverage",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 15.12.2025.pdf",
+      "state_context": "Punjab"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 15.12.2025.pdf_3",
+      "chunk_text": "|----------|----------------------------|--------------------------|---------------------------|-------------------------|-------------------------|--------------------------------------------|\n| 1        | Wheat                      | 312.35                   | 328.04                    | 275.66                  | 258.48                  | 17.18                                      |\n| 2        | Rice *                     | 42.93                    | 44.73                     | 12.44                   | 10.64                   | 1.80                                       |\n| 3        | Pulses                     | 140.42                   | 134.08                    | 117.11                  | 115.41                  | 1.70                                       |\n| a        | Gram                       | 100.99                   | 91.22                     | 84.91                   | 81.67                   | 3.24                                       |\n| b        | Lentil                     | 15.13                    | 16.99                     | 14.60                   | 14.57                   | 0.03                                       |\n| c        | Fieldpea $                 | 6.50                     |\n| 7.92                    | 8.27                    |\n0.35                                      |\n| d        | Kulthi $                   | 1.98                     |\n| 1.59                    | 1.69                    |\n0.10                                      |\n| e        | Urdbean *                  | 6.16                     | 6.18                      | 2.41                    | 3.09                    |\n0.67                                      |\n| f        | Moongbean *                | 1.41                     | 1.36                      | 0.32                    | 0.37                    |\n0.05                                      |\n| g        | Lathyrus $                 | 2.79                     |\n| 2.52                    | 2.68                    |\n0.16                                      |\n| h        | Other Pulses $             | 5.46                     | 18.33                     | 2.84                    | 3.06                    |\n0.22                                      |\n| 4        | Shri Anna & Coarse cereals | 55.33                    | 59.05                     | 41.77                   | 41.13                   | 0.64                                       |\n| a        | Jowar *                    | 24.62                    | 25.17                     | 18.52                   | 19.99                   |\n1.47                                      |\n| b        | Bajra #                    | 0.59                     |\n| 0.09                    | 0.11                    |\n0.02                                      |\n| c        | Ragi #                     | 0.72                     |\n| 0.66                    | 0.48                    | 0.18                                       |\n| d        | Small Millets #            | 0.16                     |\n| 0.12                    | 0.10                    | 0.03                                       |\n| e        | Maize *                    | 23.61                    | 27.80                     | 15.60                   | 13.99                   | 1.61                                       |\n| f        | Barley                     | 5.63                     | 6.08                      | 6.78                    | 6.47                    | 0.31                                       |\n| 5        | Oilseeds                   | 86.78                    | 93.49                     | 89.79                   | 87.10                   | 2.70                                       |\n| a        | Rapeseed & Mustard         | 79.17                    | 86.57                     | 84.67                   | 81.16                   | 3.51                                       |\n| b   | Groundnut *    |   3.69 | 3.37   |   2.12 |   2.57 |\n0.45 |\n|-----|----------------|--------|--------|--------|--------|---------|\n| c   | Safflower      |   0.72 | 0.64   |   0.73 |   0.56 |    0.17 |\n| d   | Sunflower *    |   0.79 | 0.81   |   0.34 |   0.30 |    0.03 |\n| e   | Sesamum *      |   0.48 | 0.41   |   0.05 |   0.07 |\n0.01 |\n| f   | Linseed        |   1.93 | 1.69   |   1.61 |   2.24 |\n0.63 |\n| g   | Other Oilseeds |   0.00 |\n|   0.27 |   0.20 |    0.07 |\n|     | Total Crops    | 637.81 | 659.39 | 536.76 | 512.76 |   24.00 |\nNote: *Average of 2022-23 to 2024-25, $ average (2016-17 to 2020-21) as per DES, # Average of (2018-19 to 2022-23) as per CWWG report.",
+      "detected_crop": "Oilseeds",
+      "heading": "(Area in lakh hactare)",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 15.12.2025.pdf",
+      "state_context": "Punjab"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 15.12.2025.pdf_4",
+      "chunk_text": " There is no major pest incidence that has been reported. The overall intensity of pests and diseases remained below the Economic Threshold Level.",
+      "detected_crop": "Oilseeds",
+      "heading": "7.      PEST &amp; DISEASE",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 15.12.2025.pdf",
+      "state_context": "Punjab"
+    }
+  ]
+}

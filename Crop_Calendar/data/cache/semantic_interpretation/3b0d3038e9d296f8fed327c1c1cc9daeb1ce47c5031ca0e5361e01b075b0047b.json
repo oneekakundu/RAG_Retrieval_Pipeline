@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Maharashtra",
+  "week": "2026-05-18",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "No Significant Change In Maximum Temperatures Likely Over Maharashtra And Gujarat State Till 19Th And Gradual Fall By 2-3°C During 20Th",
+      "evidence": "No significant change in maximum temperatures likely over Maharashtra and Gujarat State till 19th and gradual fall by 2-3°C during 20th"
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "No significant change in maximum temperatures likely over Maharashtra and Gujarat State till 19th and gradual fall by 2-3°C during 20th"
+  ],
+  "confidence": 0.9
+}

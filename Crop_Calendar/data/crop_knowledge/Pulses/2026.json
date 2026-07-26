@@ -1,0 +1,187 @@
+{
+  "crop": "Pulses",
+  "year": "2026",
+  "metadata": {
+    "generated_at": "2026-07-26T23:23:54.930066",
+    "total_observations": 6,
+    "pipeline_version": "2.1"
+  },
+  "statistics": {
+    "states_observed": [
+      "Karnataka",
+      "Maharashtra",
+      "Punjab"
+    ],
+    "growth_stages": [
+      "Sowing"
+    ],
+    "common_pests": [
+      "The  Overall  Intensity  Of  Pests  And  Diseases  Remained  Below  The  Economic  Threshold  Level Except",
+      "There Is No Major Pest Incidence That Has Been Reported. The Overall Intensity Of Pests And Diseases Remained Below The Economic Threshold Level"
+    ],
+    "common_diseases": [
+      "The  Overall  Intensity  Of  Pests  And  Diseases  Remained  Below  The  Economic  Threshold  Level Except",
+      "There Is No Major Pest Incidence That Has Been Reported. The Overall Intensity Of Pests And Diseases Remained Below The Economic Threshold Level"
+    ],
+    "first_appearance": "2026-02-02",
+    "latest_appearance": "2026-06-22"
+  },
+  "observations": [
+    {
+      "id": 1259,
+      "date": "2026-06-22",
+      "report_week": "2026-06-22",
+      "state": "Punjab",
+      "district": "State-wide",
+      "growth_stage": "Sowing",
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": " Sugarcane : About 57.31 lakh ha area coverage (106% of Normal area) has been reported compared to 56.64 lakh ha during the corresponding period of last year.\n-\nCotton : About 17.13 lakh ha area coverage has been reported compared to 22.82 lakh ha during the corresponding period of last year.\n-\nJute : About 6.22 lakh ha area coverage has been reported compared to 6.09 lakh ha during the corresponding period of last year. Progress of area coverage under Kharif crops as on 19.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 19.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 19.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 19.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 19.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 19.06.2026 Area: In lakh hactare Progress of area coverage under Kharif crops as on 19.06.2026 Area: In lakh hactare --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------- S. No. Crop Normal Area (2020-21 to 2024-25) Final Area Coverage 2025 Area Sown Area Sown Increase(+)/ Decrease(-) over 2025 S. No. Crop Normal Area (2020-21 to 2024-25) Final Area Coverage 2025 2026 2025 Increase(+)/ Decrease(-) over 2025 1 Rice 412.00 446.70 12.36 8.09 4.26 2 Pulses 123.64 118.97 7.21 6.39 0.83 a Arhar 44.32 44.60 1.61 1.59 0.02 b Urdbean 29.60 21.26 0.62 0.98 0.36 c Moongbean 35.48 37.45 4.08 2.86 1.21 d Kulthi 1.48 0.09 0.08 0.01 e Mothbean 9.69 0.10 0.00 0.10 f Other pulses* 3.07 15.66 0.71 0.87 0.16 a Jowar 14.44 12.10 1.74 1.40 0.34 b Bajra** 70.94 63.80 4.05 2.14 1.91 c Ragi 12.01 13.46 0.31 0.27 0.05 d Small millets 4.47 4.15 0.64 0.68 0.04 e Maize 80.77 98.61 5.69 5.34 0.35 4 Oilseeds 200.08 196.38 7.24 8.11 0.87 a Groundnut 46.79 50.29 5.25 5.09 0.16 b Soybean 128.71 123.86 1.30 2.50 1.20 c Sunflower 1.20 0.88 0.49 0.27 0.21 d Sesamum** 12.88 9.63 0.15 0.19 0.04 e Niger 1.01 0.83 0.00 0.00 0.00 f Castor 9.49 10.89 0.02 0.01 0.00 g Other Oilseeds 0.00 0.04 0.03 0.00 5 Sugarcane 54.20 58.84 57.31 56.64 0.67 6 Jute & Mesta 6.40 6.06 6.22 6.09 0.14 7 Cotton 125.51 115.20 17.13 22.82 5.69 * Other pulses (Other pulses- Kulthi * Other pulses (Other pulses- Kulthi & Mothbean), ** Average of 2022-23 & 2023-24) & Mothbean), ** Average of 2022-23 & 2023-24) & Mothbean), ** Average of 2022-23 & 2023-24) & Mothbean), ** Average of 2022-23 & 2023-24) & Mothbean), ** Average of 2022-23 & 2023-24)",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 22.06.2026.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 1260,
+      "date": "2026-06-22",
+      "report_week": "2026-06-22",
+      "state": "Punjab",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": "The  Overall  Intensity  Of  Pests  And  Diseases  Remained  Below  The  Economic  Threshold  Level Except",
+      "disease": "The  Overall  Intensity  Of  Pests  And  Diseases  Remained  Below  The  Economic  Threshold  Level Except",
+      "pest_or_disease": "The  Overall  Intensity  Of  Pests  And  Diseases  Remained  Below  The  Economic  Threshold  Level Except",
+      "severity": null,
+      "affected_area": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": " The overall intensity of pests and diseases remained below the Economic Threshold Level except:",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 22.06.2026.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 954,
+      "date": "2026-02-09",
+      "report_week": "2026-02-09",
+      "state": "Maharashtra",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "Progress of area coverage under Rabi crops as on 30.01.2026 ------ ---------------------------- -------------------- ------------------------- ------------------------------ ----------------------------------------------------------------- 1 Wheat 312.35 334.17 328.04 6.13 2 Rice * 42.93 45.00 44.73 0.27 3 Pulses 140.42 139.55 134.52 5.03 a Gram 100.99 96.20 91.22 4.98 b Lentil 15.13 18.12 17.66 0.45 c Fieldpea $ 6.50 7.92 8.27 0.35 d Kulthi $ 1.98 1.98 2.41 0.43 e Urdbean * 6.16 6.06 5.67 0.39 f Moongbean * 1.41 0.99 1.00 0.00 g Lathyrus $ 2.79 2.98 2.92 0.06 h Other Pulses @ 5.46 5.30 5.37 0.07 4 Shri Anna & Coarse cereals 55.33 60.93 59.99 0.93 a Jowar * 24.62 23.13 25.17 2.04 b Bajra # 0.59 0.16 0.14 0.02 c Ragi # 0.72 0.97 0.70 0.27 d Small Millets # 0.16 0.13 0.10 0.03 e Maize * 23.61 29.16 27.80 1.36 f Barley 5.63 7.38 6.08 1.30 5 Oilseeds 86.78 97.19 93.67 3.52 a Rapeseed & Mustard 79.17 89.36 86.57 2.79 b Groundnut * 3.69 3.52 3.37 0.15 c Safflower 0.72 0.89 0.64 0.25 d Sunflower * 0.79 0.70 0.56 0.14 (Area in lakh hactare) e Sesamum * 0.48 0.33 0.41 0.08 ----- ---------------- -------- -------- -------- --------- f Linseed 1.93 1.99 1.76 0.23 g Other Oilseeds 0.00 0.40 0.35 0.05 Total Crops 637.81 676.84 660.96 15.88 Note: *Average of 2022-23 to 2024-25, $ average (2016-17 to 2020-21) as per DES, # Average of (2018-19 to 2022-23) as per CWWG report.\n@: Other Pulses area (2024-25) is including the area of fieldpea, kulthi and lathyrus.",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 09.02.2026.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.7,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 955,
+      "date": "2026-02-09",
+      "report_week": "2026-02-09",
+      "state": "Maharashtra",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": "There Is No Major Pest Incidence That Has Been Reported. The Overall Intensity Of Pests And Diseases Remained Below The Economic Threshold Level",
+      "disease": "There Is No Major Pest Incidence That Has Been Reported. The Overall Intensity Of Pests And Diseases Remained Below The Economic Threshold Level",
+      "pest_or_disease": "There Is No Major Pest Incidence That Has Been Reported. The Overall Intensity Of Pests And Diseases Remained Below The Economic Threshold Level",
+      "severity": null,
+      "affected_area": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": " There is no major pest incidence that has been reported. The overall intensity of pests and diseases remained below the Economic Threshold Level.",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 09.02.2026.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 760,
+      "date": "2026-02-02",
+      "report_week": "2026-02-02",
+      "state": "Karnataka",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "---------- ---------------------------- --------------- ------------------------- ------------------------------ ----------------------------------------------------------------- 1 Wheat 312.35 334.17 328.04 6.13 2 Rice * 42.93 45.00 44.73 0.27 3 Pulses 140.42 139.55 134.52 5.03 a Gram 100.99 96.20 91.22 4.98 b Lentil 15.13 18.12 17.66 0.45 c Fieldpea $ 6.50 7.92 8.27 0.35 d Kulthi $ 1.98 1.98 2.41 0.43 e Urdbean * 6.16 6.06 5.67 0.39 f Moongbean * 1.41 0.99 1.00 0.00 g Lathyrus $ 2.79 2.98 2.92 0.06 h Other Pulses @ 5.46 5.30 5.37 0.07 4 Shri Anna & Coarse cereals 55.33 60.93 59.99 0.93 a Jowar * 24.62 23.13 25.17 2.04 b Bajra # 0.59 0.16 0.14 0.02 c Ragi # 0.72 0.97 0.70 0.27 d Small Millets # 0.16 0.13 0.10 0.03 e Maize * 23.61 29.16 27.80 1.36 f Barley 5.63 7.38 6.08 1.30 5 Oilseeds 86.78 97.19 93.67 3.52 ----- -------------------- --------- --------- --------- -------- a Rapeseed & Mustard 79.17 89.36 86.57 2.79 b Groundnut * 3.69 3.52 3.37 0.15 c Safflower 0.72 0.89 0.64 0.25 d Sunflower * 0.79 0.70 0.56 0.14 e Sesamum * 0.48 0.33 0.41 0.08 f Linseed 1.93 1.99 1.76 0.23 g Other Oilseeds 0.00 0.40 0.35 0.05 Total Crops 637.81 676.84 660.96 15.88 Note: *Average of 2022-23 to 2024-25, $ average (2016-17 to 2020-21) as per DES, # Average of (2018-19 to 2022-23) as per CWWG report.\n@: Other Pulses area (2024-25) is including the area of fieldpea, kulthi and lathyrus.",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 02.02.2026.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.7,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 761,
+      "date": "2026-02-02",
+      "report_week": "2026-02-02",
+      "state": "Karnataka",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": "There Is No Major Pest Incidence That Has Been Reported. The Overall Intensity Of Pests And Diseases Remained Below The Economic Threshold Level",
+      "disease": "There Is No Major Pest Incidence That Has Been Reported. The Overall Intensity Of Pests And Diseases Remained Below The Economic Threshold Level",
+      "pest_or_disease": "There Is No Major Pest Incidence That Has Been Reported. The Overall Intensity Of Pests And Diseases Remained Below The Economic Threshold Level",
+      "severity": null,
+      "affected_area": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": " There is no major pest incidence that has been reported. The overall intensity of pests and diseases remained below the Economic Threshold Level.",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 02.02.2026.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    }
+  ]
+}

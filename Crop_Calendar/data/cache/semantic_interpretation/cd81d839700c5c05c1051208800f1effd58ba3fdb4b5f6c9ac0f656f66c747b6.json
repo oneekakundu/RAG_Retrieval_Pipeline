@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Karnataka",
+  "week": "2026-02-16",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Hot And Humid Conditions Likely Over Coastal Karnataka And Konkan &Amp; Goa",
+      "evidence": "Hot and Humid conditions likely over Coastal Karnataka and Konkan &amp; Goa."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Hot and Humid conditions likely over Coastal Karnataka and Konkan &amp; Goa."
+  ],
+  "confidence": 0.9
+}

@@ -1,0 +1,30 @@
+{
+  "crop": "Bengal Gram (Gram/Chickpea)",
+  "state": "Madhya Pradesh",
+  "week": "2026-04-20",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Bengal Gram (Gram/Chickpea) in Madhya Pradesh has 90% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Bengal Gram (Gram/Chickpea) in Madhya Pradesh has 90% harvested.",
+    "evidence": "Bengal Gram (Gram/Chickpea) in Madhya Pradesh has 90% harvested."
+  },
+  "pests": [
+    {
+      "value": "Bengal Gram (Gram/Chickpea) In Madhya Pradesh Has 90% Harvested",
+      "evidence": "Bengal Gram (Gram/Chickpea) in Madhya Pradesh has 90% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Bengal Gram (Gram/Chickpea) in Madhya Pradesh has 90% harvested."
+  ],
+  "confidence": 0.9
+}

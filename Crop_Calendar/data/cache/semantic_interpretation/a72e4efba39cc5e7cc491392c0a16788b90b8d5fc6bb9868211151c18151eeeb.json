@@ -1,0 +1,25 @@
+{
+  "crop": "Maize",
+  "state": "Chhattisgarh",
+  "week": "2026-04-13",
+  "observation_type": "Harvest Progress",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "| 4        | Shri Anna & Coarse cereals |               55.33 |                          60.93 |              71.52 | Overall around 72% area has been harvested mainly in Jowar (84%), Maize (64%), Barley (67%), etc has already been harvested.                                                                                        |"
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "| 4        | Shri Anna & Coarse cereals |               55.33 |                          60.93 |              71.52 | Overall around 72% area has been harvested mainly in Jowar (84%), Maize (64%), Barley (67%), etc has already been harvested.                                                                                        |",
+    "evidence": "| 4        | Shri Anna & Coarse cereals |               55.33 |                          60.93 |              71.52 | Overall around 72% area has been harvested mainly in Jowar (84%), Maize (64%), Barley (67%), etc has already been harvested.                                                                                        |"
+  },
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "| 4        | Shri Anna & Coarse cereals |               55.33 |                          60.93 |              71.52 | Overall around 72% area has been harvested mainly in Jowar (84%), Maize (64%), Barley (67%), etc has already been harvested.                                                                                        |"
+  ],
+  "confidence": 0.9
+}

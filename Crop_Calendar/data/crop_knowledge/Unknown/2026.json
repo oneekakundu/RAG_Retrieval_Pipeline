@@ -1,0 +1,49 @@
+{
+  "crop": "Unknown",
+  "year": "2026",
+  "metadata": {
+    "generated_at": "2026-07-25T16:00:46.506727",
+    "total_observations": 1,
+    "pipeline_version": "2.1"
+  },
+  "statistics": {
+    "states_observed": [
+      "All India"
+    ],
+    "growth_stages": [],
+    "common_pests": [],
+    "common_diseases": [],
+    "first_appearance": "",
+    "latest_appearance": ""
+  },
+  "observations": [
+    {
+      "id": 1259,
+      "date": null,
+      "report_week": null,
+      "state": "All India",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "recommendation": null,
+      "advisory": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": " Over all intensity of pests and disease remained below Economic Threshold Level (ETL) except:\nफफफ\nCrop\nफफफफ\nState\nफफफफ/फफफफफफ\n/फफफफ\nDistrict/ Sub District/ Village\nफफफफ\nSource\nफफफ/\nफफफ\nPest\nDisease\nफफफफफ\nफफफ\nफफफ\nफफफफफ\nफफफ\nफफफफ\nफफफफफ\n(फफफफ\nफफफफ)\nTotal\narea\nunder the\ncrop in\nthe state\n(ha)\nफफफफफ\nIntensity\nकक कक कककककककक/ककककककक\nAction Taken/ Remark\nफफफफफ\nफफफ/\nफफफफफ\nफफफफफ\nफफफफफ\n- [ ] * ETL ( फफफफ फफफफ) फफफफफ\nArea\ninfested/I\nnfected\nabove\n*ETL\n(ha)",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 27.10.2025.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    }
+  ]
+}

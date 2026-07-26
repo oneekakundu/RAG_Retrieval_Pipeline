@@ -1,0 +1,30 @@
+{
+  "crop": "Maize",
+  "state": "Tamil Nadu",
+  "week": "2026-04-13",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Maize in Tamil Nadu has 92% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Maize in Tamil Nadu has 92% harvested.",
+    "evidence": "Maize in Tamil Nadu has 92% harvested."
+  },
+  "pests": [
+    {
+      "value": "Maize In Tamil Nadu Has 92% Harvested",
+      "evidence": "Maize in Tamil Nadu has 92% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Maize in Tamil Nadu has 92% harvested."
+  ],
+  "confidence": 0.9
+}

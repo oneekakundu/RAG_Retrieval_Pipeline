@@ -1,0 +1,550 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-25T12:57:15.528387"
+  },
+  "data": [
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_0",
+      "chunk_text": " As on May 01, 2026, the area sown under summer crops is 81.60 lakh ha as compared to 79.00 lakh ha during the corresponding period of last year.  Of this, area of 31.05 lakh ha has been sown under Rice this year.\n-",
+      "detected_crop": "Rice",
+      "heading": "1. Rabi Season harvest and Summer Season Sowing Status:",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "state_context": "All India"
+    },
+    {
+      "detected_crop": "Rice",
+      "state_context": "All India",
+      "chunk_text": "As on 01.05.2026, 95.25% of area has been harvested for Rabi crops all over India. 100% area of Pulses has been completed; 99.87% area of Oilseeds majorly in Rapeseed &amp; Mustard (100%); 96.22% area of Shri Anna cum Coarse Cereals majorly in Jowar (98.86%), 59.32% area of Rice and 97.00% area of Wheat has been harvested for rabi crops 2025-26.",
+      "heading": "1. Rabi Season harvest and Summer Season Sowing Status:",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_1"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_2",
+      "chunk_text": "b) Fertilizers: The fertilizer supply remains stable across all products.\n4. Pests &amp; Diseases : The overall intensity of pests and diseases remained below the Economic Threshold Level.",
+      "detected_crop": "Rice",
+      "heading": "GWDI in INDIA January 2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "state_context": "All India"
+    },
+    {
+      "detected_crop": "Crop",
+      "state_context": "Odisha",
+      "chunk_text": " Low  Probability  of  Heatwave  conditions  likely  during  some  days  of  week  2  over  Rajasthan  &amp; Vidarbha,  and  adjoining  southern  parts  of  Madhya  Pradesh  and  Chhattisgarh.  Above-normal maximum temperatures (+1.6 to +3.0°C) are likely over many parts of Rajasthan and Gujarat, along the  west  coast,  and  over  Odisha  &amp;  Coastal  Andhra  Pradesh  on  the  east  coast.  Below-normal maximum temperatures (-1.6 to",
+      "heading": "Week 2 (08  May - 15 May 2026):",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_3"
+    },
+    {
+      "detected_crop": "Crop",
+      "state_context": "West Bengal",
+      "chunk_text": "3.0°C) are likely over parts of Bihar, Jharkhand, and Gangetic West Bengal. Near-normal weekly maximum temperatures are likely over the rest of the country.",
+      "heading": "Week 2 (08  May - 15 May 2026):",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_4"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_5",
+      "chunk_text": " Rice : About 31.05 lakh ha area coverage under Summer Rice has been reported as compared to 32.42 lakh ha during the corresponding period of last year.\n-\nPulses : About 23.49 lakh ha area coverage has been reported compared to 22.76 lakh ha during the corresponding period of last year.\n-\nOilseeds : About 11.04 lakh ha area coverage has been reported compared to 9.58 lakh ha during the corresponding period of last year.\n| Progress of Area coverage under Summer crops as on 01.05.2026   | Progress of Area coverage under Summer crops as on 01.05.2026   | Progress of Area coverage under Summer crops as on 01.05.2026   | Progress of Area coverage under Summer crops as on 01.05.2026   | Progress of Area coverage under Summer crops as on 01.05.2026   | Progress of Area coverage under Summer crops as on 01.05.2026   | Progress of Area coverage under Summer crops as on 01.05.2026                |\n|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------------------|\n| Sl. No.                                                         | Crops                                                           | Normal Summer Area (DES)*                                       | Final Summer Area 2025                                          | Area Sown                                                       | Area Sown                                                       | ( In lakh hectare) Increase/ Decrease over corresponding period of Last year |\n| Sl. No.                                                         | Crops                                                           | Normal Summer Area (DES)*                                       | Final Summer Area 2025                                          | Current Year (2026)                                             | Corresponding period of Last Year (2025)                        | ( In lakh hectare) Increase/ Decrease over corresponding period of Last year |\n| 1                                                               | Rice                                                            | 31.49                                                           | 33.28                                                           | 31.05                                                           | 32.42                                                           |\n1.36                                                                        |\n| 2                                                               | Pulses                                                          | 23.40                                                           | 27.07                                                           | 23.49                                                           | 22.76                                                           | 0.73                                                                         |\n| a                                                               | Greengram                                                       | 20.44                                                           | 23.49                                                           | 18.99                                                           | 19.00                                                           |\n0.01                                                                        |\n| b                                                               | Blackgram                                                       | 2.96                                                            | 3.26                                                            | 4.20                                                            | 3.58                                                            | 0.62                                                                         |\n| c                                                               | Other Pulses                                                    | 0.00                                                            |\n| 0.30                                                            | 0.19                                                            | 0.11                                                                         |\n| 3                                                               | Shree Anna cum Coarse Cereals                                   | 12.08                                                           | 14.06                                                           | 16.01                                                           | 14.25                                                           | 1.77                                                                         |\n| a                                                               | Jowar                                                           | 0.34                                                            | 0.36                                                            | 0.37                                                            | 0.36                                                            | 0.01                                                                         |\n| b                                                               | Bajra                                                           | 4.43                                                            | 5.20                                                            | 5.40                                                            | 5.20                                                            | 0.20                                                                         |\n| c                                                               | Ragi                                                            | 0.31                                                            |\n| 0.22                                                            | 0.16                                                            | 0.06                                                                         |\n| d                                                               | Small Millets                                                   | 0.02                                                            |\n| 0.03                                                            | 0.03                                                            | 0.00                                                                         |\n| e                                                               | Maize                                                           | 6.98                                                            | 8.50                                                            | 10.00                                                           | 8.50                                                            | 1.50                                                                         |\n| 4                                                               | Oilseeds                                                        | 8.40                                                            | 9.51                                                            | 11.04                                                           | 9.58                                                            | 1.47                                                                         |\n| a                                                               | Groundnut                                                       | 3.40                                                            | 4.20                                                            | 5.51                                                            | 4.20                                                            | 1.31                                                                         |\n| b                                                                            | Sunflower                                                                    | 0.34                                                                         | 0.35                                                                         | 0.39                                                                         | 0.35                                                                         | 0.04                                                                         |\n|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|\n| c                                                                            | Sesamum                                                                      | 4.66                                                                         | 4.96                                                                         | 5.07                                                                         | 4.96                                                                         | 0.11                                                                         |\n| d                                                                            | Other Oilseeds                                                               | 0.00                                                                         |\n| 0.07                                                                         | 0.06                                                                         | 0.00                                                                         |\n| Total                                                                        | Total                                                                        | 75.37                                                                        | 83.92                                                                        | 81.59                                                                        | 79.00                                                                        | 2.60                                                                         |\n| * Normal area from 2022-23 to 2024-25. Source: Crop Division, DoA&FW, MoA&FW | * Normal area from 2022-23 to 2024-25. Source: Crop Division, DoA&FW, MoA&FW | * Normal area from 2022-23 to 2024-25. Source: Crop Division, DoA&FW, MoA&FW | * Normal area from 2022-23 to 2024-25. Source: Crop Division, DoA&FW, MoA&FW | * Normal area from 2022-23 to 2024-25. Source: Crop Division, DoA&FW, MoA&FW | * Normal area from 2022-23 to 2024-25. Source: Crop Division, DoA&FW, MoA&FW | * Normal area from 2022-23 to 2024-25. Source: Crop Division, DoA&FW, MoA&FW |",
+      "detected_crop": "Oilseeds",
+      "heading": "Rabi Crops - Area coverage",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "state_context": "West Bengal"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_6",
+      "chunk_text": "(Area in lakh ha.)\n|----------|----------------------------|---------------------|--------------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|",
+      "detected_crop": "Wheat",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "state_context": "West Bengal"
+    },
+    {
+      "detected_crop": "Wheat",
+      "state_context": "Bihar",
+      "harvest_progress": "98% Harvested",
+      "chunk_text": "Wheat in Bihar has 98% harvested.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_7"
+    },
+    {
+      "detected_crop": "Wheat",
+      "state_context": "Jharkhand",
+      "harvest_progress": "98% Harvested",
+      "chunk_text": "Wheat in Jharkhand has 98% harvested.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_8"
+    },
+    {
+      "detected_crop": "Wheat",
+      "state_context": "Uttarakhand",
+      "harvest_progress": "90% Harvested",
+      "chunk_text": "Wheat in Uttarakhand has 90% harvested.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_9"
+    },
+    {
+      "detected_crop": "Rice",
+      "state_context": "Tamil Nadu",
+      "harvest_progress": "88% Harvested",
+      "chunk_text": "Rice in Tamil Nadu has 88% harvested.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_10"
+    },
+    {
+      "detected_crop": "Rice",
+      "state_context": "Kerala",
+      "harvest_progress": "95% Harvested",
+      "chunk_text": "Rice in Kerala has 95% harvested.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_11"
+    },
+    {
+      "detected_crop": "Rice",
+      "state_context": "Tripura",
+      "harvest_progress": "80% Harvested",
+      "chunk_text": "Rice in Tripura has 80% harvested.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_12"
+    },
+    {
+      "detected_crop": "Rice",
+      "state_context": "Andhra Pradesh",
+      "harvest_progress": "65% Harvested",
+      "chunk_text": "Rice in Andhra Pradesh has 65% harvested.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_13"
+    },
+    {
+      "detected_crop": "Rice",
+      "state_context": "Telangana",
+      "harvest_progress": "40% Harvested",
+      "chunk_text": "Rice in Telangana has 40% harvested.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_14"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_15",
+      "chunk_text": "| 3        | Pulses                     |              140.42 |                         139.55 |             100.00 | 100% Harvesting has been completed in all states.                                                                                                     |\n| a        | Gram                       |              100.99 |                          96.20 |             100.00 | 100% Harvesting has been completed in all states.                                                                                                     |\n| b        | Lentil                     |               15.13 |                          18.12 |             100.00 | 100% Harvesting has been completed in all states.                                                                                                     |\n| e        | Urdbean *                  |                6.16 |                           6.06 |             100.00 | 100% Harvesting has been completed in all states.                                                                                                     |\n| f        | Moongbean *                |                1.41 |                           0.99 |             100.00 | 100% Harvesting has been completed in all states.                                                                                                     |\n| h        | Other Pulses $             |               16.73 |                          20.57 |             100.00 | 100% Harvesting has been completed in all states.                                                                                                     |",
+      "detected_crop": "Maize",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "state_context": "Telangana"
+    },
+    {
+      "detected_crop": "Maize",
+      "state_context": "Telangana",
+      "chunk_text": "| 4        | Shri Anna & Coarse cereals |               55.33 |                          60.93 |              96.22 | Overall around 82% area has been harvested mainly in Jowar (98%), Maize (93%), Barley (84%), etc has already been harvested.                          |",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_16"
+    },
+    {
+      "detected_crop": "Sorghum (Jowar)",
+      "state_context": "Karnataka",
+      "harvest_progress": "100%",
+      "chunk_text": "Sorghum (Jowar) is 100% harvested in Karnataka.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_17"
+    },
+    {
+      "detected_crop": "Sorghum (Jowar)",
+      "state_context": "Maharashtra",
+      "harvest_progress": "100%",
+      "chunk_text": "Sorghum (Jowar) is 100% harvested in Maharashtra.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_18"
+    },
+    {
+      "detected_crop": "Sorghum (Jowar)",
+      "state_context": "Tamil Nadu",
+      "harvest_progress": "100%",
+      "chunk_text": "Sorghum (Jowar) is 100% harvested in Tamil Nadu.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_19"
+    },
+    {
+      "detected_crop": "Sorghum (Jowar)",
+      "state_context": "Gujarat",
+      "harvest_progress": "100%",
+      "chunk_text": "Sorghum (Jowar) is 100% harvested in Gujarat.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_20"
+    },
+    {
+      "detected_crop": "Sorghum (Jowar)",
+      "state_context": "Telangana",
+      "harvest_progress": "89% Harvested",
+      "chunk_text": "Sorghum (Jowar) in Telangana has 89% harvested.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_21"
+    },
+    {
+      "detected_crop": "Sorghum (Jowar)",
+      "state_context": "Andhra Pradesh",
+      "harvest_progress": "77% Harvested",
+      "chunk_text": "Sorghum (Jowar) in Andhra Pradesh has 77% harvested.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_22"
+    },
+    {
+      "detected_crop": "Maize",
+      "state_context": "Karnataka",
+      "harvest_progress": "100%",
+      "chunk_text": "Maize is 100% harvested in Karnataka.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_23"
+    },
+    {
+      "detected_crop": "Maize",
+      "state_context": "Maharashtra",
+      "harvest_progress": "100%",
+      "chunk_text": "Maize is 100% harvested in Maharashtra.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_24"
+    },
+    {
+      "detected_crop": "Maize",
+      "state_context": "Gujarat",
+      "harvest_progress": "100%",
+      "chunk_text": "Maize is 100% harvested in Gujarat.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_25"
+    },
+    {
+      "detected_crop": "Maize",
+      "state_context": "Andhra Pradesh",
+      "harvest_progress": "75% Harvested",
+      "chunk_text": "Maize in Andhra Pradesh has 75% harvested.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_26"
+    },
+    {
+      "detected_crop": "Maize",
+      "state_context": "Bihar",
+      "harvest_progress": "95% Harvested",
+      "chunk_text": "Maize in Bihar has 95% harvested.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_27"
+    },
+    {
+      "detected_crop": "Maize",
+      "state_context": "Chhattisgarh",
+      "harvest_progress": "95% Harvested",
+      "chunk_text": "Maize in Chhattisgarh has 95% harvested.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_28"
+    },
+    {
+      "detected_crop": "Maize",
+      "state_context": "Maharashtra",
+      "harvest_progress": "100%",
+      "chunk_text": "Maize is 100% harvested in Maharashtra.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_29"
+    },
+    {
+      "detected_crop": "Maize",
+      "state_context": "Haryana",
+      "harvest_progress": "100%",
+      "chunk_text": "Maize is 100% harvested in Haryana.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_30"
+    },
+    {
+      "detected_crop": "Maize",
+      "state_context": "Rajasthan",
+      "harvest_progress": "100%",
+      "chunk_text": "Maize is 100% harvested in Rajasthan.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_31"
+    },
+    {
+      "detected_crop": "Maize",
+      "state_context": "Bihar",
+      "harvest_progress": "100%",
+      "chunk_text": "Maize is 100% harvested in Bihar.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_32"
+    },
+    {
+      "detected_crop": "Maize",
+      "state_context": "Madhya Pradesh",
+      "harvest_progress": "100%",
+      "chunk_text": "Maize is 100% harvested in Madhya Pradesh.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_33"
+    },
+    {
+      "detected_crop": "Maize",
+      "state_context": "Chhattisgarh",
+      "harvest_progress": "100%",
+      "chunk_text": "Maize is 100% harvested in Chhattisgarh.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_34"
+    },
+    {
+      "detected_crop": "Maize",
+      "state_context": "Punjab",
+      "harvest_progress": "97% Harvested",
+      "chunk_text": "Maize in Punjab has 97% harvested.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_35"
+    },
+    {
+      "detected_crop": "Maize",
+      "state_context": "Uttar Pradesh",
+      "harvest_progress": "95% Harvested",
+      "chunk_text": "Maize in Uttar Pradesh has 95% harvested.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_36"
+    },
+    {
+      "detected_crop": "Groundnut",
+      "state_context": "Uttar Pradesh",
+      "chunk_text": "| 5   | Oilseeds           |   86.78 |   97.19 |   99.87 | Overall around 98% area has been harvested mainly in Rapeseed & Mustard (100%), Groundnut (45%), Safflower (83%), Sunflower (89%), Linseed (99%), etc has already been harvested.   |",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_37"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_38",
+      "chunk_text": "|-----|--------------------|---------|---------|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| a   | Rapeseed & Mustard |   79.17 |   89.36 |  100.00 | 100% harvested in all states.                                                                                                                                                       |",
+      "detected_crop": "Groundnut",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "state_context": "Uttar Pradesh"
+    },
+    {
+      "detected_crop": "Groundnut",
+      "state_context": "Odisha",
+      "harvest_progress": "100%",
+      "chunk_text": "Groundnut is 100% harvested in Odisha.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_39"
+    },
+    {
+      "detected_crop": "Groundnut",
+      "state_context": "Karnataka",
+      "harvest_progress": "100%",
+      "chunk_text": "Groundnut is 100% harvested in Karnataka.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_40"
+    },
+    {
+      "detected_crop": "Groundnut",
+      "state_context": "Andhra Pradesh",
+      "harvest_progress": "100%",
+      "chunk_text": "Groundnut is 100% harvested in Andhra Pradesh.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_41"
+    },
+    {
+      "detected_crop": "Groundnut",
+      "state_context": "Kerala",
+      "harvest_progress": "100%",
+      "chunk_text": "Groundnut is 100% harvested in Kerala.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_42"
+    },
+    {
+      "detected_crop": "Groundnut",
+      "state_context": "West Bengal",
+      "harvest_progress": "100%",
+      "chunk_text": "Groundnut is 100% harvested in West Bengal.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_43"
+    },
+    {
+      "detected_crop": "Groundnut",
+      "state_context": "Bihar",
+      "harvest_progress": "100%",
+      "chunk_text": "Groundnut is 100% harvested in Bihar.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_44"
+    },
+    {
+      "detected_crop": "Groundnut",
+      "state_context": "Telangana",
+      "harvest_progress": "100%",
+      "chunk_text": "Groundnut is 100% harvested in Telangana.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_45"
+    },
+    {
+      "detected_crop": "Groundnut",
+      "state_context": "Tamil Nadu",
+      "harvest_progress": "90% Harvested",
+      "chunk_text": "Groundnut in Tamil Nadu has 90% harvested.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_46"
+    },
+    {
+      "detected_crop": "Groundnut",
+      "state_context": "Telangana",
+      "harvest_progress": "100%",
+      "chunk_text": "Groundnut is 100% harvested in Telangana.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_47"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_48",
+      "chunk_text": "| d   | Sunflower *        |    0.79 |    0.70 |   97.63 | 100% harvested in all states.                                                                                                                                                       |",
+      "detected_crop": "Sesame (Sesamum)",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "state_context": "Telangana"
+    },
+    {
+      "detected_crop": "Sesame (Sesamum)",
+      "state_context": "Tamil Nadu",
+      "harvest_progress": "100%",
+      "chunk_text": "Sesame (Sesamum) is 100% harvested in Tamil Nadu.",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "is_atomic_event": true,
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_49"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 04.05.2026.pdf_50",
+      "chunk_text": "| f   | Linseed            |    1.93 |    1.99 |  100.00 | 100% harvested in all states.                                                                                                                                                       |\n| g   | Other Oilseeds     |    0.00 |    0.40 |   99.11 | Harvesting is going on in afull swing.                                                                                                                                              |\n|     | Total Crops        |  637.81 |  680.18 |   95.25 |                                                                                                                                                                                     |\nSource: Crops Division, DoA&amp;FW.",
+      "detected_crop": "Oilseeds",
+      "heading": "SOWING AND HARVESTING STATUS OF  RABI CROPS AS ON 01.05.2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 04.05.2026.pdf",
+      "state_context": "Tamil Nadu"
+    }
+  ]
+}

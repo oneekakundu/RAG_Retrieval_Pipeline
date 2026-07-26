@@ -1,0 +1,30 @@
+{
+  "crop": "Lentil (Masur)",
+  "state": "Tamil Nadu",
+  "week": "2026-03-30",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Lentil (Masur) is 100% harvested in Tamil Nadu."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Lentil (Masur) is 100% harvested in Tamil Nadu.",
+    "evidence": "Lentil (Masur) is 100% harvested in Tamil Nadu."
+  },
+  "pests": [
+    {
+      "value": "Lentil (Masur) Is 100% Harvested In Tamil Nadu",
+      "evidence": "Lentil (Masur) is 100% harvested in Tamil Nadu."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Lentil (Masur) is 100% harvested in Tamil Nadu."
+  ],
+  "confidence": 0.9
+}

@@ -1,0 +1,30 @@
+{
+  "crop": "Maize",
+  "state": "Rajasthan",
+  "week": "2026-05-18",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Maize is 100% harvested in Rajasthan."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Maize is 100% harvested in Rajasthan.",
+    "evidence": "Maize is 100% harvested in Rajasthan."
+  },
+  "pests": [
+    {
+      "value": "Maize Is 100% Harvested In Rajasthan",
+      "evidence": "Maize is 100% harvested in Rajasthan."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Maize is 100% harvested in Rajasthan."
+  ],
+  "confidence": 0.9
+}

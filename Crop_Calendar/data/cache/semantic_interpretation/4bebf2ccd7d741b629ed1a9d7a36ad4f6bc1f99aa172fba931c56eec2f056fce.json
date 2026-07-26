@@ -1,0 +1,25 @@
+{
+  "crop": "Sugarcane",
+  "state": "All India",
+  "week": "2026-06-22",
+  "observation_type": "Sowing Progress",
+  "growth_stage": {
+    "value": "Sowing",
+    "evidence": " Kharif  sowing  data  collection  has  started from  05 th June,  2026  and  the  sowing  is  in  preliminary stage. As on 19 June 2026, the area sown under Kharif crops is 119.90 lakh ha (including 57.31 lakh ha in Sugarcane) as compared to 117.95 lakh ha during the corresponding period of last year."
+  },
+  "sowing_status": {
+    "value": " Kharif  sowing  data  collection  has  started from  05 th June,  2026  and  the  sowing  is  in  preliminary stage. As on 19 June 2026, the area sown under Kharif crops is 119.90 lakh ha (including 57.31 lakh ha in Sugarcane) as compared to 117.95 lakh ha during the corresponding period of last year.",
+    "evidence": " Kharif  sowing  data  collection  has  started from  05 th June,  2026  and  the  sowing  is  in  preliminary stage. As on 19 June 2026, the area sown under Kharif crops is 119.90 lakh ha (including 57.31 lakh ha in Sugarcane) as compared to 117.95 lakh ha during the corresponding period of last year."
+  },
+  "harvest_status": null,
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Kharif  sowing  data  collection  has  started from  05 th June,  2026  and  the  sowing  is  in  preliminary stage. As on 19 June 2026, the area sown under Kharif crops is 119.90 lakh ha (including 57.31 lakh ha in Sugarcane) as compared to 117.95 lakh ha during the corresponding period of last year."
+  ],
+  "confidence": 0.9
+}

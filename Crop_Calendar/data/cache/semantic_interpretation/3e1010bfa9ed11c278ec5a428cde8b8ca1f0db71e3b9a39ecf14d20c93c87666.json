@@ -1,0 +1,30 @@
+{
+  "crop": "Maize",
+  "state": "Haryana",
+  "week": "2026-05-11",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Maize is 100% harvested in Haryana."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Maize is 100% harvested in Haryana.",
+    "evidence": "Maize is 100% harvested in Haryana."
+  },
+  "pests": [
+    {
+      "value": "Maize Is 100% Harvested In Haryana",
+      "evidence": "Maize is 100% harvested in Haryana."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Maize is 100% harvested in Haryana."
+  ],
+  "confidence": 0.9
+}

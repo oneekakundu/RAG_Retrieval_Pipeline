@@ -1,0 +1,30 @@
+{
+  "crop": "Groundnut",
+  "state": "Tamil Nadu",
+  "week": "2026-05-04",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Groundnut in Tamil Nadu has 90% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Groundnut in Tamil Nadu has 90% harvested.",
+    "evidence": "Groundnut in Tamil Nadu has 90% harvested."
+  },
+  "pests": [
+    {
+      "value": "Groundnut In Tamil Nadu Has 90% Harvested",
+      "evidence": "Groundnut in Tamil Nadu has 90% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Groundnut in Tamil Nadu has 90% harvested."
+  ],
+  "confidence": 0.9
+}

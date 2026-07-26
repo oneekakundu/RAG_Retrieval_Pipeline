@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Punjab",
+  "week": "2025-12-15",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Dense Fog Conditions  Likely  To  Prevail  During  Early  Morning  Hours  In  Isolated  Pockets  Of Himachal Pradesh, Punjab, Haryana Chandigarh &Amp; Delhi And Rajasthan During Some Days Of The Week",
+      "evidence": "Dense fog conditions  likely  to  prevail  during  early  morning  hours  in  isolated  pockets  of Himachal Pradesh, Punjab, Haryana Chandigarh &amp; Delhi and Rajasthan during some days of the week."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Dense fog conditions  likely  to  prevail  during  early  morning  hours  in  isolated  pockets  of Himachal Pradesh, Punjab, Haryana Chandigarh &amp; Delhi and Rajasthan during some days of the week."
+  ],
+  "confidence": 0.9
+}

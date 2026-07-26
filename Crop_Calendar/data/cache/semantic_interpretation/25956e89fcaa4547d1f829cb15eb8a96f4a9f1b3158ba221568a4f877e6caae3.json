@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Gujarat",
+  "week": "2026-05-11",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Low Probability Of Heatwave Conditions Likely During Some Days Of Week 2 Over Rajasthan, Gujarat, Vidarbha, Madhya Pradesh And Uttar Pradesh. Appreciably Above Normal (+3.1 To +5.0°C) Maximum Temperatures Are Likely Over Parts Of Rajasthan &Amp; Adjoining Madhya Pradesh, Gujarat; Above Normal (+1.6 To +3.0°C) Temperatures Are Likely Along The Northwest, Central &Amp; Adjoining Eastern Parts Of The Country. Near-Normal Maximum Temperatures Are Likely Across Rest Of The Country During The Week",
+      "evidence": " Low Probability of Heatwave conditions likely during some days of week 2 over Rajasthan, Gujarat, Vidarbha, Madhya Pradesh and Uttar Pradesh. Appreciably above normal (+3.1 to +5.0°C) maximum temperatures are likely over parts of Rajasthan &amp; adjoining Madhya Pradesh, Gujarat; above normal (+1.6 to +3.0°C) temperatures are likely along the northwest, central &amp; adjoining eastern parts of the country. Near-normal maximum temperatures are likely across rest of the country during the week."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Low Probability of Heatwave conditions likely during some days of week 2 over Rajasthan, Gujarat, Vidarbha, Madhya Pradesh and Uttar Pradesh. Appreciably above normal (+3.1 to +5.0°C) maximum temperatures are likely over parts of Rajasthan &amp; adjoining Madhya Pradesh, Gujarat; above normal (+1.6 to +3.0°C) temperatures are likely along the northwest, central &amp; adjoining eastern parts of the country. Near-normal maximum temperatures are likely across rest of the country during the week."
+  ],
+  "confidence": 0.9
+}

@@ -1,0 +1,30 @@
+{
+  "crop": "Bengal Gram (Gram/Chickpea)",
+  "state": "Gujarat",
+  "week": "2026-04-27",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Bengal Gram (Gram/Chickpea) is 100% harvested in Gujarat."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Bengal Gram (Gram/Chickpea) is 100% harvested in Gujarat.",
+    "evidence": "Bengal Gram (Gram/Chickpea) is 100% harvested in Gujarat."
+  },
+  "pests": [
+    {
+      "value": "Bengal Gram (Gram/Chickpea) Is 100% Harvested In Gujarat",
+      "evidence": "Bengal Gram (Gram/Chickpea) is 100% harvested in Gujarat."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Bengal Gram (Gram/Chickpea) is 100% harvested in Gujarat."
+  ],
+  "confidence": 0.9
+}

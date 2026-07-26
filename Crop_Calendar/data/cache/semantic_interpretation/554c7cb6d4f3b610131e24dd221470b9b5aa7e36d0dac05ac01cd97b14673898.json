@@ -1,0 +1,25 @@
+{
+  "crop": "Maize",
+  "state": "Bihar",
+  "week": "2026-03-30",
+  "observation_type": "Harvest Progress",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "| 4         | Shri Anna & Coarse cereals |               55.33 |                  60.93 |              38.31 | Overall around 38% area has been harvested mainly in Jowar (54%), Maize (30%), Barley (16%), etc has already been harvested.                                                                        |"
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "| 4         | Shri Anna & Coarse cereals |               55.33 |                  60.93 |              38.31 | Overall around 38% area has been harvested mainly in Jowar (54%), Maize (30%), Barley (16%), etc has already been harvested.                                                                        |",
+    "evidence": "| 4         | Shri Anna & Coarse cereals |               55.33 |                  60.93 |              38.31 | Overall around 38% area has been harvested mainly in Jowar (54%), Maize (30%), Barley (16%), etc has already been harvested.                                                                        |"
+  },
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "| 4         | Shri Anna & Coarse cereals |               55.33 |                  60.93 |              38.31 | Overall around 38% area has been harvested mainly in Jowar (54%), Maize (30%), Barley (16%), etc has already been harvested.                                                                        |"
+  ],
+  "confidence": 0.9
+}

@@ -1,0 +1,30 @@
+{
+  "crop": "Lentil (Masur)",
+  "state": "Chhattisgarh",
+  "week": "2026-04-20",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Lentil (Masur) in Chhattisgarh has 40% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Lentil (Masur) in Chhattisgarh has 40% harvested.",
+    "evidence": "Lentil (Masur) in Chhattisgarh has 40% harvested."
+  },
+  "pests": [
+    {
+      "value": "Lentil (Masur) In Chhattisgarh Has 40% Harvested",
+      "evidence": "Lentil (Masur) in Chhattisgarh has 40% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Lentil (Masur) in Chhattisgarh has 40% harvested."
+  ],
+  "confidence": 0.9
+}

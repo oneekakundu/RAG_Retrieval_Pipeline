@@ -1,0 +1,25 @@
+{
+  "crop": "Maize",
+  "state": "Bihar",
+  "week": "2026-04-06",
+  "observation_type": "Harvest Progress",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "| h                                                             | Other Pulses $                                                | 5.46                                                          | 5.30                                                          | 93.00                                                         | Harvesting is going on in a full swing.                                                                                                                                                               |"
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "| h                                                             | Other Pulses $                                                | 5.46                                                          | 5.30                                                          | 93.00                                                         | Harvesting is going on in a full swing.                                                                                                                                                               |",
+    "evidence": "| h                                                             | Other Pulses $                                                | 5.46                                                          | 5.30                                                          | 93.00                                                         | Harvesting is going on in a full swing.                                                                                                                                                               |"
+  },
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "| h                                                             | Other Pulses $                                                | 5.46                                                          | 5.30                                                          | 93.00                                                         | Harvesting is going on in a full swing.                                                                                                                                                               |"
+  ],
+  "confidence": 0.9
+}

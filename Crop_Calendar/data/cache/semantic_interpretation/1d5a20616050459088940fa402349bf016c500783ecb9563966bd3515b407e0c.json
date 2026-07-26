@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Odisha",
+  "week": "2026-01-12",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Cold  Wave  Conditions  Likely  To  Occur  At  Isolated  Pockets  Of  Chhattisgarh,  Jharkhand  And Odisha During Some Days Of The Week",
+      "evidence": "Cold  wave  conditions  likely  to  occur  at  isolated  pockets  of  Chhattisgarh,  Jharkhand  and Odisha during some days of the week."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Cold  wave  conditions  likely  to  occur  at  isolated  pockets  of  Chhattisgarh,  Jharkhand  and Odisha during some days of the week."
+  ],
+  "confidence": 0.9
+}

@@ -1,0 +1,25 @@
+{
+  "crop": "Rice",
+  "state": "All India",
+  "week": "2026-05-25",
+  "observation_type": "Harvest Progress",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": " As on May 22, 2026, the area sown under summer crops is 86.02 lakh ha as compared to 83.50 lakh ha during the corresponding period of last year.  Of this, area of 31.05 lakh ha has been sown under Rice this year. There is also an increase in the area sown under Maize by about 1.50 lakh ha so far from the last 5-years average.\n-\nAs on 22.05.2026, 97.92% of area  has  been  harvested  for  Rabi  crops  all  over  India.  The  harvest  of pulses,  oilseeds,  and  Shri  Anna-cum-coarse  cereals  has  been  completed;  79.71%  area  of  Rice  and 99.50% area of Wheat has been harvested for Rabi crops 2025-26."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": " As on May 22, 2026, the area sown under summer crops is 86.02 lakh ha as compared to 83.50 lakh ha during the corresponding period of last year.  Of this, area of 31.05 lakh ha has been sown under Rice this year. There is also an increase in the area sown under Maize by about 1.50 lakh ha so far from the last 5-years average.\n-\nAs on 22.05.2026, 97.92% of area  has  been  harvested  for  Rabi  crops  all  over  India.  The  harvest  of pulses,  oilseeds,  and  Shri  Anna-cum-coarse  cereals  has  been  completed;  79.71%  area  of  Rice  and 99.50% area of Wheat has been harvested for Rabi crops 2025-26.",
+    "evidence": " As on May 22, 2026, the area sown under summer crops is 86.02 lakh ha as compared to 83.50 lakh ha during the corresponding period of last year.  Of this, area of 31.05 lakh ha has been sown under Rice this year. There is also an increase in the area sown under Maize by about 1.50 lakh ha so far from the last 5-years average.\n-\nAs on 22.05.2026, 97.92% of area  has  been  harvested  for  Rabi  crops  all  over  India.  The  harvest  of pulses,  oilseeds,  and  Shri  Anna-cum-coarse  cereals  has  been  completed;  79.71%  area  of  Rice  and 99.50% area of Wheat has been harvested for Rabi crops 2025-26."
+  },
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " As on May 22, 2026, the area sown under summer crops is 86.02 lakh ha as compared to 83.50 lakh ha during the corresponding period of last year.  Of this, area of 31.05 lakh ha has been sown under Rice this year. There is also an increase in the area sown under Maize by about 1.50 lakh ha so far from the last 5-years average.\n-\nAs on 22.05.2026, 97.92% of area  has  been  harvested  for  Rabi  crops  all  over  India.  The  harvest  of pulses,  oilseeds,  and  Shri  Anna-cum-coarse  cereals  has  been  completed;  79.71%  area  of  Rice  and 99.50% area of Wheat has been harvested for Rabi crops 2025-26."
+  ],
+  "confidence": 0.9
+}

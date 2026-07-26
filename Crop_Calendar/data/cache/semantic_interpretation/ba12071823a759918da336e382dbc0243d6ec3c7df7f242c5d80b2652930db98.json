@@ -1,0 +1,30 @@
+{
+  "crop": "Sunflower",
+  "state": "Andhra Pradesh",
+  "week": "2026-04-27",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Sunflower in Andhra Pradesh has 95% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Sunflower in Andhra Pradesh has 95% harvested.",
+    "evidence": "Sunflower in Andhra Pradesh has 95% harvested."
+  },
+  "pests": [
+    {
+      "value": "Sunflower In Andhra Pradesh Has 95% Harvested",
+      "evidence": "Sunflower in Andhra Pradesh has 95% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Sunflower in Andhra Pradesh has 95% harvested."
+  ],
+  "confidence": 0.9
+}

@@ -1,0 +1,33 @@
+{
+  "seq_index": 281,
+  "pdf_name": "Minutes of the meeting of CWWG as on 27.10.2025.pdf",
+  "pdf_hash": "bb94b83fab3e798f8db987076571b030f5691a525096688d0d4e9ed4c91f4cdf",
+  "report_week": "2025-10-27",
+  "processed_at": "2026-07-25 20:27:17",
+  "record_count": 1,
+  "records": [
+    {
+      "id": null,
+      "chunk_id": "Minutes of the meeting of CWWG as on 27.10.2025_p1_c1",
+      "crop": "Unknown",
+      "state": "All India",
+      "week": "2025-10-27",
+      "source_pdf": "Minutes of the meeting of CWWG as on 27.10.2025.pdf",
+      "page_number": 1,
+      "observation_type": "Pest Incidence",
+      "growth_stage": null,
+      "sowing_status": null,
+      "harvest_status": null,
+      "pests": "Over All  Intensity  Of  Pests  And  Disease  Remained  Below  Economic  Threshold  Level  (Etl) Except:\nफफफ\nCrop\nफफफफ\nState\nफफफफ/फफफफफफ\n/फफफफ\nDistrict/ Sub District/ Village\nफफफफ\nSource\nफफफ/\nफफफ\nPest\nDisease\nफफफफफ\nफफफ\nफफफ\nफफफफफ\nफफफ\nफफफफ\nफफफफफ\n(फफफफ\nफफफफ)\nTotal\nArea\nUnder The\nCrop   In\nThe State\n(Ha)\nफफफफफ\nIntensity\nकक  कक   कककककककक/ककककककक\nAction Taken/ Remark\nफफफफफ\nफफफ/\nफफफफफ\nफफफफफ\nफफफफफ\n- [ ] * Etl ( फफफफ फफफफ) फफफफफ\nArea\nInfested/I\nNfected\nAbove\n*Etl\n(Ha",
+      "diseases": null,
+      "weather_impacts": null,
+      "advisories": null,
+      "statistics": null,
+      "evidence_sentence": " Over all  intensity  of  pests  and  disease  remained  below  Economic  Threshold  Level  (ETL) except:\nफफफ\nCrop\nफफफफ\nState\nफफफफ/फफफफफफ\n/फफफफ\nDistrict/ Sub District/ Village\nफफफफ\nSource\nफफफ/\nफफफ\nPest\nDisease\nफफफफफ\nफफफ\nफफफ\nफफफफफ\nफफफ\nफफफफ\nफफफफफ\n(फफफफ\nफफफफ)\nTotal\narea\nunder the\ncrop   in\nthe state\n(ha)\nफफफफफ\nIntensity\nकक  कक   कककककककक/ककककककक\nAction Taken/ Remark\nफफफफफ\nफफफ/\nफफफफफ\nफफफफफ\nफफफफफ\n- [ ] * ETL ( फफफफ फफफफ) फफफफफ\nArea\ninfested/I\nnfected\nabove\n*ETL\n(ha)",
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_notes": "Verified 1 fields against source text",
+      "timestamp": ""
+    }
+  ]
+}

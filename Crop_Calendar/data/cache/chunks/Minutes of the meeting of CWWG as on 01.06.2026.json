@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-25T12:52:10.465518"
+  },
+  "data": [
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 01.06.2026.pdf_0",
+      "chunk_text": " As  per  3 rd Advance  Estimates  2025-26,  the  area  sown  under  the  summer  crops  is  87.26  lakh  ha  as compared to 83.91 lakh ha during the corresponding period of last year. As compared to previous year, Rice area declined by 0.65 lakh ha whereas, Maize area increased by 2.08 lakh ha, Groundnut by 1.03 lakh ha, Urad by 0.76 lakh ha and Shree Anna by 0.70 lakh ha.\n-\nAs on 01.06.2026, rabi crops harvesting has been completed in all states.",
+      "detected_crop": "Rice",
+      "heading": "1. Rabi Season harvest and Summer Season Sowing Status:",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf",
+      "state_context": "All India"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 01.06.2026.pdf_1",
+      "chunk_text": "c) Fertilizers: The fertilizer supply remains stable across all products.\n4. Pests &amp; Diseases : The overall incidence of pests and diseases remained below the Economic Threshold Level. The monitoring of Cotton crop for Pink Ball Worm is progressing as per the protocol.",
+      "detected_crop": "Cotton",
+      "heading": "GWDI in INDIA January 2026",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf",
+      "state_context": "All India"
+    },
+    {
+      "detected_crop": "Crop",
+      "state_context": "Punjab",
+      "chunk_text": "Low probability of Heatwave conditions likely over some parts of northwest India (Rajasthan, south Punjab, south Haryana, south Uttar Pradesh) during some days of the week.",
+      "heading": "Week 1 (29 May - 04 June):",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 01.06.2026.pdf_2"
+    },
+    {
+      "detected_crop": "Crop",
+      "state_context": "Odisha",
+      "chunk_text": " Above-normal (+1.6 to +3.0°C) to appreciably above-normal (+3.1 to +5.0°C)  maximum temperatures are likely over some parts of East India (Bihar, Gangetic West Bengal &amp; Odisha). Nearnormal  weekly  maximum  temperatures  (-1.5  to  +1.5°C)  are  likely  across  the  rest  of  the  country during the week.",
+      "heading": "Details of each Segment",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 01.06.2026.pdf_3"
+    },
+    {
+      "detected_crop": "Crop",
+      "state_context": "Odisha",
+      "chunk_text": "Maximum temperatures are very likely to be 4-5 Deg Celsius below normal over most parts of the country  during  week  2 except  many  parts  of  Odisha,  West  Bengal,  Bihar,  and  Arunachal Pradesh, West Rajasthan, Punjab.",
+      "heading": "Details of each Segment",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 01.06.2026.pdf_4"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 01.06.2026.pdf_5",
+      "chunk_text": " As  per  3 rd   Advance  Estimates  2025-26,  about  116.3  percent  of  the  normal  area  has  been sown under the summer season crops.\n-\nRice: About  32.63  lakh  ha  area  coverage  under  Summer  Rice  has  been  reported  as compared to 33.28 lakh ha during the corresponding period of last year.\n-\nPulses: About  27.16  lakh  ha  area  coverage  has  been  reported  compared  to  27.07  lakh  ha during the corresponding period of last year.\n-\nOilseeds: About 10.62 lakh ha area coverage has been reported compared to 9.51 lakh ha during the corresponding period of last year.\n|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|\n|                                                                           | Area                                                                      | Area                                                                      | Area                                                                      | Increase /                                                                |\n| Crop                                                                      | Normal                                                                    | 2025-26                                                                   | 2024-25                                                                   | Decrease                                                                  |\n| Rice                                                                      | 31.49                                                                     | 32.63                                                                     | 33.28                                                                     |\n0.65                                                                     |\n| Maize                                                                     | 6.98                                                                      | 10.58                                                                     | 8.50                                                                      | 2.08                                                                      |\n| Jowar                                                                     | 0.34                                                                      | 0.43                                                                      | 0.36                                                                      | 0.07                                                                      |\n| Bajra                                                                     | 4.43                                                                      | 5.83                                                                      | 5.20                                                                      | 0.63                                                                      |\n| Shree Anna /Nutri Cereals                                                 | 4.77                                                                      | 6.26                                                                      | 5.56                                                                      | 0.70                                                                      |\n| Nutri/Coarse Cereals                                                      | 11.75                                                                     | 16.84                                                                     | 14.05                                                                     | 2.79                                                                      |\n| Cereals                                                                   | 43.23                                                                     | 49.48                                                                     | 47.33                                                                     | 2.15                                                                      |\n| Urad                                                                      | 2.96                                                                      | 4.34                                                                      | 3.58                                                                      | 0.76                                                                      |\n| Moong                                                                     | 20.44                                                                     | 22.82                                                                     | 23.49                                                                     |\n0.67                                                                     |\n| Total Pulses                                                              | 23.40                                                                     | 27.16                                                                     | 27.07                                                                     | 0.09                                                                      |\n| Total Food Grains                                                         | 66.64                                                                     | 76.64                                                                     | 74.40                                                                     | 2.24                                                                      |\n| Groundnut                                                                 | 3.40                                                                      | 5.23                                                                      | 4.20                                                                      | 1.03                                                                      |\n| Sesamum                                                                   | 4.66                                                                      | 5.04                                                                      | 4.96                                                                      | 0.08                                                                      |\n| Sunflower                                                                 | 0.34                                                                      | 0.35                                                                      | 0.35                                                                      | 0.00                                                                      |\n| Total Oil Seeds                                                           | 8.40                                                                      | 10.62                                                                     | 9.51                                                                      | 1.11                                                                      |\n| Total                                                                     | 75.04                                                                     | 87.26                                                                     | 83.91                                                                     | 3.35                                                                      |",
+      "detected_crop": "Sunflower",
+      "heading": "Rabi Crops - Area coverage",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf",
+      "state_context": "Odisha"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 01.06.2026.pdf_6",
+      "chunk_text": " The overall intensity of pests and diseases remained below the Economic Threshold Level.",
+      "detected_crop": "Sunflower",
+      "heading": "7.      PEST &amp; DISEASE",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 01.06.2026.pdf",
+      "state_context": "Odisha"
+    }
+  ]
+}

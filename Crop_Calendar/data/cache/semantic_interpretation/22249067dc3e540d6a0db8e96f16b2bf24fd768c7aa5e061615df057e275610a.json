@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Punjab",
+  "week": "2025-12-01",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Cold  Wave  Conditions  Likely  To  Occur  At  Isolated  Pockets  Of  North  Rajasthan,  Punjab  &Amp; Haryana During Some Days Of The Week",
+      "evidence": "Cold  wave  conditions  likely  to  occur  at  isolated  pockets  of  north  Rajasthan,  Punjab  &amp; Haryana during some days of the week."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Cold  wave  conditions  likely  to  occur  at  isolated  pockets  of  north  Rajasthan,  Punjab  &amp; Haryana during some days of the week."
+  ],
+  "confidence": 0.9
+}

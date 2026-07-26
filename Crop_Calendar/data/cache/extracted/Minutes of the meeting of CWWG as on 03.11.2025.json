@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-21T23:44:12.470183"
+  },
+  "data": [
+    {
+      "crop": "Rice",
+      "state": "Jharkhand",
+      "growth_stage": "Over All  Intensity  Of  Pests  And  Disease  Remained  Below  Economic  Threshold  Level  (Etl) Except:\n| फसल Crop   | राज्य State   | जिला/उपजिला/गाांव District/ Sub District/ Village   | स्रोत / Source                                                                    | कीट / रोग Pest Disease            | राज्य में फसल क े अांतगगत क ु ल क्षेत्रफल ( हेक्टेयर ) Total Area Under The Crop In The State (Ha)   |   तीव्रता Intensity संक्रमित / प्रभावितक्षेत्र * Etl ( हेक्टेयर ) सेऊपर / Area Infested/Infected Above *Etl (Ha) | की गई कारगवाई / जटप्पणी Action Taken/ Remark                 |\n|------------|---------------|-----------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|\n| Paddy      | Jharkhand     | Ranchi, Khunti, Lohardaga                           | Cipmc, Ranchi 1) Joint Survey Was Conducted With Dao, Lohardaga In Field Crops On | Bacterial Leaf Blight Brown Plant |\n-                                                                                                   |                                                                                                               01 |\nAdvisories Issued And Follow Up Is Going On With Concerned |",
+      "pest_or_disease": null,
+      "weather_condition": null,
+      "advisory": "Over all  intensity  of  pests  and  disease  remained  below  Economic  Threshold  Level  (ETL) except:\n| फसल Crop   | राज्य State   | जिला/उपजिला/गाांव District/ Sub District/ Village   | स्रोत /...",
+      "report_week": "2025-11-03",
+      "district": "State-wide",
+      "confidence": 0.9,
+      "source_method": "rule_based",
+      "source_pdf": "Minutes of the meeting of CWWG as on 03.11.2025.pdf",
+      "page_number": 1,
+      "raw_text": "Over all  intensity  of  pests  and  disease  remained  below  Economic  Threshold  Level  (ETL) except:\n| फसल Crop   | राज्य State   | जिला/उपजिला/गाांव District/ Sub District/ Village   | स्रोत / Source                                                                    | कीट / रोग Pest Disease            | राज्य में फसल क े अांतगगत क ु ल क्षेत्रफल ( हेक्टेयर ) Total area under the crop in the state (ha)   |   तीव्रता Intensity संक्रमित / प्रभावितक्षेत्र * ETL ( हेक्टेयर ) सेऊपर / Area infested/Infected above *ETL (ha) | की गई कारगवाई / जटप्पणी Action Taken/ Remark                 |\n|------------|---------------|-----------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|\n| Paddy      | Jharkhand     | Ranchi, Khunti, Lohardaga                           | CIPMC, Ranchi 1) Joint Survey was conducted with DAO, Lohardaga in field crops on | Bacterial leaf blight Brown plant |\n-                                                                                                   |                                                                                                               01 |\nAdvisories issued and follow up is going on with concerned |"
+    }
+  ]
+}

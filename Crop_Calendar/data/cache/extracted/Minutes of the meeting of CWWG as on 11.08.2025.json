@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-21T22:09:04.919542"
+  },
+  "data": [
+    {
+      "crop": "Rice",
+      "state": "All India",
+      "growth_stage": "Sowing",
+      "pest_or_disease": "All india: progressive crop area sown report\nkharif weekly area coverage as on 08.08.2025\nsource: cwwg (via api)\narea in lakh ha\n|                      |   normal (da&fw) | area sown   | area sown   | difference in area coverage over   |\n|----------------------|------------------|-------------|-------------|------------------------------------|\n| crop                 |                  | 2025-26     | 2024-25     | 2024-25                            |\n| rice                 |           403.09 | 364.80      | 325.36      | 39.45",
+      "weather_condition": null,
+      "advisory": null,
+      "report_week": "2025-08-11",
+      "district": "State-wide",
+      "source_pdf": "Minutes of the meeting of CWWG as on 11.08.2025.pdf",
+      "page_number": 1,
+      "raw_text": "All India: Progressive Crop Area Sown Report\nKharif Weekly area coverage as on 08.08.2025\nSource: CWWG (via API)\nArea in Lakh Ha\n|                      |   Normal (DA&FW) | Area Sown   | Area Sown   | Difference In Area Coverage Over   |\n|----------------------|------------------|-------------|-------------|------------------------------------|\n| Crop                 |                  | 2025-26     | 2024-25     | 2024-25                            |\n| Rice                 |           403.09 | 364.80      | 325.36      | 39.45                              |"
+    }
+  ]
+}

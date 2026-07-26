@@ -1,0 +1,30 @@
+{
+  "crop": "Green Gram (Moong)",
+  "state": "Andhra Pradesh",
+  "week": "2026-04-06",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Green Gram (Moong) in Andhra Pradesh has 85% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Green Gram (Moong) in Andhra Pradesh has 85% harvested.",
+    "evidence": "Green Gram (Moong) in Andhra Pradesh has 85% harvested."
+  },
+  "pests": [
+    {
+      "value": "Green Gram (Moong) In Andhra Pradesh Has 85% Harvested",
+      "evidence": "Green Gram (Moong) in Andhra Pradesh has 85% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Green Gram (Moong) in Andhra Pradesh has 85% harvested."
+  ],
+  "confidence": 0.9
+}

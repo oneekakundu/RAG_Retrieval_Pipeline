@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Odisha",
+  "week": "2025-08-04",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Maximum Temperatures Are Likely To Be Above Normal By 2-3°C Over Many Parts Of Odisha, Chhattisgarh, Telangana, Coastal Andhra Pradesh And Interior Karnataka. These Are Likely To Be Below Normal Or Near Normal Over Rest Parts Of The Country",
+      "evidence": "Maximum temperatures are likely to be above normal by 2-3°C over many parts of Odisha, Chhattisgarh, Telangana, Coastal Andhra Pradesh and Interior Karnataka. These are likely to be below normal or near normal over rest parts of the country."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Maximum temperatures are likely to be above normal by 2-3°C over many parts of Odisha, Chhattisgarh, Telangana, Coastal Andhra Pradesh and Interior Karnataka. These are likely to be below normal or near normal over rest parts of the country."
+  ],
+  "confidence": 0.9
+}

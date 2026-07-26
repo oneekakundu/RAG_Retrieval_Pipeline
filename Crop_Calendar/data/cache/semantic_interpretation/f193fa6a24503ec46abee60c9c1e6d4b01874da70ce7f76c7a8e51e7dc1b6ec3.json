@@ -1,0 +1,30 @@
+{
+  "crop": "Maize",
+  "state": "Madhya Pradesh",
+  "week": "2026-04-20",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Maize in Madhya Pradesh has 77% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Maize in Madhya Pradesh has 77% harvested.",
+    "evidence": "Maize in Madhya Pradesh has 77% harvested."
+  },
+  "pests": [
+    {
+      "value": "Maize In Madhya Pradesh Has 77% Harvested",
+      "evidence": "Maize in Madhya Pradesh has 77% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Maize in Madhya Pradesh has 77% harvested."
+  ],
+  "confidence": 0.9
+}

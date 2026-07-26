@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Punjab",
+  "week": "2026-07-06",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "No  Warm  Night  Conditions  Are  Likely  Over  Any  Part  Of  The  Country  During  The  Week.  However, Minimum Temperatures Are Likely To Be Near Normal (+1.6 To +3.0°C) Over Parts Of Northwest India (Punjab, Haryana, Rajasthan, &Amp; Uttar Pradesh), And Near Normal (-1.5 To +1.5°C) For The Country",
+      "evidence": "No  Warm  Night  conditions  are  likely  over  any  part  of  the  country  during  the  week.  However, minimum temperatures are likely to be near normal (+1.6 to +3.0°C) over parts of northwest India (Punjab, Haryana, Rajasthan, &amp; Uttar Pradesh), and near Normal (-1.5 to +1.5°C) for the country."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "No  Warm  Night  conditions  are  likely  over  any  part  of  the  country  during  the  week.  However, minimum temperatures are likely to be near normal (+1.6 to +3.0°C) over parts of northwest India (Punjab, Haryana, Rajasthan, &amp; Uttar Pradesh), and near Normal (-1.5 to +1.5°C) for the country."
+  ],
+  "confidence": 0.9
+}

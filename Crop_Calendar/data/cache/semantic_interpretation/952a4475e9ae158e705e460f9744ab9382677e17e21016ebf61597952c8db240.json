@@ -1,0 +1,24 @@
+{
+  "crop": "Rice",
+  "state": "Gujarat",
+  "week": "2025-09-22",
+  "observation_type": "Area Coverage",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [
+    {
+      "value": "- Cotton : About 109.90 lakh ha (84.9% of Normal) area coverage has been reported compared to  112.76  lakh  ha  during  the  corresponding  period  of  last  year.  Cotton  area  diverted  in Paddy and Groundnut respectively in Punjab &amp; Haryana and Gujarat.",
+      "evidence": "- Cotton : About 109.90 lakh ha (84.9% of Normal) area coverage has been reported compared to  112.76  lakh  ha  during  the  corresponding  period  of  last  year.  Cotton  area  diverted  in Paddy and Groundnut respectively in Punjab &amp; Haryana and Gujarat."
+    }
+  ],
+  "evidence": [
+    "- Cotton : About 109.90 lakh ha (84.9% of Normal) area coverage has been reported compared to  112.76  lakh  ha  during  the  corresponding  period  of  last  year.  Cotton  area  diverted  in Paddy and Groundnut respectively in Punjab &amp; Haryana and Gujarat."
+  ],
+  "confidence": 0.7
+}

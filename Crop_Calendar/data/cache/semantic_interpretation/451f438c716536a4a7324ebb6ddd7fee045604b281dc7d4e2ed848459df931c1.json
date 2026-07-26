@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Odisha",
+  "week": "2026-04-27",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Low  Probability  Of  Heatwave  Conditions  Likely  During  Some  Days  Of  The  Week  Over  Rajasthan  &Amp; Adjoining Punjab &Amp; Haryana, Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha, &Amp; Vidarbha. Appreciably Above Normal Maximum Temperatures Are Likely Over Some Parts Of Jammu &Amp; Kashmir, And Above-Normal Maximum Temperatures (+1.6 To +3.0°C) Are Likely Over Most Parts Of Northwest &Amp; Central India, And Many Parts Of The East &Amp; Northeast, And The West Coast Of India. Near-Normal Weekly Maximum Temperatures Are Likely In Isolated Places Over The Rest Of The Country",
+      "evidence": " Low  Probability  of  Heatwave  conditions  likely  during  some  days  of  the  week  over  Rajasthan  &amp; adjoining Punjab &amp; Haryana, Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha, &amp; Vidarbha. Appreciably above normal maximum temperatures are likely over some parts of Jammu &amp; Kashmir, and above-normal maximum temperatures (+1.6 to +3.0°C) are likely over most parts of Northwest &amp; Central India, and many parts of the East &amp; Northeast, and the West coast of India. Near-normal weekly maximum temperatures are likely in isolated places over the rest of the country."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Low  Probability  of  Heatwave  conditions  likely  during  some  days  of  the  week  over  Rajasthan  &amp; adjoining Punjab &amp; Haryana, Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha, &amp; Vidarbha. Appreciably above normal maximum temperatures are likely over some parts of Jammu &amp; Kashmir, and above-normal maximum temperatures (+1.6 to +3.0°C) are likely over most parts of Northwest &amp; Central India, and many parts of the East &amp; Northeast, and the West coast of India. Near-normal weekly maximum temperatures are likely in isolated places over the rest of the country."
+  ],
+  "confidence": 0.9
+}

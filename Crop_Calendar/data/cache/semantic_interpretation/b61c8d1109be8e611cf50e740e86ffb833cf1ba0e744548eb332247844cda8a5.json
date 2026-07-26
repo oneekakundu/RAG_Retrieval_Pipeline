@@ -1,0 +1,29 @@
+{
+  "crop": "Crop",
+  "state": "Maharashtra",
+  "week": "2026-03-02",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Leaf curl",
+      "evidence": "- c) Fertilizers : The fertilizer supply remains stable across all products.\n4. Pests &amp; Diseases : Intensity of pests and diseases at some fields has been reported to be above Economic Threshold Level for Citrus (Gummosis) and Chilli (Leaf curl) in Maharashtra. The Advisory has been issued by the survey team to the farms and regular monitoring is being\ncarried  out.  The  overall  intensity  of  pests  and  diseases  remained  below  the  Economic Threshold Level."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [
+    {
+      "value": "- c) Fertilizers : The fertilizer supply remains stable across all products.\n4. Pests &amp; Diseases : Intensity of pests and diseases at some fields has been reported to be above Economic Threshold Level for Citrus (Gummosis) and Chilli (Leaf curl) in Maharashtra. The Advisory has been issued by the survey team to the farms and regular monitoring is being\ncarried  out.  The  overall  intensity  of  pests  and  diseases  remained  below  the  Economic Threshold Level.",
+      "evidence": "- c) Fertilizers : The fertilizer supply remains stable across all products.\n4. Pests &amp; Diseases : Intensity of pests and diseases at some fields has been reported to be above Economic Threshold Level for Citrus (Gummosis) and Chilli (Leaf curl) in Maharashtra. The Advisory has been issued by the survey team to the farms and regular monitoring is being\ncarried  out.  The  overall  intensity  of  pests  and  diseases  remained  below  the  Economic Threshold Level."
+    }
+  ],
+  "statistics": [],
+  "evidence": [
+    "- c) Fertilizers : The fertilizer supply remains stable across all products.\n4. Pests &amp; Diseases : Intensity of pests and diseases at some fields has been reported to be above Economic Threshold Level for Citrus (Gummosis) and Chilli (Leaf curl) in Maharashtra. The Advisory has been issued by the survey team to the farms and regular monitoring is being\ncarried  out.  The  overall  intensity  of  pests  and  diseases  remained  below  the  Economic Threshold Level."
+  ],
+  "confidence": 0.9
+}

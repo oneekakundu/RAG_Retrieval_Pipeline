@@ -1,0 +1,24 @@
+{
+  "crop": "Cotton",
+  "state": "All India",
+  "week": "2025-07-21",
+  "observation_type": "Area Coverage",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [
+    {
+      "value": "Rice : About 176.68 lakh ha area coverage under Kharif Rice as compared to 157.21 lakh ha during the corresponding period of last year.\n- Soybean :  About  111.67  lakh  ha  area  coverage  under  Soyabean  has  been  reported  as compared to 118.96 lakh ha during the corresponding period of last year.\n- Sugarcane :  About  55.16  lakh  ha  area  coverage  under  Sugarcane  has  been  reported  as compared to 54.88 lakh ha during the corresponding period of last year.\n- Cotton :  About 98.55 lakh ha area coverage has been reported compared to 102.05 lakh ha during the corresponding period of last year;",
+      "evidence": "Rice : About 176.68 lakh ha area coverage under Kharif Rice as compared to 157.21 lakh ha during the corresponding period of last year.\n- Soybean :  About  111.67  lakh  ha  area  coverage  under  Soyabean  has  been  reported  as compared to 118.96 lakh ha during the corresponding period of last year.\n- Sugarcane :  About  55.16  lakh  ha  area  coverage  under  Sugarcane  has  been  reported  as compared to 54.88 lakh ha during the corresponding period of last year.\n- Cotton :  About 98.55 lakh ha area coverage has been reported compared to 102.05 lakh ha during the corresponding period of last year;"
+    }
+  ],
+  "evidence": [
+    "Rice : About 176.68 lakh ha area coverage under Kharif Rice as compared to 157.21 lakh ha during the corresponding period of last year.\n- Soybean :  About  111.67  lakh  ha  area  coverage  under  Soyabean  has  been  reported  as compared to 118.96 lakh ha during the corresponding period of last year.\n- Sugarcane :  About  55.16  lakh  ha  area  coverage  under  Sugarcane  has  been  reported  as compared to 54.88 lakh ha during the corresponding period of last year.\n- Cotton :  About 98.55 lakh ha area coverage has been reported compared to 102.05 lakh ha during the corresponding period of last year;"
+  ],
+  "confidence": 0.7
+}

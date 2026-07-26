@@ -1,0 +1,136 @@
+{
+  "crop": "Groundnut",
+  "year": "2025",
+  "metadata": {
+    "generated_at": "2026-07-23T21:17:12.064080",
+    "total_observations": 4,
+    "pipeline_version": "2.1"
+  },
+  "statistics": {
+    "states_observed": [
+      "Haryana"
+    ],
+    "growth_stages": [
+      "- Cotton : About 109.90 Lakh Ha (84.9% Of Normal) Area Coverage Has Been Reported Compared To  112.76  Lakh  Ha  During  The  Corresponding  Period  Of  Last  Year.  Cotton  Area  Diverted  In Paddy And Groundnut Respectively In Punjab &Amp; Haryana And Gujarat.",
+      "- Cotton : About 110.03 Lakh Ha (85% Of Normal) Area Coverage Has Been Reported Compared To  112.97  Lakh  Ha  During  The  Corresponding  Period  Of  Last  Year.  Cotton  Area  Diverted  In Paddy And Groundnut Respectively In Punjab &Amp; Haryana And Gujarat."
+    ],
+    "common_pests": [],
+    "common_diseases": [],
+    "first_appearance": "2025-09-15",
+    "latest_appearance": "2025-10-13"
+  },
+  "observations": [
+    {
+      "id": 558,
+      "date": "2025-10-13",
+      "report_week": "2025-10-13",
+      "state": "Haryana",
+      "district": "State-wide",
+      "growth_stage": "- Cotton : About 110.03 Lakh Ha (85% Of Normal) Area Coverage Has Been Reported Compared To  112.97  Lakh  Ha  During  The  Corresponding  Period  Of  Last  Year.  Cotton  Area  Diverted  In Paddy And Groundnut Respectively In Punjab &Amp; Haryana And Gujarat.",
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "recommendation": null,
+      "advisory": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "- Cotton : About 110.03 lakh ha (85% of Normal) area coverage has been reported compared to  112.97  lakh  ha  during  the  corresponding  period  of  last  year.  Cotton  area  diverted  in Paddy and Groundnut respectively in Punjab &amp; Haryana and Gujarat.",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 13.10.2025.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 533,
+      "date": "2025-10-06",
+      "report_week": "2025-10-06",
+      "state": "Haryana",
+      "district": "State-wide",
+      "growth_stage": "- Cotton : About 110.03 Lakh Ha (85% Of Normal) Area Coverage Has Been Reported Compared To  112.97  Lakh  Ha  During  The  Corresponding  Period  Of  Last  Year.  Cotton  Area  Diverted  In Paddy And Groundnut Respectively In Punjab &Amp; Haryana And Gujarat.",
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "recommendation": null,
+      "advisory": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "- Cotton : About 110.03 lakh ha (85% of Normal) area coverage has been reported compared to  112.97  lakh  ha  during  the  corresponding  period  of  last  year.  Cotton  area  diverted  in Paddy and Groundnut respectively in Punjab &amp; Haryana and Gujarat.",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 06.10.2025 ..pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 583,
+      "date": "2025-09-22",
+      "report_week": "2025-09-22",
+      "state": "Haryana",
+      "district": "State-wide",
+      "growth_stage": "- Cotton : About 109.90 Lakh Ha (84.9% Of Normal) Area Coverage Has Been Reported Compared To  112.76  Lakh  Ha  During  The  Corresponding  Period  Of  Last  Year.  Cotton  Area  Diverted  In Paddy And Groundnut Respectively In Punjab &Amp; Haryana And Gujarat.",
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "recommendation": null,
+      "advisory": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "- Cotton : About 109.90 lakh ha (84.9% of Normal) area coverage has been reported compared to  112.76  lakh  ha  during  the  corresponding  period  of  last  year.  Cotton  area  diverted  in Paddy and Groundnut respectively in Punjab &amp; Haryana and Gujarat.",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 22.09.2025.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 561,
+      "date": "2025-09-15",
+      "report_week": "2025-09-15",
+      "state": "Haryana",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": "Normal",
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "recommendation": null,
+      "advisory": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "- Cotton : About 109.64 lakh ha (84.7% of Normal) area coverage has been reported compared to  112.48  lakh  ha  during  the  corresponding  period  of  last  year.  Cotton  area  diverted  in Paddy and Groundnut respectively in Punjab &amp; Haryana and Gujarat.\nAll India: Progressive Crop Area Sown Report\nKharif Weekly area coverage as on 12.09.2025\nSource: CWWG (via API)\nArea in Lakh Ha\n|                      |   Normal (DA&FW) | Area Sown   | Area Sown   | Difference In Area Coverage Over   |\n|----------------------|------------------|-------------|-------------|------------------------------------|\n| Crop                 |                  | 2025-26     | 2024-25     | 2024-25                            |",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 15.09.2025.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    }
+  ]
+}

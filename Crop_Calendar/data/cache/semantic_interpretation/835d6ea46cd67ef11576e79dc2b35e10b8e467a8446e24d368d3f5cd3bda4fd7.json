@@ -1,0 +1,30 @@
+{
+  "crop": "Sorghum (Jowar)",
+  "state": "Maharashtra",
+  "week": "2026-04-13",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Sorghum (Jowar) in Maharashtra has 85% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Sorghum (Jowar) in Maharashtra has 85% harvested.",
+    "evidence": "Sorghum (Jowar) in Maharashtra has 85% harvested."
+  },
+  "pests": [
+    {
+      "value": "Sorghum (Jowar) In Maharashtra Has 85% Harvested",
+      "evidence": "Sorghum (Jowar) in Maharashtra has 85% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Sorghum (Jowar) in Maharashtra has 85% harvested."
+  ],
+  "confidence": 0.9
+}

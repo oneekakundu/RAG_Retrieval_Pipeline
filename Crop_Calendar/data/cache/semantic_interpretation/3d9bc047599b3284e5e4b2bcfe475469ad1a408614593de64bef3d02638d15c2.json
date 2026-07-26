@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Odisha",
+  "week": "2026-04-13",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Low To Moderate Probability Of Heat Wave Conditions Likely During The Week 2 Over Some Parts Of Odisha, Jharkhand, Bihar, Chhattisgarh, &Amp; North Coastal Andhra Pradesh. Appreciably Above Normal (+3.1 To +5.0°C) Maximum Temperatures Are Likely Over Some Parts Of Odisha, North Coastal Andhra Pradesh, Jharkhand, Bihar, Chhattisgarh, Gangetic West Bengal And East Uttar Pradesh; Normal To Above-Normal  Maximum  Temperatures  ((+1.6  To  +3.0°C)  Are  Likely  Over  Most  Parts  Of  Northwest India,  And  Many  Parts  Of  The  East  &Amp;  Northeast,  South  And  Western  Parts  Of  India.  Below-Normal Weekly Maximum Temperatures Are Likely In Isolated Places Over The Rest Of The Country",
+      "evidence": " Low to moderate Probability of Heat Wave conditions likely during the week 2 over some parts of Odisha, Jharkhand, Bihar, Chhattisgarh, &amp; north Coastal Andhra Pradesh. Appreciably above normal (+3.1 to +5.0°C) maximum temperatures are likely over some parts of Odisha, north Coastal Andhra Pradesh, Jharkhand, Bihar, Chhattisgarh, Gangetic West Bengal and East Uttar Pradesh; normal to above-normal  maximum  temperatures  ((+1.6  to  +3.0°C)  are  likely  over  most  parts  of  Northwest India,  and  many  parts  of  the  East  &amp;  Northeast,  South  and  Western  parts  of  India.  Below-normal weekly maximum temperatures are likely in isolated places over the rest of the country."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Low to moderate Probability of Heat Wave conditions likely during the week 2 over some parts of Odisha, Jharkhand, Bihar, Chhattisgarh, &amp; north Coastal Andhra Pradesh. Appreciably above normal (+3.1 to +5.0°C) maximum temperatures are likely over some parts of Odisha, north Coastal Andhra Pradesh, Jharkhand, Bihar, Chhattisgarh, Gangetic West Bengal and East Uttar Pradesh; normal to above-normal  maximum  temperatures  ((+1.6  to  +3.0°C)  are  likely  over  most  parts  of  Northwest India,  and  many  parts  of  the  East  &amp;  Northeast,  South  and  Western  parts  of  India.  Below-normal weekly maximum temperatures are likely in isolated places over the rest of the country."
+  ],
+  "confidence": 0.9
+}

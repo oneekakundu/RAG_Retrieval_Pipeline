@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Punjab",
+  "week": "2026-05-25",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Low  To  Moderate  Probability  Of  Heatwave  Conditions  Likely  Over  Some  Parts  Of  Northwest  India (Punjab, Haryana, Rajasthan, Uttar Pradesh, Jammu &Amp; Kashmir, Southern Parts Of Himachal Pradesh &Amp; Uttarakhand) During Some/Many Days Of The Week",
+      "evidence": " Low  to  moderate  probability  of  Heatwave  conditions  likely  over  some  parts  of  northwest  India (Punjab, Haryana, Rajasthan, Uttar Pradesh, Jammu &amp; Kashmir, southern parts of Himachal Pradesh &amp; Uttarakhand) during some/many days of the week."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Low  to  moderate  probability  of  Heatwave  conditions  likely  over  some  parts  of  northwest  India (Punjab, Haryana, Rajasthan, Uttar Pradesh, Jammu &amp; Kashmir, southern parts of Himachal Pradesh &amp; Uttarakhand) during some/many days of the week."
+  ],
+  "confidence": 0.9
+}

@@ -1,0 +1,30 @@
+{
+  "crop": "Bengal Gram (Gram/Chickpea)",
+  "state": "Andhra Pradesh",
+  "week": "2026-04-06",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Bengal Gram (Gram/Chickpea) is 100% harvested in Andhra Pradesh."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Bengal Gram (Gram/Chickpea) is 100% harvested in Andhra Pradesh.",
+    "evidence": "Bengal Gram (Gram/Chickpea) is 100% harvested in Andhra Pradesh."
+  },
+  "pests": [
+    {
+      "value": "Bengal Gram (Gram/Chickpea) Is 100% Harvested In Andhra Pradesh",
+      "evidence": "Bengal Gram (Gram/Chickpea) is 100% harvested in Andhra Pradesh."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Bengal Gram (Gram/Chickpea) is 100% harvested in Andhra Pradesh."
+  ],
+  "confidence": 0.9
+}

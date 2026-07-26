@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Rajasthan",
+  "week": "2026-04-20",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Low Probability Of Heatwave Conditions Likely During Some Days Of Week 2 Over Central &Amp; Adjoining South  Peninsular  Parts  Of  The  Country  (Madhya  Pradesh,  East  Rajasthan,  Southern  Parts  Of  Uttar Pradesh,  Chhattisgarh,  Jharkhand,  &Amp;  Vidarbha).  Appreciably  Above  Normal  (+3.1  To  +5.0°C) Maximum  Temperatures  Are  Likely  Over  Some  Parts  Of  Jammu  &Amp;  Kashmir,  And  Above-Normal Maximum Temperatures (+1.6 To +3.0°C) Are Likely Over Most Parts Of Northwest &Amp; Central India, And Many Parts  Of  The  East  &Amp;  Northeast,  And  The  West  Coast  Of  India.  Near-Normal  Weekly  Maximum Temperatures Are Likely In Isolated Places Over The Rest Of The Country",
+      "evidence": " Low Probability of Heatwave conditions likely during some days of week 2 over central &amp; adjoining south  peninsular  parts  of  the  country  (Madhya  Pradesh,  East  Rajasthan,  southern  parts  of  Uttar Pradesh,  Chhattisgarh,  Jharkhand,  &amp;  Vidarbha).  Appreciably  above  normal  (+3.1  to  +5.0°C) maximum  temperatures  are  likely  over  some  parts  of  Jammu  &amp;  Kashmir,  and  above-normal maximum temperatures (+1.6 to +3.0°C) are likely over most parts of Northwest &amp; Central India, and many parts  of  the  East  &amp;  Northeast,  and  the  West  coast  of  India.  Near-normal  weekly  maximum temperatures are likely in isolated places over the rest of the country."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Low Probability of Heatwave conditions likely during some days of week 2 over central &amp; adjoining south  peninsular  parts  of  the  country  (Madhya  Pradesh,  East  Rajasthan,  southern  parts  of  Uttar Pradesh,  Chhattisgarh,  Jharkhand,  &amp;  Vidarbha).  Appreciably  above  normal  (+3.1  to  +5.0°C) maximum  temperatures  are  likely  over  some  parts  of  Jammu  &amp;  Kashmir,  and  above-normal maximum temperatures (+1.6 to +3.0°C) are likely over most parts of Northwest &amp; Central India, and many parts  of  the  East  &amp;  Northeast,  and  the  West  coast  of  India.  Near-normal  weekly  maximum temperatures are likely in isolated places over the rest of the country."
+  ],
+  "confidence": 0.9
+}

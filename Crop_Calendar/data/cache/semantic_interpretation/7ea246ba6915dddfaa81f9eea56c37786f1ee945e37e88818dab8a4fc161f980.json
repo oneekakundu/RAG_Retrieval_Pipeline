@@ -1,0 +1,24 @@
+{
+  "crop": "Cotton",
+  "state": "Odisha",
+  "week": "2025-08-11",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Over All Intensity Of Pests And Disease Remained Below Economic Threshold Level (Etl) Except",
+      "evidence": " Over all intensity of pests and disease remained below Economic Threshold Level (ETL) except:"
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Over all intensity of pests and disease remained below Economic Threshold Level (ETL) except:"
+  ],
+  "confidence": 0.9
+}

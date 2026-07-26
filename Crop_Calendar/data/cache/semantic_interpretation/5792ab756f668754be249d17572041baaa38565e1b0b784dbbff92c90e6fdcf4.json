@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Chhattisgarh",
+  "week": "2026-03-30",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Maximum  Temperature  Is  Likely  To  Be  Above  Normal  Over  Many  Parts  Of  North  West  India,  East India, South India, Chhattisgarh And Konkan &Amp; Goa",
+      "evidence": " Maximum  temperature  is  likely  to  be  above  normal  over  many  parts  of  North  West  India,  East India, South India, Chhattisgarh and Konkan &amp; Goa."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Maximum  temperature  is  likely  to  be  above  normal  over  many  parts  of  North  West  India,  East India, South India, Chhattisgarh and Konkan &amp; Goa."
+  ],
+  "confidence": 0.9
+}

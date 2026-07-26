@@ -1,0 +1,25 @@
+{
+  "crop": "Maize",
+  "state": "Chhattisgarh",
+  "week": "2026-04-27",
+  "observation_type": "Harvest Progress",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "| h        | Other Pulses $             |               16.73 |                          20.57 |             100.00 | Harvesting has been almost completed.                                                                                                                                                     |"
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "| h        | Other Pulses $             |               16.73 |                          20.57 |             100.00 | Harvesting has been almost completed.                                                                                                                                                     |",
+    "evidence": "| h        | Other Pulses $             |               16.73 |                          20.57 |             100.00 | Harvesting has been almost completed.                                                                                                                                                     |"
+  },
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "| h        | Other Pulses $             |               16.73 |                          20.57 |             100.00 | Harvesting has been almost completed.                                                                                                                                                     |"
+  ],
+  "confidence": 0.9
+}

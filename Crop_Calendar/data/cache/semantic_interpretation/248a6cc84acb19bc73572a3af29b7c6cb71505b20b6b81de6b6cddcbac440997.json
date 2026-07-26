@@ -1,0 +1,24 @@
+{
+  "crop": "Bengal Gram (Gram/Chickpea)",
+  "state": "Punjab",
+  "week": "2025-12-15",
+  "observation_type": "Area Coverage",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [
+    {
+      "value": " Wheat: About 275.66 lakh ha (88% of normal) area coverage under Wheat has been reported as compared to 258.48 lakh ha during the corresponding period of last year.\n-\nRapeseed &amp; Mustard : About 84.67 (107% of normal) lakh ha area coverage under Rapeseed &amp;  Mustard  has  been  reported  as  compared  to  81.16  lakh  ha  during  the  corresponding period of last year.\n-\nGram: About 84.91 (84% of normal) lakh ha area coverage under Gram has been reported as compared to 81.67 lakh ha during the corresponding period of last year.",
+      "evidence": " Wheat: About 275.66 lakh ha (88% of normal) area coverage under Wheat has been reported as compared to 258.48 lakh ha during the corresponding period of last year.\n-\nRapeseed &amp; Mustard : About 84.67 (107% of normal) lakh ha area coverage under Rapeseed &amp;  Mustard  has  been  reported  as  compared  to  81.16  lakh  ha  during  the  corresponding period of last year.\n-\nGram: About 84.91 (84% of normal) lakh ha area coverage under Gram has been reported as compared to 81.67 lakh ha during the corresponding period of last year."
+    }
+  ],
+  "evidence": [
+    " Wheat: About 275.66 lakh ha (88% of normal) area coverage under Wheat has been reported as compared to 258.48 lakh ha during the corresponding period of last year.\n-\nRapeseed &amp; Mustard : About 84.67 (107% of normal) lakh ha area coverage under Rapeseed &amp;  Mustard  has  been  reported  as  compared  to  81.16  lakh  ha  during  the  corresponding period of last year.\n-\nGram: About 84.91 (84% of normal) lakh ha area coverage under Gram has been reported as compared to 81.67 lakh ha during the corresponding period of last year."
+  ],
+  "confidence": 0.7
+}

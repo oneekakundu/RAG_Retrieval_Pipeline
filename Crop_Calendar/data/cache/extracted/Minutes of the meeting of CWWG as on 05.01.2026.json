@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-22T00:21:34.770357"
+  },
+  "data": [
+    {
+      "crop": "Maize",
+      "state": "All India",
+      "growth_stage": "| All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   |\n|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|\n| Increasing Trend                        | Increasing Trend                        | Decreasing Trend                        | Decreasing Trend                        |\n| Commodities                             | % Variation Over Last Week              | Commodities                             | % Variation Over Last Week              |\n| Paddy (Rice Un-                         | 2.21                                    | Maize                                   |\n2.64                                   |",
+      "pest_or_disease": null,
+      "weather_condition": null,
+      "advisory": null,
+      "report_week": "2026-01-05",
+      "district": "State-wide",
+      "confidence": 0.9,
+      "source_method": "rule_based",
+      "source_pdf": "Minutes of the meeting of CWWG as on 05.01.2026.pdf",
+      "page_number": 1,
+      "raw_text": "| All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   |\n|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|\n| Increasing Trend                        | Increasing Trend                        | Decreasing Trend                        | Decreasing Trend                        |\n| Commodities                             | % Variation over last Week              | Commodities                             | % Variation over last Week              |\n| Paddy (Rice un-                         | 2.21                                    | Maize                                   |\n2.64                                   |"
+    }
+  ]
+}

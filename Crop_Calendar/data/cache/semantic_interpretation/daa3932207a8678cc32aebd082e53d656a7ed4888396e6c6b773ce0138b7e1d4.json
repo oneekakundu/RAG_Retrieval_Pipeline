@@ -1,0 +1,30 @@
+{
+  "crop": "Groundnut",
+  "state": "Bihar",
+  "week": "2026-05-11",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Groundnut is 100% harvested in Bihar."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Groundnut is 100% harvested in Bihar.",
+    "evidence": "Groundnut is 100% harvested in Bihar."
+  },
+  "pests": [
+    {
+      "value": "Groundnut Is 100% Harvested In Bihar",
+      "evidence": "Groundnut is 100% harvested in Bihar."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Groundnut is 100% harvested in Bihar."
+  ],
+  "confidence": 0.9
+}

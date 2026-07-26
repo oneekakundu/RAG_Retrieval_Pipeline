@@ -1,0 +1,21 @@
+Expected Crop,Expected State,Expected Stage,Expected Pest,Expected Disease,Expected Advisory
+Wheat,West Bengal,Harvesting,-,-,65% harvested in West Bengal
+Rice,Tamil Nadu,Harvesting,-,-,86% harvested in Tamil Nadu
+Rice,Kerala,Harvesting,-,-,90% harvested in Kerala
+Bengal Gram (Gram/Chickpea),Andhra Pradesh,Harvesting,-,-,100% harvested in Andhra Pradesh
+Bengal Gram (Gram/Chickpea),West Bengal,Harvesting,-,-,100% harvested in West Bengal
+Bengal Gram (Gram/Chickpea),Maharashtra,Harvesting,-,-,95% harvested in Maharashtra
+Lentil (Masur),Assam,Harvesting,-,-,100% harvested in Assam
+Lentil (Masur),West Bengal,Harvesting,-,-,100% harvested in West Bengal
+Green Gram (Moong),Tamil Nadu,Harvesting,-,-,90% harvested in Tamil Nadu
+Green Gram (Moong),Andhra Pradesh,Harvesting,-,-,85% harvested in Andhra Pradesh
+Sorghum (Jowar),Maharashtra,Harvesting,-,-,85% harvested in Maharashtra
+Sorghum (Jowar),Karnataka,Harvesting,-,-,95% harvested in Karnataka
+Maize,Telangana,Harvesting,-,-,92% harvested in Telangana
+Maize,Tamil Nadu,Harvesting,-,-,92% harvested in Tamil Nadu
+Mustard,Andhra Pradesh,Harvesting,-,-,80% harvested in Andhra Pradesh
+Groundnut,Telangana,Harvesting,-,-,90% harvested in Telangana
+Groundnut,Tamil Nadu,Harvesting,-,-,55% harvested in Tamil Nadu
+Sunflower,Karnataka,Harvesting,-,-,100% harvested in Karnataka
+Sunflower,Maharashtra,Harvesting,-,-,90% harvested in Maharashtra
+Sesame (Sesamum),Chhattisgarh,Harvesting,-,-,100% harvested in Chhattisgarh

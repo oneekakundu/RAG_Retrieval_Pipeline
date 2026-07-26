@@ -1,0 +1,30 @@
+{
+  "crop": "Groundnut",
+  "state": "Kerala",
+  "week": "2026-05-18",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Groundnut is 100% harvested in Kerala."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Groundnut is 100% harvested in Kerala.",
+    "evidence": "Groundnut is 100% harvested in Kerala."
+  },
+  "pests": [
+    {
+      "value": "Groundnut Is 100% Harvested In Kerala",
+      "evidence": "Groundnut is 100% harvested in Kerala."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Groundnut is 100% harvested in Kerala."
+  ],
+  "confidence": 0.9
+}

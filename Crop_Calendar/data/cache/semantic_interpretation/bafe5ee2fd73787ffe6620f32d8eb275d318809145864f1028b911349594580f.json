@@ -1,0 +1,30 @@
+{
+  "crop": "Sesame (Sesamum)",
+  "state": "Andhra Pradesh",
+  "week": "2026-03-30",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Sesame (Sesamum) in Andhra Pradesh has 6% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Sesame (Sesamum) in Andhra Pradesh has 6% harvested.",
+    "evidence": "Sesame (Sesamum) in Andhra Pradesh has 6% harvested."
+  },
+  "pests": [
+    {
+      "value": "Sesame (Sesamum) In Andhra Pradesh Has 6% Harvested",
+      "evidence": "Sesame (Sesamum) in Andhra Pradesh has 6% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Sesame (Sesamum) in Andhra Pradesh has 6% harvested."
+  ],
+  "confidence": 0.9
+}

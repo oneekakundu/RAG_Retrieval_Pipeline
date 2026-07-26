@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Karnataka",
+  "week": "2025-09-08",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Maximum  Temperature  Is  Likely  To  Be  Above  Normal  Over  Many  Parts  Of  Karnataka, Maharashtra, Chhattisgarh, Bihar And Arunachal Pradesh",
+      "evidence": "Maximum  temperature  is  likely  to  be  above  normal  over  many  parts  of  Karnataka, Maharashtra, Chhattisgarh, Bihar and Arunachal Pradesh."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Maximum  temperature  is  likely  to  be  above  normal  over  many  parts  of  Karnataka, Maharashtra, Chhattisgarh, Bihar and Arunachal Pradesh."
+  ],
+  "confidence": 0.9
+}

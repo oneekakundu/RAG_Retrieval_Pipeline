@@ -1,0 +1,290 @@
+[
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_0",
+    "chunk_text": " As on May 15, 2026, the area sown under summer crops is 83.08 lakh ha as compared to 80.01 lakh ha during the corresponding period of last year.  Of this, area of 31.05 lakh ha has been sown under Rice this year. There is also an increase in the area sown under Maize by about 1.50 lakh ha so far from the last 5-years average.\n-\nAs on 15.05.2026, 96.86% of area has been harvested for Rabi crops all over India. Pulses harvest has been completed; 99.87% area of Oilseeds- majorly in Rapeseed &amp; Mustard (100%); 98.62% area of Shri Anna cum Coarse Cereals- majorly in Jowar (99.66%), 72.70% area of Rice and 98.80% area of Wheat has been harvested for Rabi crops 2025-26.",
+    "detected_crop": "Rice",
+    "heading": "1. Rabi Season harvest and Summer Season Sowing Status:",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": " As On May 15, 2026, The Area Sown Under Summer Crops Is 83.08 Lakh Ha As Compared To 80.01 Lakh Ha During The Corresponding Period Of Last Year.  Of This, Area Of 31.05 Lakh Ha Has Been Sown Under Rice This Year. There Is Also An Increase In The Area Sown Under Maize By About 1.50 Lakh Ha So Far From The Last 5-Years Average.\n-\nAs On 15.05.2026, 96.86% Of Area Has Been Harvested For Rabi Crops All Over India. Pulses Harvest Has Been Completed; 99.87% Area Of Oilseeds- Majorly In Rapeseed &Amp; Mustard (100%); 98.62% Area Of Shri Anna Cum Coarse Cereals- Majorly In Jowar (99.66%), 72.70% Area Of Rice And 98.80% Area Of Wheat Has Been Harvested For Rabi Crops 2025-26."
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_1",
+    "chunk_text": " Rice : About 31.05 lakh ha area coverage under Summer Rice has been reported as compared to 32.42 lakh ha during the corresponding period of last year.\n-",
+    "detected_crop": "Rice",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": " Rice : About 31.05 Lakh Ha Area Coverage Under Summer Rice Has Been Reported As Compared To 32.42 Lakh Ha During The Corresponding Period Of Last Year.\n-"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_2",
+    "chunk_text": "Pulses : About 24.97 lakh ha area coverage has been reported compared to 23.76 lakh ha during the corresponding period of last year.\n-",
+    "detected_crop": "Pulses",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "Pulses : About 24.97 Lakh Ha Area Coverage Has Been Reported Compared To 23.76 Lakh Ha During The Corresponding Period Of Last Year.\n-"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_3",
+    "chunk_text": "Oilseeds : About 11.04 lakh ha area coverage has been reported compared to 9.58 lakh ha during the corresponding period of last year.\n| Progress of Area coverage under Summer crops as on 15.05.2026 (In lakh hectare)   | Progress of Area coverage under Summer crops as on 15.05.2026 (In lakh hectare)   | Progress of Area coverage under Summer crops as on 15.05.2026 (In lakh hectare)   | Progress of Area coverage under Summer crops as on 15.05.2026 (In lakh hectare)   | Progress of Area coverage under Summer crops as on 15.05.2026 (In lakh hectare)   | Progress of Area coverage under Summer crops as on 15.05.2026 (In lakh hectare)   | Progress of Area coverage under Summer crops as on 15.05.2026 (In lakh hectare)   |\n|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|\n| Sl. No.                                                                           | Crops                                                                             | Normal Summer Area (DES)*                                                         | Final Summer Area 2025                                                            | Area Sown                                                                         | Area Sown                                                                         | Increase/ Decrease over corresponding period of Last year                         |\n| Sl. No.                                                                           | Crops                                                                             | Normal Summer Area (DES)*                                                         | Final Summer Area 2025                                                            | Current Year (2026)                                                               | Corresponding period of Last Year (2025)                                          | Increase/ Decrease over corresponding period of Last year                         |",
+    "detected_crop": "Oilseeds",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "Oilseeds : About 11.04 Lakh Ha Area Coverage Has Been Reported Compared To 9.58 Lakh Ha During The Corresponding Period Of Last Year.\n| Progress Of Area Coverage Under Summer Crops As On 15.05.2026 (In Lakh Hectare)   | Progress Of Area Coverage Under Summer Crops As On 15.05.2026 (In Lakh Hectare)   | Progress Of Area Coverage Under Summer Crops As On 15.05.2026 (In Lakh Hectare)   | Progress Of Area Coverage Under Summer Crops As On 15.05.2026 (In Lakh Hectare)   | Progress Of Area Coverage Under Summer Crops As On 15.05.2026 (In Lakh Hectare)   | Progress Of Area Coverage Under Summer Crops As On 15.05.2026 (In Lakh Hectare)   | Progress Of Area Coverage Under Summer Crops As On 15.05.2026 (In Lakh Hectare)   |\n|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|\n| Sl. No.                                                                           | Crops                                                                             | Normal Summer Area (Des)*                                                         | Final Summer Area 2025                                                            | Area Sown                                                                         | Area Sown                                                                         | Increase/ Decrease Over Corresponding Period Of Last Year                         |\n| Sl. No.                                                                           | Crops                                                                             | Normal Summer Area (Des)*                                                         | Final Summer Area 2025                                                            | Current Year (2026)                                                               | Corresponding Period Of Last Year (2025)                                          | Increase/ Decrease Over Corresponding Period Of Last Year                         |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_4",
+    "chunk_text": "| 1                                                                                 | Rice                                                                              | 31.49                                                                             | 33.28                                                                             | 31.05                                                                             | 32.42                                                                             |\n1.36                                                                             |",
+    "detected_crop": "Rice",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| 1                                                                                 | Rice                                                                              | 31.49                                                                             | 33.28                                                                             | 31.05                                                                             | 32.42                                                                             |\n1.36                                                                             |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_5",
+    "chunk_text": "| 2                                                                                 | Pulses                                                                            | 23.40                                                                             | 27.07                                                                             | 24.97                                                                             | 23.76                                                                             | 1.21                                                                              |\n| a                                                                                 | Greengram                                                                         | 20.44                                                                             | 23.49                                                                             | 20.07                                                                             | 20.00                                                                             | 0.07                                                                              |\n| b                                                                                 | Blackgram                                                                         | 2.96                                                                              | 3.26                                                                              | 4.60                                                                              | 3.58                                                                              | 1.02                                                                              |\n| c                                                                                 | Other Pulses                                                                      | 0.00                                                                              |\n| 0.30                                                                              | 0.19                                                                              | 0.11                                                                              |",
+    "detected_crop": "Pulses",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| 2                                                                                 | Pulses                                                                            | 23.40                                                                             | 27.07                                                                             | 24.97                                                                             | 23.76                                                                             | 1.21                                                                              |\n| A                                                                                 | Greengram                                                                         | 20.44                                                                             | 23.49                                                                             | 20.07                                                                             | 20.00                                                                             | 0.07                                                                              |\n| B                                                                                 | Blackgram                                                                         | 2.96                                                                              | 3.26                                                                              | 4.60                                                                              | 3.58                                                                              | 1.02                                                                              |\n| C                                                                                 | Other Pulses                                                                      | 0.00                                                                              |\n| 0.30                                                                              | 0.19                                                                              | 0.11                                                                              |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_6",
+    "chunk_text": "| 3                                                                                 | Shree Anna cum Coarse Cereals                                                     | 12.08                                                                             | 14.06                                                                             | 16.01                                                                             | 14.25                                                                             | 1.77                                                                              |",
+    "detected_crop": "Coarse Cereals",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| 3                                                                                 | Shree Anna Cum Coarse Cereals                                                     | 12.08                                                                             | 14.06                                                                             | 16.01                                                                             | 14.25                                                                             | 1.77                                                                              |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_7",
+    "chunk_text": "| a                                                                                 | Jowar                                                                             | 0.34                                                                              | 0.36                                                                              | 0.37                                                                              | 0.36                                                                              | 0.01                                                                              |",
+    "detected_crop": "Sorghum (Jowar)",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| A                                                                                 | Jowar                                                                             | 0.34                                                                              | 0.36                                                                              | 0.37                                                                              | 0.36                                                                              | 0.01                                                                              |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_8",
+    "chunk_text": "| b                                                                                 | Bajra                                                                             | 4.43                                                                              | 5.20                                                                              | 5.40                                                                              | 5.20                                                                              | 0.20                                                                              |",
+    "detected_crop": "Pearl Millet (Bajra)",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| B                                                                                 | Bajra                                                                             | 4.43                                                                              | 5.20                                                                              | 5.40                                                                              | 5.20                                                                              | 0.20                                                                              |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_9",
+    "chunk_text": "| c                                                                                 | Ragi                                                                              | 0.31                                                                              |\n| 0.22                                                                              | 0.16                                                                              | 0.06                                                                              |\n| d                                                                                 | Small Millets                                                                     | 0.02                                                                              |\n| 0.03                                                                              | 0.03                                                                              | 0.00                                                                              |",
+    "detected_crop": "Finger Millet (Ragi)",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| C                                                                                 | Ragi                                                                              | 0.31                                                                              |\n| 0.22                                                                              | 0.16                                                                              | 0.06                                                                              |\n| D                                                                                 | Small Millets                                                                     | 0.02                                                                              |\n| 0.03                                                                              | 0.03                                                                              | 0.00                                                                              |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_10",
+    "chunk_text": "| e                                                                                 | Maize                                                                             | 6.98                                                                              | 8.50                                                                              | 10.00                                                                             | 8.50                                                                              | 1.50                                                                              |",
+    "detected_crop": "Maize",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| E                                                                                 | Maize                                                                             | 6.98                                                                              | 8.50                                                                              | 10.00                                                                             | 8.50                                                                              | 1.50                                                                              |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_11",
+    "chunk_text": "| 4                                                                                 | Oilseeds                                                                          | 8.40                                                                              | 9.51                                                                              | 11.04                                                                             | 9.58                                                                              | 1.47                                                                              |",
+    "detected_crop": "Oilseeds",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| 4                                                                                 | Oilseeds                                                                          | 8.40                                                                              | 9.51                                                                              | 11.04                                                                             | 9.58                                                                              | 1.47                                                                              |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_12",
+    "chunk_text": "| a                                                                                 | Groundnut                                                                         | 3.40                                                                              | 4.20                                                                              | 5.51                                                                              | 4.20                                                                              | 1.31                                                                              |",
+    "detected_crop": "Groundnut",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| A                                                                                 | Groundnut                                                                         | 3.40                                                                              | 4.20                                                                              | 5.51                                                                              | 4.20                                                                              | 1.31                                                                              |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_13",
+    "chunk_text": "| b                                                                                 | Sunflower                                                                         | 0.34                                                                              | 0.35                                                                              | 0.39                                                                              | 0.35                                                                              | 0.04                                                                              |",
+    "detected_crop": "Sunflower",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| B                                                                                 | Sunflower                                                                         | 0.34                                                                              | 0.35                                                                              | 0.39                                                                              | 0.35                                                                              | 0.04                                                                              |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_14",
+    "chunk_text": "| c                                                                                 | Sesamum                                                                           | 4.66                                                                              | 4.96                                                                              | 5.07                                                                              | 4.96                                                                              | 0.11                                                                              |",
+    "detected_crop": "Sesame (Sesamum)",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| C                                                                                 | Sesamum                                                                           | 4.66                                                                              | 4.96                                                                              | 5.07                                                                              | 4.96                                                                              | 0.11                                                                              |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_15",
+    "chunk_text": "| d                                                                                 | Other Oilseeds                                                                    | 0.00                                                                              |\n| 0.07                                                                              | 0.06                                                                              | 0.00                                                                              |\n| Total                                  | 75.37                                  | 83.92   | 83.08   | 80.01   | 3.07   |\n|----------------------------------------|----------------------------------------|---------|---------|---------|--------|\n| * Normal area from 2022-23 to 2024-25. | * Normal area from 2022-23 to 2024-25. |         |         |         |        |\n| Source: Crop Division, DoA&FW, MoA&FW  | Source: Crop Division, DoA&FW, MoA&FW  |         |         |         |        |\n| SOWING AND HARVESTING STATUS OF RABI CROPS AS ON 15.05.2026   | SOWING AND HARVESTING STATUS OF RABI CROPS AS ON 15.05.2026   | SOWING AND HARVESTING STATUS OF RABI CROPS AS ON 15.05.2026   | SOWING AND HARVESTING STATUS OF RABI CROPS AS ON 15.05.2026   | SOWING AND HARVESTING STATUS OF RABI CROPS AS ON 15.05.2026   | SOWING AND HARVESTING STATUS OF RABI CROPS AS ON 15.05.2026                                                                                         |\n|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|",
+    "detected_crop": "Oilseeds",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| D                                                                                 | Other Oilseeds                                                                    | 0.00                                                                              |\n| 0.07                                                                              | 0.06                                                                              | 0.00                                                                              |\n| Total                                  | 75.37                                  | 83.92   | 83.08   | 80.01   | 3.07   |\n|----------------------------------------|----------------------------------------|---------|---------|---------|--------|\n| * Normal Area From 2022-23 To 2024-25. | * Normal Area From 2022-23 To 2024-25. |         |         |         |        |\n| Source: Crop Division, Doa&Fw, Moa&Fw  | Source: Crop Division, Doa&Fw, Moa&Fw  |         |         |         |        |\n| Sowing And Harvesting Status Of Rabi Crops As On 15.05.2026   | Sowing And Harvesting Status Of Rabi Crops As On 15.05.2026   | Sowing And Harvesting Status Of Rabi Crops As On 15.05.2026   | Sowing And Harvesting Status Of Rabi Crops As On 15.05.2026   | Sowing And Harvesting Status Of Rabi Crops As On 15.05.2026   | Sowing And Harvesting Status Of Rabi Crops As On 15.05.2026                                                                                         |\n|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_16",
+    "chunk_text": "| 1                                                             | Wheat                                                         | 312.35                                                        | 334.17                                                        | 98.80                                                         | 100% harvested in all states except UP (98%), Punjab (98%), .                                                                                       |",
+    "detected_crop": "Wheat",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| 1                                                             | Wheat                                                         | 312.35                                                        | 334.17                                                        | 98.80                                                         | 100% Harvested In All States Except Up (98%), Punjab (98%), .                                                                                       |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_17",
+    "chunk_text": "| 2                                                             | Rice *                                                        | 42.93                                                         | 45.00                                                         | 72.70                                                         | Tamil Nadu (90%), Kerala (98%), Andhra Pradesh (75%), Telangana (52%) etc has already been harvested.                                               |",
+    "detected_crop": "Rice",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| 2                                                             | Rice *                                                        | 42.93                                                         | 45.00                                                         | 72.70                                                         | Tamil Nadu (90%), Kerala (98%), Andhra Pradesh (75%), Telangana (52%) Etc Has Already Been Harvested.                                               |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_18",
+    "chunk_text": "| 3                                                             | Pulses                                                        | 140.42                                                        | 139.55                                                        | 100.00                                                        |                                                                                                                                                     |",
+    "detected_crop": "Pulses",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| 3                                                             | Pulses                                                        | 140.42                                                        | 139.55                                                        | 100.00                                                        |                                                                                                                                                     |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_19",
+    "chunk_text": "| a                                                             | Gram                                                          | 100.99                                                        | 96.20                                                         | 100.00                                                        | 100% Harvesting has been completed in all states.                                                                                                   |",
+    "detected_crop": "Bengal Gram (Gram/Chickpea)",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| A                                                             | Gram                                                          | 100.99                                                        | 96.20                                                         | 100.00                                                        | 100% Harvesting Has Been Completed In All States.                                                                                                   |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_20",
+    "chunk_text": "| b                                                             | Lentil                                                        | 15.13                                                         | 18.12                                                         | 100.00                                                        | 100% Harvesting has been completed in all states.                                                                                                   |\n| e                                                             | Urdbean *                                                     | 6.16                                                          | 6.06                                                          | 100.00                                                        | 100% Harvesting has been completed in all states.                                                                                                   |",
+    "detected_crop": "Lentil (Masur)",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| B                                                             | Lentil                                                        | 15.13                                                         | 18.12                                                         | 100.00                                                        | 100% Harvesting Has Been Completed In All States.                                                                                                   |\n| E                                                             | Urdbean *                                                     | 6.16                                                          | 6.06                                                          | 100.00                                                        | 100% Harvesting Has Been Completed In All States.                                                                                                   |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_21",
+    "chunk_text": "| f                                                             | Moongbean *                                                   | 1.41                                                          | 0.99                                                          | 100.00                                                        | 100% Harvesting has been completed in all states.                                                                                                   |",
+    "detected_crop": "Green Gram (Moong)",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| F                                                             | Moongbean *                                                   | 1.41                                                          | 0.99                                                          | 100.00                                                        | 100% Harvesting Has Been Completed In All States.                                                                                                   |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_22",
+    "chunk_text": "| h                                                             | Other Pulses $                                                | 16.73                                                         | 20.57                                                         | 100.00                                                        | 100% Harvesting has been completed in all states.                                                                                                   |",
+    "detected_crop": "Pulses",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| H                                                             | Other Pulses $                                                | 16.73                                                         | 20.57                                                         | 100.00                                                        | 100% Harvesting Has Been Completed In All States.                                                                                                   |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_23",
+    "chunk_text": "| 4                                                             | Shri Anna & Coarse cereals                                    | 55.33                                                         | 60.93                                                         | 98.62                                                         |                                                                                                                                                     |",
+    "detected_crop": "Coarse Cereals",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| 4                                                             | Shri Anna & Coarse Cereals                                    | 55.33                                                         | 60.93                                                         | 98.62                                                         |                                                                                                                                                     |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_24",
+    "chunk_text": "| a                                                             | Jowar *                                                       | 24.62                                                         | 23.13                                                         | 99.66                                                         | 100% Harvested in Gujarat, Maharashtra , Karnataka &Tamil Nadu. , Telangana (98%), AP (96%), etc has already been harvested.                        |",
+    "detected_crop": "Sorghum (Jowar)",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| A                                                             | Jowar *                                                       | 24.62                                                         | 23.13                                                         | 99.66                                                         | 100% Harvested In Gujarat, Maharashtra , Karnataka &Tamil Nadu. , Telangana (98%), Ap (96%), Etc Has Already Been Harvested.                        |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_25",
+    "chunk_text": "| b                                                             | Maize *                                                       | 23.61                                                         | 29.16                                                         | 96.34                                                         | 100% Harvested in Gujarat, Maharashtra,Tamilnadu, Karnataka % Uttarpradesh. AP (85%),Bihar (95%),Chhattisgarh (95%) etc has already been harvested. |\n| c                                                             | Barley                                                        | 5.63                                                          | 7.38                                                          | 99.63                                                         | 100% harvested in Bihar, Haryana, Madhya Pradesh, Maharashtra, Rajasthan &Chhattisgarh. Punjab (97%), UP (95%) etc has already been harvested.      |",
+    "detected_crop": "Maize",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| B                                                             | Maize *                                                       | 23.61                                                         | 29.16                                                         | 96.34                                                         | 100% Harvested In Gujarat, Maharashtra,Tamilnadu, Karnataka % Uttarpradesh. Ap (85%),Bihar (95%),Chhattisgarh (95%) Etc Has Already Been Harvested. |\n| C                                                             | Barley                                                        | 5.63                                                          | 7.38                                                          | 99.63                                                         | 100% Harvested In Bihar, Haryana, Madhya Pradesh, Maharashtra, Rajasthan &Chhattisgarh. Punjab (97%), Up (95%) Etc Has Already Been Harvested.      |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_26",
+    "chunk_text": "| 5                                                             | Oilseeds                                                      | 86.78                                                         | 97.19                                                         | 99.87                                                         |                                                                                                                                                     |",
+    "detected_crop": "Oilseeds",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| 5                                                             | Oilseeds                                                      | 86.78                                                         | 97.19                                                         | 99.87                                                         |                                                                                                                                                     |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_27",
+    "chunk_text": "| a                                                             | Rapeseed & Mustard                                            | 79.17                                                         | 89.36                                                         | 100.00                                                        | 100% harvested in all states.                                                                                                                       |",
+    "detected_crop": "Mustard",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| A                                                             | Rapeseed & Mustard                                            | 79.17                                                         | 89.36                                                         | 100.00                                                        | 100% Harvested In All States.                                                                                                                       |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_28",
+    "chunk_text": "| b                                                             | Groundnut *                                                   | 3.69                                                          | 3.52                                                          | 98.00                                                         | 100% harvested in Bihar &Andhra Pradesh, Kerala, Karnataka , Odisha, Telangana& West Bengal . Tamil Nadu (90%) has already been harvested.          |\n| c                                                             | Safflower                                                     | 0.72                                                          | 0.89                                                          | 100.00                                                        | 100% harvested in all states except Telangana (80%).                                                                                                |",
+    "detected_crop": "Groundnut",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| B                                                             | Groundnut *                                                   | 3.69                                                          | 3.52                                                          | 98.00                                                         | 100% Harvested In Bihar &Andhra Pradesh, Kerala, Karnataka , Odisha, Telangana& West Bengal . Tamil Nadu (90%) Has Already Been Harvested.          |\n| C                                                             | Safflower                                                     | 0.72                                                          | 0.89                                                          | 100.00                                                        | 100% Harvested In All States Except Telangana (80%).                                                                                                |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_29",
+    "chunk_text": "| d                                                             | Sunflower *                                                   | 0.79                                                          | 0.70                                                          | 100.00                                                        | 100% harvested in all states.                                                                                                                       |",
+    "detected_crop": "Sunflower",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| D                                                             | Sunflower *                                                   | 0.79                                                          | 0.70                                                          | 100.00                                                        | 100% Harvested In All States.                                                                                                                       |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_30",
+    "chunk_text": "| e                                                             | Sesamum *                                                     | 0.48                                                          | 0.33                                                          | 93.68                                                         | 100% harvested in all states expect Tamil Nadu (62%).                                                                                               |\n| f                                                             | Linseed                                                       | 1.93                                                          | 1.99                                                          | 100.00                                                        | 100% harvested in all states.                                                                                                                       |",
+    "detected_crop": "Sesame (Sesamum)",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| E                                                             | Sesamum *                                                     | 0.48                                                          | 0.33                                                          | 93.68                                                         | 100% Harvested In All States Expect Tamil Nadu (62%).                                                                                               |\n| F                                                             | Linseed                                                       | 1.93                                                          | 1.99                                                          | 100.00                                                        | 100% Harvested In All States.                                                                                                                       |"
+  },
+  {
+    "chunk_id": "Minutes of the meeting of CWWG as on 18.05.2026.pdf_31",
+    "chunk_text": "| g                                                             | Other Oilseeds                                                | 0.00                                                          | 0.40                                                          | 100.00                                                        | Harvesting is going on in afull swing.                                                                                                              |\n|                                                               | Total Crops                                                   | 637.81                                                        | 680.18                                                        | 96.86                                                         |                                                                                                                                                     |\nSource: Crops Division, DoA&amp;FW.",
+    "detected_crop": "Oilseeds",
+    "heading": "Rabi Crops - Area coverage",
+    "page_number": 1,
+    "source_pdf": "Minutes of the meeting of CWWG as on 18.05.2026.pdf",
+    "state_context": "| G                                                             | Other Oilseeds                                                | 0.00                                                          | 0.40                                                          | 100.00                                                        | Harvesting Is Going On In Afull Swing.                                                                                                              |\n|                                                               | Total Crops                                                   | 637.81                                                        | 680.18                                                        | 96.86                                                         |                                                                                                                                                     |\nSource: Crops Division, Doa&Amp;Fw."
+  }
+]

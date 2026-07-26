@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Odisha",
+  "week": "2026-06-01",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Above-Normal (+1.6 To +3.0°C) To Appreciably Above-Normal (+3.1 To +5.0°C)  Maximum Temperatures Are Likely Over Some Parts Of East India (Bihar, Gangetic West Bengal &Amp; Odisha). Nearnormal  Weekly  Maximum  Temperatures  (-1.5  To  +1.5°C)  Are  Likely  Across  The  Rest  Of  The  Country During The Week",
+      "evidence": " Above-normal (+1.6 to +3.0°C) to appreciably above-normal (+3.1 to +5.0°C)  maximum temperatures are likely over some parts of East India (Bihar, Gangetic West Bengal &amp; Odisha). Nearnormal  weekly  maximum  temperatures  (-1.5  to  +1.5°C)  are  likely  across  the  rest  of  the  country during the week."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Above-normal (+1.6 to +3.0°C) to appreciably above-normal (+3.1 to +5.0°C)  maximum temperatures are likely over some parts of East India (Bihar, Gangetic West Bengal &amp; Odisha). Nearnormal  weekly  maximum  temperatures  (-1.5  to  +1.5°C)  are  likely  across  the  rest  of  the  country during the week."
+  ],
+  "confidence": 0.9
+}

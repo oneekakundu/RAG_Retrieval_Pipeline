@@ -1,0 +1,24 @@
+{
+  "crop": "Oilseeds",
+  "state": "Karnataka",
+  "week": "2026-02-16",
+  "observation_type": "Area Coverage",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [
+    {
+      "value": " Rice: About 12.80 lakh ha area coverage under Summer Rice has been reported as compared to 13.16 lakh ha during the corresponding period of last year.\n-\nPulses: About 0.58 lakh ha area coverage has been reported compared to 0.50 lakh ha during the corresponding period of last year.\n-\nOilseeds: About  0.99  lakh  ha  area  coverage  has  been  reported  compared  to  0.59  lakh  ha during the corresponding period of last year.",
+      "evidence": " Rice: About 12.80 lakh ha area coverage under Summer Rice has been reported as compared to 13.16 lakh ha during the corresponding period of last year.\n-\nPulses: About 0.58 lakh ha area coverage has been reported compared to 0.50 lakh ha during the corresponding period of last year.\n-\nOilseeds: About  0.99  lakh  ha  area  coverage  has  been  reported  compared  to  0.59  lakh  ha during the corresponding period of last year."
+    }
+  ],
+  "evidence": [
+    " Rice: About 12.80 lakh ha area coverage under Summer Rice has been reported as compared to 13.16 lakh ha during the corresponding period of last year.\n-\nPulses: About 0.58 lakh ha area coverage has been reported compared to 0.50 lakh ha during the corresponding period of last year.\n-\nOilseeds: About  0.99  lakh  ha  area  coverage  has  been  reported  compared  to  0.59  lakh  ha during the corresponding period of last year."
+  ],
+  "confidence": 0.7
+}

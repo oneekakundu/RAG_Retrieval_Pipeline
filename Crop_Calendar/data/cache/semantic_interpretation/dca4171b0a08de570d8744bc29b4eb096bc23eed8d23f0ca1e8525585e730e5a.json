@@ -1,0 +1,30 @@
+{
+  "crop": "Sorghum (Jowar)",
+  "state": "Tamil Nadu",
+  "week": "2026-05-11",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Sorghum (Jowar) is 100% harvested in Tamil Nadu."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Sorghum (Jowar) is 100% harvested in Tamil Nadu.",
+    "evidence": "Sorghum (Jowar) is 100% harvested in Tamil Nadu."
+  },
+  "pests": [
+    {
+      "value": "Sorghum (Jowar) Is 100% Harvested In Tamil Nadu",
+      "evidence": "Sorghum (Jowar) is 100% harvested in Tamil Nadu."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Sorghum (Jowar) is 100% harvested in Tamil Nadu."
+  ],
+  "confidence": 0.9
+}

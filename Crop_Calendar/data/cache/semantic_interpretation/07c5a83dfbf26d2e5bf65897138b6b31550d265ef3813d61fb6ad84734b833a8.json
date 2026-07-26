@@ -1,0 +1,30 @@
+{
+  "crop": "Green Gram (Moong)",
+  "state": "Tamil Nadu",
+  "week": "2026-04-13",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Green Gram (Moong) in Tamil Nadu has 90% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Green Gram (Moong) in Tamil Nadu has 90% harvested.",
+    "evidence": "Green Gram (Moong) in Tamil Nadu has 90% harvested."
+  },
+  "pests": [
+    {
+      "value": "Green Gram (Moong) In Tamil Nadu Has 90% Harvested",
+      "evidence": "Green Gram (Moong) in Tamil Nadu has 90% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Green Gram (Moong) in Tamil Nadu has 90% harvested."
+  ],
+  "confidence": 0.9
+}

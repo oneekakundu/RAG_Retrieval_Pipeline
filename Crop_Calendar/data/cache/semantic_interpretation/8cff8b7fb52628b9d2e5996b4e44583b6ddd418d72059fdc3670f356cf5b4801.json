@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Odisha",
+  "week": "2026-04-06",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Maximum Temperature Is Likely To Be Above Normal In North East India, Many Parts Of Bihar, Many Parts Of J&Amp;K And In Coastal Regions Of Odisha, Coastal Andhra Pradesh And Kerala",
+      "evidence": " Maximum Temperature is likely to be above normal in North East India, many parts of Bihar, many parts of J&amp;K and in coastal regions of Odisha, Coastal Andhra Pradesh and Kerala."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Maximum Temperature is likely to be above normal in North East India, many parts of Bihar, many parts of J&amp;K and in coastal regions of Odisha, Coastal Andhra Pradesh and Kerala."
+  ],
+  "confidence": 0.9
+}

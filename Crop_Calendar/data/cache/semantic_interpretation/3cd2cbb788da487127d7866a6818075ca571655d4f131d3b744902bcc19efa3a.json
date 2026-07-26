@@ -1,0 +1,30 @@
+{
+  "crop": "Groundnut",
+  "state": "Karnataka",
+  "week": "2026-03-30",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Groundnut in Karnataka has 12% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Groundnut in Karnataka has 12% harvested.",
+    "evidence": "Groundnut in Karnataka has 12% harvested."
+  },
+  "pests": [
+    {
+      "value": "Groundnut In Karnataka Has 12% Harvested",
+      "evidence": "Groundnut in Karnataka has 12% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Groundnut in Karnataka has 12% harvested."
+  ],
+  "confidence": 0.9
+}

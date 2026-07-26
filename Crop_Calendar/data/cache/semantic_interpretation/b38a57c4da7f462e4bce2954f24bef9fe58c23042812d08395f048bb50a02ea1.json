@@ -1,0 +1,30 @@
+{
+  "crop": "Wheat",
+  "state": "Punjab",
+  "week": "2026-05-25",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Wheat is 100% harvested in Punjab."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Wheat is 100% harvested in Punjab.",
+    "evidence": "Wheat is 100% harvested in Punjab."
+  },
+  "pests": [
+    {
+      "value": "Wheat Is 100% Harvested In Punjab",
+      "evidence": "Wheat is 100% harvested in Punjab."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Wheat is 100% harvested in Punjab."
+  ],
+  "confidence": 0.9
+}

@@ -1,0 +1,30 @@
+{
+  "crop": "Groundnut",
+  "state": "Telangana",
+  "week": "2026-05-04",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Groundnut is 100% harvested in Telangana."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Groundnut is 100% harvested in Telangana.",
+    "evidence": "Groundnut is 100% harvested in Telangana."
+  },
+  "pests": [
+    {
+      "value": "Groundnut Is 100% Harvested In Telangana",
+      "evidence": "Groundnut is 100% harvested in Telangana."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Groundnut is 100% harvested in Telangana."
+  ],
+  "confidence": 0.9
+}

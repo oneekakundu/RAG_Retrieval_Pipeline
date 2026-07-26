@@ -1,0 +1,30 @@
+{
+  "crop": "Wheat",
+  "state": "Bihar",
+  "week": "2026-04-20",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Wheat in Bihar has 55% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Wheat in Bihar has 55% harvested.",
+    "evidence": "Wheat in Bihar has 55% harvested."
+  },
+  "pests": [
+    {
+      "value": "Wheat In Bihar Has 55% Harvested",
+      "evidence": "Wheat in Bihar has 55% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Wheat in Bihar has 55% harvested."
+  ],
+  "confidence": 0.9
+}

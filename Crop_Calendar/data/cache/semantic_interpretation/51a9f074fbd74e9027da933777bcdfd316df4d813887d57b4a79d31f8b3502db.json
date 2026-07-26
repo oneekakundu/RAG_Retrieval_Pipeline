@@ -1,0 +1,30 @@
+{
+  "crop": "Rice",
+  "state": "Tripura",
+  "week": "2026-05-04",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Rice in Tripura has 80% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Rice in Tripura has 80% harvested.",
+    "evidence": "Rice in Tripura has 80% harvested."
+  },
+  "pests": [
+    {
+      "value": "Rice In Tripura Has 80% Harvested",
+      "evidence": "Rice in Tripura has 80% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Rice in Tripura has 80% harvested."
+  ],
+  "confidence": 0.9
+}

@@ -1,0 +1,24 @@
+{
+  "crop": "Cotton",
+  "state": "Uttarakhand",
+  "week": "2025-08-18",
+  "observation_type": "Area Coverage",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [
+    {
+      "value": "Rice : About 398.59 lakh ha (98.9% of Normal) area coverage under Kharif Rice as compared to 362.92 lakh ha during the corresponding period of last year.\n- Moong : About 33.70 lakh ha (94.4% of Normal) area coverage under Moong as compared to 32.76 lakh ha during the corresponding period of last year.\n- Soybean :  About  119.82  lakh  ha  (94.2%  of  Normal)  area  coverage under  Soybean  has  been reported as compared to 124.59 lakh ha during the corresponding period of last year.\n- Sugarcane :  About  57.31  lakh  ha  area  coverage  under  Sugarcane  has  been  reported  as compared to 55.68 lakh ha during the corresponding period of last year.\n- Cotton : About 107.87 lakh ha (84.1% of Normal) area coverage has been reported compared to 111.11 lakh ha during the corresponding period of last year.",
+      "evidence": "Rice : About 398.59 lakh ha (98.9% of Normal) area coverage under Kharif Rice as compared to 362.92 lakh ha during the corresponding period of last year.\n- Moong : About 33.70 lakh ha (94.4% of Normal) area coverage under Moong as compared to 32.76 lakh ha during the corresponding period of last year.\n- Soybean :  About  119.82  lakh  ha  (94.2%  of  Normal)  area  coverage under  Soybean  has  been reported as compared to 124.59 lakh ha during the corresponding period of last year.\n- Sugarcane :  About  57.31  lakh  ha  area  coverage  under  Sugarcane  has  been  reported  as compared to 55.68 lakh ha during the corresponding period of last year.\n- Cotton : About 107.87 lakh ha (84.1% of Normal) area coverage has been reported compared to 111.11 lakh ha during the corresponding period of last year."
+    }
+  ],
+  "evidence": [
+    "Rice : About 398.59 lakh ha (98.9% of Normal) area coverage under Kharif Rice as compared to 362.92 lakh ha during the corresponding period of last year.\n- Moong : About 33.70 lakh ha (94.4% of Normal) area coverage under Moong as compared to 32.76 lakh ha during the corresponding period of last year.\n- Soybean :  About  119.82  lakh  ha  (94.2%  of  Normal)  area  coverage under  Soybean  has  been reported as compared to 124.59 lakh ha during the corresponding period of last year.\n- Sugarcane :  About  57.31  lakh  ha  area  coverage  under  Sugarcane  has  been  reported  as compared to 55.68 lakh ha during the corresponding period of last year.\n- Cotton : About 107.87 lakh ha (84.1% of Normal) area coverage has been reported compared to 111.11 lakh ha during the corresponding period of last year."
+  ],
+  "confidence": 0.7
+}

@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Odisha",
+  "week": "2025-12-15",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Cold  Wave  Conditions  Are  Likely  To  Prevail  In  Isolated  Pockets  Over  Interior  Odisha, Adjoining Chhattisgarh, East Madhya Pradesh, Vidarbha, And Telangana During Some Days Of The Week",
+      "evidence": "Cold  wave  conditions  are  likely  to  prevail  in  isolated  pockets  over  interior  Odisha, adjoining Chhattisgarh, East Madhya Pradesh, Vidarbha, and Telangana during some days of the week."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Cold  wave  conditions  are  likely  to  prevail  in  isolated  pockets  over  interior  Odisha, adjoining Chhattisgarh, East Madhya Pradesh, Vidarbha, and Telangana during some days of the week."
+  ],
+  "confidence": 0.9
+}

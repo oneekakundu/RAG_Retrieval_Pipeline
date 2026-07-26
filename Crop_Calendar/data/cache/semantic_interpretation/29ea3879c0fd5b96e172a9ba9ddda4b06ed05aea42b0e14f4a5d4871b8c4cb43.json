@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Maharashtra",
+  "week": "2025-10-06",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Conditions Are Favourable For Further Withdrawal Of Southwest Monsoon From Some More Parts Of Madhya Pradesh And Uttar Pradesh And Some Parts Of Maharashtra During Next 45 Days",
+      "evidence": "- Conditions are favourable for further withdrawal of southwest monsoon from some more parts of Madhya Pradesh and Uttar Pradesh and some parts of Maharashtra during next 45 days."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "- Conditions are favourable for further withdrawal of southwest monsoon from some more parts of Madhya Pradesh and Uttar Pradesh and some parts of Maharashtra during next 45 days."
+  ],
+  "confidence": 0.9
+}

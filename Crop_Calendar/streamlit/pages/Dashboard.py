@@ -30,6 +30,34 @@ with kpi4:
 
 st.divider()
 
+# Instant Knowledge Base Summary View
+summary_path = config.DATA_DIR / "crop_knowledge" / "knowledge_summary.json"
+if not summary_path.exists():
+    summary_path = config.DATA_DIR / "knowledge_summary.json"
+
+if summary_path.exists():
+    try:
+        import json
+        with open(summary_path, "r", encoding="utf-8") as f:
+            summary_data = json.load(f)
+        
+        st.header("⚡ Master Crop Knowledge Overview (`knowledge_summary.json`)")
+        st.caption("Pre-aggregated lightweight summary loaded instantly without scanning crop files.")
+        
+        summary_rows = []
+        for cname, cinfo in summary_data.items():
+            summary_rows.append({
+                "Crop": cname,
+                "Total Observations": cinfo.get("observations", 0),
+                "States Count": cinfo.get("states", 0),
+                "First Report Date": cinfo.get("first_report", "N/A"),
+                "Latest Report Date": cinfo.get("latest_report", "N/A")
+            })
+        
+        st.dataframe(pd.DataFrame(summary_rows), use_container_width=True)
+    except Exception as e:
+        pass
+
 col1, col2 = st.columns(2)
 
 with col1:

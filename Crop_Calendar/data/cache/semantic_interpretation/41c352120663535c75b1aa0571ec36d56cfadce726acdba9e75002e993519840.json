@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Punjab",
+  "week": "2026-03-02",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "The Deeper Groundwater Level In The States Like Western Rajasthan, Punjab, Haryana And Chandigarh  During  Post-Monsoon  2025  Has  Been  Significantly  Influenced  By  The  Over Extraction Of Groundwater Compared To The Recharge During The Monsoon Period",
+      "evidence": "The deeper groundwater level in the states like Western Rajasthan, Punjab, Haryana and Chandigarh  during  Post-monsoon  2025  has  been  significantly  influenced  by  the  over extraction of groundwater compared to the recharge during the monsoon period."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "The deeper groundwater level in the states like Western Rajasthan, Punjab, Haryana and Chandigarh  during  Post-monsoon  2025  has  been  significantly  influenced  by  the  over extraction of groundwater compared to the recharge during the monsoon period."
+  ],
+  "confidence": 0.9
+}

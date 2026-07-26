@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Maharashtra",
+  "week": "2026-06-15",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Hot  And  Humid  Weather  Conditions  Likely  To  Prevail  Over  Konkan  &Amp;  Goa  During  11Th-13Th  June; Madhya Maharashtra During 11Th-12Th June",
+      "evidence": " Hot  and  humid  weather  conditions  likely  to  prevail  over  Konkan  &amp;  Goa  during  11th-13th  June; Madhya Maharashtra during 11th-12th June."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Hot  and  humid  weather  conditions  likely  to  prevail  over  Konkan  &amp;  Goa  during  11th-13th  June; Madhya Maharashtra during 11th-12th June."
+  ],
+  "confidence": 0.9
+}

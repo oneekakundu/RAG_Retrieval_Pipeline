@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Odisha",
+  "week": "2025-10-13",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Conditions Are Favourable For Further Withdrawal Of Southwest Monsoon From Remaining Parts  Of  Maharashtra,  Madhya  Pradesh,  Uttar  Pradesh  And  Bihar;  Entire  Jharkhand  And Some  Parts  Of  West  Bengal,  Sikkim,  Chhattisgarh,  Odisha  &Amp;  Telangana  During  Next  24 Hours And From North East India During Subsequent 1-2 Days",
+      "evidence": "- Conditions are favourable for further withdrawal of southwest monsoon from remaining parts  of  Maharashtra,  Madhya  Pradesh,  Uttar  Pradesh  and  Bihar;  entire  Jharkhand  and some  parts  of  West  Bengal,  Sikkim,  Chhattisgarh,  Odisha  &amp;  Telangana  during  next  24 hours and from north east India during subsequent 1-2 days."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "- Conditions are favourable for further withdrawal of southwest monsoon from remaining parts  of  Maharashtra,  Madhya  Pradesh,  Uttar  Pradesh  and  Bihar;  entire  Jharkhand  and some  parts  of  West  Bengal,  Sikkim,  Chhattisgarh,  Odisha  &amp;  Telangana  during  next  24 hours and from north east India during subsequent 1-2 days."
+  ],
+  "confidence": 0.9
+}

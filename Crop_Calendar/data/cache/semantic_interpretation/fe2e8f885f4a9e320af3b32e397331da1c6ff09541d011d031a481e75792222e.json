@@ -1,0 +1,30 @@
+{
+  "crop": "Sesame (Sesamum)",
+  "state": "Maharashtra",
+  "week": "2026-04-20",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Sesame (Sesamum) in Maharashtra has 90% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Sesame (Sesamum) in Maharashtra has 90% harvested.",
+    "evidence": "Sesame (Sesamum) in Maharashtra has 90% harvested."
+  },
+  "pests": [
+    {
+      "value": "Sesame (Sesamum) In Maharashtra Has 90% Harvested",
+      "evidence": "Sesame (Sesamum) in Maharashtra has 90% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Sesame (Sesamum) in Maharashtra has 90% harvested."
+  ],
+  "confidence": 0.9
+}

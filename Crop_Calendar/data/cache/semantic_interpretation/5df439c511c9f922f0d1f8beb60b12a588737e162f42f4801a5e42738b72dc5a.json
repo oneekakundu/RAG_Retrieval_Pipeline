@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Punjab",
+  "week": "2026-01-27",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Cold Wave Conditions Likely In Isolated Pockets Over Himachal Pradesh During 29Th-31St; Punjab, Haryana, Chandigarh During 28Th-31St January",
+      "evidence": "Cold wave conditions likely in isolated pockets over Himachal Pradesh during 29th-31st; Punjab, Haryana, Chandigarh during 28th-31st January."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Cold wave conditions likely in isolated pockets over Himachal Pradesh during 29th-31st; Punjab, Haryana, Chandigarh during 28th-31st January."
+  ],
+  "confidence": 0.9
+}

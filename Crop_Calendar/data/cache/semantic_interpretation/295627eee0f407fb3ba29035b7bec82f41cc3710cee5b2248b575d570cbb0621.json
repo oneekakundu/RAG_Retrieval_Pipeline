@@ -1,0 +1,24 @@
+{
+  "crop": "Cotton",
+  "state": "Odisha",
+  "week": "2025-08-11",
+  "observation_type": "Area Coverage",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [
+    {
+      "value": " Rice : About 364.80 lakh ha (90.5% of Normal) area coverage under Kharif Rice as compared to 325.36 lakh ha during the corresponding period of last year.\n-\nSoybean :  About  119.51  lakh  ha  (93.7  %  of  Normal)  area  coverage  under  Soyabean  has  been reported as compared to 124.24 lakh ha during the corresponding period of last year.\n-\nSugarcane : About 57.31 lakh ha area coverage under Sugarcane has been reported as compared to 55.68 lakh ha during the corresponding period of last year.\n-\nCotton : About 106.96 lakh ha (82.6% of Normal) area coverage has been reported compared to 110.49 lakh ha during the corresponding period of last year.",
+      "evidence": " Rice : About 364.80 lakh ha (90.5% of Normal) area coverage under Kharif Rice as compared to 325.36 lakh ha during the corresponding period of last year.\n-\nSoybean :  About  119.51  lakh  ha  (93.7  %  of  Normal)  area  coverage  under  Soyabean  has  been reported as compared to 124.24 lakh ha during the corresponding period of last year.\n-\nSugarcane : About 57.31 lakh ha area coverage under Sugarcane has been reported as compared to 55.68 lakh ha during the corresponding period of last year.\n-\nCotton : About 106.96 lakh ha (82.6% of Normal) area coverage has been reported compared to 110.49 lakh ha during the corresponding period of last year."
+    }
+  ],
+  "evidence": [
+    " Rice : About 364.80 lakh ha (90.5% of Normal) area coverage under Kharif Rice as compared to 325.36 lakh ha during the corresponding period of last year.\n-\nSoybean :  About  119.51  lakh  ha  (93.7  %  of  Normal)  area  coverage  under  Soyabean  has  been reported as compared to 124.24 lakh ha during the corresponding period of last year.\n-\nSugarcane : About 57.31 lakh ha area coverage under Sugarcane has been reported as compared to 55.68 lakh ha during the corresponding period of last year.\n-\nCotton : About 106.96 lakh ha (82.6% of Normal) area coverage has been reported compared to 110.49 lakh ha during the corresponding period of last year."
+  ],
+  "confidence": 0.7
+}

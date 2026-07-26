@@ -1,0 +1,30 @@
+{
+  "crop": "Mustard",
+  "state": "Andhra Pradesh",
+  "week": "2026-04-06",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Mustard in Andhra Pradesh has 62% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Mustard in Andhra Pradesh has 62% harvested.",
+    "evidence": "Mustard in Andhra Pradesh has 62% harvested."
+  },
+  "pests": [
+    {
+      "value": "Mustard In Andhra Pradesh Has 62% Harvested",
+      "evidence": "Mustard in Andhra Pradesh has 62% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Mustard in Andhra Pradesh has 62% harvested."
+  ],
+  "confidence": 0.9
+}

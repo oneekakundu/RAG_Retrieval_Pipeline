@@ -1,0 +1,30 @@
+{
+  "crop": "Mustard",
+  "state": "Rajasthan",
+  "week": "2026-04-06",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Mustard is 100% harvested in Rajasthan."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Mustard is 100% harvested in Rajasthan.",
+    "evidence": "Mustard is 100% harvested in Rajasthan."
+  },
+  "pests": [
+    {
+      "value": "Mustard Is 100% Harvested In Rajasthan",
+      "evidence": "Mustard is 100% harvested in Rajasthan."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Mustard is 100% harvested in Rajasthan."
+  ],
+  "confidence": 0.9
+}

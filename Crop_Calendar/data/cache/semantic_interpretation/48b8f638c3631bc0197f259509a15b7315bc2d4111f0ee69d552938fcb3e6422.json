@@ -1,0 +1,30 @@
+{
+  "crop": "Rice",
+  "state": "Tamil Nadu",
+  "week": "2026-04-13",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Rice in Tamil Nadu has 86% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Rice in Tamil Nadu has 86% harvested.",
+    "evidence": "Rice in Tamil Nadu has 86% harvested."
+  },
+  "pests": [
+    {
+      "value": "Rice In Tamil Nadu Has 86% Harvested",
+      "evidence": "Rice in Tamil Nadu has 86% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Rice in Tamil Nadu has 86% harvested."
+  ],
+  "confidence": 0.9
+}

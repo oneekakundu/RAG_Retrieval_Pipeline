@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Gujarat",
+  "week": "2025-09-22",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Conditions Are Becoming Favourable For Further Withdrawal Of Southwest Monsoon From Some  More  Parts  Of  Gujarat,  Rajasthan,  Haryana  And  Punjab;  Some  Parts  Of  Himachal Pradesh, Jammu &Amp; Kashmir And Uttar Pradesh During Next 24 Hours",
+      "evidence": "- Conditions are becoming favourable for further withdrawal of southwest monsoon from some  more  parts  of  Gujarat,  Rajasthan,  Haryana  and  Punjab;  some  parts  of  Himachal Pradesh, Jammu &amp; Kashmir and Uttar Pradesh during next 24 hours."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "- Conditions are becoming favourable for further withdrawal of southwest monsoon from some  more  parts  of  Gujarat,  Rajasthan,  Haryana  and  Punjab;  some  parts  of  Himachal Pradesh, Jammu &amp; Kashmir and Uttar Pradesh during next 24 hours."
+  ],
+  "confidence": 0.9
+}

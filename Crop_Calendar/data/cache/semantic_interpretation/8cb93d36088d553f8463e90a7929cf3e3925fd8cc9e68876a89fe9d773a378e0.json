@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Punjab",
+  "week": "2026-03-02",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "The  Groundwater  Drought  Indices  Indicate  That  In Post-Monsoon  2025 ,  Groundwater Conditions  Across  India  Remained  Largely  Stable,  With 91%  Of  Monitoring  Stations Showing No  Deficit .  However,  Localized  Deficits  Were  Observed  In  Several  Regions  Notably In Meghalaya, Nagaland, And The Dadar Nagar Havili &Amp; Daman &Amp; Diu",
+      "evidence": "The  Groundwater  Drought  Indices  indicate  that  in Post-monsoon  2025 ,  groundwater conditions  across  India  remained  largely  stable,  with 91%  of  monitoring  stations showing no  deficit .  However,  localized  deficits  were  observed  in  several  regions  notably in Meghalaya, Nagaland, and the Dadar Nagar Havili &amp; Daman &amp; Diu."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "The  Groundwater  Drought  Indices  indicate  that  in Post-monsoon  2025 ,  groundwater conditions  across  India  remained  largely  stable,  with 91%  of  monitoring  stations showing no  deficit .  However,  localized  deficits  were  observed  in  several  regions  notably in Meghalaya, Nagaland, and the Dadar Nagar Havili &amp; Daman &amp; Diu."
+  ],
+  "confidence": 0.9
+}

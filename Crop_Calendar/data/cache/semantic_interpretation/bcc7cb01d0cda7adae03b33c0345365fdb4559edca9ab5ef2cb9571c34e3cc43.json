@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Karnataka",
+  "week": "2026-03-02",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Minimum  Temperature  Is  Likely  To  Be  Above  Normal  In  Many  Parts  Of  Nw  India,  Bihar, Gujarat  State,  Some  Parts  Of  Madhya  Maharashtra,  Many  Parts  Of  M.P.,  South  Karnataka, Some  Parts  Of  Tamil  Nadu,  Rayalseema,  Southern  Parts  Of  Cap  And  Ne  India.  Tmin  Is Likely  To  Be  Below  Normal  In  Many  Parts  Of  East  India,  Many  Parts  Of  Maharashtra  And Kerala",
+      "evidence": "Minimum  temperature  is  likely  to  be  above  normal  in  many  parts  of  NW  India,  Bihar, Gujarat  state,  some  parts  of  Madhya  Maharashtra,  many  parts  of  M.P.,  South  Karnataka, some  parts  of  Tamil  Nadu,  Rayalseema,  Southern  parts  of  CAP  and  NE  India.  TMIN  is likely  to  be  below  normal  in  many  parts  of  East  India,  many  parts  of  Maharashtra  and Kerala."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Minimum  temperature  is  likely  to  be  above  normal  in  many  parts  of  NW  India,  Bihar, Gujarat  state,  some  parts  of  Madhya  Maharashtra,  many  parts  of  M.P.,  South  Karnataka, some  parts  of  Tamil  Nadu,  Rayalseema,  Southern  parts  of  CAP  and  NE  India.  TMIN  is likely  to  be  below  normal  in  many  parts  of  East  India,  many  parts  of  Maharashtra  and Kerala."
+  ],
+  "confidence": 0.9
+}

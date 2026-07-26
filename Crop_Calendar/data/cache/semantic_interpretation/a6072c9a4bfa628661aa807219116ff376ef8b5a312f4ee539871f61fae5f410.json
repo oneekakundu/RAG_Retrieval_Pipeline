@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Odisha",
+  "week": "2026-04-06",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Appreciably  Above  Normal  (+3.1  To  +5.0°C)  Maximum  Temperatures  Are  Likely  Over  Some  Parts  Of Interior &Amp; Coastal Odisha And Adjoining Coastal Andhra Pradesh; Normal To Above-Normal Maximum Temperatures ((+1.6 To +3.0°C) Are Likely Over Some Parts Of The East, South And Western Parts Of India (Gangetic West Bengal, Odisha, Coastal Andhra Pradesh, Tamil Nadu, Southern Parts Of Kerala, Coastal  Regions  Of  Gujarat  State,  Konkan,  Goa  And  Coastal  Karnataka).  Normal  To  Below  Normal Weekly Maximum Temperatures Are Likely Across The Rest Of The Country",
+      "evidence": "Appreciably  above  normal  (+3.1  to  +5.0°C)  maximum  temperatures  are  likely  over  some  parts  of interior &amp; coastal Odisha and adjoining Coastal Andhra Pradesh; normal to above-normal maximum temperatures ((+1.6 to +3.0°C) are likely over some parts of the East, South and Western parts of India (Gangetic West Bengal, Odisha, Coastal Andhra Pradesh, Tamil Nadu, southern parts of Kerala, coastal  regions  of  Gujarat  state,  Konkan,  Goa  and  coastal  Karnataka).  Normal  to  below  normal weekly maximum temperatures are likely across the rest of the country."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Appreciably  above  normal  (+3.1  to  +5.0°C)  maximum  temperatures  are  likely  over  some  parts  of interior &amp; coastal Odisha and adjoining Coastal Andhra Pradesh; normal to above-normal maximum temperatures ((+1.6 to +3.0°C) are likely over some parts of the East, South and Western parts of India (Gangetic West Bengal, Odisha, Coastal Andhra Pradesh, Tamil Nadu, southern parts of Kerala, coastal  regions  of  Gujarat  state,  Konkan,  Goa  and  coastal  Karnataka).  Normal  to  below  normal weekly maximum temperatures are likely across the rest of the country."
+  ],
+  "confidence": 0.9
+}

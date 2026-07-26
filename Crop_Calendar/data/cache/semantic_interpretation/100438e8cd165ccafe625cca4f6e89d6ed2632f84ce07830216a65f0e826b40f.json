@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Andhra Pradesh",
+  "week": "2026-06-15",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Low Probability Of Heatwave Conditions Very Likely In Isolated Pockets Over Coastal Andhra Pradesh &Amp; Yanam During 11Th-12Th June; Telangana During 11Th-13Th June; Vidarbha During 11Th-12Th June",
+      "evidence": "Low probability of Heatwave conditions very likely in isolated pockets over Coastal Andhra Pradesh &amp; Yanam during 11th-12th June; Telangana during 11th-13th June; Vidarbha during 11th-12th June."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Low probability of Heatwave conditions very likely in isolated pockets over Coastal Andhra Pradesh &amp; Yanam during 11th-12th June; Telangana during 11th-13th June; Vidarbha during 11th-12th June."
+  ],
+  "confidence": 0.9
+}

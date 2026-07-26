@@ -1,0 +1,30 @@
+{
+  "crop": "Maize",
+  "state": "Bihar",
+  "week": "2026-04-13",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Maize in Bihar has 45% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Maize in Bihar has 45% harvested.",
+    "evidence": "Maize in Bihar has 45% harvested."
+  },
+  "pests": [
+    {
+      "value": "Maize In Bihar Has 45% Harvested",
+      "evidence": "Maize in Bihar has 45% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Maize in Bihar has 45% harvested."
+  ],
+  "confidence": 0.9
+}

@@ -1,0 +1,30 @@
+{
+  "crop": "Wheat",
+  "state": "Uttar Pradesh",
+  "week": "2026-05-25",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Wheat is 100% harvested in Uttar Pradesh."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Wheat is 100% harvested in Uttar Pradesh.",
+    "evidence": "Wheat is 100% harvested in Uttar Pradesh."
+  },
+  "pests": [
+    {
+      "value": "Wheat Is 100% Harvested In Uttar Pradesh",
+      "evidence": "Wheat is 100% harvested in Uttar Pradesh."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Wheat is 100% harvested in Uttar Pradesh."
+  ],
+  "confidence": 0.9
+}

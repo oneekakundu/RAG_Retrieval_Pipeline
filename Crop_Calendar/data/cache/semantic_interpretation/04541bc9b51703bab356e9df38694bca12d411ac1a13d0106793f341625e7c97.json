@@ -1,0 +1,25 @@
+{
+  "crop": "Green Gram (Moong)",
+  "state": "Telangana",
+  "week": "2026-04-13",
+  "observation_type": "Harvest Progress",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "| 3        | Pulses                     |              140.42 |                         139.55 |              91.00 | Overall around 91% area has been harvested mainly in Gram (92%), Lentil (82%), Urdbean (94%), Moongbean (71%), etc has already been harvested.                                                                      |"
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "| 3        | Pulses                     |              140.42 |                         139.55 |              91.00 | Overall around 91% area has been harvested mainly in Gram (92%), Lentil (82%), Urdbean (94%), Moongbean (71%), etc has already been harvested.                                                                      |",
+    "evidence": "| 3        | Pulses                     |              140.42 |                         139.55 |              91.00 | Overall around 91% area has been harvested mainly in Gram (92%), Lentil (82%), Urdbean (94%), Moongbean (71%), etc has already been harvested.                                                                      |"
+  },
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "| 3        | Pulses                     |              140.42 |                         139.55 |              91.00 | Overall around 91% area has been harvested mainly in Gram (92%), Lentil (82%), Urdbean (94%), Moongbean (71%), etc has already been harvested.                                                                      |"
+  ],
+  "confidence": 0.9
+}

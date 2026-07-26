@@ -1,0 +1,30 @@
+{
+  "crop": "Green Gram (Moong)",
+  "state": "Bihar",
+  "week": "2026-03-30",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Green Gram (Moong) in Bihar has 40% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Green Gram (Moong) in Bihar has 40% harvested.",
+    "evidence": "Green Gram (Moong) in Bihar has 40% harvested."
+  },
+  "pests": [
+    {
+      "value": "Green Gram (Moong) In Bihar Has 40% Harvested",
+      "evidence": "Green Gram (Moong) in Bihar has 40% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Green Gram (Moong) in Bihar has 40% harvested."
+  ],
+  "confidence": 0.9
+}

@@ -1,0 +1,30 @@
+{
+  "crop": "Wheat",
+  "state": "Madhya Pradesh",
+  "week": "2026-04-06",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Wheat in Madhya Pradesh has 40% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Wheat in Madhya Pradesh has 40% harvested.",
+    "evidence": "Wheat in Madhya Pradesh has 40% harvested."
+  },
+  "pests": [
+    {
+      "value": "Wheat In Madhya Pradesh Has 40% Harvested",
+      "evidence": "Wheat in Madhya Pradesh has 40% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Wheat in Madhya Pradesh has 40% harvested."
+  ],
+  "confidence": 0.9
+}

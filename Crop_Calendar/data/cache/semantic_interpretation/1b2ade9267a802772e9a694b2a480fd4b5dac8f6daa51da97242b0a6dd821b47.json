@@ -1,0 +1,24 @@
+{
+  "crop": "Rice",
+  "state": "All India",
+  "week": "2026-05-04",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Fertilizers: The Fertilizer Supply Remains Stable Across All Products.\n4. Pests &Amp; Diseases : The Overall Intensity Of Pests And Diseases Remained Below The Economic Threshold Level",
+      "evidence": "b) Fertilizers: The fertilizer supply remains stable across all products.\n4. Pests &amp; Diseases : The overall intensity of pests and diseases remained below the Economic Threshold Level."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "b) Fertilizers: The fertilizer supply remains stable across all products.\n4. Pests &amp; Diseases : The overall intensity of pests and diseases remained below the Economic Threshold Level."
+  ],
+  "confidence": 0.9
+}

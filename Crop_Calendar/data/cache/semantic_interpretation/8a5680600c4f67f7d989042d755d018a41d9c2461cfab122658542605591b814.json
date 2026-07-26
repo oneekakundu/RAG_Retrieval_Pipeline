@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Karnataka",
+  "week": "2026-01-27",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "West  Madhya  Pradesh,   Many  Parts  Of  Madhya  Maharashtra,  Ne  India  And Some  Parts  Of  South Karnataka",
+      "evidence": "West  Madhya  Pradesh,   many  parts  of  Madhya  Maharashtra,  NE  India  and some  parts  of  South Karnataka ."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "West  Madhya  Pradesh,   many  parts  of  Madhya  Maharashtra,  NE  India  and some  parts  of  South Karnataka ."
+  ],
+  "confidence": 0.9
+}

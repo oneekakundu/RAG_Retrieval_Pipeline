@@ -1,0 +1,133 @@
+{
+  "crop": "Black Gram (Urad)",
+  "year": "2026",
+  "metadata": {
+    "generated_at": "2026-07-23T21:17:12.064080",
+    "total_observations": 4,
+    "pipeline_version": "2.1"
+  },
+  "statistics": {
+    "states_observed": [
+      "All India"
+    ],
+    "growth_stages": [],
+    "common_pests": [],
+    "common_diseases": [],
+    "first_appearance": "2026-02-02",
+    "latest_appearance": "2026-03-09"
+  },
+  "observations": [
+    {
+      "id": 538,
+      "date": "2026-03-09",
+      "report_week": "2026-03-09",
+      "state": "All India",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": "Normal",
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "recommendation": null,
+      "advisory": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "| All India Weekly Average Mandi Prices                 | All India Weekly Average Mandi Prices    | All India Weekly Average Mandi Prices                                     | All India Weekly Average Mandi Prices                        |\n|-------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------|\n| Increasing Trend                                      | Increasing Trend                         | Decreasing Trend                                                          | Decreasing Trend                                             |\n| Commodities                                           | % Variation over last Week               | Commodities                                                               | % Variation over last Week                                   |\n| Maize Masur Urad Mustard Soyabean Onion Potato Tomato | 0.82 3.06 10.68 2.55 3.19 0.14 2.42 4.41 | Wheat Tur (Arhar) Gram Moong Jowar Bajra Ragi Groundnut Sesamum Sunflower |\n1.88\n0.05\n5.32\n5.14\n7.91\n4.95\n3.64\n10.38\n3.94\n3.68 |\nSource: Agmarknet (through UPAg)",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 09.03.2026.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 510,
+      "date": "2026-03-02",
+      "report_week": "2026-03-02",
+      "state": "All India",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": "Normal",
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "recommendation": null,
+      "advisory": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "| All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices                                                          | All India Weekly Average Mandi Prices                                      |\n|-----------------------------------------|-----------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|\n| Increasing Trend                        | Increasing Trend                        | Decreasing Trend                                                                               | Decreasing Trend                                                           |\n| Commodities                             | % Variation over last                   | Commodities                                                                                    | % Variation over last Week                                                 |\n| Maize Gram Moong Urad Ragi Onion        | Week 2.38 2.66 1.11 0.23 0.67 1.43      | Wheat Tur (Arhar) Masur Jowar Bajra Groundnut Mustard Soyabean Sesamum Sunflower Potato Tomato |\n2.49\n1.49 3.47\n25.44\n9.70\n1.07\n3.89\n3.29\n13.18\n5.24\n14.31\n27.82 |\nSource: Agmarknet (through UPAg)",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 02.03.2026.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 563,
+      "date": "2026-02-16",
+      "report_week": "2026-02-16",
+      "state": "All India",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": "Normal",
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "recommendation": null,
+      "advisory": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "| All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   |\n|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|\n| Increasing Trend                        | Increasing Trend                        | Decreasing Trend                        | Decreasing Trend                        |\n| Commodities                             | % Variation over last Week              | Commodities                             | % Variation over last Week              |\n| Urad                                    | 3.32                                    | Wheat                                   |\n1.40                                   |",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 16.02.2026.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 509,
+      "date": "2026-02-02",
+      "report_week": "2026-02-02",
+      "state": "All India",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": "Normal",
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "recommendation": null,
+      "advisory": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": "| Maize Tur (Arhar) Gram Urad Jowar Bajra Groundnut Mustard Soyabean Sunflower   | 9.33 2.86 17.82 22.11 16.31 13.56 1.09 7.77 1.37   | Moong Ragi Sesamum Onion Potato Tomato   |\n2.30\n0.33\n0.07\n20.54\n10.81\n17.76   |\n|--------------------------------------------------------------------------------|----------------------------------------------------|------------------------------------------|------------------------------------------|\nSource: Agmarknet (through UPAg)\n| All India Weekly Average Retail Prices           | All India Weekly Average Retail Prices   | All India Weekly Average Retail Prices   | All India Weekly Average Retail Prices   |\n|--------------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|\n| Increasing Trend                                 | Increasing Trend                         | Decreasing Trend                         | Decreasing Trend                         |\n| Commodities                                      | % Variation over last Week               | Commodities                              | % Variation over last Week               |\n| Wheat Arhar/Tur Dal Masur Moong Urad Jowar Bajra | 0.63                                     | Rice Ragi                                |\n0.51                                    |",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 02.02.2026.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.9,
+        "source_method": "rule_based"
+      }
+    }
+  ]
+}

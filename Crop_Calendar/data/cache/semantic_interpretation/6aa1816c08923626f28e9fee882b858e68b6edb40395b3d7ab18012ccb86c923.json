@@ -1,0 +1,24 @@
+{
+  "crop": "Groundnut",
+  "state": "Madhya Pradesh",
+  "week": "2026-04-20",
+  "observation_type": "Area Coverage",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [
+    {
+      "value": "(Area in lakh ha.)",
+      "evidence": "(Area in lakh ha.)"
+    }
+  ],
+  "evidence": [
+    "(Area in lakh ha.)"
+  ],
+  "confidence": 0.7
+}

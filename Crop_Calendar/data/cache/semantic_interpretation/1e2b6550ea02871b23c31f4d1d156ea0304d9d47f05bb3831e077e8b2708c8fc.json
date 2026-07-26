@@ -1,0 +1,25 @@
+{
+  "crop": "Groundnut",
+  "state": "Uttar Pradesh",
+  "week": "2026-04-27",
+  "observation_type": "Harvest Progress",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "| a        | Rapeseed & Mustard         |               79.17 |                          89.36 |             100.00 | 100% harvested in all states.                                                                                                                                                             |"
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "| a        | Rapeseed & Mustard         |               79.17 |                          89.36 |             100.00 | 100% harvested in all states.                                                                                                                                                             |",
+    "evidence": "| a        | Rapeseed & Mustard         |               79.17 |                          89.36 |             100.00 | 100% harvested in all states.                                                                                                                                                             |"
+  },
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "| a        | Rapeseed & Mustard         |               79.17 |                          89.36 |             100.00 | 100% harvested in all states.                                                                                                                                                             |"
+  ],
+  "confidence": 0.9
+}

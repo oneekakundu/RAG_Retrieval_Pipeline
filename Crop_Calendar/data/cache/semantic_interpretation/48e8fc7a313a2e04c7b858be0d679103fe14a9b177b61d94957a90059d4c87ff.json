@@ -1,0 +1,24 @@
+{
+  "crop": "Bengal Gram (Gram/Chickpea)",
+  "state": "Punjab",
+  "week": "2025-11-24",
+  "observation_type": "Area Coverage",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [
+    {
+      "value": " Wheat: About 128.37 lakh ha area coverage under Wheat has been reported as compared to 107.09 lakh ha during the corresponding period of last year.\n-\nRapeseed &amp; Mustard :  About 73.80 lakh ha area coverage under Rapeseed &amp; Mustard has been reported as compared to 69.58 lakh ha during the corresponding period of last year.\n-\nGram: About 53.71 lakh ha area coverage under Gram has been reported as compared to 49.30 lakh ha during the corresponding period of last year.",
+      "evidence": " Wheat: About 128.37 lakh ha area coverage under Wheat has been reported as compared to 107.09 lakh ha during the corresponding period of last year.\n-\nRapeseed &amp; Mustard :  About 73.80 lakh ha area coverage under Rapeseed &amp; Mustard has been reported as compared to 69.58 lakh ha during the corresponding period of last year.\n-\nGram: About 53.71 lakh ha area coverage under Gram has been reported as compared to 49.30 lakh ha during the corresponding period of last year."
+    }
+  ],
+  "evidence": [
+    " Wheat: About 128.37 lakh ha area coverage under Wheat has been reported as compared to 107.09 lakh ha during the corresponding period of last year.\n-\nRapeseed &amp; Mustard :  About 73.80 lakh ha area coverage under Rapeseed &amp; Mustard has been reported as compared to 69.58 lakh ha during the corresponding period of last year.\n-\nGram: About 53.71 lakh ha area coverage under Gram has been reported as compared to 49.30 lakh ha during the corresponding period of last year."
+  ],
+  "confidence": 0.7
+}

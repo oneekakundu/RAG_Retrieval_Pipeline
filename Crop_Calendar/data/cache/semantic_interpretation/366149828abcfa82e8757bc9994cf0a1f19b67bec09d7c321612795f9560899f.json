@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Odisha",
+  "week": "2026-03-16",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Maximum  Temperatures  Are  Likely  To  Be  Above  Normal  Over  J&Amp;K,  Himachal  Pradesh, Uttarakhand,  Arunachal  Pradesh,  Odisha,  Some  Parts  Of  East  M.P.,  Chhattisgarh,  Tamil Nadu, Cap, Coastal Karnataka, Konkan-Goa And Gujarat",
+      "evidence": " Maximum  temperatures  are  likely  to  be  above  normal  over  J&amp;K,  Himachal  Pradesh, Uttarakhand,  Arunachal  Pradesh,  Odisha,  some  parts  of  East  M.P.,  Chhattisgarh,  Tamil Nadu, CAP, Coastal Karnataka, Konkan-Goa and Gujarat."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Maximum  temperatures  are  likely  to  be  above  normal  over  J&amp;K,  Himachal  Pradesh, Uttarakhand,  Arunachal  Pradesh,  Odisha,  some  parts  of  East  M.P.,  Chhattisgarh,  Tamil Nadu, CAP, Coastal Karnataka, Konkan-Goa and Gujarat."
+  ],
+  "confidence": 0.9
+}

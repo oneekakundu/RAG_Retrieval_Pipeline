@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Maharashtra",
+  "week": "2025-12-08",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "No  Significant  Change  In  Minimum  Temperature  Likely  For  Next  5  Days  And  Fall  By  2-30C Thereafter During Subsequent 2 Days In Maharashtra And No Significant Change In Minimum Temperature Is Likely Over The Gujarat During Next 7 Days",
+      "evidence": "No  significant  change  in  minimum  temperature  likely  for  next  5  days  and  fall  by  2-30C thereafter during subsequent 2 days in Maharashtra and no significant change in minimum temperature is likely over the Gujarat during next 7 days."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "No  significant  change  in  minimum  temperature  likely  for  next  5  days  and  fall  by  2-30C thereafter during subsequent 2 days in Maharashtra and no significant change in minimum temperature is likely over the Gujarat during next 7 days."
+  ],
+  "confidence": 0.9
+}

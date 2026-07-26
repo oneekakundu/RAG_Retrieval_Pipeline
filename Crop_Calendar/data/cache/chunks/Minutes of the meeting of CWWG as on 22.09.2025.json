@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-25T15:08:40.253635"
+  },
+  "data": [
+    {
+      "detected_crop": "Crop",
+      "state_context": "Gujarat",
+      "chunk_text": "- Conditions are becoming favourable for further withdrawal of southwest monsoon from some  more  parts  of  Gujarat,  Rajasthan,  Haryana  and  Punjab;  some  parts  of  Himachal Pradesh, Jammu &amp; Kashmir and Uttar Pradesh during next 24 hours.",
+      "heading": "Withdrawal of Southwest Monsoon 2025",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 22.09.2025.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 22.09.2025.pdf_0"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 22.09.2025.pdf_1",
+      "chunk_text": "Rice :  About  438.51  lakh  ha  (108.0%  of  Normal)  area  coverage  under  Kharif  Rice  as compared to 430.06 lakh ha during the corresponding period of last year.\n- Maize :  About  94.95  lakh  ha  (120.3%  of  Normal)  area  coverage  under  Maize  has  been reported as compared to 84.30 lakh ha during the corresponding period of last year.\n- Moong : About 34.79 lakh ha (97.5% of Normal) area coverage under Moong as compared to 34.96 lakh ha during the corresponding period of last year.",
+      "detected_crop": "Maize",
+      "heading": "Kharif Crops - Area coverage",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 22.09.2025.pdf",
+      "state_context": "Gujarat"
+    },
+    {
+      "detected_crop": "Maize",
+      "state_context": "Maharashtra",
+      "chunk_text": "- Soybean : About 120.44 lakh ha (94.7% of Normal) area coverage under Soyabean has been reported  as  compared  to  126.26  lakh  ha  during  the  corresponding  period  of  last  year. Soyabean area diverted in Maize in MP and Maharashtra.",
+      "heading": "Kharif Crops - Area coverage",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 22.09.2025.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 22.09.2025.pdf_2"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 22.09.2025.pdf_3",
+      "chunk_text": "- Sugarcane :  About  59.07  lakh  ha  area  coverage  under  Sugarcane  has  been  reported  as compared to 57.22 lakh ha during the corresponding period of last year.",
+      "detected_crop": "Rice",
+      "heading": "Kharif Crops - Area coverage",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 22.09.2025.pdf",
+      "state_context": "Maharashtra"
+    },
+    {
+      "detected_crop": "Rice",
+      "state_context": "Gujarat",
+      "chunk_text": "- Cotton : About 109.90 lakh ha (84.9% of Normal) area coverage has been reported compared to  112.76  lakh  ha  during  the  corresponding  period  of  last  year.  Cotton  area  diverted  in Paddy and Groundnut respectively in Punjab &amp; Haryana and Gujarat.",
+      "heading": "Kharif Crops - Area coverage",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 22.09.2025.pdf",
+      "is_atomic_event": false,
+      "chunk_id": "Minutes of the meeting of CWWG as on 22.09.2025.pdf_4"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 22.09.2025.pdf_5",
+      "chunk_text": "All India: Progressive Crop Area Sown Report\nKharif Weekly area coverage as on 19.09.2025\nSource: CWWG (via API)\nArea in Lakh Ha\n|                      |   Normal (DA&FW) | Area Sown   | Area Sown   | Difference In Area Coverage Over   |\n|----------------------|------------------|-------------|-------------|------------------------------------|\n| Crop                 |                  | 2025-26     | 2024-25     | 2024-25                            |\n| Rice                 |           403.09 | 438.51      | 430.06      | 8.45                               |\n| Total Pulses         |           129.61 | 119.29      | 118.40      | 0.89                               |\n| Tur                  |            44.71 | 46.10       | 46.34       |\n0.23                              |\n| Urad                 |            32.64 | 24.07       | 22.59       | 1.48                               |\n| Moong                |            35.69 | 34.79       | 34.96       |\n0.17                              |\n| Kulthi               |             1.72 | 0.63        | 0.50        | 0.12                               |\n| Moth Bean            |             9.70 | 9.24        | 9.63        |\n0.40                              |\n| Other Pulses         |             5.15 | 4.46        | 4.37        | 0.09                               |\n| Total Coarse Cereals |           180.71 | 194.01      | 181.59      | 12.43                              |\n| Jowar                |            15.07 | 14.07       | 14.14       |\n0.07                              |\n| Bajra                |            70.69 | 68.44       | 68.07       | 0.37                               |\n| Ragi                 |            11.52 | 11.21       | 10.52       | 0.69                               |\n| Maize                |            78.95 | 94.95       | 84.30       | 10.65                              |\n| Small Millets        |             4.48 | 5.34        | 4.56        | 0.79                               |\n| Total Oilseeds       |           194.63 | 189.51      | 194.67      |\n5.16                              |\n| Groundnut            |            45.10 | 48.14       | 47.79       | 0.35                               |\n| Soybean        |   127.19 |   120.44 |   126.26 |\n5.83 |\n|----------------|----------|----------|----------|---------|\n| Sunflower      |     1.29 |     0.70 |     0.72 |\n0.02 |\n| Sesamum        |    10.32 |    10.43 |    10.98 |\n0.56 |\n| Nigerseed      |     1.08 |     0.97 |     0.90 |    0.08 |\n| Castorseed     |     9.65 |     8.75 |     7.94 |    0.81 |\n| Other Oilseeds |          |     0.08 |     0.07 |    0.00 |\n| Sugarcane      |    52.51 |    59.07 |    57.22 |    1.86 |\n| Jute and Mesta |     6.60 |     5.56 |     5.74 |\n0.18 |\n| Cotton         |   129.50 |   109.90 |   112.76 |\n2.85 |\n| Grand Total    |  1096.65 |  1115.86 |  1100.42 |   15.43 |",
+      "detected_crop": "Cotton",
+      "heading": "Ministry of Agriculture &amp; Farmers Welfare Department of Agriculture &amp; Farmers Welfare (DA&amp;FW)",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 22.09.2025.pdf",
+      "state_context": "Gujarat"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-21T23:37:58.875617"
+  },
+  "data": [
+    {
+      "crop": "Wheat",
+      "state": "All India",
+      "growth_stage": "| All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   |\n|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|\n| Increasing Trend                        | Increasing Trend                        | Decreasing Trend                        | Decreasing Trend                        |\n| Commodities                             | % Variation Over Last Week              | Commodities                             | % Variation Over Last Week              |\n| Paddy (Rice Un-                         | 2.34                                    | Wheat                                   |\n1.07                                   |",
+      "pest_or_disease": null,
+      "weather_condition": null,
+      "advisory": null,
+      "report_week": "2026-02-02",
+      "district": "State-wide",
+      "confidence": 0.9,
+      "source_method": "rule_based",
+      "source_pdf": "Minutes of the meeting of CWWG as on 02.02.2026.pdf",
+      "page_number": 1,
+      "raw_text": "| All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   |\n|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|\n| Increasing Trend                        | Increasing Trend                        | Decreasing Trend                        | Decreasing Trend                        |\n| Commodities                             | % Variation over last Week              | Commodities                             | % Variation over last Week              |\n| Paddy (Rice un-                         | 2.34                                    | Wheat                                   |\n1.07                                   |"
+    },
+    {
+      "crop": "Maize",
+      "state": "All India",
+      "growth_stage": "| Maize Tur (Arhar) Gram Urad Jowar Bajra Groundnut Mustard Soyabean Sunflower   | 9.33 2.86 17.82 22.11 16.31 13.56 1.09 7.77 1.37   | Moong Ragi Sesamum Onion Potato Tomato   |\n2.30\n0.33\n0.07\n20.54\n10.81\n17.76   |\n|--------------------------------------------------------------------------------|----------------------------------------------------|------------------------------------------|------------------------------------------|\nSource: Agmarknet (Through Upag)\n| All India Weekly Average Retail Prices           | All India Weekly Average Retail Prices   | All India Weekly Average Retail Prices   | All India Weekly Average Retail Prices   |\n|--------------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|\n| Increasing Trend                                 | Increasing Trend                         | Decreasing Trend                         | Decreasing Trend                         |\n| Commodities                                      | % Variation Over Last Week               | Commodities                              | % Variation Over Last Week               |",
+      "pest_or_disease": null,
+      "weather_condition": null,
+      "advisory": null,
+      "report_week": "2026-02-02",
+      "district": "State-wide",
+      "confidence": 0.9,
+      "source_method": "rule_based",
+      "source_pdf": "Minutes of the meeting of CWWG as on 02.02.2026.pdf",
+      "page_number": 1,
+      "raw_text": "| Maize Tur (Arhar) Gram Urad Jowar Bajra Groundnut Mustard Soyabean Sunflower   | 9.33 2.86 17.82 22.11 16.31 13.56 1.09 7.77 1.37   | Moong Ragi Sesamum Onion Potato Tomato   |\n2.30\n0.33\n0.07\n20.54\n10.81\n17.76   |\n|--------------------------------------------------------------------------------|----------------------------------------------------|------------------------------------------|------------------------------------------|\nSource: Agmarknet (through UPAg)\n| All India Weekly Average Retail Prices           | All India Weekly Average Retail Prices   | All India Weekly Average Retail Prices   | All India Weekly Average Retail Prices   |\n|--------------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|\n| Increasing Trend                                 | Increasing Trend                         | Decreasing Trend                         | Decreasing Trend                         |\n| Commodities                                      | % Variation over last Week               | Commodities                              | % Variation over last Week               |"
+    }
+  ]
+}

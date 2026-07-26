@@ -6,6 +6,7 @@ import pandas as pd
 # Add project root to path
 sys.path.append(str(Path(__file__).resolve().parents[2]))
 from database.sqlite import DatabaseManager
+from extractor.normalizer import Normalizer
 
 st.set_page_config(page_title="Analytics - Crop Calendar AI", page_icon="📈", layout="wide")
 
@@ -54,19 +55,24 @@ else:
     
     with col_pest:
         st.write("### 🐞 Top Reported Pests")
-        # Filter out 'None' or empty values
-        pest_df = df[~df["pest"].str.lower().isin(["none", "none reported", "below etl", ""])]
-        if not pest_df.empty:
-            top_pests = pest_df["pest"].value_counts().head(10)
+        # Normalize and filter only biologically verified pests
+        norm_pests = df["pest"].apply(Normalizer.normalize_pest_disease).dropna()
+        norm_pests = norm_pests[norm_pests.str.strip() != ""]
+        
+        if not norm_pests.empty:
+            top_pests = norm_pests.value_counts().head(10)
             st.dataframe(pd.DataFrame({"Report Count": top_pests}), use_container_width=True)
         else:
-            st.write("No specific pests reported yet.")
+            st.info("No biologically verified pests reported in dataset.")
 
     with col_disease:
         st.write("### 🍄 Top Reported Diseases")
-        disease_df = df[~df["disease"].str.lower().isin(["none", "none reported", "below etl", ""])]
-        if not disease_df.empty:
-            top_diseases = disease_df["disease"].value_counts().head(10)
+        # Normalize and filter only biologically verified diseases
+        norm_diseases = df["disease"].apply(Normalizer.normalize_pest_disease).dropna()
+        norm_diseases = norm_diseases[norm_diseases.str.strip() != ""]
+        
+        if not norm_diseases.empty:
+            top_diseases = norm_diseases.value_counts().head(10)
             st.dataframe(pd.DataFrame({"Report Count": top_diseases}), use_container_width=True)
         else:
-            st.write("No specific diseases reported yet.")
+            st.info("No biologically verified diseases reported in dataset.")

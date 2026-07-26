@@ -1,0 +1,30 @@
+{
+  "crop": "Sorghum (Jowar)",
+  "state": "Karnataka",
+  "week": "2026-03-30",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Sorghum (Jowar) in Karnataka has 75% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Sorghum (Jowar) in Karnataka has 75% harvested.",
+    "evidence": "Sorghum (Jowar) in Karnataka has 75% harvested."
+  },
+  "pests": [
+    {
+      "value": "Sorghum (Jowar) In Karnataka Has 75% Harvested",
+      "evidence": "Sorghum (Jowar) in Karnataka has 75% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Sorghum (Jowar) in Karnataka has 75% harvested."
+  ],
+  "confidence": 0.9
+}

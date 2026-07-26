@@ -1,0 +1,45 @@
+India Crop Calendar AI System: Detailed Project Explanation Script
+
+1. Project Overview & Objective
+Hello! I would like to explain our India Crop Calendar AI project. This system is designed to automate the extraction and synthesis of agricultural data from official Crop Weather Watch Group (CWWG) PDF reports. Historically, agricultural analysts had to manually read dozens of dense PDFs every week to track crop status across the country. Our pipeline automates this entirely: it pulls data like sowing windows, growth stages, pests, and advisories, and builds a clean, interactive Crop Calendar.
+
+2. Document Parsing with Docling
+The first challenge in our pipeline is dealing with raw PDF reports. Government PDFs are notoriously difficult for computers to read because of their complex multi-column layouts, nested tables, and varying text formats. To solve this, we utilize Docling, an advanced document parsing model. Docling effectively "reads" these complex PDF structures and converts them into a clean, structured JSON and Markdown format. This guarantees that tables aren't scrambled and the text is perfectly aligned for our system to process.
+
+3. Semantic Chunking
+Once we have the clean text from Docling, we can't process the entire 50-page document at once—that would overwhelm the AI and cause context loss. Instead, we break the text into smaller, meaningful pieces called "chunks". Each chunk typically represents a single paragraph or a specific row in a table detailing agricultural activity in a certain region. This ensures our AI model looks at bite-sized, highly relevant contexts.
+
+4. Entity Extraction using GLiNER
+With our text neatly chunked, we need to extract the specific agricultural facts embedded within them. For this, we pass the chunks into an AI model named GLiNER (Generalist Model for Named Entity Recognition). GLiNER is specifically prompted and instructed to look for particular labels like Crop, State, Growth Stage, Pest, Disease, and Advisory. 
+For example, if a chunk says "In Andhra Pradesh, Groundnut is currently in the vegetative stage and heavily affected by stem borer", GLiNER intelligently extracts:
+- State: Andhra Pradesh
+- Crop: Groundnut
+- Stage: Vegetative
+- Pest: Stem borer
+This turns raw text into structured data.
+
+5. Dividing Chunks into Crop-Based Information & Normalization
+After extraction, we end up with thousands of extracted entities across all our chunks. To make this data manageable, organized, and fast to query, we divide and group these chunks into crop-based information files. 
+This means we take all the chunks related to "Groundnut" and save them into a dedicated Groundnut repository, and do the same for Rice, Wheat, Cotton, etc. 
+During this phase, we also apply a strict Normalization step:
+- Spelling mistakes are corrected.
+- Non-standard terms (like "veg stage") are standardized to "Vegetative".
+- Pests and diseases are verified against a biological keyword database to ensure we don't accidentally extract noise. 
+Once cleaned, we save all this structured evidence into our SQLite database.
+
+6. Synthesizing the Calendar
+Our Calendar Builder logic then takes all this verified, crop-grouped evidence and organizes it chronologically by week and state. It merges consecutive observations, removes duplicates, and creates smooth, continuous timelines for different farming stages (like Sowing, Vegetative Growth, and Harvesting).
+
+7. The Streamlit User Interface (UI)
+The final piece of our project is the interactive web portal, built using Streamlit. This is where the synthesized data comes to life. The UI is divided into three main sections:
+
+A. The Main Dashboard (Home Page)
+This acts as the command center. It provides executive metrics at a glance, such as the number of PDFs processed (currently 38), the total verified records, and the total states covered. It also provides a control panel to instantly run the extraction pipeline when new PDF reports arrive.
+
+B. The Crop Calendar Matrix
+This is the core feature. Users can select a specific Crop, State, and Season from the sidebar. 
+- It generates a top-level summary card showing the exact date windows for Sowing, Vegetative Growth, and Harvesting.
+- Below that, it generates a Month-by-Month Activity Timeline Matrix. It shows a week-by-week breakdown of the exact growth stage, verified pests, diseases, and farmer advisories.
+
+C. The Evidence Explorer
+Because our system is built for government-grade accuracy, transparency is key. For every single data point shown on the calendar, the Evidence Explorer allows the user to trace it back to the exact PDF it came from. The user can expand a timeline item, view the confidence score of the AI, see the specific chunk ID, and read the original sentence from the CWWG report that the data was extracted from. This guarantees 100% data provenance and trust.

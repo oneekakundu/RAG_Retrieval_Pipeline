@@ -1,0 +1,30 @@
+{
+  "crop": "Wheat",
+  "state": "Haryana",
+  "week": "2026-04-13",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Wheat in Haryana has 45% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Wheat in Haryana has 45% harvested.",
+    "evidence": "Wheat in Haryana has 45% harvested."
+  },
+  "pests": [
+    {
+      "value": "Wheat In Haryana Has 45% Harvested",
+      "evidence": "Wheat in Haryana has 45% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Wheat in Haryana has 45% harvested."
+  ],
+  "confidence": 0.9
+}

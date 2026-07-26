@@ -1,0 +1,19 @@
+{
+  "crop": "Sesame (Sesamum)",
+  "state": "Tamil Nadu",
+  "week": "2026-04-13",
+  "observation_type": "Other",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "|-----|----------------|--------|--------|---------|-----------------------------------------------------------------------------------------------------------------|"
+  ],
+  "confidence": 0.7
+}

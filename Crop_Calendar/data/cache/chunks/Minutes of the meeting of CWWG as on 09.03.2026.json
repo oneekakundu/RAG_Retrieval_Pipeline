@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-25T13:45:34.827122"
+  },
+  "data": [
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 09.03.2026.pdf_0",
+      "chunk_text": " Rice: About 21.80 lakh ha area coverage under Summer Rice has been reported as compared to 23.45 lakh ha during the corresponding period of last year.\n-\nPulses: About 1.15 lakh ha area coverage has been reported compared to 1.03 lakh ha during the corresponding period of last year.\n-\nOilseeds: About  1.69  lakh  ha  area  coverage  has  been  reported  compared  to  1.26  lakh  ha during the corresponding period of last year.",
+      "detected_crop": "Oilseeds",
+      "heading": "Rabi Crops - Area coverage",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 09.03.2026.pdf",
+      "state_context": "All India"
+    },
+    {
+      "chunk_id": "Minutes of the meeting of CWWG as on 09.03.2026.pdf_1",
+      "chunk_text": " The  overall  intensity  of  pests  and  diseases  remained  below  the  Economic  Threshold Level except.\n| फसल Crop   | राǛ State   | िजला/उपिजला/गांव District/ Sub District/ Village   | ŷोत / Source   | कीट / रोग Pest Disease   | राǛ मŐ फसल क े अंतगŊत क ु ल Ɨेũफल ( हेƃेयर ) Total area under the crop in the state (ha)   |   तीŴता Intensity संĐͧमत / Ĥभाͪवत¢ेğ *ETL ( हेÈटेयर ) सेऊपर /Area infested/Infected above *ETL (ha) | की गई कारŊवाई / िटɔणी Action Taken/ Remark                                                 |\n|------------|-------------|----------------------------------------------------|----------------|--------------------------|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|\n| Citrus     | Maharashtra | (Kukadi, Panjra/ Katol/ Nagpur)                    | NPSS/ Survey   | Gummosis                 |\n|                                                                                                  05 |\nPest incidence was reported on 24.02.2026\nAdvisory issued through State WhatsApp group |\n|        |                                                         |              |           |    |    | as well as on NPSS web portal on dated 24.02.2026.\nRegular monitoring is being carried out by all field functionaries as follow up action.                                                                                            |\n|--------|---------------------------------------------------------|--------------|-----------|----|----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Chilli | (Kondhasa, oli, Kohala, Hatla, Wai (BK)/ Katol/ Nagpur) | NPSS/ Survey | Leaf curl |\n| 05 |\nPest incidence was reported on 24.02.2026\nAdvisory issued through State WhatsApp group as well as on NPSS web portal on dated 24.02.2026.\nRegular monitoring is being carried out by all field functionaries as follow up action. |",
+      "detected_crop": "Oilseeds",
+      "heading": "7.      PEST &amp; DISEASE",
+      "page_number": 1,
+      "source_pdf": "Minutes of the meeting of CWWG as on 09.03.2026.pdf",
+      "state_context": "Maharashtra"
+    }
+  ]
+}

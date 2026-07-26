@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Odisha",
+  "week": "2026-01-05",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Cold  Wave  Conditions  Are  Likely  Over  Some  Parts  Of  Punjab,  Haryana,  North  Rajasthan, North  Madhya  Pradesh,  Interior  Odisha, Adjoining Parts Of West Jharkhand, North Chhattisgarh, And South Uttar Pradesh During Some Days Of The Week",
+      "evidence": "Cold  wave  conditions  are  likely  over  some  parts  of  Punjab,  Haryana,  North  Rajasthan, North  Madhya  Pradesh,  interior  Odisha, adjoining parts of west Jharkhand, north Chhattisgarh, and south Uttar Pradesh during some days of the week."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Cold  wave  conditions  are  likely  over  some  parts  of  Punjab,  Haryana,  North  Rajasthan, North  Madhya  Pradesh,  interior  Odisha, adjoining parts of west Jharkhand, north Chhattisgarh, and south Uttar Pradesh during some days of the week."
+  ],
+  "confidence": 0.9
+}

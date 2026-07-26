@@ -1,0 +1,19 @@
+{
+  "crop": "Oilseeds",
+  "state": "Odisha",
+  "week": "2025-12-29",
+  "observation_type": "Other",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "| a   | Rapeseed & Mustard   |   79.17 | 86.57   |   87.80 |   86.57 |   1.23 |\n|-----|----------------------|---------|---------|---------|---------|--------|\n| b   | Groundnut *          |    3.69 | 3.37    |    2.77 |    3.29 |\n0.52 |\n| c   | Safflower            |    0.72 | 0.64    |    0.83 |    0.64 |   0.19 |\n| d   | Sunflower *          |    0.79 | 0.81    |    0.45 |    0.34 |   0.11 |\n| e   | Sesamum *            |    0.48 | 0.41    |    0.09 |    0.11 |\n0.02 |\n| f   | Linseed              |    1.93 | 1.69    |    1.99 |    2.00 |\n0.01 |\n| g   | Other Oilseeds       |    0.00 |\n|    0.35 |    0.29 |   0.06 |\n|     | Total Crops          |  637.81 | 659.39  |  614.30 |  607.43 |   6.87 |\nNote: *Average of 2022-23 to 2024-25, $ average (2016-17 to 2020-21) as per DES, # Average of (2018-19 to 2022-23) as per CWWG report."
+  ],
+  "confidence": 0.7
+}

@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "pipeline_version": "2.1",
+    "dictionary_version": "1.0",
+    "normalization_version": "1.0",
+    "timestamp": "2026-07-21T22:10:43.556940"
+  },
+  "data": [
+    {
+      "crop": "Wheat",
+      "state": "All India",
+      "growth_stage": "| All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   |\n|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|\n| Increasing Trend                        | Increasing Trend                        | Decreasing Trend                        | Decreasing Trend                        |\n| Commodities                             | % Variation Over Last Week              | Commodities                             | % Variation Over Last Week              |\n| Wheat                                   | 1.77                                    | Tur (Arhar) Ragi Sunflower              |\n1.58                                   |",
+      "pest_or_disease": "All india weekly average mandi prices   | all india weekly average mandi prices   | all india weekly average mandi prices   | all india weekly average mandi prices   |\n|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|\n| increasing trend                        | increasing trend                        | decreasing trend                        | decreasing trend                        |\n| commodities                             | % variation over last week              | commodities                             | % variation over last week              |\n| wheat                                   | 1.77                                    | tur (arhar) ragi sunflower              |\n1.58",
+      "weather_condition": null,
+      "advisory": null,
+      "report_week": "2026-03-16",
+      "district": "State-wide",
+      "source_pdf": "Minutes of the meeting of CWWG as on 16.03.2026.pdf",
+      "page_number": 1,
+      "raw_text": "| All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   | All India Weekly Average Mandi Prices   |\n|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|\n| Increasing Trend                        | Increasing Trend                        | Decreasing Trend                        | Decreasing Trend                        |\n| Commodities                             | % Variation over last Week              | Commodities                             | % Variation over last Week              |\n| Wheat                                   | 1.77                                    | Tur (Arhar) Ragi Sunflower              |\n1.58                                   |"
+    },
+    {
+      "crop": "Sesame (Sesamum)",
+      "state": "All India",
+      "growth_stage": "| Sesamum                                 | 8.50                                    |                                         |                                         |\n| Potato                                  | 4.22                                    |                                         |                                         |\n| Tomato                                  | 2.41                                    |                                         |                                         |\nSource: Agmarknet (Through Upag)\n| All India Weekly Average Retail Prices   | All India Weekly Average Retail Prices   | All India Weekly Average Retail Prices   | All India Weekly Average Retail Prices   |\n|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|\n| Increasing Trend                         | Increasing Trend                         | Decreasing Trend                         | Decreasing Trend                         |\n| Commodities                              | % Variation Over Last Week               | Commodities                              | % Variation Over Last Week               |",
+      "pest_or_disease": "Sesamum                                 | 8.50                                    |                                         |                                         |\n| potato                                  | 4.22                                    |                                         |                                         |\n| tomato                                  | 2.41                                    |                                         |                                         |\nsource: agmarknet (through upag)\n| all india weekly average retail prices   | all india weekly average retail prices   | all india weekly average retail prices   | all india weekly average retail prices   |\n|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|\n| increasing trend                         | increasing trend                         | decreasing trend                         | decreasing trend                         |\n| commodities                              | % variation over last week               | commodities                              | % variation over last week",
+      "weather_condition": null,
+      "advisory": null,
+      "report_week": "2026-03-16",
+      "district": "State-wide",
+      "source_pdf": "Minutes of the meeting of CWWG as on 16.03.2026.pdf",
+      "page_number": 1,
+      "raw_text": "| Sesamum                                 | 8.50                                    |                                         |                                         |\n| Potato                                  | 4.22                                    |                                         |                                         |\n| Tomato                                  | 2.41                                    |                                         |                                         |\nSource: Agmarknet (through UPAg)\n| All India Weekly Average Retail Prices   | All India Weekly Average Retail Prices   | All India Weekly Average Retail Prices   | All India Weekly Average Retail Prices   |\n|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|\n| Increasing Trend                         | Increasing Trend                         | Decreasing Trend                         | Decreasing Trend                         |\n| Commodities                              | % Variation over last Week               | Commodities                              | % Variation over last Week               |"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "crop": "Rice",
+  "state": "Maharashtra",
+  "week": "2025-09-22",
+  "observation_type": "Area Coverage",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [
+    {
+      "value": "- Sugarcane :  About  59.07  lakh  ha  area  coverage  under  Sugarcane  has  been  reported  as compared to 57.22 lakh ha during the corresponding period of last year.",
+      "evidence": "- Sugarcane :  About  59.07  lakh  ha  area  coverage  under  Sugarcane  has  been  reported  as compared to 57.22 lakh ha during the corresponding period of last year."
+    }
+  ],
+  "evidence": [
+    "- Sugarcane :  About  59.07  lakh  ha  area  coverage  under  Sugarcane  has  been  reported  as compared to 57.22 lakh ha during the corresponding period of last year."
+  ],
+  "confidence": 0.7
+}

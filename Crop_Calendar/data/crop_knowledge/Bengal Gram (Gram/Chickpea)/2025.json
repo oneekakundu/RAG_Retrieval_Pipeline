@@ -1,0 +1,178 @@
+{
+  "crop": "Bengal Gram (Gram/Chickpea)",
+  "year": "2025",
+  "metadata": {
+    "generated_at": "2026-07-26T23:23:54.952785",
+    "total_observations": 6,
+    "pipeline_version": "2.1"
+  },
+  "statistics": {
+    "states_observed": [
+      "Odisha",
+      "Punjab"
+    ],
+    "growth_stages": [],
+    "common_pests": [],
+    "common_diseases": [],
+    "first_appearance": "2025-11-17",
+    "latest_appearance": "2025-12-29"
+  },
+  "observations": [
+    {
+      "id": 1387,
+      "date": "2025-12-29",
+      "report_week": "2025-12-29",
+      "state": "Odisha",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": " Wheat: About 322.68 lakh ha (103% of normal) area coverage under Wheat has been reported as compared to 322.49 lakh ha during the corresponding period of last year.\n-\nRapeseed &amp; Mustard : About 87.80 (111% of normal) lakh ha area coverage under Rapeseed &amp; Mustard has been reported as compared to 86.57 lakh ha during the corresponding period of last year.\n-\nGram: About 95.88 (95% of normal) lakh ha area coverage under Gram has been reported as compared to 91.22 lakh ha during the corresponding period of last year.",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 29.12.2025.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.7,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 1113,
+      "date": "2025-12-15",
+      "report_week": "2025-12-15",
+      "state": "Punjab",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": " Wheat: About 275.66 lakh ha (88% of normal) area coverage under Wheat has been reported as compared to 258.48 lakh ha during the corresponding period of last year.\n-\nRapeseed &amp; Mustard : About 84.67 (107% of normal) lakh ha area coverage under Rapeseed &amp; Mustard has been reported as compared to 81.16 lakh ha during the corresponding period of last year.\n-\nGram: About 84.91 (84% of normal) lakh ha area coverage under Gram has been reported as compared to 81.67 lakh ha during the corresponding period of last year.",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 15.12.2025.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.7,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 949,
+      "date": "2025-12-08",
+      "report_week": "2025-12-08",
+      "state": "Punjab",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": " Wheat: About 241.40 lakh ha area coverage under Wheat has been reported as compared to 217.81 lakh ha during the corresponding period of last year.\n-\nRapeseed &amp; Mustard : About 79.88 lakh ha area coverage under Rapeseed &amp; Mustard has been reported as compared to 76.43 lakh ha during the corresponding period of last year.\n-\nGram: About 77.84 lakh ha area coverage under Gram has been reported as compared to 75.16 lakh ha during the corresponding period of last year.",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 08.12.2025.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.7,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 756,
+      "date": "2025-12-01",
+      "report_week": "2025-12-01",
+      "state": "Punjab",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": " Wheat: About 187.37 lakh ha area coverage under Wheat has been reported as compared to 160.26 lakh ha during the corresponding period of last year.\n-\nRapeseed &amp; Mustard : About 77.06 lakh ha area coverage under Rapeseed &amp; Mustard has been reported as compared to 72.92 lakh ha during the corresponding period of last year.\n-\nGram: About 62.49 lakh ha area coverage under Gram has been reported as compared to 60.13 lakh ha during the corresponding period of last year.",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 01.12.2025.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.7,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 1272,
+      "date": "2025-11-24",
+      "report_week": "2025-11-24",
+      "state": "Punjab",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": " Wheat: About 128.37 lakh ha area coverage under Wheat has been reported as compared to 107.09 lakh ha during the corresponding period of last year.\n-\nRapeseed &amp; Mustard : About 73.80 lakh ha area coverage under Rapeseed &amp; Mustard has been reported as compared to 69.58 lakh ha during the corresponding period of last year.\n-\nGram: About 53.71 lakh ha area coverage under Gram has been reported as compared to 49.30 lakh ha during the corresponding period of last year.",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 24.11.2025.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.7,
+        "source_method": "rule_based"
+      }
+    },
+    {
+      "id": 1126,
+      "date": "2025-11-17",
+      "report_week": "2025-11-17",
+      "state": "Punjab",
+      "district": "State-wide",
+      "growth_stage": null,
+      "crop_operation": null,
+      "weather_condition": null,
+      "pest": null,
+      "disease": null,
+      "pest_or_disease": null,
+      "severity": null,
+      "affected_area": null,
+      "irrigation": null,
+      "nutrient_management": null,
+      "expected_impact": null,
+      "evidence": " Wheat: About 66.23 lakh ha area coverage under Wheat has been reported as compared to 56.55 lakh ha during the corresponding period of last year.\n-\nRapeseed &amp; Mustard : About 64.23 lakh ha area coverage under Rapeseed &amp; Mustard has been reported as compared to 60.52 lakh ha during the corresponding period of last year.\n-\nGram: About 37.43 lakh ha area coverage under Gram has been reported as compared to 34.04 lakh ha during the corresponding period of last year.",
+      "provenance": {
+        "source_pdf": "Minutes of the meeting of CWWG as on 17.11.2025.pdf",
+        "page_number": 1,
+        "section_heading": "General Observation",
+        "confidence": 0.7,
+        "source_method": "rule_based"
+      }
+    }
+  ]
+}

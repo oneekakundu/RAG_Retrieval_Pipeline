@@ -1,0 +1,30 @@
+{
+  "crop": "Green Gram (Moong)",
+  "state": "Chhattisgarh",
+  "week": "2026-04-06",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Green Gram (Moong) is 100% harvested in Chhattisgarh."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Green Gram (Moong) is 100% harvested in Chhattisgarh.",
+    "evidence": "Green Gram (Moong) is 100% harvested in Chhattisgarh."
+  },
+  "pests": [
+    {
+      "value": "Green Gram (Moong) Is 100% Harvested In Chhattisgarh",
+      "evidence": "Green Gram (Moong) is 100% harvested in Chhattisgarh."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Green Gram (Moong) is 100% harvested in Chhattisgarh."
+  ],
+  "confidence": 0.9
+}

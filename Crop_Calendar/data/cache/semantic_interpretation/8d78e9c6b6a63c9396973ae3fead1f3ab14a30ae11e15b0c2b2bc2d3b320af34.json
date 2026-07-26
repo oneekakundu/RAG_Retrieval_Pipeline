@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Odisha",
+  "week": "2026-04-06",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Low Probability  Of  Heat  Wave  Conditions  Likely  During  The  Second  Half  Of  The  Week  Over  Coastal Odisha And Adjoining North Coastal Andhra Pradesh",
+      "evidence": " Low Probability  of  Heat  Wave  conditions  likely  during  the  second  half  of  the  week  over  Coastal Odisha and adjoining north Coastal Andhra Pradesh."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Low Probability  of  Heat  Wave  conditions  likely  during  the  second  half  of  the  week  over  Coastal Odisha and adjoining north Coastal Andhra Pradesh."
+  ],
+  "confidence": 0.9
+}

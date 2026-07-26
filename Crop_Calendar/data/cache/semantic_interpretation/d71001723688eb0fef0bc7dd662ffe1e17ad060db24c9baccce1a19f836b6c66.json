@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Punjab",
+  "week": "2025-12-01",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Cold  Wave  Conditions Very  Likely  To  Prevail  In  Isolated  Pockets  Of  Punjab  On  28 Th  &Amp;  29 Th November; Over Rajasthan On 03 Rd",
+      "evidence": " Cold  wave  conditions very  likely  to  prevail  in  isolated  pockets  of  Punjab  on  28 th  &amp;  29 th November; over Rajasthan on 03 rd"
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " Cold  wave  conditions very  likely  to  prevail  in  isolated  pockets  of  Punjab  on  28 th  &amp;  29 th November; over Rajasthan on 03 rd"
+  ],
+  "confidence": 0.9
+}

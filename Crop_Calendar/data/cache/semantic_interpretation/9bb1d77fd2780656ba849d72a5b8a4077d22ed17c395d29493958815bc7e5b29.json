@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "West Bengal",
+  "week": "2026-05-04",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "0°C) Are Likely Over Parts Of Bihar, Jharkhand, And Gangetic West Bengal. Near-Normal Weekly Maximum Temperatures Are Likely Over The Rest Of The Country",
+      "evidence": "3.0°C) are likely over parts of Bihar, Jharkhand, and Gangetic West Bengal. Near-normal weekly maximum temperatures are likely over the rest of the country."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "3.0°C) are likely over parts of Bihar, Jharkhand, and Gangetic West Bengal. Near-normal weekly maximum temperatures are likely over the rest of the country."
+  ],
+  "confidence": 0.9
+}

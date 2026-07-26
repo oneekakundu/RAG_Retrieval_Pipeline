@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Punjab",
+  "week": "2026-03-02",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "B) Groundwater Levels :  In  August  2025,  In  Post-Monsoon 2025, Around 90% Of The Country'S Monitoring Stations Exhibited A Depth To Water Level Within 10 Meters Below Ground Level. Deeper  Water  Levels  Of  More  Than  20  M  Are  Observed  In  Around  5%  Of  Stations  Of  The Country  Covering  Mainly  The  Western  States,  Especially  Western  Rajasthan,  Punjab, Haryana And Chandigarh",
+      "evidence": "- b) Groundwater Levels :  In  August  2025,  In  Post-monsoon 2025, around 90% of the country's monitoring stations exhibited a depth to water level within 10 meters below ground level. Deeper  water  levels  of  more  than  20  m  are  observed  in  around  5%  of  stations  of  the country  covering  mainly  the  western  states,  especially  Western  Rajasthan,  Punjab, Haryana and Chandigarh."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "- b) Groundwater Levels :  In  August  2025,  In  Post-monsoon 2025, around 90% of the country's monitoring stations exhibited a depth to water level within 10 meters below ground level. Deeper  water  levels  of  more  than  20  m  are  observed  in  around  5%  of  stations  of  the country  covering  mainly  the  western  states,  especially  Western  Rajasthan,  Punjab, Haryana and Chandigarh."
+  ],
+  "confidence": 0.9
+}

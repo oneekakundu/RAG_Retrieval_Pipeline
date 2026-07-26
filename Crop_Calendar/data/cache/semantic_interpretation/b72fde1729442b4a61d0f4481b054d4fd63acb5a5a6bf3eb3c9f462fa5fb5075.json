@@ -1,0 +1,30 @@
+{
+  "crop": "Groundnut",
+  "state": "Andhra Pradesh",
+  "week": "2026-04-13",
+  "observation_type": "Pest Incidence",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "Groundnut in Andhra Pradesh has 47% harvested."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "Groundnut in Andhra Pradesh has 47% harvested.",
+    "evidence": "Groundnut in Andhra Pradesh has 47% harvested."
+  },
+  "pests": [
+    {
+      "value": "Groundnut In Andhra Pradesh Has 47% Harvested",
+      "evidence": "Groundnut in Andhra Pradesh has 47% harvested."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Groundnut in Andhra Pradesh has 47% harvested."
+  ],
+  "confidence": 0.9
+}

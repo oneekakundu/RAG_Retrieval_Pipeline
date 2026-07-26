@@ -1,0 +1,25 @@
+{
+  "crop": "Rice",
+  "state": "All India",
+  "week": "2026-06-01",
+  "observation_type": "Harvest Progress",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": " As  per  3 rd Advance  Estimates  2025-26,  the  area  sown  under  the  summer  crops  is  87.26  lakh  ha  as compared to 83.91 lakh ha during the corresponding period of last year. As compared to previous year, Rice area declined by 0.65 lakh ha whereas, Maize area increased by 2.08 lakh ha, Groundnut by 1.03 lakh ha, Urad by 0.76 lakh ha and Shree Anna by 0.70 lakh ha.\n-\nAs on 01.06.2026, rabi crops harvesting has been completed in all states."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": " As  per  3 rd Advance  Estimates  2025-26,  the  area  sown  under  the  summer  crops  is  87.26  lakh  ha  as compared to 83.91 lakh ha during the corresponding period of last year. As compared to previous year, Rice area declined by 0.65 lakh ha whereas, Maize area increased by 2.08 lakh ha, Groundnut by 1.03 lakh ha, Urad by 0.76 lakh ha and Shree Anna by 0.70 lakh ha.\n-\nAs on 01.06.2026, rabi crops harvesting has been completed in all states.",
+    "evidence": " As  per  3 rd Advance  Estimates  2025-26,  the  area  sown  under  the  summer  crops  is  87.26  lakh  ha  as compared to 83.91 lakh ha during the corresponding period of last year. As compared to previous year, Rice area declined by 0.65 lakh ha whereas, Maize area increased by 2.08 lakh ha, Groundnut by 1.03 lakh ha, Urad by 0.76 lakh ha and Shree Anna by 0.70 lakh ha.\n-\nAs on 01.06.2026, rabi crops harvesting has been completed in all states."
+  },
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    " As  per  3 rd Advance  Estimates  2025-26,  the  area  sown  under  the  summer  crops  is  87.26  lakh  ha  as compared to 83.91 lakh ha during the corresponding period of last year. As compared to previous year, Rice area declined by 0.65 lakh ha whereas, Maize area increased by 2.08 lakh ha, Groundnut by 1.03 lakh ha, Urad by 0.76 lakh ha and Shree Anna by 0.70 lakh ha.\n-\nAs on 01.06.2026, rabi crops harvesting has been completed in all states."
+  ],
+  "confidence": 0.9
+}

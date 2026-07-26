@@ -1,0 +1,25 @@
+{
+  "crop": "Oilseeds",
+  "state": "Bihar",
+  "week": "2026-03-30",
+  "observation_type": "Harvest Progress",
+  "growth_stage": {
+    "value": "Harvesting",
+    "evidence": "| g   | Other Oilseeds     |    0.00 |    0.40 |   33.35 | Harvesting is going on.                                                                                                                                                                        |\n|     | Total Crops        |  637.81 |  676.84 |   32.26 |                                                                                                                                                                                                |\nSource: Crop Division, DoA&amp;FW."
+  },
+  "sowing_status": null,
+  "harvest_status": {
+    "value": "| g   | Other Oilseeds     |    0.00 |    0.40 |   33.35 | Harvesting is going on.                                                                                                                                                                        |\n|     | Total Crops        |  637.81 |  676.84 |   32.26 |                                                                                                                                                                                                |\nSource: Crop Division, DoA&amp;FW.",
+    "evidence": "| g   | Other Oilseeds     |    0.00 |    0.40 |   33.35 | Harvesting is going on.                                                                                                                                                                        |\n|     | Total Crops        |  637.81 |  676.84 |   32.26 |                                                                                                                                                                                                |\nSource: Crop Division, DoA&amp;FW."
+  },
+  "pests": [],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "| g   | Other Oilseeds     |    0.00 |    0.40 |   33.35 | Harvesting is going on.                                                                                                                                                                        |\n|     | Total Crops        |  637.81 |  676.84 |   32.26 |                                                                                                                                                                                                |\nSource: Crop Division, DoA&amp;FW."
+  ],
+  "confidence": 0.9
+}

@@ -1,0 +1,24 @@
+{
+  "crop": "Crop",
+  "state": "Gujarat",
+  "week": "2025-09-29",
+  "observation_type": "Pest Incidence",
+  "growth_stage": null,
+  "sowing_status": null,
+  "harvest_status": null,
+  "pests": [
+    {
+      "value": "Overall, Maximum Temperatures Are Likely To Be Above Normal By 3-5°C Over Most Parts Of Northeast India; Above Normal By 2-4°C Over Most Parts Of Northwest India, Gujarat And Bihar. These Are Very Likely To Be Near Normal Or Below Normal Over Remaining Parts Of The Country During The Week",
+      "evidence": "Overall, maximum temperatures are likely to be above normal by 3-5°C over most parts of northeast India; above normal by 2-4°C over most parts of northwest India, Gujarat and Bihar. These are very likely to be near normal or below normal over remaining parts of the country during the week."
+    }
+  ],
+  "diseases": [],
+  "nutrient_deficiencies": [],
+  "weather_impacts": [],
+  "advisories": [],
+  "statistics": [],
+  "evidence": [
+    "Overall, maximum temperatures are likely to be above normal by 3-5°C over most parts of northeast India; above normal by 2-4°C over most parts of northwest India, Gujarat and Bihar. These are very likely to be near normal or below normal over remaining parts of the country during the week."
+  ],
+  "confidence": 0.9
+}
