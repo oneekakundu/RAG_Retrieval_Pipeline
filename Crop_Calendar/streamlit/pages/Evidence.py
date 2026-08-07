@@ -4,10 +4,12 @@ import re
 from pathlib import Path
 import pandas as pd
 
-# Add project root to path
+# Add project root and local Streamlit module path to sys.path
 sys.path.append(str(Path(__file__).resolve().parents[2]))
+sys.path.append(str(Path(__file__).resolve().parents[1]))
 from database.sqlite import DatabaseManager
 from extractor.normalizer import Normalizer
+from display import get_display_table
 
 def clean_display_text(val):
     if not val or pd.isna(val) or str(val).strip().lower() in ["", "nan", "none", "null", "n/a", "none reported", "normal operations"]:
@@ -102,7 +104,7 @@ else:
     display_df = display_df.rename(columns=rename_mapping)
     display_df.columns = [col.replace("_", " ").title() for col in display_df.columns]
     
-    st.dataframe(display_df, use_container_width=True)
+    st.dataframe(get_display_table(display_df), use_container_width=True)
 
     # Detailed Explorer View (View Source Chunks)
     st.markdown("### 📋 Detail & Source Chunk Inspector")
@@ -132,4 +134,4 @@ else:
 
         st.markdown("**Original Text Chunk (Source Evidence):**")
         chunk_text = rec.get("evidence_sentence") or rec.get("evidence") or rec.get("raw_text") or rec.get("original_text", "N/A")
-        st.info(clean_display_text(chunk_text))
+        st.info(clean_display_text(chunk_text))

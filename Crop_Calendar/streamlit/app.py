@@ -3,9 +3,11 @@ import sys
 from pathlib import Path
 import pandas as pd
 
-# Add project root to path
+# Add project root and local Streamlit module path to sys.path
 sys.path.append(str(Path(__file__).resolve().parents[1]))
+sys.path.append(str(Path(__file__).resolve().parent))
 from database.sqlite_manager import SQLiteManager
+from display import get_display_table
 
 # Page Configuration
 st.set_page_config(
@@ -64,7 +66,7 @@ calendar = db.load_all_calendar()
 # ---------------------------------------------------------
 # EXECUTIVE METRICS ROW
 # ---------------------------------------------------------
-m1, m2, m3, m4, m5 = st.columns(5)
+m1, m2, m3, m4 = st.columns(4)
 
 with m1:
     # Calculate unique PDFs from the records
@@ -72,16 +74,13 @@ with m1:
     st.metric(label="📁 PDFs Processed", value=total_pdfs, delta="Official CWWG")
 
 with m2:
-    st.metric(label="🔬 Verified Records", value=len(records), delta="100% Grounded")
+    st.metric(label="🔬 Verified Records", value=len(records), delta=None)
 
 with m3:
-    st.metric(label="📅 Activity Windows", value=len(calendar), delta="Synthesized")
-
-with m4:
     total_crops = len(set(r.get("crop") for r in records if r.get("crop"))) if records else 0
     st.metric(label="🌾 Crops Tracked", value=total_crops)
 
-with m5:
+with m4:
     total_states = len(set(r.get("state") for r in records if r.get("state"))) if records else 0
     st.metric(label="🗺️ States Covered", value=total_states)
 
@@ -126,7 +125,7 @@ if records:
     df_display = df_rec[display_cols].head(15).copy()
     df_display.columns = [c.replace("_", " ").title() for c in display_cols]
     
-    st.dataframe(df_display, use_container_width=True)
+    st.dataframe(get_display_table(df_display), use_container_width=True)
 else:
     st.info("No records loaded in database.")
 

@@ -4,10 +4,12 @@ from pathlib import Path
 import pandas as pd
 import subprocess
 
-# Add project root to path
+# Add project root and local Streamlit module path to sys.path
 sys.path.append(str(Path(__file__).resolve().parents[2]))
+sys.path.append(str(Path(__file__).resolve().parents[1]))
 import config
 from database.sqlite import DatabaseManager
+from display import get_display_table
 
 st.set_page_config(page_title="Dashboard - Crop Calendar AI", page_icon="📊", layout="wide")
 
@@ -54,7 +56,7 @@ if summary_path.exists():
                 "Latest Report Date": cinfo.get("latest_report", "N/A")
             })
         
-        st.dataframe(pd.DataFrame(summary_rows), use_container_width=True)
+        st.dataframe(get_display_table(pd.DataFrame(summary_rows)), use_container_width=True)
     except Exception as e:
         pass
 
@@ -74,7 +76,7 @@ with col1:
                 "Size (MB)": round(size_mb, 2),
                 "Docling Parsed": "✅ Yes" if json_exists else "❌ No"
             })
-        st.dataframe(pd.DataFrame(pdf_details), use_container_width=True)
+        st.dataframe(get_display_table(pd.DataFrame(pdf_details)), use_container_width=True)
     else:
         st.warning("No PDF reports downloaded yet.")
 
@@ -108,7 +110,7 @@ tab1, tab2 = st.tabs(["Evidence Log", "Crop Calendar Logs"])
 with tab1:
     evidence_data = db.load_all_evidence()
     if evidence_data:
-        st.dataframe(pd.DataFrame(evidence_data).head(50), use_container_width=True)
+        st.dataframe(get_display_table(pd.DataFrame(evidence_data).head(50)), use_container_width=True)
         st.caption(f"Showing first 50 rows of {len(evidence_data)} total evidence rows.")
     else:
         st.info("Evidence table is currently empty.")
@@ -116,7 +118,7 @@ with tab1:
 with tab2:
     calendar_data = db.load_all_calendar()
     if calendar_data:
-        st.dataframe(pd.DataFrame(calendar_data).head(50), use_container_width=True)
+        st.dataframe(get_display_table(pd.DataFrame(calendar_data).head(50)), use_container_width=True)
         st.caption(f"Showing first 50 rows of {len(calendar_data)} total calendar rows.")
     else:
         st.info("Crop Calendar table is currently empty.")

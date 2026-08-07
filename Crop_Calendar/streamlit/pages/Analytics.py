@@ -3,10 +3,12 @@ import sys
 from pathlib import Path
 import pandas as pd
 
-# Add project root to path
+# Add project root and local Streamlit module path to sys.path
 sys.path.append(str(Path(__file__).resolve().parents[2]))
+sys.path.append(str(Path(__file__).resolve().parents[1]))
 from database.sqlite import DatabaseManager
 from extractor.normalizer import Normalizer
+from display import get_display_table
 
 st.set_page_config(page_title="Analytics - Crop Calendar AI", page_icon="📈", layout="wide")
 
@@ -61,7 +63,7 @@ else:
         
         if not norm_pests.empty:
             top_pests = norm_pests.value_counts().head(10)
-            st.dataframe(pd.DataFrame({"Report Count": top_pests}), use_container_width=True)
+            st.dataframe(get_display_table(pd.DataFrame({"Report Count": top_pests})), use_container_width=True)
         else:
             st.info("No biologically verified pests reported in dataset.")
 
@@ -73,6 +75,6 @@ else:
         
         if not norm_diseases.empty:
             top_diseases = norm_diseases.value_counts().head(10)
-            st.dataframe(pd.DataFrame({"Report Count": top_diseases}), use_container_width=True)
+            st.dataframe(get_display_table(pd.DataFrame({"Report Count": top_diseases})), use_container_width=True)
         else:
             st.info("No biologically verified diseases reported in dataset.")

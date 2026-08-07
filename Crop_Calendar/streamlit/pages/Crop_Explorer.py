@@ -4,12 +4,14 @@ import pandas as pd
 from pathlib import Path
 import json
 
-# Add project root to path
+# Add project root and local Streamlit module path to sys.path
 sys.path.append(str(Path(__file__).resolve().parents[2]))
+sys.path.append(str(Path(__file__).resolve().parents[1]))
 import importlib
 if "search_engine" in sys.modules:
     importlib.reload(sys.modules["search_engine"])
 from search_engine import SearchEngine
+from display import get_display_table
 import config
 
 st.set_page_config(page_title="Crop Explorer - Knowledge Repository", page_icon="🌾", layout="wide")
@@ -81,12 +83,12 @@ with tab1:
         )
         if results:
             st.success(f"Found {len(results)} matching verified observations.")
-            st.dataframe(pd.DataFrame(results))
+            st.dataframe(get_display_table(pd.DataFrame(results)))
         else:
             st.warning("No observations matched your search criteria.")
     else:
         st.write("Displaying all observations from CSV.")
-        st.dataframe(df_obs)
+        st.dataframe(get_display_table(df_obs))
 
     if not df_obs.empty:
         csv_data = df_obs.to_csv(index=False).encode('utf-8')
@@ -99,7 +101,7 @@ with tab1:
 
 with tab2:
     st.subheader("Chronological Activity Timeline")
-    st.dataframe(df_time)
+    st.dataframe(get_display_table(df_time))
     if not df_time.empty:
         csv_data = df_time.to_csv(index=False).encode('utf-8')
         st.download_button(
@@ -111,7 +113,7 @@ with tab2:
 
 with tab3:
     st.subheader("Quantitative Statistics")
-    st.dataframe(df_stat)
+    st.dataframe(get_display_table(df_stat))
     if not df_stat.empty:
         csv_data = df_stat.to_csv(index=False).encode('utf-8')
         st.download_button(

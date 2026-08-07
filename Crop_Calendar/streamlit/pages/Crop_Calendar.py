@@ -3,10 +3,12 @@ import sys
 from pathlib import Path
 import pandas as pd
 
-# Add project root to path
+# Add project root and local Streamlit module path to sys.path
 sys.path.append(str(Path(__file__).resolve().parents[2]))
+sys.path.append(str(Path(__file__).resolve().parents[1]))
 from database.sqlite import DatabaseManager
 from extractor.normalizer import Normalizer
+from display import get_display_table
 
 st.set_page_config(page_title="Crop Calendar Matrix - Crop Calendar AI", page_icon="📅", layout="wide")
 
@@ -198,7 +200,7 @@ else:
             "Statistics": stats_col
         })
         
-        st.dataframe(matrix_df, use_container_width=True)
+        st.dataframe(get_display_table(matrix_df), use_container_width=True)
 
         st.divider()
 
