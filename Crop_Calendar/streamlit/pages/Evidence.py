@@ -9,7 +9,10 @@ sys.path.append(str(Path(__file__).resolve().parents[2]))
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 from database.sqlite import DatabaseManager
 from extractor.normalizer import Normalizer
-from display import get_display_table
+import importlib
+if "display" in sys.modules:
+    importlib.reload(sys.modules["display"])
+from display import get_display_table, get_pdf_link, format_pdf_dataframe_column
 
 def clean_display_text(val):
     if not val or pd.isna(val) or str(val).strip().lower() in ["", "nan", "none", "null", "n/a", "none reported", "normal operations"]:
@@ -104,7 +107,8 @@ else:
     display_df = display_df.rename(columns=rename_mapping)
     display_df.columns = [col.replace("_", " ").title() for col in display_df.columns]
     
-    st.dataframe(get_display_table(display_df), use_container_width=True)
+    fmt_df, col_cfg = format_pdf_dataframe_column(display_df, "Source Pdf")
+    st.dataframe(get_display_table(fmt_df), column_config=col_cfg, use_container_width=True)
 
     # Detailed Explorer View (View Source Chunks)
     st.markdown("### 📋 Detail & Source Chunk Inspector")
@@ -128,7 +132,7 @@ else:
             st.markdown(f"**Pest:** `{rec.get('pest', 'N/A')}`")
             st.markdown(f"**Disease:** `{rec.get('disease', 'N/A')}`")
         with col2:
-            st.markdown(f"**Source Document:** `{rec.get('source_pdf', 'N/A')}` (Page `{rec.get('page_number', 'N/A')}`)")
+            st.markdown(f"**Source Document:** {get_pdf_link(rec.get('source_pdf'))} (Page `{rec.get('page_number', 'N/A')}`)", unsafe_allow_html=True)
             st.markdown(f"**Report Date:** `{rec.get('report_date', 'N/A')}`")
             st.markdown(f"**Model Confidence:** `{rec.get('confidence', 'N/A')}`")
 

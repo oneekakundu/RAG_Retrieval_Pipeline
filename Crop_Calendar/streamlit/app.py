@@ -7,7 +7,10 @@ import pandas as pd
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 sys.path.append(str(Path(__file__).resolve().parent))
 from database.sqlite_manager import SQLiteManager
-from display import get_display_table
+import importlib
+if "display" in sys.modules:
+    importlib.reload(sys.modules["display"])
+from display import get_display_table, format_pdf_dataframe_column
 
 # Page Configuration
 st.set_page_config(
@@ -125,7 +128,8 @@ if records:
     df_display = df_rec[display_cols].head(15).copy()
     df_display.columns = [c.replace("_", " ").title() for c in display_cols]
     
-    st.dataframe(get_display_table(df_display), use_container_width=True)
+    fmt_display, col_cfg = format_pdf_dataframe_column(df_display, "Source Pdf")
+    st.dataframe(get_display_table(fmt_display), column_config=col_cfg, use_container_width=True)
 else:
     st.info("No records loaded in database.")
 

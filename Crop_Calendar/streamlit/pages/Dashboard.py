@@ -9,7 +9,10 @@ sys.path.append(str(Path(__file__).resolve().parents[2]))
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 import config
 from database.sqlite import DatabaseManager
-from display import get_display_table
+import importlib
+if "display" in sys.modules:
+    importlib.reload(sys.modules["display"])
+from display import get_display_table, format_pdf_dataframe_column
 
 st.set_page_config(page_title="Dashboard - Crop Calendar AI", page_icon="📊", layout="wide")
 
@@ -76,7 +79,9 @@ with col1:
                 "Size (MB)": round(size_mb, 2),
                 "Docling Parsed": "✅ Yes" if json_exists else "❌ No"
             })
-        st.dataframe(get_display_table(pd.DataFrame(pdf_details)), use_container_width=True)
+        df_pdf_det = pd.DataFrame(pdf_details)
+        fmt_pdf_det, cfg_pdf_det = format_pdf_dataframe_column(df_pdf_det, "Filename")
+        st.dataframe(get_display_table(fmt_pdf_det), column_config=cfg_pdf_det, use_container_width=True)
     else:
         st.warning("No PDF reports downloaded yet.")
 
@@ -110,7 +115,9 @@ tab1, tab2 = st.tabs(["Evidence Log", "Crop Calendar Logs"])
 with tab1:
     evidence_data = db.load_all_evidence()
     if evidence_data:
-        st.dataframe(get_display_table(pd.DataFrame(evidence_data).head(50)), use_container_width=True)
+        df_ev = pd.DataFrame(evidence_data).head(50)
+        fmt_ev, cfg_ev = format_pdf_dataframe_column(df_ev, "source_pdf")
+        st.dataframe(get_display_table(fmt_ev), column_config=cfg_ev, use_container_width=True)
         st.caption(f"Showing first 50 rows of {len(evidence_data)} total evidence rows.")
     else:
         st.info("Evidence table is currently empty.")

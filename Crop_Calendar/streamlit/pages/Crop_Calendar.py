@@ -8,7 +8,10 @@ sys.path.append(str(Path(__file__).resolve().parents[2]))
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 from database.sqlite import DatabaseManager
 from extractor.normalizer import Normalizer
-from display import get_display_table
+import importlib
+if "display" in sys.modules:
+    importlib.reload(sys.modules["display"])
+from display import get_display_table, get_pdf_link
 
 st.set_page_config(page_title="Crop Calendar Matrix - Crop Calendar AI", page_icon="📅", layout="wide")
 
@@ -253,7 +256,7 @@ else:
                     for ev_idx, ev in enumerate(ev_records, 1):
                         with st.popover(f"🔍 View Report Evidence #{ev_idx} (Chunk {ev.get('chunk_id') or 'N/A'})"):
                             st.markdown(f"**Specific Cultivation Area (District):** `{ev.get('district', 'State-wide')}`")
-                            st.markdown(f"**Source PDF:** `{ev.get('source_pdf', 'unknown.pdf')}` (Page {ev.get('page_number', 1)})")
+                            st.markdown(f"**Source PDF:** {get_pdf_link(ev.get('source_pdf'))} (Page {ev.get('page_number', 1)})", unsafe_allow_html=True)
                             st.markdown(f"**Observation Category:** `{ev.get('observation_type', 'Other')}`")
                             st.markdown(f"**Confidence Score:** `{ev.get('confidence', 0.95)}` | **Status:** `{ev.get('verification_status', 'VERIFIED')}`")
                             st.markdown("**Original Report Source Chunk:**")

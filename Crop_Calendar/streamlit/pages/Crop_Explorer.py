@@ -10,8 +10,10 @@ sys.path.append(str(Path(__file__).resolve().parents[1]))
 import importlib
 if "search_engine" in sys.modules:
     importlib.reload(sys.modules["search_engine"])
+if "display" in sys.modules:
+    importlib.reload(sys.modules["display"])
 from search_engine import SearchEngine
-from display import get_display_table
+from display import get_display_table, get_pdf_link, format_pdf_dataframe_column
 import config
 
 st.set_page_config(page_title="Crop Explorer - Knowledge Repository", page_icon="🌾", layout="wide")
@@ -83,12 +85,14 @@ with tab1:
         )
         if results:
             st.success(f"Found {len(results)} matching verified observations.")
-            st.dataframe(get_display_table(pd.DataFrame(results)))
+            fmt_res, cfg_res = format_pdf_dataframe_column(pd.DataFrame(results))
+            st.dataframe(get_display_table(fmt_res), column_config=cfg_res, use_container_width=True)
         else:
             st.warning("No observations matched your search criteria.")
     else:
         st.write("Displaying all observations from CSV.")
-        st.dataframe(get_display_table(df_obs))
+        fmt_obs, cfg_obs = format_pdf_dataframe_column(df_obs)
+        st.dataframe(get_display_table(fmt_obs), column_config=cfg_obs, use_container_width=True)
 
     if not df_obs.empty:
         csv_data = df_obs.to_csv(index=False).encode('utf-8')
@@ -138,7 +142,7 @@ with tab4:
                 st.markdown("### Provenance Metadata")
                 col_a, col_b = st.columns(2)
                 with col_a:
-                    st.write(f"**PDF Name:** `{chunk_data.get('pdf_name')}`")
+                    st.markdown(f"**PDF Name:** {get_pdf_link(chunk_data.get('pdf_name'))}", unsafe_allow_html=True)
                     st.write(f"**Page Number:** `{chunk_data.get('page')}`")
                     st.write(f"**Report Date:** `{chunk_data.get('report_date')}`")
                 with col_b:
