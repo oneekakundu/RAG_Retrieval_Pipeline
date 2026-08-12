@@ -4,6 +4,9 @@ from urllib.parse import quote, unquote
 import pandas as pd
 import streamlit as st
 
+# GitHub Raw Base URL for deployed Streamlit Cloud compatibility
+GITHUB_RAW_BASE = "https://raw.githubusercontent.com/oneekakundu/Webscraping-/main/Crop_Calendar/streamlit/static"
+
 
 def get_display_table(df: pd.DataFrame, index_label: str = "No.") -> pd.DataFrame:
     """Return a copy of df for Streamlit display with a 1-based visual row number index.
@@ -46,14 +49,15 @@ def _extract_pdf_filename(val: str) -> str:
 def get_pdf_link(pdf_name: str) -> str:
     """Return an HTML hyperlink string for the given PDF filename.
 
-    Clicking the link opens/downloads the PDF via Streamlit static file serving.
+    Clicking the link opens or downloads the stored PDF directly from GitHub Raw CDN.
     """
     filename = _extract_pdf_filename(pdf_name)
     if not filename:
         return "N/A"
 
     encoded_filename = quote(filename)
-    return f'<a href="/app/static/{encoded_filename}" download="{filename}" target="_blank" style="text-decoration: underline; color: #1E88E5; font-weight: bold;">📄 {filename}</a>'
+    url = f"{GITHUB_RAW_BASE}/{encoded_filename}"
+    return f'<a href="{url}" download="{filename}" target="_blank" style="text-decoration: underline; color: #1E88E5; font-weight: bold;">📄 {filename}</a>'
 
 
 def format_pdf_dataframe_column(df: pd.DataFrame, col_name: str = None) -> tuple:
@@ -78,16 +82,17 @@ def format_pdf_dataframe_column(df: pd.DataFrame, col_name: str = None) -> tuple
                 filename = _extract_pdf_filename(val)
                 if not filename:
                     return None
-                return f"/app/static/{quote(filename)}"
+                return f"{GITHUB_RAW_BASE}/{quote(filename)}"
 
             df_copy[col] = df_copy[col].apply(to_pdf_url)
             col_config[col] = st.column_config.LinkColumn(
                 label=col,
-                display_text=r"/app/static/(.*)",
+                display_text=r".*/([^/]+)$",
                 help="Click to open or download the source PDF report"
             )
 
     return df_copy, col_config
+
 
 
 
