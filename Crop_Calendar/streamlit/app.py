@@ -14,7 +14,7 @@ from display import get_display_table, format_pdf_dataframe_column
 
 # Page Configuration
 st.set_page_config(
-    page_title="India Crop Calendar AI Portal",
+    page_title="India Crop Calendar Portal",
     page_icon="🌱",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -59,7 +59,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<div class="main-title">🌱 India Crop Calendar AI Portal</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-title">🌱 India Crop Calendar Portal</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">Document-Grounded Agricultural Activity Schedules Verified Against Official CWWG Reports</div>', unsafe_allow_html=True)
 
 db = SQLiteManager()
